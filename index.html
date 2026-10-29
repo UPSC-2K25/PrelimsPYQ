@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GS Prelims Mock - UPSC CSE</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Top Toolbar -->
+  <header class="app-topbar">
+    <div class="topbar-left">
+      <span class="compact-brand">UPSC CSE GS PRELIMS</span>
+      <span id="mode-badge" class="badge badge-accent">MOCK MODE</span>
+    </div>
+
+    <!-- Center Inline Filters -->
+    <div class="topbar-center">
+      <div class="filter-item">
+        <span class="badge badge-aq" title="Available Questions in Pool">AQ: <span id="badge-total-pool">0</span></span>
+      </div>
+
+      <div class="filter-item">
+        <label for="filter-mode">Mode:</label>
+        <select id="filter-mode" class="compact-input">
+          <option value="year">By Year</option>
+          <option value="subject">By Subject</option>
+          <option value="all">All Questions</option>
+        </select>
+      </div>
+
+      <!-- Year Selector -->
+      <div class="filter-item" id="filter-year-group">
+        <label for="filter-year">Year:</label>
+        <select id="filter-year" class="compact-input">
+          <option value="">Scanning...</option>
+        </select>
+      </div>
+
+      <!-- Subject Selector -->
+      <div class="filter-item" id="filter-subject-group" style="display: none;">
+        <label for="filter-subject">Subject:</label>
+        <select id="filter-subject" class="compact-input">
+          <option value="">Loading...</option>
+        </select>
+      </div>
+
+      <!-- Question Count Limit -->
+      <div class="filter-item">
+        <label for="filter-count">Count:</label>
+        <input type="number" id="filter-count" class="compact-input count-input" min="1" max="100" value="100" />
+      </div>
+
+      <button id="btn-restart" class="btn btn-xs btn-outline" title="Apply filter & restart session">Apply / Reset</button>
+    </div>
+
+    <!-- Right Controls: Standard Timer & Submit -->
+    <div class="topbar-right">
+      <div id="timer-box" class="timer-box">
+        <span id="timer-display" class="timer-digits">00:00</span>
+        <button id="btn-timer-toggle" class="btn btn-timer" title="Start / Pause Timer">▶ Start</button>
+        <button id="btn-timer-reset" class="btn btn-timer" title="Reset Timer">↺</button>
+      </div>
+      <button id="btn-submit-exam" class="btn btn-sm btn-danger">Submit Test</button>
+      <button id="btn-retake-exam" class="btn btn-sm btn-primary hidden">Retake Test</button>
+    </div>
+  </header>
+
+  <!-- Main View Area -->
+  <main id="main-layout" class="test-layout layout-single">
+    
+    <!-- Question & Options Column -->
+    <section class="question-container">
+      <div class="meta-tag-bar">
+        <span id="badge-qno" class="badge badge-accent">Q 1</span>
+        <span id="badge-subject" class="badge">General</span>
+        <span id="badge-year" class="badge">Year</span>
+        <span id="badge-orig-qno" class="badge badge-ref">PYQ #1</span>
+      </div>
+
+      <div class="question-body">
+        <p id="question-text" class="question-text">Loading questions pool...</p>
+      </div>
+
+      <div id="options-container" class="options-container">
+        <!-- Rendered via app.js -->
+      </div>
+
+      <!-- Review Mode Explanation Box -->
+      <div id="review-explanation-box" class="review-box hidden">
+        <div class="review-meta">
+          <span id="user-status-text"></span>
+          <span id="correct-answer-text"></span>
+        </div>
+        <div id="explanation-text" class="explanation-body"></div>
+      </div>
+
+      <footer class="action-bar">
+        <div class="action-left">
+          <button id="btn-prev" class="btn btn-default">« Previous</button>
+          <button id="btn-next" class="btn btn-default">Next »</button>
+          <button id="btn-clear" class="btn btn-link">Clear Response</button>
+        </div>
+      </footer>
+    </section>
+
+    <!-- Palette Sidebar -->
+    <aside class="palette-container">
+      <div class="palette-header">
+        <h3>Question Palette</h3>
+        <p id="palette-stats" class="palette-stats">0/0</p>
+      </div>
+
+      <div id="legend-box" class="legend-grid">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <div id="palette-grid" class="palette-grid">
+        <!-- Palette buttons -->
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- Result Scorecard Modal -->
+  <div id="scorecard-modal" class="modal-backdrop hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>UPSC Prelims Mock Result</h2>
+        <button class="modal-close" id="btn-close-scorecard">✕</button>
+      </div>
+      <div class="modal-content">
+        <div class="score-summary-grid">
+          <div class="score-metric">
+            <span class="metric-title">Scaled Marks</span>
+            <span id="res-total-marks" class="metric-value font-highlight">0.00</span>
+            <span class="metric-caption">Out of 200</span>
+          </div>
+          <div class="score-metric">
+            <span class="metric-title">Accuracy</span>
+            <span id="res-accuracy" class="metric-value">0%</span>
+            <span class="metric-caption">Precision</span>
+          </div>
+          <div class="score-metric">
+            <span class="metric-title">Net Raw Score</span>
+            <span id="res-raw-score" class="metric-value">0.00</span>
+            <span class="metric-caption">+2.00 / -0.66</span>
+          </div>
+        </div>
+
+        <table class="table-breakdown">
+          <tbody>
+            <tr><td>Total Questions</td><td id="res-total-q" class="text-right">0</td></tr>
+            <tr><td>Attempted</td><td id="res-attempted" class="text-right">0</td></tr>
+            <tr class="text-success"><td>Correct (+2.00)</td><td id="res-correct" class="text-right">0</td></tr>
+            <tr class="text-danger"><td>Incorrect (-0.66)</td><td id="res-incorrect" class="text-right">0</td></tr>
+            <tr><td>Unattempted (0.00)</td><td id="res-unattempted" class="text-right">0</td></tr>
+          </tbody>
+        </table>
+
+        <div class="modal-footer-btns">
+          <button id="btn-review-answers" class="btn btn-primary btn-block">Review Test & Explanations</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
