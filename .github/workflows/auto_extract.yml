@@ -1,0 +1,34 @@
+name: Auto Extract Subjects
+
+on:
+  push:
+    paths:
+      - 'questions/**'
+    branches:
+      - main
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run extraction script
+        run: python extract_subjects.py
+
+      - name: Commit and push generated subjects
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add subjects/
+          git diff --staged --quiet || git commit -m "Auto-generate subject files and manifest [skip ci]"
+          git push
