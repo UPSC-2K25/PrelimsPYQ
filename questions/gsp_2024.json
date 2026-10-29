@@ -1,0 +1,44 @@
+[
+  {
+    "year": "2024",
+    "qno": "1",
+    "subject": "Human Geography",
+    "question": "The total fertility rate in an economy is defined as:",
+    "options": [
+      "the number of children born per 1000 people in the population in a year",
+      "the number of children born to a couple in their lifetime in a given population",
+      "the birth rate minus death rate",
+      "the average number of live births a woman would have by the end of her child-bearing age"
+    ],
+    "answer": "D",
+    "explanation": "Total Fertility Rate (TFR) measures the average number of live births a woman would have if she were to survive through her reproductive child-bearing years (15–49) and bear children in accordance with prevailing age-specific fertility rates."
+  },
+  {
+    "year": "2024",
+    "qno": "2",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements: 1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India. 2. In India, Foreign Institutional Investors can hold the Government Securities (G-Secs). 3. In India, Stock Exchanges can offer separate trading platforms for debts. Which of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": "D",
+    "explanation": "Statement 1 is incorrect: Under RBI rules, only scheduled commercial banks and Primary Dealers are eligible for the Liquidity Adjustment Facility (LAF) window. Statement 2 is correct: FIIs/FPIs are permitted to invest in and hold G-Secs subject to specified limits. Statement 3 is correct: Stock exchanges operate dedicated debt segments for trading debt securities."
+  },
+  {
+    "year": "2024",
+    "qno": "3",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following materials: 1. Agricultural residues 2. Corn grain 3. Wastewater treatment sludge 4. Wood mill waste. Which of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Sustainable Aviation Fuel (SAF) can be synthesized via approved technological pathways from a diverse range of circular and biological feedstocks, including agricultural wastes, starch/grain (Alcohol-to-Jet), sewage sludge/wet bio-wastes, and forestry/wood mill residues."
+  }
+]

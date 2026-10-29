@@ -1,0 +1,86 @@
+[
+  {
+    "year": "2023",
+    "qno": "30",
+    "subject": "Governance",
+    "question": "Consider the following infrastructure sectors:\n1. Affordable Housing\n2. Mass Rapid Transit Systems\n3. Healthcare\n4. Renewable Energy\nOn how many of the above does the UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "C",
+    "explanation": "The United Nations Office for Project Services (UNOPS) Sustainable Investments in Infrastructure and Innovation (S3i) initiative explicitly focused its impact investment strategy on three core infrastructure sectors: Affordable Housing, Renewable Energy, and Health Infrastructure. Hence, it focuses on three of the listed sectors."
+  },
+  {
+    "year": "2023",
+    "qno": "32",
+    "subject": "Governance",
+    "question": "Consider the following statements:\nStatement-I: In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons.\nStatement-II: In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "'Prisons/persons detained therein' is an entry under the State List of the Seventh Schedule of the Indian Constitution, which has its roots in the Prisons Act, 1894, where the day-to-day administration and rule-making authority were placed under provincial control."
+  },
+  {
+    "year": "2023",
+    "qno": "60",
+    "subject": "Governance",
+    "question": "With reference to Home Guards, consider the following statements:\n1. Home Guards are raised under the Home Guards Act and Rules of the Central Government.\n2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security.\n3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Statement 1 is incorrect: Home Guards are raised under the respective State/UT Home Guards Acts and Rules (passed by State Governments), not under a central statute, though the Ministry of Home Affairs provides overarching policy guidance and partial funding. Statement 2 is correct: Their statutory role is to serve as an auxiliary force to state police forces in maintaining internal security, managing law and order, and helping during emergencies. Statement 3 is correct: Border Wing Home Guards (BWHG) battalions have been raised in border states (such as Punjab, Rajasthan, Gujarat, West Bengal, Meghalaya, and Tripura) to serve as an auxiliary to border guarding forces and prevent trans-border infiltration."
+  },
+  {
+    "year": "2023",
+    "qno": "75",
+    "subject": "Governance",
+    "question": "Consider the following statements:\nStatement-I: India's public healthcare system largely focuses on curative care with limited preventive, promotive and rehabilitative care.\nStatement-II: Under India's decentralized approach to healthcare delivery, the States are primarily responsible for organizing health services.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "B",
+    "explanation": "Statement-I is correct: National Health Policy documents and economic surveys acknowledge that historically, public health spending and infrastructure in India have been skewed towards secondary/tertiary curative care rather than comprehensive preventive or rehabilitative services. Statement-II is correct: Under the Seventh Schedule of the Indian Constitution, 'Public health and sanitation; hospitals and dispensaries' is an entry in the State List (List II), placing primary administrative responsibility on the States. However, State responsibility is not the causal reason for the historical skew toward curative care (which stemmed from funding allocations, policy priorities, and infrastructure gaps)."
+  },
+  {
+    "year": "2023",
+    "qno": "80",
+    "subject": "Governance",
+    "question": "Consider the following statements in respect of the 44th Chess Olympiad, 2022:\n1. It was the first time that Chess Olympiad was held in India.\n2. The official mascot was named 'Thambi'.\n3. The trophy for the winning team in the open section is the Vera Menchik Cup.\n4. The trophy for the winning team in the women's section is the Hamilton-Russell Cup.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Statements 1 and 2 are correct: The 44th Chess Olympiad was hosted in Chennai (Mamallapuram), marking the first time India hosted the event, and 'Thambi' (a chess knight dressed in traditional veshti and shirt) was the official mascot. Statements 3 and 4 are incorrect: The trophy for the open section is the Hamilton-Russell Cup, while the trophy for the women's section is the Vera Menchik Cup (the question transposed the two trophies). Thus, only two statements are correct."
+  },
+  {
+    "year": "2026",
+    "qno": "6",
+    "subject": "Governance",
+    "question": "Which of the following statements in relation to NIRANTAR (National Institute for Research and Application of Natural Resources to Transform, Adapt and Build Resilience) is/are correct?\n1. Ecosystem Survey and Analysis is a vertical under this platform, the lead institute of which is Botanical Survey of India, Kolkata.\n2. Research and Management of Ecosystem Service is a vertical under this platform, the lead institute of which is Central Zoo Authority, New Delhi.\n3. Capacity Development Support is a vertical under this platform, the lead institute of which is Indian Institute of Forest Management, Bhopal.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Statements 1 and 3 are correct. Under the institutional verticals defined for environmental research and forestry management, Ecosystem Survey and Analysis is anchored by the Botanical Survey of India (BSI), Kolkata, and Capacity Development Support is led by the Indian Institute of Forest Management (IIFM), Bhopal. Statement 2 is incorrect because the lead institute designated for research and ecosystem service modeling is the Indian Council of Forestry Research and Education (ICFRE) / specialized scientific institutes, not the Central Zoo Authority."
+  }
+]

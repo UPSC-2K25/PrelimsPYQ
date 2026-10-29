@@ -1,0 +1,44 @@
+[
+  {
+    "year": "2023",
+    "qno": "43",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as",
+    "options": [
+      "capital cities",
+      "ports",
+      "centres of iron-and-steel making",
+      "shrines of Jain Tirthankaras"
+    ],
+    "answer": "B",
+    "explanation": "Korkai (Pandya port renowned for pearl fisheries), Poompuhar/Kaveripattinam (major Early Chola seaport on the Coromandel coast), and Muchiri/Muziris (famous Chera seaport on the Malabar coast vital for Indo-Roman pepper trade) were prominent ancient trading ports."
+  },
+  {
+    "year": "2023",
+    "qno": "44",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems?",
+    "options": [
+      "Kings employing women bodyguards",
+      "Learned persons assembling in royal courts to discuss religious and philosophical matters",
+      "Young girls keeping watch over agricultural fields and driving away birds and animals",
+      "A king defeated in a battle committing ritual suicide by starving himself to death"
+    ],
+    "answer": "D",
+    "explanation": "In Sangam tradition, 'Vattakirutal' refers to the ritual suicide undertaken by a defeated king facing north (fasting unto death) to wipe away the disgrace of defeat or wounding in battle."
+  },
+  {
+    "year": "2026",
+    "qno": "3",
+    "subject": "Ancient Indian History",
+    "question": "Which of the following pairs of ancient and modern names of rivers is/are correctly matched?\n1. Vitasta : Chenab\n2. Asikni : Jhelum\n3. Parushni : Ravi\n4. Yavyavati : Beas\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "3 only",
+      "2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "In ancient Rigvedic geography, Parushni corresponds to the Ravi River, celebrated in Mandala 7 of the Rigveda as the site of the Battle of the Ten Kings (Dasarajna). Vitasta is the ancient name for the Jhelum (the Hydaspes of Greek records), Asikni corresponds to the Chenab (Acesines), and Vipasha corresponds to the Beas (Hyphasis). Therefore, only pair 3 is correctly matched."
+  }
+]

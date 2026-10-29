@@ -1,0 +1,100 @@
+[
+  {
+    "year": "2023",
+    "qno": "11",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nStatement-I: India, despite having uranium deposits, depends on coal for most of its electricity production.\nStatement-II: Uranium, enriched to the extent of at least 60%, is required for the production of electricity in a nuclear power plant.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Statement-I is correct: Coal accounts for over 50% of India's total electricity generation, while nuclear energy contributes around 2-3%, despite domestic uranium reserves. Statement-II is incorrect: Commercial nuclear power reactors use low-enriched uranium (LEU) typically enriched to 3% to 5% U-235 (or even natural un-enriched uranium in PHWRs). Uranium enriched to 60% or higher is considered highly enriched uranium (HEU) and is used in research reactors, naval propulsion, or nuclear weapons, not standard civil power plants."
+  },
+  {
+    "year": "2023",
+    "qno": "20",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Aerosols\n2. Foam agents\n3. Fire retardants\n4. Lubricants\nIn the making of how many of the above are hydrofluorocarbons used?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Hydrofluorocarbons (HFCs) were introduced as replacements for ozone-depleting substances (CFCs and HCFCs) and are commercially utilized across all four applications: propellant solvents in aerosols, blowing agents in the manufacture of plastic foams, flame retardants/fire suppression agents, and specialized synthetic lubricants/carriers."
+  },
+  {
+    "year": "2023",
+    "qno": "53",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Carbon fibres\n2. Graphene\n3. Silicon carbide\nHow many of the above are used in the manufacture of brake pads for motor vehicles?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "All three materials are commercially utilized in automotive friction applications: Carbon fibres provide thermal resistance and structural reinforcement; graphene acts as a solid lubricant and thermal dissipator; silicon carbide functions as an abrasive and thermal-stability additive in high-performance ceramic brakes."
+  },
+  {
+    "year": "2023",
+    "qno": "58",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flight, while cruise missiles are rocket-powered at hypersonic speeds only.\n2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Both statements are incorrect. Statement 1 transposes the propulsion mechanisms: ballistic missiles are rocket-powered during initial launch phases and follow an unpowered suborbital trajectory, while cruise missiles are aerodynamic vehicles propelled by jet engines (like turbofans/ramjets) for most of their flight. Statement 2 inverts the missile descriptions: Agni-V is an intercontinental ballistic missile (ICBM) powered by solid-fuel rocket stages, whereas BrahMos is a supersonic cruise missile powered by a liquid ramjet engine."
+  },
+  {
+    "year": "2023",
+    "qno": "71",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements with reference to green hydrogen:\n1. It can be used directly as a fuel for internal combustion.\n2. It can be blended with natural gas and used as fuel for heat or power generation.\n3. It can be used in the hydrogen fuel cell to run vehicles.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "All three statements are correct: (1) Hydrogen can be combusted directly in modified internal combustion engines (H2ICE). (2) It can be blended into city gas distribution networks and natural gas pipelines (up to specific volumetric limits) for thermal applications and power turbines. (3) It is commonly utilized in Proton Exchange Membrane (PEM) fuel cells to power fuel-cell electric vehicles (FCEVs)."
+  },
+  {
+    "year": "2023",
+    "qno": "72",
+    "subject": "Science & Technology",
+    "question": "With reference to Central Bank Digital Currencies, consider the following statements:\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with a condition programmed into it such as a time-frame for spending it.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Both statements are correct. Statement 1: CBDCs can be settled directly on bilateral or multilateral ledgers/platforms (e.g., Project mBridge), bypassing conventional correspondent banking systems, the SWIFT network, and third-party currencies like the USD. Statement 2: Programmability is a core technical feature of CBDCs via smart contracts, allowing issuers to designate expiry dates, intended merchant categories, or purpose-specific stimulus use."
+  },
+  {
+    "year": "2026",
+    "qno": "9",
+    "subject": "Science & Technology",
+    "question": "RNA interference (RNAi) technology is increasingly being used in agriculture and medicine. Which of the following statements correctly explains its mechanism?",
+    "options": [
+      "It repairs double-stranded breaks in chromosomal DNA using homologous recombination.",
+      "It silences specific genes post-transcriptionally by degrading target messenger RNA (mRNA) or preventing its translation.",
+      "It introduces foreign genes directly into mitochondrial DNA to enhance cellular respiration.",
+      "It acts as an artificial enzyme that synthesizes functional proteins in cell-free environments."
+    ],
+    "answer": "B",
+    "explanation": "RNA interference (RNAi) is a natural cellular gene-silencing mechanism triggered by double-stranded RNA (dsRNA). Enzymes (such as Dicer) cleave dsRNA into small interfering RNAs (siRNAs), which guide the RNA-induced silencing complex (RISC) to bind with complementary messenger RNA (mRNA) molecules, inducing their cleavage or blocking translation, thereby silencing specific gene expression without altering the underlying nuclear DNA."
+  }
+]

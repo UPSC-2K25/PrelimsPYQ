@@ -1,0 +1,106 @@
+{
+  "subjects": [
+    {
+      "name": "Ancient Indian History",
+      "filename": "subject_ancient_indian_history.json",
+      "count": 3
+    },
+    {
+      "name": "Art & Culture",
+      "filename": "subject_art_culture.json",
+      "count": 5
+    },
+    {
+      "name": "Biogeography",
+      "filename": "subject_biogeography.json",
+      "count": 3
+    },
+    {
+      "name": "Climatology",
+      "filename": "subject_climatology.json",
+      "count": 1
+    },
+    {
+      "name": "Constitution",
+      "filename": "subject_constitution.json",
+      "count": 9
+    },
+    {
+      "name": "Economic Geography",
+      "filename": "subject_economic_geography.json",
+      "count": 4
+    },
+    {
+      "name": "Environment and Ecology",
+      "filename": "subject_environment_and_ecology.json",
+      "count": 12
+    },
+    {
+      "name": "Geomorphology",
+      "filename": "subject_geomorphology.json",
+      "count": 3
+    },
+    {
+      "name": "Governance",
+      "filename": "subject_governance.json",
+      "count": 6
+    },
+    {
+      "name": "Human Geography",
+      "filename": "subject_human_geography.json",
+      "count": 2
+    },
+    {
+      "name": "Indian Economy",
+      "filename": "subject_indian_economy.json",
+      "count": 12
+    },
+    {
+      "name": "Indian Society",
+      "filename": "subject_indian_society.json",
+      "count": 1
+    },
+    {
+      "name": "Medieval Indian History",
+      "filename": "subject_medieval_indian_history.json",
+      "count": 3
+    },
+    {
+      "name": "Modern Indian History",
+      "filename": "subject_modern_indian_history.json",
+      "count": 2
+    },
+    {
+      "name": "Oceanography",
+      "filename": "subject_oceanography.json",
+      "count": 1
+    },
+    {
+      "name": "PSIR",
+      "filename": "subject_psir.json",
+      "count": 1
+    },
+    {
+      "name": "Political Science and International Relations",
+      "filename": "subject_political_science_and_international_relations.json",
+      "count": 2
+    },
+    {
+      "name": "Science & Technology",
+      "filename": "subject_science_technology.json",
+      "count": 7
+    },
+    {
+      "name": "World Economy",
+      "filename": "subject_world_economy.json",
+      "count": 1
+    }
+  ],
+  "years": [
+    2023,
+    2024,
+    2026,
+    2027
+  ],
+  "total_subjects": 19
+}

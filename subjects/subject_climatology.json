@@ -1,0 +1,16 @@
+[
+  {
+    "year": "2026",
+    "qno": "10",
+    "subject": "Climatology",
+    "question": "With reference to the 'Polar Vortex', consider the following statements:\n1. It is a large area of low pressure and cold air surrounding the Earth's poles that strengthens in winter and weakens in summer.\n2. Sudden Stratospheric Warming (SSW) can disrupt the polar vortex, causing it to split and push Arctic air southward into mid-latitudes.\n3. It is confined entirely to the troposphere and has no interaction with stratospheric circulation.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Statements 1 and 2 are correct. The Polar Vortex is a persistent, large-scale cyclone hovering over polar regions, strongest in winter when thermal contrast is highest. When a Sudden Stratospheric Warming (SSW) occurs, the vortex slows or buckles, spilling frigid Arctic cold waves southward across North America, Europe, or East Asia. Statement 3 is incorrect because the polar vortex exists in both the troposphere and the stratosphere, and vertical coupling between the two layers dictates its stability and surface weather impacts."
+  }
+]

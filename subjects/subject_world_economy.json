@@ -1,0 +1,16 @@
+[
+  {
+    "year": "2027",
+    "qno": "1",
+    "subject": "World Economy",
+    "question": "With reference to Bilateral Currency Swap Arrangements and the SAARC Currency Swap Framework, consider the following statements:\n1. A currency swap arrangement involves exchanging a predetermined amount of domestic currency for foreign currency at a specified exchange rate with an agreement to reverse the transaction at a later date.\n2. Under the SAARC Currency Swap Framework operated by the Reserve Bank of India, drawdown facilities are offered exclusively in Indian Rupees (INR).\n3. Currency swap agreements can serve as a temporary liquidity bridge to mitigate short-term balance-of-payments (BoP) strains without impacting foreign exchange reserves permanently.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Statements 1 and 3 are correct. A currency swap is an agreement between two central banks to exchange currencies with predetermined terms for repayment, helping recipient nations address short-term balance of payment crises and liquidity shortfalls. Statement 2 is incorrect because the SAARC Currency Swap facility offers drawdowns in US Dollars, Euros, and Indian Rupees (INR), not exclusively in INR."
+  }
+]

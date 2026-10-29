@@ -1,0 +1,44 @@
+[
+  {
+    "year": "2023",
+    "qno": "3",
+    "subject": "Biogeography",
+    "question": "With reference to the Indian trees, consider the following:\n1. Jackfruit (Artocarpus heterophyllus)\n2. Mahua (Madhuca indica)\n3. Teak (Tectona grandis)\nHow many of the above are deciduous trees?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Mahua (Madhuca indica) and Teak (Tectona grandis) are prominent deciduous trees typical of tropical moist and dry deciduous forests in India. Jackfruit (Artocarpus heterophyllus) is an evergreen tree native to tropical evergreen and semi-evergreen forest ecosystems. Thus, only two of the listed trees are deciduous."
+  },
+  {
+    "year": "2023",
+    "qno": "14",
+    "subject": "Biogeography",
+    "question": "Consider the following fauna:\n1. Lion-tailed Macaque\n2. Malabar Civet\n3. Sambar Deer\nHow many of the above are generally nocturnal or most active after sunset?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The Malabar Civet is strictly nocturnal and secretive. The Sambar Deer is crepuscular to primarily nocturnal in areas subject to disturbance or high diurnal temperatures, doing most of its foraging after dusk. The Lion-tailed Macaque is strictly diurnal, actively foraging and moving through the canopy during daylight hours. Thus, only two (Malabar Civet and Sambar Deer) are nocturnal/most active after sunset."
+  },
+  {
+    "year": "2026",
+    "qno": "5",
+    "subject": "Biogeography",
+    "question": "With respect to the Western Hoolock Gibbons, which of the following statements is/are correct?\n1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List.\n2. They have specialized brachiation and can easily swing between trees.\n3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Statements 1 and 2 are correct. The Western Hoolock Gibbon (the only ape species found in India) is categorized as Endangered on the IUCN Red List, and the Hoollongapar Gibbon Sanctuary in Jorhat, Assam is dedicated to its conservation. Gibbons are masters of brachiation, swinging hand-over-hand through canopy branches due to their elongated arms and flexible ball-and-socket wrist joints. Statement 3 is incorrect because gibbons are 'lesser apes' characterized by slender, lightweight, tailless bodies, unlike the heavy, massive skeletal build of great apes such as gorillas."
+  }
+]

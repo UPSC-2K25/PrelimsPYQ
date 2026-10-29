@@ -1,0 +1,44 @@
+[
+  {
+    "year": "2023",
+    "qno": "45",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following dynasties:\n1. Hoysala\n2. Gahadavala\n3. Kakatiya\n4. Yadava\nHow many of the above dynasties established their kingdoms in early eighth century AD?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "None of these dynasties established kingdoms in the early 8th century AD. The Gahadavalas of Kannauj, Hoysalas of Dvarasamudra, Kakatiyas of Warangal, and Yadavas (Seunas) of Devagiri all emerged as independent kingdom-builders later, primarily during the 11th and 12th centuries AD."
+  },
+  {
+    "year": "2023",
+    "qno": "48",
+    "subject": "Medieval Indian History",
+    "question": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?",
+    "options": [
+      "Devaraya I",
+      "Mallikarjuna",
+      "Vira Vijaya",
+      "Virupaksha"
+    ],
+    "answer": "A",
+    "explanation": "According to contemporary chroniclers like Niccolò de' Conti, Devaraya I (Sangama dynasty) constructed a barrage/dam across the Tungabhadra River with a massive canal-cum-aqueduct leading into Vijayanagara to relieve water shortages and irrigate adjoining agricultural fields."
+  },
+  {
+    "year": "2023",
+    "qno": "49",
+    "subject": "Medieval Indian History",
+    "question": "Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese?",
+    "options": [
+      "Ahmad Shah",
+      "Mahmud Begarha",
+      "Bahadur Shah",
+      "Muhammad Shah"
+    ],
+    "answer": "C",
+    "explanation": "Facing pressure from the Mughal Emperor Humayun, Sultan Bahadur Shah of Gujarat signed the Treaty of Bassein (1534) and subsequently ceded Diu to the Portuguese in exchange for military assistance."
+  }
+]
