@@ -154,6 +154,286 @@
     "explanation": "Statement 1 is incorrect: Under RBI rules, only scheduled commercial banks and Primary Dealers are eligible for the Liquidity Adjustment Facility (LAF) window. Statement 2 is correct: FIIs/FPIs are permitted to invest in and hold G-Secs subject to specified limits. Statement 3 is correct: Stock exchanges operate dedicated debt segments for trading debt securities."
   },
   {
+    "year": "2018",
+    "qno": "3",
+    "subject": "Indian Economy",
+    "question": "As per the NSSO 70th Round \"Situation Assessment Survey of Agricultural Households\", consider the following statements:\n1. Rajasthan has the highest percentage share of agricultural households among its rural households.\n2. Out of the total agricultural households in the country, a little over 60 percent belong to OBCs.\n3. In Kerala, a little over 60 percent of agricultural households reported to have received maximum income from sources other than agricultural activities.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 and 3 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "In the NSSO 70th Round (2013), Rajasthan had the highest share of agricultural households among rural households (about 78%), and in Kerala most agricultural households earned their maximum income from non-agricultural sources. OBCs accounted for about 45% of agricultural households, not over 60%, so statement 2 is wrong. Statements 1 and 3 are correct. I'm answering statements 1 and 3 from recall of the survey, so please check them against the official key."
+  },
+  {
+    "year": "2018",
+    "qno": "6",
+    "subject": "Indian Economy",
+    "question": "Which one of the following best describes the term \"Merchant Discount Rate\" sometimes seen in news?",
+    "options": [
+      "The incentive given by a bank to a merchant for accepting payments through debit cards pertaining to that bank.",
+      "The amount paid back by banks to their customers when they use debit cards for financial transactions for purchasing goods or services.",
+      "The charge to a merchant by a bank for accepting payments from his customers through the bank's debit cards.",
+      "The incentive given by the Government to merchants for promoting digital payments by their customers through Point of Sale (PoS) machines and debit cards."
+    ],
+    "answer": "C",
+    "explanation": "Merchant Discount Rate (MDR) is the fee a merchant pays to the acquiring bank (and the card network) for each card or digital payment accepted. It is a charge on the merchant, not an incentive paid to them or to customers."
+  },
+  {
+    "year": "2018",
+    "qno": "8",
+    "subject": "Indian Economy",
+    "question": "With reference to India's decision to levy an equalization tax of 6% on online advertisement services offered by non-resident entities, which of the following statements is/are correct?\n1. It is introduced as a part of the Income Tax Act.\n2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the \"Double Taxation Avoidance Agreements\".\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The 6% equalisation levy was introduced through the Finance Act, 2016, as a separate levy and not under the Income Tax Act. Because it is outside the Income Tax Act, it is not covered by Double Taxation Avoidance Agreements, so the foreign entities cannot claim a tax credit for it in their home country. Both statements are incorrect."
+  },
+  {
+    "year": "2018",
+    "qno": "9",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments.\n2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments.\n3. As per the Constitution of India, it is mandatory for a State to take the Central Government's consent for raising any loan if the former owes any outstanding liabilities to the latter.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The N.K. Singh FRBM Review Committee recommended a 60% combined debt-to-GDP ratio by 2023, split 40% for the Centre and 20% for the States, so statement 1 is correct. Statement 2 reverses the figures, because the Centre's liabilities (about 49% of GDP) are higher than the States' (about 21%). Under Article 293(3), a State must get the Centre's consent to borrow while it owes an outstanding loan to the Centre, so statement 3 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "10",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The quantity of imported edible oils is more than the domestic production of edible oils in the last five years.\n2. The Government does not impose any customs duty on all the imported edible oils as a special case.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "India imports more than half of its edible oil requirement, so import volumes have exceeded domestic production in recent years. The Government does levy customs duty on imported edible oils (such as palm oil), and it adjusts these duties to protect domestic farmers, so statement 2 is incorrect."
+  },
+  {
+    "year": "2018",
+    "qno": "15",
+    "subject": "Indian Economy",
+    "question": "Which one of the following links all the ATMs in India?",
+    "options": [
+      "Indian Banks' Association",
+      "National Securities Depository Limited",
+      "National Payments Corporation of India",
+      "Reserve Bank of India"
+    ],
+    "answer": "C",
+    "explanation": "The National Payments Corporation of India (NPCI) operates the National Financial Switch (NFS), which interconnects the ATMs of all banks in India. NPCI also runs RuPay, IMPS and UPI."
+  },
+  {
+    "year": "2018",
+    "qno": "16",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account-holders fail to repay dues.\n2. CAR is decided by each individual bank.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "CAR is the minimum capital, held as a percentage of risk-weighted assets, that a bank must maintain from its own funds to absorb losses such as loan defaults, so statement 1 is correct. The minimum CAR is set by the regulator (RBI, following the Basel norms) and not by each bank, so statement 2 is incorrect."
+  },
+  {
+    "year": "2018",
+    "qno": "26",
+    "subject": "Indian Economy",
+    "question": "India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to",
+    "options": [
+      "ILO",
+      "IMF",
+      "UNCTAD",
+      "WTO"
+    ],
+    "answer": "D",
+    "explanation": "The GI Act, 1999 was enacted to fulfil India's obligations under the WTO's Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)."
+  },
+  {
+    "year": "2018",
+    "qno": "28",
+    "subject": "Indian Economy",
+    "question": "With reference to digital payments, consider the following statements:\n1. BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account.\n2. While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of authentication.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "BHIM is built on the Unified Payments Interface (UPI) and lets a user send money to anyone with a UPI-enabled bank account through a virtual payment address, account number with IFSC, or mobile number, so statement 1 is correct. Statement 2 is wrong because a chip-and-PIN debit card does not use four authentication factors. It relies on possession of the card plus a PIN, while BHIM uses the registered mobile device plus a UPI PIN."
+  },
+  {
+    "year": "2018",
+    "qno": "46",
+    "subject": "Indian Economy",
+    "question": "Which one of the following statements correctly describes the meaning of legal tender money?",
+    "options": [
+      "The money which is tendered in courts of law to defray the fee of legal cases",
+      "The money which a creditor is under compulsion to accept in settlement of his claims",
+      "The bank money in the form of cheques, drafts, bills of exchange, etc.",
+      "The metallic money in circulation in a country"
+    ],
+    "answer": "B",
+    "explanation": "Legal tender is money that the law requires a creditor to accept in settlement of a debt. Cheques, drafts and bills of exchange are not legal tender, because a creditor can refuse them."
+  },
+  {
+    "year": "2018",
+    "qno": "47",
+    "subject": "Indian Economy",
+    "question": "If a commodity is provided free to the public by the Government, then",
+    "options": [
+      "the opportunity cost is zero.",
+      "the opportunity cost is ignored.",
+      "the opportunity cost is transferred from the consumers of the product to the tax-paying public.",
+      "the opportunity cost is transferred from the consumers of the product to the Government."
+    ],
+    "answer": "C",
+    "explanation": "Resources used to provide a free good always have alternative uses, so the opportunity cost is never zero. The Government finances the free provision through taxes, so the cost is borne by the tax-paying public and not by the consumers of the product."
+  },
+  {
+    "year": "2018",
+    "qno": "48",
+    "subject": "Indian Economy",
+    "question": "Increase in absolute and per capita real GNP do not connote a higher level of economic development, if",
+    "options": [
+      "industrial output fails to keep pace with agricultural output.",
+      "agricultural output fails to keep pace with industrial output.",
+      "poverty and unemployment increase.",
+      "imports grow faster than exports."
+    ],
+    "answer": "C",
+    "explanation": "Economic development involves improvements in living standards, reduced poverty and more employment, and not just higher output. If poverty and unemployment rise despite higher real GNP and per capita GNP, the growth does not reflect higher development."
+  },
+  {
+    "year": "2018",
+    "qno": "49",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nHuman capital formation as a concept is better explained in terms of a process which enables\n1. individuals of a country to accumulate more capital.\n2. increasing the knowledge, skill levels and capacities of the people of the country.\n3. accumulation of tangible wealth.\n4. accumulation of intangible wealth.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 4",
+      "1, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Human capital formation is the process of increasing the knowledge, skills and capacities of a country's people, through education, health and training. It is not about accumulating physical capital or tangible or intangible wealth, so only statement 2 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "50",
+    "subject": "Indian Economy",
+    "question": "Despite being a high saving economy, capital formation may not result in significant increase in output due to",
+    "options": [
+      "weak administrative machinery",
+      "illiteracy",
+      "high population density",
+      "high capital-output ratio"
+    ],
+    "answer": "D",
+    "explanation": "A high capital-output ratio means that many units of capital are needed to produce one extra unit of output. Even if savings and capital formation are high, the increase in output is then small. The other options are general constraints on development and do not bear directly on the link between capital formation and output. I'm answering (d) from recall of the usual key, so please verify it against the official key."
+  },
+  {
+    "year": "2018",
+    "qno": "56",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The Reserve Bank of India manages and services Government of India Securities but not any State Government Securities.\n2. Treasury bills are issued by the Government of India and there are no treasury bills issued by the State Governments.\n3. Treasury bills offer are issued at a discount from the par value.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The RBI manages and services both Central Government and State Government securities, so statement 1 is wrong. Treasury bills are short-term instruments issued only by the Government of India, since States do not issue them, so statement 2 is correct. T-bills are issued at a discount and redeemed at par, so statement 3 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "67",
+    "subject": "Indian Economy",
+    "question": "With reference to solar power production in India, consider the following statements:\n1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units.\n2. The solar power tariffs are determined by the Solar Energy Corporation of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "India has a small domestic base in silicon wafer and cell manufacturing, and most of its solar equipment is imported, so it is not the third largest manufacturer of wafers. Solar tariffs are discovered through competitive reverse auctions or set by the electricity regulatory commissions. SECI is an implementing agency that runs the auctions and does not determine tariffs. Both statements are incorrect."
+  },
+  {
+    "year": "2018",
+    "qno": "93",
+    "subject": "Indian Economy",
+    "question": "Consider the following:\n1. Areca nut\n2. Barley\n3. Coffee\n4. Finger millet\n5. Groundnut\n6. Sesamum\n7. Turmeric\nThe Cabinet Committee on Economic Affairs has announced the Minimum Support Price for which of the above?",
+    "options": [
+      "1, 2, 3 and 7 only",
+      "2, 4, 5 and 6 only",
+      "1, 3, 4, 5 and 6 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": "B",
+    "explanation": "MSP is announced for 23 crops, including cereals such as barley and ragi (finger millet), oilseeds such as groundnut and sesamum, pulses and cash crops such as cotton, jute, sugarcane and copra. Areca nut, coffee and turmeric are not covered by MSP."
+  },
+  {
+    "year": "2018",
+    "qno": "96",
+    "subject": "Indian Economy",
+    "question": "With reference to the governance of public sector banking in India, consider the following statements:\n1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.\n2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Capital infusion into public sector banks has fluctuated over the decade and has not risen steadily, so statement 1 is wrong. The five associate banks and Bharatiya Mahila Bank were merged with the State Bank of India in April 2017, so statement 2 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "97",
+    "subject": "Indian Economy",
+    "question": "Consider the following items:\n1. Cereal grains hulled\n2. Chicken eggs cooked\n3. Fish processed and canned\n4. Newspapers containing advertising material\nWhich of the above items is/are exempted under GST (Goods and Services Tax)?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "explanation": "Unprocessed or simply processed food grains, including hulled cereal grains, were exempt under the GST rate schedule at the time. Cooked eggs and processed or canned fish are treated as processed food and are taxable. Newspapers containing advertising material did not get the exemption that applies to plain printed newspapers. Only item 1 is exempt. I'm answering (a) from recall of the usual key, so please verify it against the official key."
+  },
+  {
+    "year": "2018",
+    "qno": "100",
+    "subject": "Indian Economy",
+    "question": "With reference to organic farming in India, consider the following statements:\n1. 'The National Programme for Organic Production' (NPOP) is operated under the guidelines and directions of the Union Ministry of Rural Development.\n2. 'The Agricultural and Processed Food Products Export Development Authority' (APEDA) functions as the Secretariat for the implementation of NPOP.\n3. Sikkim has become India's first fully organic State.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "NPOP is operated under the Ministry of Commerce and Industry, not the Ministry of Rural Development, so statement 1 is wrong. APEDA acts as the Secretariat for implementing NPOP, so statement 2 is correct. Sikkim became India's first fully organic State in 2016, so statement 3 is correct."
+  },
+  {
     "year": "2027",
     "qno": "4",
     "subject": "Indian Economy",

@@ -28,6 +28,34 @@
     "explanation": "All three statements are incorrect. Statement 1: Amarkantak Hills form the junction of the Vindhya and Satpura ranges (Maikal Hills), not Sahyadris (Western Ghats). Statement 2: The Biligirirangan (BR) Hills are located in Karnataka and bridge the Western Ghats with the Eastern Ghats, having no relation to the Satpura range. Statement 3: The Seshachalam Hills are part of the Southern Eastern Ghats in Andhra Pradesh, not the Western Ghats (whose southernmost section is the Cardamom/Agasthyamalai Hills)."
   },
   {
+    "year": "2018",
+    "qno": "77",
+    "subject": "Geomorphology",
+    "question": "Which one of the following is an artificial lake?",
+    "options": [
+      "Kodaikanal (Tamil Nadu)",
+      "Kolleru (Andhra Pradesh)",
+      "Nainital (Uttarakhand)",
+      "Renuka (Himachal Pradesh)"
+    ],
+    "answer": "A",
+    "explanation": "Kodaikanal Lake was created in 1863 by damming streams, so it is man-made. Kolleru is a natural freshwater lake between the Godavari and Krishna deltas, Nainital is a natural lake of tectonic origin, and Renuka is a natural lake."
+  },
+  {
+    "year": "2018",
+    "qno": "85",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. The Barren Island volcano is an active volcano located in the Indian territory.\n2. Barren Island lies about 140 km east of Great Nicobar.\n3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "3 only",
+      "1 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Barren Island in the Andaman Sea is India's only active volcano, so statement 1 is correct. It lies about 135-140 km north-east of Port Blair in the Andaman Islands, not east of Great Nicobar, so statement 2 is wrong. The volcano has erupted several times since 1991, including in the 2000s and again in 2017, so statement 3 is wrong."
+  },
+  {
     "year": "2026",
     "qno": "1",
     "subject": "Geomorphology",

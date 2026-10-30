@@ -26,5 +26,19 @@
     ],
     "answer": "D",
     "explanation": "Total Fertility Rate (TFR) measures the average number of live births a woman would have if she were to survive through her reproductive child-bearing years (15–49) and bear children in accordance with prevailing age-specific fertility rates."
+  },
+  {
+    "year": "2018",
+    "qno": "29",
+    "subject": "Human Geography",
+    "question": "Among the following cities, which one lies on a longitude closest to that of Delhi?",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ],
+    "answer": "A",
+    "explanation": "Delhi lies at about 77.2°E. Bengaluru is at about 77.6°E, Hyderabad at 78.5°E, Nagpur at 79.1°E and Pune at 73.9°E. Bengaluru is the closest in longitude."
   }
 ]

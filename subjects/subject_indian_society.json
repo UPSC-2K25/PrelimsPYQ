@@ -1,5 +1,33 @@
 [
   {
+    "year": "2018",
+    "qno": "30",
+    "subject": "Indian Society",
+    "question": "International Labour Organization's Conventions 138 and 182 are related to",
+    "options": [
+      "Child labour",
+      "Adaptation of agricultural practices to global climate change",
+      "Regulation of food prices and food security",
+      "Gender parity at the workplace"
+    ],
+    "answer": "A",
+    "explanation": "ILO Convention 138 sets the minimum age for admission to employment, and Convention 182 deals with the worst forms of child labour. India ratified both in 2017."
+  },
+  {
+    "year": "2018",
+    "qno": "70",
+    "subject": "Indian Society",
+    "question": "Who among the following were the founders of the \"Hind Mazdoor Sabha\" established in 1948?",
+    "options": [
+      "B. Krishna Pillai, E.M.S. Namboodiripad and K.C. George",
+      "Jayaprakash Narayan, Deen Dayal Upadhyay and M.N. Roy",
+      "C.P. Ramaswamy Iyer, K. Kamaraj and Veeresalingam Pantulu",
+      "Ashok Mehta, T.S. Ramanujam and G.G. Mehta"
+    ],
+    "answer": "D",
+    "explanation": "The Hind Mazdoor Sabha was founded in December 1948 by socialists, including Ashok Mehta, T.S. Ramanujam and G.G. Mehta, who had broken away from the Congress-affiliated INTUC."
+  },
+  {
     "year": "2027",
     "qno": "3",
     "subject": "Indian Society",

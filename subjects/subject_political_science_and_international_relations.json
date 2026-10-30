@@ -26,5 +26,117 @@
     ],
     "answer": "C",
     "explanation": "Statement-I is correct: The US-EU Trade and Technology Council (TTC) was established in 2021 as a diplomatic and technological coordination forum. Statement-II is incorrect: The stated objective of the TTC is to promote transatlantic cooperation, secure critical supply chains (like semiconductors), protect human rights online, and align standards for emerging technologies—not to bring technological progress and physical productivity under unilateral or joint control."
+  },
+  {
+    "year": "2018",
+    "qno": "7",
+    "subject": "Political Science and International Relations",
+    "question": "What is/are the consequence/consequences of a country becoming the member of the 'Nuclear Suppliers Group'?\n1. It will have access to the latest and most efficient nuclear technologies.\n2. It automatically becomes a member of \"The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)\".\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "NSG members can trade in nuclear material, equipment and technology, which gives them access to advanced nuclear technologies. NSG membership does not make a country an NPT member. India, for instance, seeks NSG membership without being an NPT signatory."
+  },
+  {
+    "year": "2018",
+    "qno": "14",
+    "subject": "Political Science and International Relations",
+    "question": "\"Rule of Law Index\" is released by which of the following?",
+    "options": [
+      "Amnesty International",
+      "International Court of Justice",
+      "The Office of UN Commissioner for Human Rights",
+      "World Justice Project"
+    ],
+    "answer": "D",
+    "explanation": "The Rule of Law Index is published annually by the World Justice Project, an independent organisation. It ranks countries on factors such as constraints on government powers, absence of corruption, open government and fundamental rights."
+  },
+  {
+    "year": "2018",
+    "qno": "18",
+    "subject": "Political Science and International Relations",
+    "question": "Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts?",
+    "options": [
+      "Angola and Zambia",
+      "Morocco and Tunisia",
+      "Venezuela and Colombia",
+      "Yemen and South Sudan"
+    ],
+    "answer": "D",
+    "explanation": "Around 2017–18, Yemen (civil war and blockade) and South Sudan (civil war and ethnic conflict) faced severe famine and acute malnutrition affecting millions of people. The other country pairs were not facing famine caused by war at that scale."
+  },
+  {
+    "year": "2018",
+    "qno": "24",
+    "subject": "Political Science and International Relations",
+    "question": "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of",
+    "options": [
+      "China",
+      "Israel",
+      "Iraq",
+      "Yemen"
+    ],
+    "answer": "B",
+    "explanation": "The two-state solution to the Israeli–Palestinian conflict proposes an independent State of Palestine existing alongside the State of Israel, with mutually recognised borders."
+  },
+  {
+    "year": "2018",
+    "qno": "33",
+    "subject": "Political Science and International Relations",
+    "question": "In the Indian context, what is the implication of ratifying the 'Additional Protocol' with the 'International Atomic Energy Agency (IAEA)'?",
+    "options": [
+      "The civilian nuclear reactors come under IAEA safeguards.",
+      "The military nuclear installations come under the inspection of IAEA.",
+      "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+      "The country automatically becomes a member of the NSG."
+    ],
+    "answer": "A",
+    "explanation": "India's Additional Protocol with the IAEA applies to its civilian nuclear facilities, which were separated from military ones under the 2008 India-specific safeguards arrangement. It gives the IAEA greater access and information on civilian nuclear activities. It does not open military installations to inspection and does not bring NSG membership or purchase privileges automatically. I'm giving (a) as the best-fitting option, so please verify it against the official key."
+  },
+  {
+    "year": "2018",
+    "qno": "34",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\n1. Australia\n2. Canada\n3. China\n4. India\n5. Japan\n6. USA\nWhich of the above are among the 'free-trade partners' of ASEAN?",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4, 5 and 6",
+      "1, 3, 4 and 5",
+      "2, 3, 4 and 6"
+    ],
+    "answer": "C",
+    "explanation": "ASEAN has free-trade agreements with China, South Korea, Japan, India, and Australia and New Zealand together. Canada and the USA are not ASEAN free-trade partners. So the correct set is Australia, China, India and Japan."
+  },
+  {
+    "year": "2018",
+    "qno": "37",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nTowns sometimes mentioned in news — Country\n1. Aleppo — Syria\n2. Kirkuk — Yemen\n3. Mosul — Palestine\n4. Mazar-i-sharif — Afghanistan\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Aleppo is in Syria and Mazar-i-Sharif is in Afghanistan. Kirkuk and Mosul are both in Iraq, not in Yemen or Palestine. Pairs 1 and 4 are correct."
+  },
+  {
+    "year": "2018",
+    "qno": "90",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nRegions sometimes mentioned in news — Country\n1. Catalonia — Spain\n2. Crimea — Hungary\n3. Mindanao — Philippines\n4. Oromia — Nigeria\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 3",
+      "3 and 4 only",
+      "1 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Catalonia is an autonomous community of Spain, which held a contested independence referendum in 2017. Mindanao is a region of the Philippines. Crimea is a peninsula of Ukraine annexed by Russia in 2014, not part of Hungary. Oromia is a region of Ethiopia, not Nigeria. Pairs 1 and 3 are correct."
   }
 ]

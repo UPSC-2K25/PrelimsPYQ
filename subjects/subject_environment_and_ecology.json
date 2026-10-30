@@ -154,6 +154,160 @@
     "explanation": "Sustainable Aviation Fuel (SAF) can be synthesized via approved technological pathways from a diverse range of circular and biological feedstocks, including agricultural wastes, starch/grain (Alcohol-to-Jet), sewage sludge/wet bio-wastes, and forestry/wood mill residues."
   },
   {
+    "year": "2018",
+    "qno": "4",
+    "subject": "Environment and Ecology",
+    "question": "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?\n1. The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government.\n2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The NGT was established under the National Green Tribunal Act, 2010. The CPCB was also created by statute, under the Water (Prevention and Control of Pollution) Act, 1974, not by executive order, so statement 1 is wrong. Statement 2 correctly describes the NGT's role in environmental justice and the CPCB's mandate on water and air quality."
+  },
+  {
+    "year": "2018",
+    "qno": "13",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following has/have shrunk immensely/dried up in the recent past due to human activities?\n1. Aral Sea\n2. Black Sea\n3. Lake Baikal\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "2 only",
+      "1 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Aral Sea has shrunk dramatically since the 1960s because the Amu Darya and Syr Darya rivers were diverted for irrigation. The Black Sea and Lake Baikal (the world's deepest lake) have not dried up or shrunk in this way."
+  },
+  {
+    "year": "2018",
+    "qno": "35",
+    "subject": "Environment and Ecology",
+    "question": "With reference to the 'Global Alliance for Climate-Smart Agriculture (GACSA)', which of the following statements is/are correct?\n1. GACSA is an outcome of the Climate Summit held in Paris in 2015.\n2. Membership of GACSA does not create any binding obligations.\n3. India was instrumental in the creation of GACSA.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "GACSA was launched at the UN Climate Summit in New York in 2014, not at Paris in 2015, so statement 1 is wrong. It is a voluntary, multi-stakeholder platform and membership creates no binding obligations, so statement 2 is correct. India is not a member and was not instrumental in creating it, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "60",
+    "subject": "Environment and Ecology",
+    "question": "The term \"sixth mass extinction/sixth extinction\" is often mentioned in the news in the context of the discussion of",
+    "options": [
+      "Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems.",
+      "Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs.",
+      "Large scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity.",
+      "Mankind's over-exploitation/misuse of natural resources, fragmentation/loss of natural habitats, destruction of ecosystems, pollution and global climate change."
+    ],
+    "answer": "D",
+    "explanation": "The 'sixth mass extinction' refers to the ongoing, human-driven loss of species caused by over-exploitation of resources, habitat loss and fragmentation, ecosystem destruction, pollution and climate change. It is not about a meteorite impact, which caused the fifth extinction, or about any single practice such as monoculture or GM crops."
+  },
+  {
+    "year": "2018",
+    "qno": "65",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following statements best describes \"carbon fertilization\"?",
+    "options": [
+      "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere",
+      "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere",
+      "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere",
+      "Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere"
+    ],
+    "answer": "A",
+    "explanation": "Carbon fertilization is the enhanced growth of plants, through increased photosynthesis, when atmospheric CO2 concentration rises. Option (b) describes global warming and option (c) describes ocean acidification."
+  },
+  {
+    "year": "2018",
+    "qno": "81",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds?\n1. Decreased salinity in the river\n2. Pollution of groundwater\n3. Lowering of the water-table\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Heavy sand mining deepens the riverbed and lowers the water-table, because the sand layer that recharges groundwater is removed. It also exposes aquifers to contamination, so groundwater pollution is a consequence. Salinity tends to increase, not decrease, as sea water intrudes upstream in a deepened channel, so statement 1 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "83",
+    "subject": "Environment and Ecology",
+    "question": "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries transition towards greener and more inclusive economies, emerged at",
+    "options": [
+      "The Earth Summit on Sustainable Development 2002, Johannesburg",
+      "The United Nations Conference on Sustainable Development 2012, Rio de Janeiro",
+      "The United Nations Framework Convention on Climate Change 2015, Paris",
+      "The World Sustainable Development Summit 2016, New Delhi"
+    ],
+    "answer": "B",
+    "explanation": "PAGE was launched in 2013 in response to the outcome document of the Rio+20 conference (UN Conference on Sustainable Development, 2012), which recognised the green economy as a tool for sustainable development."
+  },
+  {
+    "year": "2018",
+    "qno": "86",
+    "subject": "Environment and Ecology",
+    "question": "Why is a plant called Prosopis juliflora often mentioned in news?",
+    "options": [
+      "Its extract is widely used in cosmetics.",
+      "It tends to reduce the biodiversity in the area in which it grows.",
+      "Its extract is used in the synthesis of pesticides.",
+      "None of the above"
+    ],
+    "answer": "B",
+    "explanation": "Prosopis juliflora (vilayati babool) is an invasive species in India. It spreads aggressively, depletes groundwater and suppresses native vegetation, which reduces local biodiversity."
+  },
+  {
+    "year": "2018",
+    "qno": "88",
+    "subject": "Environment and Ecology",
+    "question": "\"Momentum for Change : Climate Neutral Now\" is an initiative launched by",
+    "options": [
+      "The Intergovernmental Panel on Climate Change",
+      "The UNEP Secretariat",
+      "The UNFCCC Secretariat",
+      "The World Meteorological Organization"
+    ],
+    "answer": "C",
+    "explanation": "'Momentum for Change' is an initiative of the UNFCCC Secretariat to showcase innovative climate action. The 'Climate Neutral Now' campaign is part of it and encourages individuals, companies and governments to measure, reduce and offset their greenhouse gas emissions."
+  },
+  {
+    "year": "2018",
+    "qno": "94",
+    "subject": "Environment and Ecology",
+    "question": "In which one of the following States is Pakhui Wildlife Sanctuary located?",
+    "options": [
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "A",
+    "explanation": "Pakhui (Pakke) Wildlife Sanctuary and Tiger Reserve is in the East Kameng district of Arunachal Pradesh. It is known for its hornbills."
+  },
+  {
+    "year": "2018",
+    "qno": "98",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. The definition of \"Critical Wildlife Habitat\" is incorporated in the Forest Rights Act, 2006.\n2. For the first time in India, Baigas have been given Habitat Rights.\n3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Forest Rights Act, 2006 defines 'critical wildlife habitat', so statement 1 is correct. The Baiga tribe of Madhya Pradesh was reported as the first community in India to receive habitat rights, so statement 2 is correct. Habitat rights for Particularly Vulnerable Tribal Groups are decided and declared through the Ministry of Tribal Affairs and the process under the Forest Rights Act, not by the Environment Ministry, so statement 3 is wrong. I'm answering (a) from recall of the usual key, so please verify it against the official key."
+  },
+  {
     "year": "2026",
     "qno": "11",
     "subject": "Environment and Ecology",

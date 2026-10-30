@@ -84,6 +84,132 @@
     "explanation": "Both statements are correct. Statement 1: CBDCs can be settled directly on bilateral or multilateral ledgers/platforms (e.g., Project mBridge), bypassing conventional correspondent banking systems, the SWIFT network, and third-party currencies like the USD. Statement 2: Programmability is a core technical feature of CBDCs via smart contracts, allowing issuers to designate expiry dates, intended merchant categories, or purpose-specific stimulus use."
   },
   {
+    "year": "2018",
+    "qno": "55",
+    "subject": "Science & Technology",
+    "question": "In which of the following areas can GPS technology be used?\n1. Mobile phone operations\n2. Banking operations\n3. Controlling the power grids\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "GPS provides precise timing as well as location. Mobile networks use GPS time for synchronising base stations, banks use it to timestamp and synchronise transactions, and power grids use it for synchronising measurements and control. All three uses are valid."
+  },
+  {
+    "year": "2018",
+    "qno": "57",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. The Earth's magnetic field has reversed every few hundred thousand years.\n2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide.\n3. When living organisms originated, they modified the early atmosphere of the Earth.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Palaeomagnetic records show that the Earth's magnetic field has reversed many times, on average every few hundred thousand years, so statement 1 is correct. The early atmosphere had very little free oxygen and contained carbon dioxide, so statement 2 is wrong. Early photosynthetic organisms released oxygen and changed the atmosphere (the Great Oxidation Event), so statement 3 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "61",
+    "subject": "Science & Technology",
+    "question": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. IRNSS covers entire India and about 5500 sq. km beyond its borders.\n3. India will have its own satellite navigation system with full global coverage by the middle of 2019.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "The IRNSS (NavIC) constellation has seven satellites: three in geostationary orbit and four in inclined geosynchronous orbit, so statement 1 is correct. It covers India and a region extending about 1500 km around it, not 5500 sq. km, so statement 2 is wrong. IRNSS is a regional system, and there was no plan for full global coverage by 2019, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "62",
+    "subject": "Science & Technology",
+    "question": "Consider the following phenomena:\n1. Light is affected by gravity.\n2. The Universe is constantly expanding.\n3. Matter warps its surrounding space-time.\nWhich of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "General Relativity describes gravity as the warping of space-time by matter, so statement 3 holds. It predicts that light bends in a gravitational field (confirmed in the 1919 eclipse observations), so statement 1 holds. Its equations also imply a dynamic universe that expands or contracts, which Einstein initially tried to offset with the cosmological constant, so statement 2 holds as well."
+  },
+  {
+    "year": "2018",
+    "qno": "63",
+    "subject": "Science & Technology",
+    "question": "With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements:\n1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.\n2. GM mustard has the genes that allow the plant cross-pollination and hybridization.\n3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "GM mustard (DMH-11) uses the barnase, barstar and bar genes from a soil bacterium. These create a male-sterility and fertility-restoration system for hybrid seed production, plus herbicide tolerance, and do not give pest resistance, so statement 1 is wrong. The system enables cross-pollination and hybridisation, so statement 2 is correct. It was developed by the Centre for Genetic Manipulation of Crop Plants at Delhi University, not by IARI and PAU, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "64",
+    "subject": "Science & Technology",
+    "question": "Consider the following pairs:\nTerms sometimes seen in news — Context/Topic\n1. Belle II experiment — Artificial Intelligence\n2. Blockchain technology — Digital/Cryptocurrency\n3. CRISPR – Cas9 — Particle Physics\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Belle II experiment at KEK, Japan, is a particle physics experiment, not an AI one. Blockchain is the underlying technology of digital currencies such as Bitcoin, so pair 2 is correct. CRISPR-Cas9 is a gene-editing tool, not a particle physics topic. Only pair 2 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "66",
+    "subject": "Science & Technology",
+    "question": "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.\nIn the context of emerging communication technologies, which one of the following terms best applies to the above scenario?",
+    "options": [
+      "Border Gateway Protocol",
+      "Internet of Things",
+      "Internet Protocol",
+      "Virtual Private Network"
+    ],
+    "answer": "B",
+    "explanation": "The scenario describes everyday objects such as phones, appliances, mirrors, cars and locks that are connected to the internet and exchange data and commands without human intervention. This is the Internet of Things (IoT)."
+  },
+  {
+    "year": "2018",
+    "qno": "84",
+    "subject": "Science & Technology",
+    "question": "\"3D printing\" has applications in which of the following?\n1. Preparation of confectionery items\n2. Manufacture of bionic ears\n3. Automotive industry\n4. Reconstructive surgeries\n5. Data processing technologies\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "D",
+    "explanation": "3D printing is used to make chocolate and other confectionery, bionic ears using bio-ink and tissue engineering, automotive parts and prototypes, and implants and reconstructive surgical models. It also has applications in data processing technologies, such as printing electronic components and storage devices. All five are valid applications."
+  },
+  {
+    "year": "2018",
+    "qno": "95",
+    "subject": "Science & Technology",
+    "question": "With reference to India's satellite launch vehicles, consider the following statements:\n1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.\n2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.\n3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "1 and 2",
+      "3 only"
+    ],
+    "answer": "A",
+    "explanation": "PSLV mainly launches remote sensing (Earth observation) satellites into polar orbits, and GSLV is designed for geosynchronous transfer orbits to launch communication satellites, so statement 1 is correct. Satellites that appear fixed in the sky are geostationary, which are launched by GSLV and not by PSLV, so statement 2 is wrong. GSLV Mk III is a three-stage vehicle (solid boosters, a liquid core stage and a cryogenic upper stage), so statement 3 is wrong."
+  },
+  {
     "year": "2026",
     "qno": "9",
     "subject": "Science & Technology",

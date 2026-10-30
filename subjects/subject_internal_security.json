@@ -1,0 +1,30 @@
+[
+  {
+    "year": "2018",
+    "qno": "43",
+    "subject": "Internal Security",
+    "question": "What is \"Terminal High Altitude Area Defense (THAAD)\", sometimes seen in the news?",
+    "options": [
+      "An Israeli radar system",
+      "India's indigenous anti-missile programme",
+      "An American anti-missile system",
+      "A defence collaboration between Japan and South Korea"
+    ],
+    "answer": "C",
+    "explanation": "THAAD is a US missile defence system designed to intercept short-, medium- and intermediate-range ballistic missiles in their terminal phase. It was in the news because of its deployment in South Korea."
+  },
+  {
+    "year": "2018",
+    "qno": "58",
+    "subject": "Internal Security",
+    "question": "The terms 'WannaCry, Petya and EternalBlue' sometimes mentioned in the news recently are related to",
+    "options": [
+      "Exoplanets",
+      "Cryptocurrency",
+      "Cyber attacks",
+      "Mini satellites"
+    ],
+    "answer": "C",
+    "explanation": "WannaCry and Petya were ransomware attacks in 2017 that hit systems worldwide. EternalBlue was the exploit of a Windows vulnerability that these attacks used to spread."
+  }
+]

@@ -28,6 +28,48 @@
     "explanation": "The Malabar Civet is strictly nocturnal and secretive. The Sambar Deer is crepuscular to primarily nocturnal in areas subject to disturbance or high diurnal temperatures, doing most of its foraging after dusk. The Lion-tailed Macaque is strictly diurnal, actively foraging and moving through the canopy during daylight hours. Thus, only two (Malabar Civet and Sambar Deer) are nocturnal/most active after sunset."
   },
   {
+    "year": "2018",
+    "qno": "2",
+    "subject": "Biogeography",
+    "question": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss?\n1. Hard and waxy leaves\n2. Tiny leaves\n3. Thorns instead of leaves\nSelect the correct answer using the code given below:",
+    "options": [
+      "2 and 3 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Xerophytes in deserts reduce transpiration through several leaf adaptations. These include a thick, hard, waxy cuticle, tiny leaves that reduce surface area, and leaves modified into thorns or spines (as in cacti). All three modifications occur."
+  },
+  {
+    "year": "2018",
+    "qno": "87",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Most of the world's coral reefs are in tropical waters.\n2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines.\n3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Reef-building corals need warm, clear, shallow water, so most reefs lie in tropical waters. Australia, Indonesia and the Philippines together hold more than one-third of the world's reef area. Reefs also support more animal phyla than tropical rainforests do, because the sea hosts a far wider range of body plans. All three statements are correct."
+  },
+  {
+    "year": "2018",
+    "qno": "99",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Birds\n2. Dust blowing\n3. Rain\n4. Wind blowing\nWhich of the above spread plant diseases?",
+    "options": [
+      "1 and 3 only",
+      "3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Birds carry pathogens and spores on their bodies and in droppings. Wind and blowing dust carry fungal spores and other pathogens over long distances. Rain splash spreads bacteria and fungal spores between plants. All four agents spread plant diseases."
+  },
+  {
     "year": "2026",
     "qno": "5",
     "subject": "Biogeography",

@@ -70,6 +70,118 @@
     "explanation": "Statements 1 and 2 are correct: The 44th Chess Olympiad was hosted in Chennai (Mamallapuram), marking the first time India hosted the event, and 'Thambi' (a chess knight dressed in traditional veshti and shirt) was the official mascot. Statements 3 and 4 are incorrect: The trophy for the open section is the Hamilton-Russell Cup, while the trophy for the women's section is the Vera Menchik Cup (the question transposed the two trophies). Thus, only two statements are correct."
   },
   {
+    "year": "2018",
+    "qno": "12",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. Aadhaar card can be used as a proof of citizenship or domicile.\n2. Once issued, Aadhaar number cannot be deactivated or omitted by the Issuing Authority.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Under the Aadhaar Act, 2016, Aadhaar is proof of identity only, not of citizenship, domicile or residency. The UIDAI can deactivate or omit an Aadhaar number in certain cases, for example where it was obtained through fraud or duplication. Both statements are incorrect."
+  },
+  {
+    "year": "2018",
+    "qno": "17",
+    "subject": "Governance",
+    "question": "The identity platform 'Aadhaar' provides open \"Application Programming Interfaces (APIs)\". What does it imply?\n1. It can be integrated into any electronic device.\n2. Online authentication using iris is possible.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Aadhaar's open APIs allow authorised agencies to authenticate identity online using biometrics, including iris and fingerprint, or OTP. This makes statement 2 correct. Statement 1 is an overstatement: Aadhaar cannot be integrated into just any electronic device, because authentication requires authorised, registered devices and entities."
+  },
+  {
+    "year": "2018",
+    "qno": "20",
+    "subject": "Governance",
+    "question": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?",
+    "options": [
+      "Committee on Government Assurances",
+      "Committee on Subordinate Legislation",
+      "Rules Committee",
+      "Business Advisory Committee"
+    ],
+    "answer": "B",
+    "explanation": "The Committee on Subordinate Legislation examines whether the rule-making powers delegated to the Executive by the Constitution or by Parliament are being properly exercised within the limits of that delegation. The other committees deal with the fulfilment of government assurances, rules of procedure and the allocation of time for business."
+  },
+  {
+    "year": "2018",
+    "qno": "21",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. As per the Right to Education (RTE) Act, to be eligible for appointment as a teacher in a State, a person would be required to possess the minimum qualification laid down by the concerned State Council of Teacher Education.\n2. As per the RTE Act, for teaching primary classes, a candidate is required to pass a Teacher Eligibility Test conducted in accordance with the National Council of Teacher Education guidelines.\n3. In India, more than 90% of teacher education institutions are directly under the State Governments.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Under Section 23 of the RTE Act, the minimum qualifications for teachers are laid down by an academic authority authorised by the Central Government, which is the National Council for Teacher Education (NCTE), not the State Council of Teacher Education. So statement 1 is wrong. Passing the Teacher Eligibility Test, held as per NCTE guidelines, is a requirement for teaching at the elementary level, so statement 2 is correct. Most teacher education institutions in India are private, not under State Governments, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "23",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. The Food Safety and Standards Act, 2006 replaced the Prevention of Food Adulteration Act, 1954.\n2. The Food Safety and Standards Authority of India (FSSAI) is under the charge of Director General of Health Services in the Union Ministry of Health and Family Welfare.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The Food Safety and Standards Act, 2006 consolidated several food laws, including the Prevention of Food Adulteration Act, 1954, and so replaced it. FSSAI is an autonomous statutory body headed by a Chairperson and a Chief Executive Officer. It is administered through the Ministry of Health and Family Welfare, not under the Director General of Health Services, so statement 2 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "25",
+    "subject": "Governance",
+    "question": "With reference to the provisions made under the National Food Security Act, 2013, consider the following statements:\n1. The families coming under the category of 'below poverty line (BPL)' only are eligible to receive subsidised food grains.\n2. The eldest woman in a household, of age 18 years or above, shall be the head of the household for the purpose of issuance of a ration card.\n3. Pregnant women and lactating mothers are entitled to a 'take-home ration' of 1600 calories per day during pregnancy and for six months thereafter.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The NFSA covers 'priority households' and Antyodaya Anna Yojana households identified by States, not only BPL families, so statement 1 is wrong. Section 13 makes the eldest woman aged 18 or above the head of the household for issuing ration cards, so statement 2 is correct. The nutritional norm for pregnant women and lactating mothers is 600 calories per day, not 1600, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "36",
+    "subject": "Governance",
+    "question": "Which of the following is/are the aim/aims of \"Digital India\" Plan of the Government of India?\n1. Formation of India's own Internet companies like China did.\n2. Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their large data centres within our national geographical boundaries.\n3. Connect many of our villages to the Internet and bring Wi-Fi to many of our schools, public places and major tourist centres.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Digital India aims to provide digital infrastructure, deliver services digitally and promote digital literacy, including broadband connectivity to villages and Wi-Fi in public places, so statement 3 is correct. Creating national Internet companies and mandating data-centre localisation by multinationals are not stated aims of the programme."
+  },
+  {
+    "year": "2018",
+    "qno": "78",
+    "subject": "Governance",
+    "question": "With reference to Pradhan Mantri Kaushal Vikas Yojana, consider the following statements:\n1. It is the flagship scheme of the Ministry of Labour and Employment.\n2. It, among other things, will also impart training in soft skills, entrepreneurship, financial and digital literacy.\n3. It aims to align the competencies of the unregulated workforce of the country to the National Skill Qualification Framework.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "PMKVY is the flagship scheme of the Ministry of Skill Development and Entrepreneurship, not the Ministry of Labour and Employment, so statement 1 is wrong. Its training includes soft skills, entrepreneurship, and financial and digital literacy, so statement 2 is correct. It aims to bring the unregulated workforce's skills in line with the National Skills Qualification Framework, so statement 3 is correct."
+  },
+  {
     "year": "2026",
     "qno": "6",
     "subject": "Governance",

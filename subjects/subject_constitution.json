@@ -112,6 +112,146 @@
     "explanation": "Statement-I is correct: The Supreme Court (e.g., in Indra Sawhney and M. Nagaraj) affirmed that affirmative action under Article 16(4) must balance with administrative efficiency under Article 335. Statement-II is incorrect: The Constitution does not define the phrase 'efficiency of administration' anywhere in Article 335 or elsewhere."
   },
   {
+    "year": "2018",
+    "qno": "1",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party.\n2. In the Lok Sabha, a \"Leader of the Opposition\" was recognised for the first time in 1969.\n3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of the Opposition.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Swatantra Party was founded in 1959, so it could not have been in the first Lok Sabha (1952); the largest opposition party then was the CPI. A Leader of the Opposition was first recognised in 1969 (Ram Subhag Singh of Congress (O)). The Leader of the Opposition needs a party with at least 10% of the House's strength (55 seats), not 75 members. Only statement 2 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "5",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.\n2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The Ninth Schedule was added by the First Amendment (1951), and Parliament can place laws in it through constitutional amendments. In I.R. Coelho v. State of Tamil Nadu (2007), the Supreme Court held that laws placed in it after 24 April 1973 are open to judicial review if they violate the basic structure or fundamental rights. Statement 2 is therefore incorrect."
+  },
+  {
+    "year": "2018",
+    "qno": "31",
+    "subject": "Constitution",
+    "question": "Regarding Money Bill, which of the following statements is not correct?",
+    "options": [
+      "A bill shall be deemed to be a Money Bill if it contains only provisions relating to imposition, abolition, remission, alteration or regulation of any tax.",
+      "A Money Bill has provisions for the custody of the Consolidated Fund of India or the Contingency Fund of India.",
+      "A Money Bill is concerned with the appropriation of moneys out of the Contingency Fund of India.",
+      "A Money Bill deals with the regulation of borrowing of money or giving of any guarantee by the Government of India."
+    ],
+    "answer": "C",
+    "explanation": "Article 110(1) lists the matters a Money Bill may deal with: taxation, regulation of borrowing, custody of the Consolidated Fund or Contingency Fund, and appropriation of moneys out of the Consolidated Fund of India. Appropriation out of the Contingency Fund is not on the list, so option (c) is the incorrect statement."
+  },
+  {
+    "year": "2018",
+    "qno": "32",
+    "subject": "Constitution",
+    "question": "With reference to the election of the President of India, consider the following statements:\n1. The value of the vote of each MLA varies from State to State.\n2. The value of the vote of MPs of the Lok Sabha is more than the value of the vote of MPs of the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The value of an MLA's vote depends on the State's population and the number of elected members in its Assembly, so it varies across States. The value of an MP's vote is the same for every MP, whether of the Lok Sabha or the Rajya Sabha, so statement 2 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "39",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly.\n2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Under Article 179, the Speaker vacates office on ceasing to be a member of the Assembly, so statement 1 is correct. On dissolution of the Assembly, the Speaker does not vacate office immediately but continues until immediately before the first meeting of the newly elected Assembly, so statement 2 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "40",
+    "subject": "Constitution",
+    "question": "Which one of the following reflects the most appropriate relationship between law and liberty?",
+    "options": [
+      "If there are more laws, there is less liberty.",
+      "If there are no laws, there is no liberty.",
+      "If there is liberty, laws have to be made by the people.",
+      "If laws are changed too often, liberty is in danger."
+    ],
+    "answer": "B",
+    "explanation": "Liberty means freedom within a framework of law. Without laws there would be no protection of rights and no restraint on the powerful, so liberty could not be guaranteed. Law is thus a condition of liberty and not its opposite, which is the Lockean view that where there is no law, there is no freedom."
+  },
+  {
+    "year": "2018",
+    "qno": "41",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. No criminal proceedings shall be instituted against the Governor of a State in any court during his term of office.\n2. The emoluments and allowances of the Governor of a State shall not be diminished during his term of office.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Article 361(2) grants the Governor immunity from criminal proceedings in any court during the term of office. Article 158(4) provides that the Governor's emoluments and allowances cannot be diminished during the term of office. Both statements are correct."
+  },
+  {
+    "year": "2018",
+    "qno": "45",
+    "subject": "Constitution",
+    "question": "Which of the following are regarded as the main features of the \"Rule of Law\"?\n1. Limitation of powers\n2. Equality before law\n3. People's responsibility to the Government\n4. Liberty and civil rights\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "Rule of Law means that government power is limited by law, that all persons are equal before the law, and that liberty and civil rights are protected by law. 'People's responsibility to the Government' is not a feature of the concept, because it is the government that is accountable under the law."
+  },
+  {
+    "year": "2018",
+    "qno": "53",
+    "subject": "Constitution",
+    "question": "If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then",
+    "options": [
+      "the Assembly of the State is automatically dissolved.",
+      "the powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament.",
+      "Article 19 is suspended in that State.",
+      "the President can make laws relating to that State."
+    ],
+    "answer": "B",
+    "explanation": "Under Article 356(1)(b), when President's Rule is imposed, the State Legislature's powers become exercisable by or under the authority of Parliament. The Assembly is not automatically dissolved, as it may be kept in suspended animation. Article 19 is suspended only during a national emergency, and the President does not himself make laws for the State, since Parliament does and may delegate the power."
+  },
+  {
+    "year": "2018",
+    "qno": "92",
+    "subject": "Constitution",
+    "question": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?",
+    "options": [
+      "Article 14 and the provisions under the 42nd Amendment to the Constitution",
+      "Article 17 and the Directive Principles of State Policy in Part IV",
+      "Article 21 and the freedoms guaranteed in Part III",
+      "Article 24 and the provisions under the 44th Amendment to the Constitution"
+    ],
+    "answer": "C",
+    "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), a nine-judge bench of the Supreme Court held that privacy is an intrinsic part of the right to life and personal liberty under Article 21 and of the freedoms guaranteed in Part III."
+  },
+  {
     "year": "2026",
     "qno": "7",
     "subject": "Constitution",
