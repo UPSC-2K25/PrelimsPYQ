@@ -28,6 +28,34 @@
     "explanation": "The Malabar Civet is strictly nocturnal and secretive. The Sambar Deer is crepuscular to primarily nocturnal in areas subject to disturbance or high diurnal temperatures, doing most of its foraging after dusk. The Lion-tailed Macaque is strictly diurnal, actively foraging and moving through the canopy during daylight hours. Thus, only two (Malabar Civet and Sambar Deer) are nocturnal/most active after sunset."
   },
   {
+    "year": "2017",
+    "qno": "21",
+    "subject": "Biogeography",
+    "question": "Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences?\n1. Pollination of some plants could be adversely affected.\n2. There could be a drastic increase in the fungal infections of some cultivated plants.\n3. It could lead to a fall in the population of some species of wasps, spiders and birds.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Butterflies are pollinators, so their decline can hurt the pollination of some plants (1). They are also prey for wasps, spiders and birds, so predator populations may fall (3). There is no direct link between fewer butterflies and a drastic rise in fungal infections of crops (2). Hence, 1 and 3 only."
+  },
+  {
+    "year": "2017",
+    "qno": "67",
+    "subject": "Biogeography",
+    "question": "If you want to see gharials in their natural habitat, which one of the following is the best place to visit?",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Chambal River",
+      "Pulicat Lake",
+      "Deepor Beel"
+    ],
+    "answer": "B",
+    "explanation": "The National Chambal Sanctuary along the Chambal River is the stronghold of the critically endangered gharial and holds the largest wild population."
+  },
+  {
     "year": "2018",
     "qno": "2",
     "subject": "Biogeography",

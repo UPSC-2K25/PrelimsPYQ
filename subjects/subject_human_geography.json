@@ -14,6 +14,62 @@
     "explanation": "The Congo Basin spans across six Central African countries: Cameroon, the Central African Republic, the Democratic Republic of the Congo, the Republic of the Congo, Equatorial Guinea, and Gabon. Southern and eastern parts of Cameroon drain into the Sangha and Congo River system."
   },
   {
+    "year": "2017",
+    "qno": "49",
+    "subject": "Human Geography",
+    "question": "If you travel by road from Kohima to Kottayam, what is the minimum number of States within India through which you can travel, including the origin and the destination?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "B",
+    "explanation": "A shortest route passes through Nagaland, Assam, West Bengal, Odisha, Andhra Pradesh, Tamil Nadu and Kerala, which makes seven States including the origin and destination."
+  },
+  {
+    "year": "2017",
+    "qno": "54",
+    "subject": "Human Geography",
+    "question": "Mediterranean Sea is a border of which of the following countries?\n1. Jordan\n2. Iraq\n3. Lebanon\n4. Syria\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Lebanon and Syria both have Mediterranean coastlines. Jordan and Iraq are landlocked with respect to the Mediterranean, so only 3 and 4 are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "58",
+    "subject": "Human Geography",
+    "question": "Consider the following statements:\n1. In India, the Himalayas are spread over five States only.\n2. Western Ghats are spread over five States only.\n3. Pulicat Lake is spread over two States only.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Indian Himalayas span more than five States and Union Territories, including J&K, Himachal, Uttarakhand, Sikkim, Arunachal Pradesh and parts of West Bengal. The Western Ghats cover six States (Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu). Pulicat Lake lies across Andhra Pradesh and Tamil Nadu, so only statement 3 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "98",
+    "subject": "Human Geography",
+    "question": "Which of the following is geographically closest to Great Nicobar?",
+    "options": [
+      "Sumatra",
+      "Borneo",
+      "Java",
+      "Sri Lanka"
+    ],
+    "answer": "A",
+    "explanation": "Great Nicobar's southern tip, Indira Point, lies only about 150 km from Sumatra in Indonesia, which makes Sumatra the closest of the options."
+  },
+  {
     "year": "2024",
     "qno": "1",
     "subject": "Human Geography",

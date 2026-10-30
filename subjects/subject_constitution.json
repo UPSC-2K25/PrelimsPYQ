@@ -112,6 +112,216 @@
     "explanation": "Statement-I is correct: The Supreme Court (e.g., in Indra Sawhney and M. Nagaraj) affirmed that affirmative action under Article 16(4) must balance with administrative efficiency under Article 335. Statement-II is incorrect: The Constitution does not define the phrase 'efficiency of administration' anywhere in Article 335 or elsewhere."
   },
   {
+    "year": "2017",
+    "qno": "1",
+    "subject": "Constitution",
+    "question": "With reference to the Parliament of India, consider the following statements:\n1. A private member's bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.\n2. Recently, a private member's bill has been passed in the Parliament of India for the first time in its history.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "A private member's bill is introduced by any MP who is not a minister, whether elected or nominated, so statement 1 is incorrect. Statement 2 is also incorrect: although the Rajya Sabha passed the Rights of Transgender Persons Bill (2014) in 2015, it did not become law. Private members' bills have been passed by Parliament before, with the last such enactment in 1970. Hence, neither statement is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "7",
+    "subject": "Constitution",
+    "question": "Which principle among the following was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution?",
+    "options": [
+      "Equal pay for equal work for both men and women",
+      "Participation of workers in the management of industries",
+      "Right to work, education and public assistance",
+      "Securing living wage and human conditions of work to workers"
+    ],
+    "answer": "B",
+    "explanation": "The 42nd Amendment (1976) added Article 43A, which directs the State to take steps to secure workers' participation in the management of industries. The other principles were part of the original DPSP: equal pay (Art. 39), right to work and education (Art. 41), and living wage (Art. 43)."
+  },
+  {
+    "year": "2017",
+    "qno": "17",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nWith reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon\n1. legislative function.\n2. executive function.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Article 37 makes the Directive Principles fundamental in the governance of the country and states that it is the duty of the State to apply them in making laws. 'State' under Article 36 includes both the legislature and the executive, so the DPSP act as guiding limitations on both legislative and executive functions. Although not justiciable, they are directions the State is expected to follow."
+  },
+  {
+    "year": "2017",
+    "qno": "36",
+    "subject": "Constitution",
+    "question": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen?\n1. A legislative process has been provided to enforce these duties.\n2. They are correlative to legal duties.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Fundamental Duties in Article 51A are non-justiciable, and the Constitution provides no specific legal mechanism to enforce them. They are moral obligations and are not correlative to legal duties. Neither statement is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "38",
+    "subject": "Constitution",
+    "question": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?",
+    "options": [
+      "Liberty of thought",
+      "Economic liberty",
+      "Liberty of expression",
+      "Liberty of belief"
+    ],
+    "answer": "B",
+    "explanation": "The Preamble secures liberty of thought, expression, belief, faith and worship. It speaks of justice (social, economic and political) but does not mention economic liberty."
+  },
+  {
+    "year": "2017",
+    "qno": "46",
+    "subject": "Constitution",
+    "question": "The main advantage of the parliamentary form of government is that",
+    "options": [
+      "the executive and legislature work independently.",
+      "it provides continuity of policy and is more efficient.",
+      "the executive remains responsible to the legislature.",
+      "the head of the government cannot be changed without election."
+    ],
+    "answer": "C",
+    "explanation": "The defining advantage of the parliamentary system is that the executive is collectively responsible to the legislature and stays in office only while it enjoys the legislature's confidence. This makes it accountable."
+  },
+  {
+    "year": "2017",
+    "qno": "47",
+    "subject": "Constitution",
+    "question": "In the context of India, which one of the following is the correct relationship between Rights and Duties?",
+    "options": [
+      "Rights are correlative with Duties.",
+      "Rights are personal and hence independent of society and Duties.",
+      "Rights, not Duties, are important for the advancement of the personality of the citizen.",
+      "Duties, not Rights, are important for the stability of the State."
+    ],
+    "answer": "A",
+    "explanation": "In the Indian constitutional vision, rights and duties go together. One person's right implies a duty on others to respect it, and citizens enjoy rights while fulfilling duties towards society and the State."
+  },
+  {
+    "year": "2017",
+    "qno": "48",
+    "subject": "Constitution",
+    "question": "The mind of the makers of the Constitution of India is reflected in which of the following?",
+    "options": [
+      "The Preamble",
+      "The Fundamental Rights",
+      "The Directive Principles of State Policy",
+      "The Fundamental Duties"
+    ],
+    "answer": "A",
+    "explanation": "The Preamble states the ideals, objectives and philosophy of the framers, and is often called the key to the mind of the makers of the Constitution."
+  },
+  {
+    "year": "2017",
+    "qno": "50",
+    "subject": "Constitution",
+    "question": "The Parliament of India exercises control over the functions of the Council of Ministers through\n1. Adjournment motion\n2. Question hour\n3. Supplementary questions\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Parliament holds the executive accountable through devices such as the adjournment motion, question hour and supplementary questions, besides no-confidence motions and debates. All three listed devices serve this purpose."
+  },
+  {
+    "year": "2017",
+    "qno": "86",
+    "subject": "Constitution",
+    "question": "Right to vote and to be elected in India is a",
+    "options": [
+      "Fundamental Right",
+      "Natural Right",
+      "Constitutional Right",
+      "Legal Right"
+    ],
+    "answer": "D",
+    "explanation": "The right to vote and to contest elections is a statutory (legal) right granted by the Representation of the People Act, 1951 and not a Fundamental Right. Article 326 provides for adult suffrage, but the right to be elected comes from statute, and the Supreme Court has held both to be legal rights."
+  },
+  {
+    "year": "2017",
+    "qno": "92",
+    "subject": "Constitution",
+    "question": "In India, Judicial Review implies",
+    "options": [
+      "the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.",
+      "the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.",
+      "the power of the Judiciary to review all the legislative enactments before they are assented to by the President.",
+      "the power of the Judiciary to review its own judgements given earlier in similar or different cases."
+    ],
+    "answer": "A",
+    "explanation": "Judicial review is the power of courts to examine the constitutionality of legislative enactments and executive orders and to strike them down if they violate the Constitution. It does not extend to questioning the wisdom of laws."
+  },
+  {
+    "year": "2017",
+    "qno": "96",
+    "subject": "Constitution",
+    "question": "Which of the following are not necessarily the consequences of the proclamation of the President's rule in a State?\n1. Dissolution of the State Legislative Assembly\n2. Removal of the Council of Ministers in the State\n3. Dissolution of the local bodies\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Under Article 356 the Council of Ministers is necessarily dismissed. The Assembly may instead be kept in suspended animation, so its dissolution is not a necessary consequence, and local bodies are not affected at all. Hence 1 and 3 are not necessary consequences."
+  },
+  {
+    "year": "2017",
+    "qno": "97",
+    "subject": "Constitution",
+    "question": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India?\n1. Prohibition of traffic in human beings and forced labour\n2. Abolition of untouchability\n3. Protection of the interests of minorities\n4. Prohibition of employment of children in factories and mines\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "The Right against Exploitation (Articles 23 and 24) prohibits trafficking in human beings and forced labour, and bans employment of children below 14 in factories, mines and hazardous work. Abolition of untouchability falls under the Right to Equality, and minority protection under Cultural and Educational Rights."
+  },
+  {
+    "year": "2017",
+    "qno": "99",
+    "subject": "Constitution",
+    "question": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government:",
+    "options": [
+      "An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.",
+      "A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.",
+      "A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.",
+      "A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline."
+    ],
+    "answer": "C",
+    "explanation": "The principle behind the Cabinet system is collective responsibility. The Council of Ministers is jointly accountable to the legislature, and through it to the people."
+  },
+  {
+    "year": "2017",
+    "qno": "100",
+    "subject": "Constitution",
+    "question": "Which one of the following is not a feature of Indian federalism?",
+    "options": [
+      "There is an independent judiciary in India.",
+      "Powers have been clearly divided between the Centre and the States.",
+      "The federating units have been given unequal representation in the Rajya Sabha.",
+      "It is the result of an agreement among the federating units."
+    ],
+    "answer": "D",
+    "explanation": "Indian federalism has an independent judiciary, a clear division of powers through the Seventh Schedule, and unequal representation of States in the Rajya Sabha based on population. It did not arise from an agreement among independent units, since States cannot secede and the Union is described as indestructible."
+  },
+  {
     "year": "2018",
     "qno": "1",
     "subject": "Constitution",

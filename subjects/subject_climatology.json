@@ -1,5 +1,19 @@
 [
   {
+    "year": "2017",
+    "qno": "66",
+    "subject": "Climatology",
+    "question": "With reference to 'Indian Ocean Dipole (IOD)' sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct?\n1. IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean.\n2. An IOD phenomenon can influence an El Nino's impact on the monsoon.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The IOD is the difference in sea surface temperature between the western and eastern parts of the Indian Ocean, not the Eastern Pacific, so statement 1 is wrong. A positive IOD can counter the weakening effect of El Nino on the Indian monsoon, so statement 2 is correct."
+  },
+  {
     "year": "2026",
     "qno": "10",
     "subject": "Climatology",

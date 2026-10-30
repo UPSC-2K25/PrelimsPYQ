@@ -140,6 +140,160 @@
     "explanation": "The Central Ground Water Authority (CGWA) was constituted under Section 3(3) of the Environment (Protection) Act, 1986 to regulate and control groundwater development and management in the country."
   },
   {
+    "year": "2017",
+    "qno": "4",
+    "subject": "Environment and Ecology",
+    "question": "From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats?",
+    "options": [
+      "Sathyamangalam Tiger Reserve",
+      "Nallamala Forest",
+      "Nagarhole National Park",
+      "Seshachalam Biosphere Reserve"
+    ],
+    "answer": "A",
+    "explanation": "Sathyamangalam Tiger Reserve in Tamil Nadu lies where the Western and Eastern Ghats meet, and it connects the Nilgiri and Biligiriranga forest landscapes. It works as an important wildlife corridor, notably for elephants and tigers, between the two Ghats. Nallamala and Seshachalam belong to the Eastern Ghats, and Nagarhole lies within the Western Ghats, so none of them forms the link."
+  },
+  {
+    "year": "2017",
+    "qno": "6",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements in respect of Trade Related Analysis of Fauna and Flora in Commerce (TRAFFIC):\n1. TRAFFIC is a bureau under United Nations Environment Programme (UNEP).\n2. The mission of TRAFFIC is to ensure that trade in wild plants and animals is not a threat to the conservation of nature.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "TRAFFIC is a wildlife trade monitoring network, a joint programme of WWF and IUCN, and not a bureau of UNEP, so statement 1 is incorrect. Its mission is to ensure that trade in wild plants and animals does not threaten nature conservation, so statement 2 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "14",
+    "subject": "Environment and Ecology",
+    "question": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique?\n1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.\n2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.\n3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Bioremediation uses and enhances natural microbial biodegradation to clean up contaminants, and genetically engineered microbes can be designed for specific pollutants, so statements 1 and 3 are correct. Heavy metals such as cadmium and lead cannot be degraded by microbes, which can at best change their form or mobility, so they cannot be 'readily and completely' treated and statement 2 is incorrect."
+  },
+  {
+    "year": "2017",
+    "qno": "25",
+    "subject": "Environment and Ecology",
+    "question": "In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration?\n1. Abandoned and uneconomic coal seams\n2. Depleted oil and gas reservoirs\n3. Subterranean deep saline formations\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Geological carbon sequestration stores captured CO2 underground in unmineable coal seams, depleted oil and gas reservoirs, and deep saline aquifers. All three are recognised storage sites."
+  },
+  {
+    "year": "2017",
+    "qno": "35",
+    "subject": "Environment and Ecology",
+    "question": "According to the Wildlife (Protection) Act, 1972, which of the following animals cannot be hunted by any person except under some provisions provided by law?\n1. Gharial\n2. Indian wild ass\n3. Wild buffalo\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The gharial, the Indian wild ass and the wild buffalo are all listed in Schedule I of the Wildlife (Protection) Act, 1972, which gives the highest protection against hunting."
+  },
+  {
+    "year": "2017",
+    "qno": "52",
+    "subject": "Environment and Ecology",
+    "question": "With reference to 'Global Climate Change Alliance', which of the following statements is/are correct?\n1. It is an initiative of the European Union.\n2. It provides technical and financial support to targeted developing countries to integrate climate change into their development policies and budgets.\n3. It is coordinated by World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD).\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Global Climate Change Alliance (GCCA) is an EU initiative launched in 2007. It gives technical and financial support to vulnerable developing countries to integrate climate change into their development policies and budgets. It is run by the European Commission and not by WRI and WBCSD, so statement 3 is wrong."
+  },
+  {
+    "year": "2017",
+    "qno": "59",
+    "subject": "Environment and Ecology",
+    "question": "Biological Oxygen Demand (BOD) is a standard criterion for",
+    "options": [
+      "Measuring oxygen levels in blood",
+      "Computing oxygen levels in forest ecosystems",
+      "Pollution assay in aquatic ecosystems",
+      "Assessing oxygen levels in high altitude regions"
+    ],
+    "answer": "C",
+    "explanation": "BOD is the amount of dissolved oxygen needed by microorganisms to decompose organic matter in water. A high BOD indicates organic pollution, so it is a standard measure of water pollution in aquatic ecosystems."
+  },
+  {
+    "year": "2017",
+    "qno": "65",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. Climate and Clean Air Coalition (CCAC) to Reduce Short Lived Climate Pollutants is a unique initiative of G20 group of countries.\n2. The CCAC focuses on methane, black carbon and hydrofluorocarbons.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The CCAC was launched in 2012 by a group of countries led by the US and others together with UNEP, not by the G20. It targets short-lived climate pollutants, mainly methane, black carbon and HFCs, so only statement 2 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "80",
+    "subject": "Environment and Ecology",
+    "question": "The term 'M-STrIPES' is sometimes seen in the news in the context of",
+    "options": [
+      "Captive breeding of Wild Fauna",
+      "Maintenance of Tiger Reserves",
+      "Indigenous Satellite Navigation System",
+      "Security of National Highways"
+    ],
+    "answer": "B",
+    "explanation": "M-STrIPES (Monitoring System for Tigers: Intensive Protection and Ecological Status) is a software-based monitoring system launched by the NTCA for patrolling and managing tiger reserves."
+  },
+  {
+    "year": "2017",
+    "qno": "91",
+    "subject": "Environment and Ecology",
+    "question": "In India, if a species of tortoise is declared protected under Schedule I of the Wildlife (Protection) Act, 1972, what does it imply?",
+    "options": [
+      "It enjoys the same level of protection as the tiger.",
+      "It no longer exists in the wild, a few individuals are under captive protection; and now it is impossible to prevent its extinction.",
+      "It is endemic to a particular region of India.",
+      "Both (b) and (c) stated above are correct in this context."
+    ],
+    "answer": "A",
+    "explanation": "Schedule I gives the highest level of legal protection, with the strictest penalties, the same as for the tiger. Inclusion in Schedule I does not mean a species is extinct in the wild or endemic to one region."
+  },
+  {
+    "year": "2017",
+    "qno": "95",
+    "subject": "Environment and Ecology",
+    "question": "Recently there was a proposal to translocate some of the lions from their natural habitat in Gujarat to which one of the following sites?",
+    "options": [
+      "Corbett National Park",
+      "Kuno Palpur Wildlife Sanctuary",
+      "Mudumalai Wildlife Sanctuary",
+      "Sariska National Park"
+    ],
+    "answer": "B",
+    "explanation": "Kuno Palpur Wildlife Sanctuary in Madhya Pradesh was chosen as the second home for Asiatic lions from Gir, to reduce the risk to the single population in Gujarat."
+  },
+  {
     "year": "2024",
     "qno": "3",
     "subject": "Environment and Ecology",

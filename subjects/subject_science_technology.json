@@ -84,6 +84,146 @@
     "explanation": "Both statements are correct. Statement 1: CBDCs can be settled directly on bilateral or multilateral ledgers/platforms (e.g., Project mBridge), bypassing conventional correspondent banking systems, the SWIFT network, and third-party currencies like the USD. Statement 2: Programmability is a core technical feature of CBDCs via smart contracts, allowing issuers to designate expiry dates, intended merchant categories, or purpose-specific stimulus use."
   },
   {
+    "year": "2017",
+    "qno": "10",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements is/are correct regarding Smart India Hackathon 2017?\n1. It is a centrally sponsored scheme for developing every city of our country into Smart Cities in a decade.\n2. It is an initiative to identify new digital technology innovations for solving the many problems faced by our country.\n3. It is a programme aimed at making all the financial transactions in our country completely digital in a decade.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "3 only",
+      "2 and 3 only"
+    ],
+    "answer": "B",
+    "explanation": "Smart India Hackathon 2017 was a nationwide initiative by the MHRD, AICTE and partners that asked students to build digital and technology solutions to problems faced by ministries and departments. Statement 1 describes the Smart Cities Mission and statement 3 describes the digital payments push, so only statement 2 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "22",
+    "subject": "Science & Technology",
+    "question": "It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry?\n1. Production of algae based biofuels is possible in seas only and not on continents.\n2. Setting up and engineering the algae based biofuel production requires high level of expertise/technology until the construction is completed.\n3. Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Algae can be cultivated in open ponds and photobioreactors on land, so statement 1 is wrong. Setting up such systems needs high technical expertise, and economic viability needs large-scale facilities that can raise land, water and social concerns. Statements 2 and 3 are therefore valid limitations."
+  },
+  {
+    "year": "2017",
+    "qno": "31",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.\n2. Sexual transmission of Zika virus disease is possible.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Zika is mainly spread by Aedes mosquitoes, particularly Aedes aegypti, which also transmit dengue. Sexual transmission of Zika has also been documented. Both statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "44",
+    "subject": "Science & Technology",
+    "question": "The terms 'Event Horizon', 'Singularity', 'String Theory' and 'Standard Model' are sometimes seen in the news in the context of",
+    "options": [
+      "Observation and understanding of the Universe",
+      "Study of the solar and the lunar eclipses",
+      "Placing satellites in the orbit of the Earth",
+      "Origin and evolution of living organisms on the Earth"
+    ],
+    "answer": "A",
+    "explanation": "These are concepts from cosmology and theoretical physics, dealing with black holes, the structure of matter and the fundamental forces of the universe."
+  },
+  {
+    "year": "2017",
+    "qno": "45",
+    "subject": "Science & Technology",
+    "question": "With reference to agriculture in India, how can the technique of 'genome sequencing', often seen in the news, be used in the immediate future?\n1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.\n2. This technique helps in reducing the time required to develop new varieties of crop plants.\n3. It can be used to decipher the host-pathogen relationships in crops.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Genome sequencing helps locate genetic markers for traits such as disease resistance and drought tolerance. This speeds up marker-assisted breeding and shortens variety development time, and it also reveals how pathogens interact with their crop hosts. All three statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "73",
+    "subject": "Science & Technology",
+    "question": "Consider the following pairs:\nCommonly used / consumed materials — Unwanted or controversial chemicals likely to be found in them\n1. Lipstick — Lead\n2. Soft drinks — Brominated vegetable oils\n3. Chinese fast food — Monosodium glutamate\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Lead has been found in some lipsticks, brominated vegetable oil has been used as an emulsifier in some soft drinks, and monosodium glutamate is a flavour enhancer widely used in Chinese fast food and a subject of controversy. All three pairs are correctly matched."
+  },
+  {
+    "year": "2017",
+    "qno": "74",
+    "subject": "Science & Technology",
+    "question": "Organic Light Emitting Diodes (OLEDs) are used to create digital display in many devices. What are the advantages of OLED displays over Liquid Crystal displays?\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. Roll-up displays embedded in clothing can be made using OLEDs.\n3. Transparent displays are possible using OLEDs.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3",
+      "None of the above statements is correct"
+    ],
+    "answer": "C",
+    "explanation": "OLEDs can be built on flexible plastic substrates, which makes roll-up displays and wearable displays embedded in clothing possible. They can also be made transparent. All three statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "78",
+    "subject": "Science & Technology",
+    "question": "What is the application of Somatic Cell Nuclear Transfer Technology?",
+    "options": [
+      "Production of biolarvicides",
+      "Manufacture of biodegradable plastics",
+      "Reproductive cloning of animals",
+      "Production of organisms free of diseases"
+    ],
+    "answer": "C",
+    "explanation": "In Somatic Cell Nuclear Transfer, the nucleus of a somatic cell is transferred into an enucleated egg cell to create a clone. It was used to create Dolly the sheep and is the basis of reproductive cloning of animals."
+  },
+  {
+    "year": "2017",
+    "qno": "85",
+    "subject": "Science & Technology",
+    "question": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\n1. Service providers\n2. Data centres\n3. Body corporate\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Under the Information Technology Act and the CERT-In Rules, 2013, service providers, intermediaries, data centres and body corporates must report cyber security incidents to CERT-In. All three are covered."
+  },
+  {
+    "year": "2017",
+    "qno": "87",
+    "subject": "Science & Technology",
+    "question": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project?",
+    "options": [
+      "To detect neutrinos",
+      "To detect gravitational waves",
+      "To detect the effectiveness of missile defence system",
+      "To study the effect of solar flares on our communication systems"
+    ],
+    "answer": "B",
+    "explanation": "eLISA is a planned European Space Agency space-based observatory designed to detect gravitational waves using laser interferometry between spacecraft."
+  },
+  {
     "year": "2018",
     "qno": "55",
     "subject": "Science & Technology",

@@ -140,6 +140,188 @@
     "explanation": "Statement 1 is incorrect: The SHG Bank Linkage Project (SHG-BLP) was pioneered and launched by NABARD in 1992, not originally by SBI. Statement 2 is correct: SHGs function on peer pressure and collective/mutual liability where the entire group acts as a guarantor for individual member borrowings. Statement 3 is correct: Scheduled Commercial Banks, Regional Rural Banks (RRBs), and Cooperative Banks actively finance and support SHGs under the SHG-Bank Linkage Programme. Hence, only two statements are correct."
   },
   {
+    "year": "2017",
+    "qno": "11",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements is/are correct regarding the Monetary Policy Committee (MPC)?\n1. It decides the RBI's benchmark interest rates.\n2. It is a 12-member body including the Governor of RBI and is reconstituted every year.\n3. It functions under the chairmanship of the Union Finance Minister.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only"
+    ],
+    "answer": "A",
+    "explanation": "The MPC determines the policy (benchmark) interest rate, the repo rate, to achieve the inflation target, so statement 1 is correct. It has six members, three from the RBI and three external members appointed by the Government, not twelve, and the external members serve four-year terms rather than being reconstituted yearly. It is chaired by the RBI Governor, not the Finance Minister. Hence, only statement 1 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "27",
+    "subject": "Indian Economy",
+    "question": "The term 'Domestic Content Requirement' is sometimes seen in the news with reference to",
+    "options": [
+      "Developing solar power production in our country",
+      "Granting licences to foreign T.V. channels in our country",
+      "Exporting our food products to other countries",
+      "Permitting foreign educational institutions to set up their campuses in our country"
+    ],
+    "answer": "A",
+    "explanation": "Domestic Content Requirement (DCR) under India's National Solar Mission required solar projects to use domestically manufactured cells and modules. The US challenged it at the WTO, which is why it was in the news."
+  },
+  {
+    "year": "2017",
+    "qno": "29",
+    "subject": "Indian Economy",
+    "question": "Who among the following can join the National Pension System (NPS)?",
+    "options": [
+      "Resident Indian citizens only",
+      "Persons of age from 21 to 55 only",
+      "All State Government employees joining the services after the date of notification by the respective State Governments",
+      "All Central Government employees including those of Armed Forces joining the services on or after 1st April, 2004"
+    ],
+    "answer": "C",
+    "explanation": "NPS is open to Indian citizens, resident and non-resident, aged 18 to 60 (the age limit at the time of the paper), so options (a) and (b) are too restrictive. The Armed Forces were excluded from NPS, so (d) is wrong. State Government employees joining after the date of notification by the respective State are covered, which makes (c) the best answer."
+  },
+  {
+    "year": "2017",
+    "qno": "32",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes.\n2. AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO).\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "BIS certification (ISI mark) is mandatory for automotive tyres and tubes, so statement 1 is correct. AGMARK is issued by the Directorate of Marketing and Inspection of the Government of India, not the FAO, so statement 2 is incorrect."
+  },
+  {
+    "year": "2017",
+    "qno": "33",
+    "subject": "Indian Economy",
+    "question": "What is/are the advantage/advantages of implementing the 'National Agriculture Market' scheme?\n1. It is a pan-India electronic trading portal for agricultural commodities.\n2. It provides the farmers access to nationwide market, with prices commensurate with the quality of their produce.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "e-NAM is a pan-India electronic trading portal that networks existing APMC mandis. It gives farmers access to a wider market and better price discovery based on the quality of their produce. Both statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "40",
+    "subject": "Indian Economy",
+    "question": "What is the purpose of setting up of Small Finance Banks (SFBs) in India?\n1. To supply credit to small business units\n2. To supply credit to small and marginal farmers\n3. To encourage young entrepreneurs to set up business particularly in rural areas.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Small Finance Banks were created to advance financial inclusion by serving underserved sections, including small business units, small and marginal farmers, micro and small industries, and the unorganised sector. This includes encouraging entrepreneurship in rural areas, so all three statements fit."
+  },
+  {
+    "year": "2017",
+    "qno": "43",
+    "subject": "Indian Economy",
+    "question": "Which of the following is a most likely consequence of implementing the 'Unified Payments Interface (UPI)'?",
+    "options": [
+      "Mobile wallets will not be necessary for online payments.",
+      "Digital currency will totally replace the physical currency in about two decades.",
+      "FDI inflows will drastically increase.",
+      "Direct transfer of subsidies to poor people will become very effective."
+    ],
+    "answer": "A",
+    "explanation": "UPI enables instant bank-to-bank transfers through a single mobile app using a virtual payment address, without loading money into a separate wallet. Wallets therefore become less necessary for online payments. The other claims (total replacement of cash, a drastic FDI increase, very effective subsidy transfers) are exaggerated or unrelated."
+  },
+  {
+    "year": "2017",
+    "qno": "55",
+    "subject": "Indian Economy",
+    "question": "With reference to 'National Investment and Infrastructure Fund', which of the following statements is/are correct?\n1. It is an organ of NITI Aayog.\n2. It has a corpus of ₹ 4,00,000 crore at present.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "NIIF was set up by the Government of India as an infrastructure investment fund, and it is not an organ of NITI Aayog. Its corpus was targeted at about ₹40,000 crore, not ₹4,00,000 crore. Both statements are wrong."
+  },
+  {
+    "year": "2017",
+    "qno": "64",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements best describes the term 'Scheme for Sustainable Structuring of Stressed Assets (S4A)', recently seen in the news?",
+    "options": [
+      "It is a procedure for considering ecological costs of developmental schemes formulated by the Government.",
+      "It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.",
+      "It is a disinvestment plan of the Government regarding Central Public Sector Undertakings.",
+      "It is an important provision in 'The Insolvency and Bankruptcy Code' recently implemented by the Government."
+    ],
+    "answer": "B",
+    "explanation": "S4A was an RBI scheme (2016) that allowed banks to restructure the debt of large stressed corporate borrowers with viable projects. The unsustainable part of the debt was converted into equity or other instruments."
+  },
+  {
+    "year": "2017",
+    "qno": "77",
+    "subject": "Indian Economy",
+    "question": "Which of the following has/have occurred in India after its liberalization of economic policies in 1991?\n1. Share of agriculture in GDP increased enormously.\n2. Share of India's exports in world trade increased.\n3. FDI inflows increased.\n4. India's foreign exchange reserves increased enormously.\nSelect the correct answer using the codes given below:",
+    "options": [
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "After 1991 the share of agriculture in GDP fell as services grew, so statement 1 is wrong. India's share in world exports, FDI inflows and foreign exchange reserves all rose substantially."
+  },
+  {
+    "year": "2017",
+    "qno": "79",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. National Payments Corporation of India (NPCI) helps in promoting the financial inclusion in the country.\n2. NPCI has launched RuPay, a card payment scheme.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "NPCI is the umbrella organisation for retail payments in India and promotes financial inclusion through products such as UPI and AEPS. It launched the RuPay domestic card payment network, so both statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "81",
+    "subject": "Indian Economy",
+    "question": "What is/are the most likely advantages of implementing 'Goods and Services Tax (GST)'?\n1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.\n2. It will drastically reduce the 'Current Account Deficit' of India and will enable it to increase its foreign exchange reserves.\n3. It will enormously increase the growth and size of economy of India and will enable it to overtake China in the near future.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "GST subsumes many central and state indirect taxes into a single tax and helps create a common national market. The claims that it will drastically cut the current account deficit or make India overtake China are exaggerated, so only statement 1 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "94",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Tax revenue as a percent of GDP of India has steadily increased in the last decade.\n2. Fiscal deficit as a percent of GDP of India has steadily increased in the last decade.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Neither ratio moved steadily in one direction over the decade. The tax-GDP ratio rose and fell, and the fiscal deficit-GDP ratio rose after the 2008 crisis and then declined under fiscal consolidation. Both statements are incorrect."
+  },
+  {
     "year": "2024",
     "qno": "2",
     "subject": "Indian Economy",

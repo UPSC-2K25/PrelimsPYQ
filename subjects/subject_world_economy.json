@@ -1,5 +1,75 @@
 [
   {
+    "year": "2017",
+    "qno": "9",
+    "subject": "World Economy",
+    "question": "Which of the following gives 'Global Gender Gap Index' ranking to the countries of the world?",
+    "options": [
+      "World Economic Forum",
+      "UN Human Rights Council",
+      "UN Women",
+      "World Health Organization"
+    ],
+    "answer": "A",
+    "explanation": "The Global Gender Gap Index is published annually by the World Economic Forum (WEF) in its Global Gender Gap Report. It benchmarks countries on gender parity in economic participation, educational attainment, health and survival, and political empowerment."
+  },
+  {
+    "year": "2017",
+    "qno": "18",
+    "subject": "World Economy",
+    "question": "The term 'Digital Single Market Strategy' seen in the news refers to",
+    "options": [
+      "ASEAN",
+      "BRICS",
+      "EU",
+      "G20"
+    ],
+    "answer": "C",
+    "explanation": "The Digital Single Market Strategy was launched by the European Union in 2015. It aims to remove barriers to cross-border online activity within the EU, covering e-commerce, copyright, telecom rules and data protection, so that digital goods and services can move across member states as freely as physical ones."
+  },
+  {
+    "year": "2017",
+    "qno": "56",
+    "subject": "World Economy",
+    "question": "The Global Infrastructure Facility is a/an",
+    "options": [
+      "ASEAN initiative to upgrade infrastructure in Asia and financed by credit from the Asian Development Bank.",
+      "World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public-Private Partnerships (PPPs) to enable mobilization of private sector and institutional investor capital.",
+      "Collaboration among the major banks of the world working with the OECD and focused on expanding the set of infrastructure projects that have the potential to mobilize private investment.",
+      "UNCTAD funded initiative that seeks to finance and facilitate infrastructure development in the world."
+    ],
+    "answer": "B",
+    "explanation": "The Global Infrastructure Facility, launched in 2014 at the G20's initiative, is a World Bank Group-led partnership. It helps prepare and structure complex infrastructure PPPs so that private and institutional capital can be mobilised."
+  },
+  {
+    "year": "2017",
+    "qno": "82",
+    "subject": "World Economy",
+    "question": "'Broad-based Trade and Investment Agreement (BTIA)' is sometimes seen in the news in the context of negotiations held between India and",
+    "options": [
+      "European Union",
+      "Gulf Cooperation Council",
+      "Organization for Economic Cooperation and Development",
+      "Shanghai Cooperation Organization"
+    ],
+    "answer": "A",
+    "explanation": "The BTIA is the proposed free trade agreement between India and the European Union. Negotiations began in 2007 and have stalled several times."
+  },
+  {
+    "year": "2017",
+    "qno": "83",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\n1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.\n2. TFA is a part of WTO's Bali Ministerial Package of 2013.\n3. TFA came into force in January 2016.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "India ratified the WTO Trade Facilitation Agreement in April 2016, and the TFA was part of the Bali Ministerial Package of December 2013. It entered into force on 22 February 2017 after two-thirds of members ratified it, not in January 2016, so statement 3 is wrong."
+  },
+  {
     "year": "2027",
     "qno": "1",
     "subject": "World Economy",

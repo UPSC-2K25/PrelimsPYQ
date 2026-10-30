@@ -1,5 +1,19 @@
 [
   {
+    "year": "2017",
+    "qno": "19",
+    "subject": "Oceanography",
+    "question": "At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shore line a few kilometres and comes back to the shore, twice a day, and you can actually walk on the sea floor when the water recedes. This unique phenomenon is seen at",
+    "options": [
+      "Bhavnagar",
+      "Bheemunipatnam",
+      "Chandipur",
+      "Nagapattinam"
+    ],
+    "answer": "C",
+    "explanation": "Chandipur beach in Odisha is famous as the 'hide and seek' beach, where the sea recedes up to a few kilometres during low tide and returns at high tide, twice a day. This allows people to walk on the exposed sea floor. The other places do not show this phenomenon on a comparable scale."
+  },
+  {
     "year": "2026",
     "qno": "8",
     "subject": "Oceanography",
