@@ -1,5 +1,47 @@
 [
   {
+    "year": "2019",
+    "qno": "51",
+    "subject": "Indian Society",
+    "question": "Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory.\n2. A stagnant or declining population is one of the criteria for determining PVTG status.\n3. There are 95 PVTGs officially notified in the country so far.\n4. Irular and Konda Reddi tribes are included in the list of PVTGs.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "As per official data, 75 PVTGs are spread across 18 States and the Union Territory of Andaman and Nicobar Islands, so statement 1 is correct and statement 3 (95) is wrong. A stagnant or declining population is one of the criteria, along with pre-agricultural technology, low literacy and a subsistence economy. The Irular (Tamil Nadu) and Konda Reddi (Andhra Pradesh) tribes are on the PVTG list."
+  },
+  {
+    "year": "2019",
+    "qno": "76",
+    "subject": "Indian Society",
+    "question": "Which of the following statements is/are correct regarding the Maternity Benefit (Amendment) Act, 2017?\n1. Pregnant women are entitled for three months pre-delivery and three months post-delivery paid leave.\n2. Enterprises with crèches must allow the mother minimum six crèche visits daily.\n3. Women with two children get reduced entitlements.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The Act provides 26 weeks of paid leave, with up to 8 weeks before delivery and the rest after, so statement 1 is wrong. The Act allows four crèche visits a day, not six. For a woman with two or more surviving children, leave is reduced to 12 weeks (6 weeks before delivery), so statement 3 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "80",
+    "subject": "Indian Society",
+    "question": "In the context of any country, which one of the following would be considered as part of its social capital?",
+    "options": [
+      "The proportion of literates in the population",
+      "The stock of its buildings, other infrastructure and machines",
+      "The size of population in the working age group",
+      "The level of mutual trust and harmony in the society"
+    ],
+    "answer": "D",
+    "explanation": "Social capital refers to networks, norms and trust that enable people to cooperate. The level of mutual trust and harmony is social capital. Literacy is human capital, buildings and machines are physical capital, and the working-age share is a demographic factor."
+  },
+  {
     "year": "2018",
     "qno": "30",
     "subject": "Indian Society",

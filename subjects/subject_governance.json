@@ -294,6 +294,90 @@
     "explanation": "The Election Commission has a Chief Election Commissioner and, at present, two Election Commissioners, so it is not five-member. It decides the election schedule itself, not the Home Ministry. Under the Election Symbols Order, it resolves disputes about splits and mergers of recognised parties, so only statement 3 is correct."
   },
   {
+    "year": "2019",
+    "qno": "19",
+    "subject": "Governance",
+    "question": "Atal Innovation Mission is set up under the",
+    "options": [
+      "Department of Science and Technology",
+      "Ministry of Labour and Employment",
+      "NITI Aayog",
+      "Ministry of Skill Development and Entrepreneurship"
+    ],
+    "answer": "C",
+    "explanation": "The Atal Innovation Mission (AIM), with the Atal Tinkering Labs and Atal Incubation Centres, is a flagship initiative of NITI Aayog to promote innovation and entrepreneurship."
+  },
+  {
+    "year": "2019",
+    "qno": "57",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. According to the Indian Patents Act, a biological process to create a seed can be patented in India.\n2. In India, there is no Intellectual Property Appellate Board.\n3. Plant varieties are not eligible to be patented in India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Section 3 of the Patents Act excludes plants, animals and essentially biological processes for their production from patentability, so statement 1 is wrong and statement 3 is correct (plant varieties are covered by the PPV&FR Act, 2001). The Intellectual Property Appellate Board (IPAB) existed in 2019, so statement 2 is wrong."
+  },
+  {
+    "year": "2019",
+    "qno": "62",
+    "subject": "Governance",
+    "question": "With reference to the management of minor minerals in India, consider the following statements:\n1. Sand is a 'minor mineral' according to the prevailing law in the country.\n2. State Governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Central Government.\n3. State Governments have the power to frame rules to prevent illegal mining of minor minerals.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Under the MMDR Act, 1957, sand is a minor mineral. States, not the Centre, make the rules for granting minor mineral concessions, so statement 2 is wrong. Under Section 23C, States can frame rules to prevent illegal mining, transport and storage of minor minerals."
+  },
+  {
+    "year": "2019",
+    "qno": "69",
+    "subject": "Governance",
+    "question": "In India, which of the following review the independent regulators in sectors like telecommunications, insurance, electricity, etc.?\n1. Ad Hoc Committees set up by the Parliament\n2. Parliamentary Department Related Standing Committees\n3. Finance Commission\n4. Financial Sector Legislative Reforms Commission\n5. NITI Aayog\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "1, 3 and 4",
+      "3, 4 and 5",
+      "2 and 5"
+    ],
+    "answer": "A",
+    "explanation": "Sectoral regulators are accountable to Parliament, which reviews them through ad hoc committees and the Department Related Standing Committees. The Finance Commission handles fiscal devolution, FSLRC was a one-time law reform body, and NITI Aayog is a policy think tank, so none of them reviews regulators."
+  },
+  {
+    "year": "2019",
+    "qno": "74",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. Petroleum and Natural Gas Regulatory Board (PNGRB) is the first regulatory body set up by the Government of India.\n2. One of the tasks of PNGRB is to ensure competitive markets for gas.\n3. Appeals against the decisions of PNGRB go before the Appellate Tribunals for Electricity.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "PNGRB (2006) is not the first regulator, since bodies such as SEBI, TRAI and CERC came earlier. It is tasked with fostering competitive markets for natural gas and petroleum products. Appeals against its decisions go to the Appellate Tribunal for Electricity (APTEL)."
+  },
+  {
+    "year": "2019",
+    "qno": "88",
+    "subject": "Governance",
+    "question": "Which of the following adopted a law on data protection and privacy for its citizens known as 'General Data Protection Regulation' in April 2016 and started implementation of it from 25th May, 2018?",
+    "options": [
+      "Australia",
+      "Canada",
+      "The European Union",
+      "The United States of America"
+    ],
+    "answer": "C",
+    "explanation": "The General Data Protection Regulation (GDPR) is a European Union regulation adopted in April 2016 and enforceable from 25 May 2018."
+  },
+  {
     "year": "2018",
     "qno": "12",
     "subject": "Governance",

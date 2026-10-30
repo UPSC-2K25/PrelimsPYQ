@@ -42,6 +42,34 @@
     "explanation": "The Teesta rises from the Pauhunri/Tso Lhamo area in Sikkim, while the Brahmaputra rises near Mansarovar, so statement 1 is wrong. The Rangeet originates in Sikkim and is a tributary of the Teesta, so statement 2 is correct. The Teesta joins the Brahmaputra (Jamuna) in Bangladesh and does not flow directly into the Bay of Bengal, so statement 3 is wrong."
   },
   {
+    "year": "2019",
+    "qno": "23",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nFamous place : River\n1. Pandharpur : Chandrabhaga\n2. Tiruchirappalli : Cauvery\n3. Hampi : Malaprabha\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Pandharpur stands on the Bhima, which is locally called Chandrabhaga there. Tiruchirappalli (with Srirangam) lies on the Cauvery. Hampi lies on the Tungabhadra, not the Malaprabha."
+  },
+  {
+    "year": "2019",
+    "qno": "38",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nGlacier : River\n1. Bandarpunch : Yamuna\n2. Bara Shigri : Chenab\n3. Milam : Mandakini\n4. Siachen : Nubra\n5. Zemu : Manas\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2 and 5",
+      "3 and 5"
+    ],
+    "answer": "A",
+    "explanation": "Bandarpunch feeds the Yamuna, Bara Shigri feeds the Chenab, and Siachen feeds the Nubra. The Milam glacier feeds the Gori Ganga, not the Mandakini, and the Zemu glacier feeds the Teesta, not the Manas."
+  },
+  {
     "year": "2018",
     "qno": "77",
     "subject": "Geomorphology",

@@ -84,6 +84,34 @@
     "explanation": "Total Fertility Rate (TFR) measures the average number of live births a woman would have if she were to survive through her reproductive child-bearing years (15–49) and bear children in accordance with prevailing age-specific fertility rates."
   },
   {
+    "year": "2019",
+    "qno": "36",
+    "subject": "Human Geography",
+    "question": "Consider the following pairs:\nSea : Bordering country\n1. Adriatic Sea : Albania\n2. Black Sea : Croatia\n3. Caspian Sea : Kazakhstan\n4. Mediterranean Sea : Morocco\n5. Red Sea : Syria\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "explanation": "Albania borders the Adriatic, Kazakhstan borders the Caspian, and Morocco borders the Mediterranean. Croatia does not touch the Black Sea (it is on the Adriatic), and Syria does not border the Red Sea. The correct pairs are 1, 3 and 4."
+  },
+  {
+    "year": "2019",
+    "qno": "42",
+    "subject": "Human Geography",
+    "question": "What is common to the places known as Aliyar, Isapur and Kangsabati?",
+    "options": [
+      "Recently discovered uranium deposits",
+      "Tropical rain forests",
+      "Underground cave systems",
+      "Water reservoirs"
+    ],
+    "answer": "D",
+    "explanation": "Aliyar (Tamil Nadu), Isapur (Maharashtra) and Kangsabati (West Bengal) are water reservoirs, formed by dams."
+  },
+  {
     "year": "2018",
     "qno": "29",
     "subject": "Human Geography",

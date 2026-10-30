@@ -336,6 +336,244 @@
     "explanation": "Statement 1 is incorrect: Under RBI rules, only scheduled commercial banks and Primary Dealers are eligible for the Liquidity Adjustment Facility (LAF) window. Statement 2 is correct: FIIs/FPIs are permitted to invest in and hold G-Secs subject to specified limits. Statement 3 is correct: Stock exchanges operate dedicated debt segments for trading debt securities."
   },
   {
+    "year": "2019",
+    "qno": "2",
+    "subject": "Indian Economy",
+    "question": "With reference to land reforms in independent India, which one of the following statements is correct?",
+    "options": [
+      "The ceiling laws were aimed at family holdings and not individual holdings.",
+      "The major aim of land reforms was providing agricultural land to all the landless.",
+      "It resulted in cultivation of cash crops as a predominant form of cultivation.",
+      "Land reforms permitted no exemptions to the ceiling limits."
+    ],
+    "answer": "A",
+    "explanation": "The national guidelines (and several state laws) fixed ceilings on the family holding, so the family was treated as the unit. The aims of land reforms were abolition of intermediaries, tenancy reform and ceilings; providing land to all the landless was not achievable. Land reforms did not make cash crops predominant. Ceiling laws had many exemptions, such as plantations, orchards and cooperative farms."
+  },
+  {
+    "year": "2019",
+    "qno": "24",
+    "subject": "Indian Economy",
+    "question": "In a given year in India, official poverty lines are higher in some States than in others because",
+    "options": [
+      "poverty rates vary from State to State",
+      "price levels vary from State to State",
+      "Gross State Product varies from State to State",
+      "quality of public distribution varies from State to State"
+    ],
+    "answer": "B",
+    "explanation": "The poverty line is a consumption expenditure threshold for a minimum basket of goods. It is set separately for each State and for rural and urban areas, because price levels differ across States."
+  },
+  {
+    "year": "2019",
+    "qno": "48",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Coal sector was nationalized by the Government of India under Indira Gandhi.\n2. Now, coal blocks are allocated on lottery basis.\n3. Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal production.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Coking coal mines were nationalised in 1972 and non-coking coal mines in 1973, under Indira Gandhi. Coal blocks are now allocated through auctions and allotment, not by lottery. India still imports significant amounts of coal and is not self-sufficient. Only statement 1 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "60",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nAs per the Industrial Employment (Standing Orders) Central (Amendment) Rules, 2018\n1. if rules for fixed-term employment are implemented, it becomes easier for the firms/companies to lay off workers\n2. no notice of termination of employment shall be necessary in the case of temporary workman\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Fixed-term employment lets employers hire workers for a defined period and let the contract lapse without retrenchment, which makes it easier to shed workers. The exemption from termination notice applies to fixed-term workmen at the end of their contract, not to temporary workmen in general, so statement 2 is incorrect."
+  },
+  {
+    "year": "2019",
+    "qno": "61",
+    "subject": "Indian Economy",
+    "question": "The Service Area Approach was implemented under the purview of",
+    "options": [
+      "Integrated Rural Development Programme",
+      "Lead Bank Scheme",
+      "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+      "National Skill Development Mission"
+    ],
+    "answer": "B",
+    "explanation": "The Service Area Approach (1989) assigned villages to specific bank branches for rural credit under the Lead Bank Scheme, to ensure planned and orderly credit delivery."
+  },
+  {
+    "year": "2019",
+    "qno": "63",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Most of India's external debt is owed by governmental entities.\n2. All of India's external debt is denominated in US dollars.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Most of India's external debt is owed by non-government entities such as commercial borrowings, NRI deposits and trade credit, and the sovereign share is small. External debt is also denominated in several currencies (USD, Indian rupee, SDR, yen, euro), with the US dollar the largest share."
+  },
+  {
+    "year": "2019",
+    "qno": "64",
+    "subject": "Indian Economy",
+    "question": "Which of the following is not included in the assets of a commercial bank in India?",
+    "options": [
+      "Advances",
+      "Deposits",
+      "Investments",
+      "Money at call and short notice"
+    ],
+    "answer": "B",
+    "explanation": "Deposits are a bank's liabilities, since the bank owes them to depositors. Advances, investments and money at call and short notice are assets."
+  },
+  {
+    "year": "2019",
+    "qno": "65",
+    "subject": "Indian Economy",
+    "question": "In the context of India, which of the following factors is/are contributor/contributors to reducing the risk of a currency crisis?\n1. The foreign currency earnings of India's IT sector\n2. Increasing the government expenditure\n3. Remittances from Indians abroad\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "IT export earnings and remittances bring in foreign exchange, which improves the current account and builds reserves, reducing currency crisis risk. Increasing government expenditure widens the fiscal deficit and adds to inflation and external pressure, so it does not reduce the risk."
+  },
+  {
+    "year": "2019",
+    "qno": "67",
+    "subject": "Indian Economy",
+    "question": "Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly?",
+    "options": [
+      "Certificate of Deposit",
+      "Commercial Paper",
+      "Promissory Note",
+      "Participatory Note"
+    ],
+    "answer": "D",
+    "explanation": "Participatory Notes (P-Notes) are offshore derivative instruments issued by registered FPIs to overseas investors who want exposure to Indian securities without registering with SEBI."
+  },
+  {
+    "year": "2019",
+    "qno": "70",
+    "subject": "Indian Economy",
+    "question": "With reference to India's Five-Year Plans, which of the following statements is/are correct?\n1. From the Second Five-Year Plan, there was a determined thrust towards substitution of basic and capital good industries.\n2. The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.\n3. In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Second Plan (Mahalanobis model) emphasised heavy industry, meaning basic and capital goods. The Fourth Plan sought to correct the earlier trend of concentration of wealth and economic power. The financial sector was not first made an integral part of the Plan in the Fifth Plan. Only statements 1 and 2 are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "72",
+    "subject": "Indian Economy",
+    "question": "What was the purpose of Inter-Creditor Agreement signed by Indian banks and financial institutions recently?",
+    "options": [
+      "To lessen the Government of India's perennial burden of fiscal deficit and current account deficit",
+      "To support the infrastructure projects of Central and State Governments",
+      "To act as independent regulator in case of applications for loans of ₹ 50 crore or more",
+      "To aim at faster resolution of stressed assets of ₹ 50 crore or more which are under consortium lending"
+    ],
+    "answer": "D",
+    "explanation": "The Inter-Creditor Agreement (ICA), part of Project Sashakt, is meant to speed up the resolution of stressed assets of ₹50 crore and above under consortium lending, with lenders deciding by majority."
+  },
+  {
+    "year": "2019",
+    "qno": "73",
+    "subject": "Indian Economy",
+    "question": "The Chairmen of public sector banks are selected by the",
+    "options": [
+      "Banks Board Bureau",
+      "Reserve Bank of India",
+      "Union Ministry of Finance",
+      "Management of concerned bank"
+    ],
+    "answer": "A",
+    "explanation": "The Banks Board Bureau (BBB) was created in 2016 to recommend the selection of heads and whole-time directors of public sector banks, and the official answer is the BBB."
+  },
+  {
+    "year": "2019",
+    "qno": "79",
+    "subject": "Indian Economy",
+    "question": "The economic cost of food grains to the Food Corporation of India is Minimum Support Price and bonus (if any) paid to the farmers plus",
+    "options": [
+      "transportation cost only",
+      "interest cost only",
+      "procurement incidentals and distribution cost",
+      "procurement incidentals and charges for godowns"
+    ],
+    "answer": "C",
+    "explanation": "FCI's economic cost is the MSP (plus any bonus) paid to farmers plus procurement incidentals (mandi charges, labour, packing and so on) and distribution costs (transport, handling, storage, interest and overheads)."
+  },
+  {
+    "year": "2019",
+    "qno": "84",
+    "subject": "Indian Economy",
+    "question": "Among the agricultural commodities imported by India, which one of the following accounts for the highest imports in terms of value in the last five years?",
+    "options": [
+      "Spices",
+      "Fresh fruits",
+      "Pulses",
+      "Vegetable oils"
+    ],
+    "answer": "D",
+    "explanation": "Vegetable (edible) oils, mainly palm, soyabean and sunflower oil, are India's largest agricultural import by value, ahead of pulses and fresh fruits."
+  },
+  {
+    "year": "2019",
+    "qno": "86",
+    "subject": "Indian Economy",
+    "question": "Which one of the following is not the most likely measure the Government/RBI takes to stop the slide of Indian rupee?",
+    "options": [
+      "Curbing imports of non-essential goods and promoting exports",
+      "Encouraging Indian borrowers to issue rupee denominated Masala Bonds",
+      "Easing conditions relating to external commercial borrowing",
+      "Following an expansionary monetary policy"
+    ],
+    "answer": "D",
+    "explanation": "To arrest a fall in the rupee, the authorities cut imports, promote exports, attract foreign capital (Masala bonds, easier ECB norms) and tighten liquidity. An expansionary monetary policy adds liquidity and increases pressure on the rupee, so it is not a likely measure."
+  },
+  {
+    "year": "2019",
+    "qno": "87",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nThe Reserve Bank of India's recent directives relating to 'Storage of Payment System Data', popularly known as data diktat, command the payment system providers that\n1. they shall ensure that entire data relating to payment systems operated by them are stored in a system only in India\n2. they shall ensure that the systems are owned and operated by public sector enterprises\n3. they shall submit the consolidated system audit report to the Comptroller and Auditor General of India by the end of the calendar year\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The RBI's 2018 directive requires all payment system data to be stored only in India (data localisation). It does not require public sector ownership. The audit report goes to the RBI, not the CAG."
+  },
+  {
+    "year": "2019",
+    "qno": "90",
+    "subject": "Indian Economy",
+    "question": "The money multiplier in an economy increases with which one of the following?",
+    "options": [
+      "Increase in the cash reserve ratio",
+      "Increase in the banking habit of the population",
+      "Increase in the statutory liquidity ratio",
+      "Increase in the population of the country"
+    ],
+    "answer": "B",
+    "explanation": "The money multiplier is inversely related to the reserve ratios (CRR and SLR) and to the public's preference for holding cash. A stronger banking habit lowers the cash-holding ratio, so more deposits are created and the multiplier rises."
+  },
+  {
     "year": "2018",
     "qno": "3",
     "subject": "Indian Economy",

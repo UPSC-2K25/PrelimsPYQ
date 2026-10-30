@@ -112,6 +112,76 @@
     "explanation": "The Second Round Table Conference was held in 1931, the Quit India Movement was launched in 1942, and the Royal Indian Navy Mutiny took place in 1946. The sequence is 3-2-1."
   },
   {
+    "year": "2019",
+    "qno": "4",
+    "subject": "Modern Indian History",
+    "question": "Consider the following statements about 'the Charter Act of 1813':\n1. It ended the trade monopoly of the East India Company in India except for trade in tea and trade with China.\n2. It asserted the sovereignty of the British Crown over the Indian territories held by the Company.\n3. The revenues of India were now controlled by the British Parliament.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Charter Act of 1813 ended the Company's trade monopoly in India, except for tea and the China trade, and asserted the Crown's sovereignty over the Company's Indian territories. The Company retained control of Indian revenues; Parliament did not take them over. Statement 3 is therefore incorrect."
+  },
+  {
+    "year": "2019",
+    "qno": "5",
+    "subject": "Modern Indian History",
+    "question": "With reference to Swadeshi Movement, consider the following statements:\n1. It contributed to the revival of the indigenous artisan crafts and industries.\n2. The National Council of Education was established as a part of Swadeshi Movement.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Swadeshi and boycott revived handloom, artisan crafts and indigenous industries. The National Council of Education was set up in 1906 to promote national education, as part of the Swadeshi movement. Both statements are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "6",
+    "subject": "Modern Indian History",
+    "question": "Consider the following pairs:\nMovement/Organization : Leader\n1. All India Anti-Untouchability League : Mahatma Gandhi\n2. All India Kisan Sabha : Swami Sahajanand Saraswati\n3. Self-Respect Movement : E. V. Ramaswami Naicker\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Gandhi founded the All India Anti-Untouchability League in 1932, later renamed Harijan Sevak Sangh. Swami Sahajanand Saraswati was the first president of the All India Kisan Sabha (1936). E. V. Ramaswami Naicker (Periyar) started the Self-Respect Movement in 1925. All three pairs are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "14",
+    "subject": "Modern Indian History",
+    "question": "With reference to the British colonial rule in India, consider the following statements:\n1. Mahatma Gandhi was instrumental in the abolition of the system of 'indentured labour'.\n2. In Lord Chelmsford's 'War Conference', Mahatma Gandhi did not support the resolution on recruiting Indians for World War.\n3. Consequent upon the breaking of Salt Law by Indian people, the Indian National Congress was declared illegal by the colonial rulers.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Gandhi's campaign, together with the efforts of leaders such as Gokhale, contributed to the abolition of indentured labour (1917). At the 1918 War Conference in Delhi, Gandhi supported the resolution on recruitment, so statement 2 is incorrect. After the Salt Satyagraha in 1930, the government declared the Congress and its Working Committee illegal, so statement 3 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "15",
+    "subject": "Modern Indian History",
+    "question": "With reference to Indian National Movement, consider the following pairs:\nPerson : Position held\n1. Sir Tej Bahadur Sapru : President, All India Liberal Federation\n2. K. C. Neogy : Member, The Constituent Assembly\n3. P. C. Joshi : General Secretary, Communist Party of India\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Tej Bahadur Sapru was a Liberal leader and president of the All India Liberal Federation. K. C. Neogy was a member of the Constituent Assembly. P. C. Joshi was General Secretary of the CPI (1935–47). All three pairs are correct."
+  },
+  {
     "year": "2018",
     "qno": "11",
     "subject": "Modern Indian History",

@@ -70,6 +70,62 @@
     "explanation": "India ratified the WTO Trade Facilitation Agreement in April 2016, and the TFA was part of the Bali Ministerial Package of December 2013. It entered into force on 22 February 2017 after two-thirds of members ratified it, not in January 2016, so statement 3 is wrong."
   },
   {
+    "year": "2019",
+    "qno": "3",
+    "subject": "World Economy",
+    "question": "The Global Competitiveness Report is published by the",
+    "options": [
+      "International Monetary Fund",
+      "United Nations Conference on Trade and Development",
+      "World Economic Forum",
+      "World Bank"
+    ],
+    "answer": "C",
+    "explanation": "The Global Competitiveness Report and its Global Competitiveness Index are published annually by the World Economic Forum (WEF), Geneva."
+  },
+  {
+    "year": "2019",
+    "qno": "71",
+    "subject": "World Economy",
+    "question": "With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements:\n1. AIIB has more than 80 member nations.\n2. India is the largest shareholder in AIIB.\n3. AIIB does not have any members from outside Asia.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "AIIB has about 100 members, so statement 1 is correct. China is the largest shareholder, with India second, so statement 2 is wrong. Several non-Asian countries, such as the UK, Germany and France, are members, so statement 3 is wrong."
+  },
+  {
+    "year": "2019",
+    "qno": "77",
+    "subject": "World Economy",
+    "question": "Which one of the following is not a sub-index of the World Bank's 'Ease of Doing Business Index'?",
+    "options": [
+      "Maintenance of law and order",
+      "Paying taxes",
+      "Registering property",
+      "Dealing with construction permits"
+    ],
+    "answer": "A",
+    "explanation": "Paying taxes, registering property and dealing with construction permits are among the ten Doing Business indicators. 'Maintenance of law and order' is not one of them."
+  },
+  {
+    "year": "2019",
+    "qno": "82",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\n1. Purchasing Power Parity (PPP) exchange rates are calculated by comparing the prices of the same basket of goods and services in different countries.\n2. In terms of PPP dollars, India is the sixth largest economy in the world.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "PPP exchange rates compare the cost of the same basket of goods across countries, so statement 1 is correct. In PPP terms India is the third largest economy (after China and the US), so statement 2 is wrong."
+  },
+  {
     "year": "2027",
     "qno": "1",
     "subject": "World Economy",

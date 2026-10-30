@@ -56,6 +56,62 @@
     "explanation": "Motupalli on the Andhra coast was the principal seaport of the Kakatiya kingdom. Marco Polo mentioned it, and Ganapati Deva's Motupalli Abhaya Sasanam gave protection to traders."
   },
   {
+    "year": "2019",
+    "qno": "1",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?\n1. Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.\n2. Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Jagirdars held assignments of revenue (not land ownership) in lieu of salary for their mansab, mainly military and administrative service, and not specifically for judicial and police duties. So statement 1 is incorrect. Jagirs were transferable and non-hereditary, while zamindari rights were hereditary. Statement 2 reverses this, so it is also incorrect."
+  },
+  {
+    "year": "2019",
+    "qno": "11",
+    "subject": "Medieval Indian History",
+    "question": "Building 'Kalyaana Mandapas' was a notable feature in the temple construction in the kingdom of",
+    "options": [
+      "Chalukya",
+      "Chandela",
+      "Rashtrakuta",
+      "Vijayanagara"
+    ],
+    "answer": "D",
+    "explanation": "Vijayanagara temple architecture is notable for elaborate Kalyana Mandapas (marriage halls), for example at the Vitthala and Varadaraja temples."
+  },
+  {
+    "year": "2019",
+    "qno": "12",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. In the revenue administration of Delhi Sultanate, the in-charge of revenue collection was known as 'Amil'.\n2. The Iqta system of Sultans of Delhi was an ancient indigenous institution.\n3. The office of 'Mir Bakshi' came into existence during the reign of Khalji Sultans of Delhi.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Amil was the revenue collector in the Sultanate administration. The Iqta system was borrowed from West and Central Asia and was not an ancient indigenous institution. The Mir Bakshi (military paymaster) is associated with the Mughals, not with the Khalji period. Only statement 1 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "13",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. Saint Nimbarka was a contemporary of Akbar.\n2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Nimbarka was a Vaishnava philosopher of the 12th–13th century, long before Akbar. Kabir (15th century) predates Shaikh Ahmad Sirhindi (16th–17th century), so he could not have been influenced by him. Both statements are incorrect."
+  },
+  {
     "year": "2018",
     "qno": "73",
     "subject": "Medieval Indian History",

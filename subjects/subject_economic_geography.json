@@ -70,6 +70,48 @@
     "explanation": "Zero tillage and crop residue mulching reduce evaporation and improve soil moisture. Gypsum improves soil structure and water infiltration, particularly in sodic soils, which reduces irrigation needs. All three practices help conserve water."
   },
   {
+    "year": "2019",
+    "qno": "21",
+    "subject": "Economic Geography",
+    "question": "Which one of the following groups of plants was domesticated in the 'New World' and introduced into the 'Old World'?",
+    "options": [
+      "Tobacco, cocoa and rubber",
+      "Tobacco, cotton and rubber",
+      "Cotton, coffee and sugarcane",
+      "Rubber, coffee and wheat"
+    ],
+    "answer": "A",
+    "explanation": "Tobacco, cocoa and rubber are native to the Americas and were introduced to the Old World after 1492. Coffee, sugarcane and wheat originated in the Old World. Cotton was domesticated independently in both the Old and New Worlds."
+  },
+  {
+    "year": "2019",
+    "qno": "37",
+    "subject": "Economic Geography",
+    "question": "Among the following, which one is the largest exporter of rice in the world in the last five years?",
+    "options": [
+      "China",
+      "India",
+      "Myanmar",
+      "Vietnam"
+    ],
+    "answer": "B",
+    "explanation": "India has been the world's largest rice exporter in recent years, ahead of Thailand and Vietnam."
+  },
+  {
+    "year": "2019",
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "With reference to the cultivation of Kharif crops in India in the last five years, consider the following statements:\n1. Area under rice cultivation is the highest.\n2. Area under the cultivation of jowar is more than that of oilseeds.\n3. Area of cotton cultivation is more than that of sugarcane.\n4. Area under sugarcane cultivation has steadily decreased.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "explanation": "Rice has the largest kharif area. The area under oilseeds exceeds that under jowar, so statement 2 is wrong. Cotton area (about 12 million ha) is well above sugarcane (about 5 million ha). Sugarcane area has fluctuated, not steadily decreased, so statement 4 is wrong."
+  },
+  {
     "year": "2018",
     "qno": "27",
     "subject": "Economic Geography",

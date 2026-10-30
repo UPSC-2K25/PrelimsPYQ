@@ -56,6 +56,90 @@
     "explanation": "The National Chambal Sanctuary along the Chambal River is the stronghold of the critically endangered gharial and holds the largest wild population."
   },
   {
+    "year": "2019",
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Which one of the following National Parks lies completely in the temperate alpine zone?",
+    "options": [
+      "Manas National Park",
+      "Namdapha National Park",
+      "Neora Valley National Park",
+      "Valley of Flowers National Park"
+    ],
+    "answer": "D",
+    "explanation": "The Valley of Flowers National Park (Uttarakhand, about 3,200–6,700 m) lies entirely in the temperate alpine zone. Manas is in the tropical and subtropical foothills, Namdapha spans tropical to alpine zones, and Neora Valley is mainly subtropical and temperate forest."
+  },
+  {
+    "year": "2019",
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Asiatic lion is naturally found in India only.\n2. Double-humped camel is naturally found in India only.\n3. One-horned rhinoceros is naturally found in India only.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Asiatic lion is found naturally only in Gir, Gujarat. The double-humped (Bactrian) camel is found in Central Asia, with a small population in the Nubra Valley, India. The one-horned rhino is also found in Nepal. Only statement 1 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "28",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some species of turtles are herbivores.\n2. Some species of fish are herbivores.\n3. Some species of marine mammals are herbivores.\n4. Some species of snakes are viviparous.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Green turtles are herbivorous as adults, many fish such as parrotfish and grass carp are herbivores, and manatees and dugongs are herbivorous marine mammals. Many snakes, such as boas, vipers and garter snakes, are viviparous. All four statements are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "29",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nWildlife : Naturally found in\n1. Blue-finned Mahseer : Cauvery River\n2. Irrawaddy Dolphin : Chambal River\n3. Rusty-spotted Cat : Eastern Ghats\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The blue-finned mahseer is a Cauvery species. The rusty-spotted cat occurs in the Eastern Ghats among other places. The Irrawaddy dolphin is found in Chilika Lake and the Mekong/Irrawaddy rivers, not the Chambal. The Chambal holds gharials and Gangetic dolphins."
+  },
+  {
+    "year": "2019",
+    "qno": "31",
+    "subject": "Biogeography",
+    "question": "Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of",
+    "options": [
+      "anti-malarial drug",
+      "biodiesel",
+      "pulp for paper industry",
+      "textile fibre"
+    ],
+    "answer": "D",
+    "explanation": "Himalayan nettle (Girardinia diversifolia) yields a strong natural fibre. It is used for textiles in Uttarakhand and elsewhere as a sustainable livelihood source."
+  },
+  {
+    "year": "2019",
+    "qno": "33",
+    "subject": "Biogeography",
+    "question": "Consider the following States:\n1. Chhattisgarh\n2. Madhya Pradesh\n3. Maharashtra\n4. Odisha\nWith reference to the States mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order?",
+    "options": [
+      "2-3-1-4",
+      "2-3-4-1",
+      "3-2-4-1",
+      "3-2-1-4"
+    ],
+    "answer": "C",
+    "explanation": "As a share of total area, forest cover in the ISFR 2017 is roughly Maharashtra ~16%, Madhya Pradesh ~25%, Odisha ~33% and Chhattisgarh ~41%. The ascending order is therefore 3-2-4-1."
+  },
+  {
     "year": "2018",
     "qno": "2",
     "subject": "Biogeography",

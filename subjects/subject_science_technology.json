@@ -224,6 +224,188 @@
     "explanation": "eLISA is a planned European Space Agency space-based observatory designed to detect gravitational waves using laser interferometry between spacecraft."
   },
   {
+    "year": "2019",
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "For the measurement/estimation of which of the following are satellite images/remote sensing data used?\n1. Chlorophyll content in the vegetation of a specific location\n2. Greenhouse gas emissions from rice paddies of a specific location\n3. Land surface temperatures of a specific location\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Remote sensing is used to estimate vegetation chlorophyll through indices and spectral reflectance, methane emissions from paddies through satellite-based gas sensing and modelling, and land surface temperature through thermal infrared bands. All three are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "In the context of proposals to the use of hydrogen-enriched CNG (H-CNG) as fuel for buses in public transport, consider the following statements:\n1. The main advantage of the use of H-CNG is the elimination of carbon monoxide emissions.\n2. H-CNG as fuel reduces carbon dioxide and hydrocarbon emissions.\n3. Hydrogen up to one-fifth by volume can be blended with CNG as fuel for buses.\n4. H-CNG makes the fuel less expensive than CNG.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "H-CNG reduces CO2 and hydrocarbon emissions but does not eliminate CO emissions, so statement 1 is wrong. Blends of up to 18–20% hydrogen by volume are used, which is about one-fifth. H-CNG is not cheaper than CNG. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "75",
+    "subject": "Science & Technology",
+    "question": "With reference to communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?\n1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G.\n2. LTE is data-only technology and VoLTE is voice-only technology.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "LTE is marketed as 4G, and VoLTE is a way of carrying voice calls over the LTE data network. VoLTE is therefore not 'advanced 3G' and not a voice-only technology, and LTE is not data-only technology. Both statements are incorrect."
+  },
+  {
+    "year": "2019",
+    "qno": "91",
+    "subject": "Science & Technology",
+    "question": "In the context of digital technologies for entertainment, consider the following statements:\n1. In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.\n2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.\n3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.\n4. VR closes the world, and transposes an individual, providing complete immersion experience.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4",
+      "1, 2 and 3",
+      "4 only"
+    ],
+    "answer": "B",
+    "explanation": "AR overlays computer-generated images on the real world, and VR replaces the real world with a fully simulated environment. Statements 1 and 2 swap the definitions and are wrong. Statements 3 and 4 are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "92",
+    "subject": "Science & Technology",
+    "question": "The word 'Denisovan' is sometimes mentioned in media in reference to",
+    "options": [
+      "fossils of a kind of dinosaurs",
+      "an early human species",
+      "a cave system found in North-East India",
+      "a geological period in the history of Indian subcontinent"
+    ],
+    "answer": "B",
+    "explanation": "Denisovans are an extinct archaic human species or population, known from fossils in Denisova Cave in Siberia and related to Neanderthals."
+  },
+  {
+    "year": "2019",
+    "qno": "93",
+    "subject": "Science & Technology",
+    "question": "With reference to the recent developments in science, which one of the following statements is not correct?",
+    "options": [
+      "Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+      "Pieces of artificial functional DNA can be created in laboratories.",
+      "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.",
+      "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+    ],
+    "answer": "A",
+    "explanation": "Artificial DNA can be synthesised, DNA can be replicated in vitro (PCR), and cells can be cultured in dishes. Creating functional chromosomes by joining DNA segments from cells of different species has not been achieved, so statement A is the incorrect one."
+  },
+  {
+    "year": "2019",
+    "qno": "94",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nA digital signature is\n1. an electronic record that identifies the certifying authority issuing it\n2. used to serve as a proof of identity of an individual to access information or server on Internet\n3. an electronic method of signing an electronic document and ensuring that the original content is unchanged\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "A digital signature is an electronic method of signing a document that also verifies the content has not been altered. Statements 1 and 2 describe a digital certificate, which identifies the certifying authority and proves identity. Only statement 3 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "95",
+    "subject": "Science & Technology",
+    "question": "In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?\n1. Location identification of a person\n2. Sleep monitoring of a person\n3. Assisting the hearing impaired person\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Wearables such as smartwatches and fitness bands do GPS tracking, sleep monitoring, and hearing assistance through hearing-aid wearables, so all three are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "96",
+    "subject": "Science & Technology",
+    "question": "'RNA interference (RNAi)' technology has gained popularity in the last few years. Why?\n1. It is used in developing gene silencing therapies.\n2. It can be used in developing therapies for the treatment of cancer.\n3. It can be used to develop hormone replacement therapies.\n4. It can be used to produce crop plants that are resistant to viral pathogens.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4",
+      "2 and 3",
+      "1 and 3",
+      "1 and 4 only"
+    ],
+    "answer": "A",
+    "explanation": "RNAi silences specific genes, so it is used in gene-silencing therapies, in research on cancer therapies, and to make plants resistant to viruses. It is not used to develop hormone replacement therapies."
+  },
+  {
+    "year": "2019",
+    "qno": "97",
+    "subject": "Science & Technology",
+    "question": "Recently, scientists observed the merger of giant 'blackholes' billions of light-years away from the Earth. What is the significance of this observation?",
+    "options": [
+      "'Higgs boson particles' were detected.",
+      "'Gravitational waves' were detected.",
+      "Possibility of inter-galactic space travel through 'wormhole' was confirmed.",
+      "It enabled the scientists to understand 'singularity'."
+    ],
+    "answer": "B",
+    "explanation": "The merger of black holes produces ripples in space-time called gravitational waves, first detected directly by LIGO in 2015. That detection is the significance of the observation."
+  },
+  {
+    "year": "2019",
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India?\n1. Genetic predisposition of some people\n2. Taking incorrect doses of antibiotics to cure diseases\n3. Using antibiotics in livestock farming\n4. Multiple chronic diseases in some people\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 and 3 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Multi-drug resistance is driven by incorrect or incomplete antibiotic doses, antibiotic use in livestock farming, and multiple chronic diseases that lead to prolonged and repeated antibiotic use. A genetic predisposition of people does not cause resistance in pathogens."
+  },
+  {
+    "year": "2019",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "What is Cas9 protein that is often mentioned in news?",
+    "options": [
+      "A molecular scissors used in targeted gene editing",
+      "A biosensor used in the accurate detection of pathogens in patients",
+      "A gene that makes plants pest-resistant",
+      "A herbicidal substance synthesized in genetically modified crops"
+    ],
+    "answer": "A",
+    "explanation": "Cas9 is an enzyme used in the CRISPR-Cas9 system. Guided by RNA, it cuts DNA at specific sites, so it works as molecular scissors for targeted gene editing."
+  },
+  {
+    "year": "2019",
+    "qno": "100",
+    "subject": "Science & Technology",
+    "question": "Which one of the following statements is not correct?",
+    "options": [
+      "Hepatitis B virus is transmitted much like HIV.",
+      "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+      "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+      "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+    ],
+    "answer": "B",
+    "explanation": "Hepatitis B has an effective vaccine, while Hepatitis C does not, so the statement is reversed. The other statements are correct: Hepatitis B spreads through blood and body fluids like HIV, far more people have Hepatitis B and C than HIV, and many infections are asymptomatic for years."
+  },
+  {
     "year": "2018",
     "qno": "55",
     "subject": "Science & Technology",
