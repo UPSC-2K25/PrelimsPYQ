@@ -1,0 +1,982 @@
+[
+  {
+    "year": 2019,
+    "qno": "1",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?\n1. Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.\n2. Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "explanation": "Jagirdars held assignments of revenue (not land ownership) in lieu of salary for their mansab, mainly military and administrative service, and not specifically for judicial and police duties. So statement 1 is incorrect. Jagirs were transferable and non-hereditary, while zamindari rights were hereditary. Statement 2 reverses this, so it is also incorrect."
+  },
+  {
+    "year": 2019,
+    "qno": "2",
+    "subject": "Indian Economy",
+    "question": "With reference to land reforms in independent India, which one of the following statements is correct?",
+    "options": [
+      "The ceiling laws were aimed at family holdings and not individual holdings.",
+      "The major aim of land reforms was providing agricultural land to all the landless.",
+      "It resulted in cultivation of cash crops as a predominant form of cultivation.",
+      "Land reforms permitted no exemptions to the ceiling limits."
+    ],
+    "answer": "A",
+    "explanation": "The national guidelines (and several state laws) fixed ceilings on the family holding, so the family was treated as the unit. The aims of land reforms were abolition of intermediaries, tenancy reform and ceilings; providing land to all the landless was not achievable. Land reforms did not make cash crops predominant. Ceiling laws had many exemptions, such as plantations, orchards and cooperative farms."
+  },
+  {
+    "year": 2019,
+    "qno": "3",
+    "subject": "World Economy",
+    "question": "The Global Competitiveness Report is published by the",
+    "options": ["International Monetary Fund", "United Nations Conference on Trade and Development", "World Economic Forum", "World Bank"],
+    "answer": "C",
+    "explanation": "The Global Competitiveness Report and its Global Competitiveness Index are published annually by the World Economic Forum (WEF), Geneva."
+  },
+  {
+    "year": 2019,
+    "qno": "4",
+    "subject": "Modern Indian History",
+    "question": "Consider the following statements about 'the Charter Act of 1813':\n1. It ended the trade monopoly of the East India Company in India except for trade in tea and trade with China.\n2. It asserted the sovereignty of the British Crown over the Indian territories held by the Company.\n3. The revenues of India were now controlled by the British Parliament.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "The Charter Act of 1813 ended the Company's trade monopoly in India, except for tea and the China trade, and asserted the Crown's sovereignty over the Company's Indian territories. The Company retained control of Indian revenues; Parliament did not take them over. Statement 3 is therefore incorrect."
+  },
+  {
+    "year": 2019,
+    "qno": "5",
+    "subject": "Modern Indian History",
+    "question": "With reference to Swadeshi Movement, consider the following statements:\n1. It contributed to the revival of the indigenous artisan crafts and industries.\n2. The National Council of Education was established as a part of Swadeshi Movement.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "explanation": "Swadeshi and boycott revived handloom, artisan crafts and indigenous industries. The National Council of Education was set up in 1906 to promote national education, as part of the Swadeshi movement. Both statements are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "6",
+    "subject": "Modern Indian History",
+    "question": "Consider the following pairs:\nMovement/Organization : Leader\n1. All India Anti-Untouchability League : Mahatma Gandhi\n2. All India Kisan Sabha : Swami Sahajanand Saraswati\n3. Self-Respect Movement : E. V. Ramaswami Naicker\nWhich of the pairs given above is/are correctly matched?",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Gandhi founded the All India Anti-Untouchability League in 1932, later renamed Harijan Sevak Sangh. Swami Sahajanand Saraswati was the first president of the All India Kisan Sabha (1936). E. V. Ramaswami Naicker (Periyar) started the Self-Respect Movement in 1925. All three pairs are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "7",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following is not a Harappan site?",
+    "options": ["Chanhudaro", "Kot Diji", "Sohgaura", "Desalpur"],
+    "answer": "C",
+    "explanation": "Chanhudaro, Kot Diji and Desalpur (Gujarat) are Harappan sites. Sohgaura (Gorakhpur, UP) is known for a Mauryan-period copper plate inscription on famine relief and is not a Harappan site."
+  },
+  {
+    "year": 2019,
+    "qno": "8",
+    "subject": "Ancient Indian History",
+    "question": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with the stone portrait of Ashoka?",
+    "options": ["Kanganahalli", "Sanchi", "Shahbazgarhi", "Sohgaura"],
+    "answer": "A",
+    "explanation": "At Kanganahalli (Karnataka), a Buddhist site near Sannati, a relief sculpture shows a stone portrait of Ashoka with the Prakrit inscription 'Ranyo Ashoka'. This is the only such portrait with a label."
+  },
+  {
+    "year": 2019,
+    "qno": "9",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following:\n1. Deification of the Buddha\n2. Treading the path of Bodhisattvas\n3. Image worship and rituals\nWhich of the above is/are the feature/features of Mahayana Buddhism?",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Mahayana Buddhism treats the Buddha as divine, holds up the Bodhisattva ideal, and practises image worship with rituals. All three are features of Mahayana."
+  },
+  {
+    "year": 2019,
+    "qno": "10",
+    "subject": "Ancient Indian History",
+    "question": "With reference to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?",
+    "options": [
+      "It was considered a source of income for the State, a sort of tax paid by the people.",
+      "It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire.",
+      "The forced labourer was entitled to weekly wages.",
+      "The eldest son of the labourer was sent as the forced labourer."
+    ],
+    "answer": "A",
+    "explanation": "In the Gupta period, vishti (forced labour) was a levy in kind, a form of tax in labour for the State. It was widely prevalent, including in central and western India. Forced labourers were not paid wages, and the eldest son was not specially required to serve."
+  },
+  {
+    "year": 2019,
+    "qno": "11",
+    "subject": "Medieval Indian History",
+    "question": "Building 'Kalyaana Mandapas' was a notable feature in the temple construction in the kingdom of",
+    "options": ["Chalukya", "Chandela", "Rashtrakuta", "Vijayanagara"],
+    "answer": "D",
+    "explanation": "Vijayanagara temple architecture is notable for elaborate Kalyana Mandapas (marriage halls), for example at the Vitthala and Varadaraja temples."
+  },
+  {
+    "year": 2019,
+    "qno": "12",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. In the revenue administration of Delhi Sultanate, the in-charge of revenue collection was known as 'Amil'.\n2. The Iqta system of Sultans of Delhi was an ancient indigenous institution.\n3. The office of 'Mir Bakshi' came into existence during the reign of Khalji Sultans of Delhi.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "1 and 2 only", "3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "The Amil was the revenue collector in the Sultanate administration. The Iqta system was borrowed from West and Central Asia and was not an ancient indigenous institution. The Mir Bakshi (military paymaster) is associated with the Mughals, not with the Khalji period. Only statement 1 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "13",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. Saint Nimbarka was a contemporary of Akbar.\n2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "explanation": "Nimbarka was a Vaishnava philosopher of the 12th–13th century, long before Akbar. Kabir (15th century) predates Shaikh Ahmad Sirhindi (16th–17th century), so he could not have been influenced by him. Both statements are incorrect."
+  },
+  {
+    "year": 2019,
+    "qno": "14",
+    "subject": "Modern Indian History",
+    "question": "With reference to the British colonial rule in India, consider the following statements:\n1. Mahatma Gandhi was instrumental in the abolition of the system of 'indentured labour'.\n2. In Lord Chelmsford's 'War Conference', Mahatma Gandhi did not support the resolution on recruiting Indians for World War.\n3. Consequent upon the breaking of Salt Law by Indian people, the Indian National Congress was declared illegal by the colonial rulers.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "explanation": "Gandhi's campaign, together with the efforts of leaders such as Gokhale, contributed to the abolition of indentured labour (1917). At the 1918 War Conference in Delhi, Gandhi supported the resolution on recruitment, so statement 2 is incorrect. After the Salt Satyagraha in 1930, the government declared the Congress and its Working Committee illegal, so statement 3 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "15",
+    "subject": "Modern Indian History",
+    "question": "With reference to Indian National Movement, consider the following pairs:\nPerson : Position held\n1. Sir Tej Bahadur Sapru : President, All India Liberal Federation\n2. K. C. Neogy : Member, The Constituent Assembly\n3. P. C. Joshi : General Secretary, Communist Party of India\nWhich of the pairs given above is/are correctly matched?",
+    "options": ["1 only", "1 and 2 only", "3 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Tej Bahadur Sapru was a Liberal leader and president of the All India Liberal Federation. K. C. Neogy was a member of the Constituent Assembly. P. C. Joshi was General Secretary of the CPI (1935–47). All three pairs are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "16",
+    "subject": "Art & Culture",
+    "question": "With reference to Mian Tansen, which one of the following statements is not correct?",
+    "options": [
+      "Tansen was the title given to him by Emperor Akbar.",
+      "Tansen composed Dhrupads on Hindu gods and goddesses.",
+      "Tansen composed songs on his patrons.",
+      "Tansen invented many Ragas."
+    ],
+    "answer": "A",
+    "explanation": "Tansen (born Ramtanu) received the title 'Tansen' from the Raja of Gwalior, Vikramajit, or Raja Ram Chand of Rewa, not from Akbar. Akbar gave him the title 'Mian'. He composed dhrupads on Hindu deities and on his patrons, and created ragas such as Mian ki Malhar and Mian ki Todi."
+  },
+  {
+    "year": 2019,
+    "qno": "17",
+    "subject": "Art & Culture",
+    "question": "Who among the following Mughal Emperors shifted emphasis from illustrated manuscripts to album and individual portrait?",
+    "options": ["Humayun", "Akbar", "Jahangir", "Shah Jahan"],
+    "answer": "D",
+    "explanation": "Under Shah Jahan, Mughal painting moved away from illustrated manuscripts towards albums (muraqqas) and individual portraits, with refined, formal court portraiture."
+  },
+  {
+    "year": 2019,
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Which one of the following National Parks lies completely in the temperate alpine zone?",
+    "options": ["Manas National Park", "Namdapha National Park", "Neora Valley National Park", "Valley of Flowers National Park"],
+    "answer": "D",
+    "explanation": "The Valley of Flowers National Park (Uttarakhand, about 3,200–6,700 m) lies entirely in the temperate alpine zone. Manas is in the tropical and subtropical foothills, Namdapha spans tropical to alpine zones, and Neora Valley is mainly subtropical and temperate forest."
+  },
+  {
+    "year": 2019,
+    "qno": "19",
+    "subject": "Governance",
+    "question": "Atal Innovation Mission is set up under the",
+    "options": ["Department of Science and Technology", "Ministry of Labour and Employment", "NITI Aayog", "Ministry of Skill Development and Entrepreneurship"],
+    "answer": "C",
+    "explanation": "The Atal Innovation Mission (AIM), with the Atal Tinkering Labs and Atal Incubation Centres, is a flagship initiative of NITI Aayog to promote innovation and entrepreneurship."
+  },
+  {
+    "year": 2019,
+    "qno": "20",
+    "subject": "Climatology",
+    "question": "On 21st June, the Sun",
+    "options": [
+      "does not set below the horizon at the Arctic Circle",
+      "does not set below the horizon at Antarctic Circle",
+      "shines vertically overhead at noon on the Equator",
+      "shines vertically overhead at the Tropic of Capricorn"
+    ],
+    "answer": "A",
+    "explanation": "On 21 June (the summer solstice in the Northern Hemisphere) the Sun is vertically overhead at the Tropic of Cancer. The Arctic Circle has 24 hours of daylight, so the Sun does not set there. The Antarctic Circle has continuous night."
+  },
+  {
+    "year": 2019,
+    "qno": "21",
+    "subject": "Economic Geography",
+    "question": "Which one of the following groups of plants was domesticated in the 'New World' and introduced into the 'Old World'?",
+    "options": ["Tobacco, cocoa and rubber", "Tobacco, cotton and rubber", "Cotton, coffee and sugarcane", "Rubber, coffee and wheat"],
+    "answer": "A",
+    "explanation": "Tobacco, cocoa and rubber are native to the Americas and were introduced to the Old World after 1492. Coffee, sugarcane and wheat originated in the Old World. Cotton was domesticated independently in both the Old and New Worlds."
+  },
+  {
+    "year": 2019,
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Asiatic lion is naturally found in India only.\n2. Double-humped camel is naturally found in India only.\n3. One-horned rhinoceros is naturally found in India only.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "The Asiatic lion is found naturally only in Gir, Gujarat. The double-humped (Bactrian) camel is found in Central Asia, with a small population in the Nubra Valley, India. The one-horned rhino is also found in Nepal. Only statement 1 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "23",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nFamous place : River\n1. Pandharpur : Chandrabhaga\n2. Tiruchirappalli : Cauvery\n3. Hampi : Malaprabha\nWhich of the pairs given above are correctly matched?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "Pandharpur stands on the Bhima, which is locally called Chandrabhaga there. Tiruchirappalli (with Srirangam) lies on the Cauvery. Hampi lies on the Tungabhadra, not the Malaprabha."
+  },
+  {
+    "year": 2019,
+    "qno": "24",
+    "subject": "Indian Economy",
+    "question": "In a given year in India, official poverty lines are higher in some States than in others because",
+    "options": ["poverty rates vary from State to State", "price levels vary from State to State", "Gross State Product varies from State to State", "quality of public distribution varies from State to State"],
+    "answer": "B",
+    "explanation": "The poverty line is a consumption expenditure threshold for a minimum basket of goods. It is set separately for each State and for rural and urban areas, because price levels differ across States."
+  },
+  {
+    "year": 2019,
+    "qno": "25",
+    "subject": "Environment and Ecology",
+    "question": "In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?",
+    "options": [
+      "Creating the artificial rains in some regions",
+      "Reducing the frequency and intensity of tropical cyclones",
+      "Reducing the adverse effects of solar wind on the Earth",
+      "Reducing the global warming"
+    ],
+    "answer": "D",
+    "explanation": "Cirrus cloud thinning and stratospheric sulphate aerosol injection are climate geoengineering proposals. They aim to reduce global warming, the first by letting more outgoing heat escape and the second by reflecting sunlight."
+  },
+  {
+    "year": 2019,
+    "qno": "26",
+    "subject": "Environment and Ecology",
+    "question": "In the context of which one of the following are the terms 'pyrolysis and plasma gasification' mentioned?",
+    "options": ["Extraction of rare earth elements", "Natural gas extraction technologies", "Hydrogen fuel-based automobiles", "Waste-to-energy technologies"],
+    "answer": "D",
+    "explanation": "Pyrolysis and plasma gasification are thermal waste treatment technologies that convert municipal and other waste into energy (syngas, fuel and heat)."
+  },
+  {
+    "year": 2019,
+    "qno": "27",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following are in Agasthyamala Biosphere Reserve?",
+    "options": [
+      "Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve",
+      "Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley National Park",
+      "Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi National Park",
+      "Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger Reserve"
+    ],
+    "answer": "A",
+    "explanation": "The Agasthyamala Biosphere Reserve spans southern Kerala and Tamil Nadu. It includes the Neyyar, Peppara and Shendurney sanctuaries and the Kalakad Mundanthurai Tiger Reserve. Option B belongs to the Nilgiri Biosphere Reserve, and C and D are in Andhra Pradesh and Telangana."
+  },
+  {
+    "year": 2019,
+    "qno": "28",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some species of turtles are herbivores.\n2. Some species of fish are herbivores.\n3. Some species of marine mammals are herbivores.\n4. Some species of snakes are viviparous.\nWhich of the statements given above are correct?",
+    "options": ["1 and 3 only", "2, 3 and 4 only", "2 and 4 only", "1, 2, 3 and 4"],
+    "answer": "D",
+    "explanation": "Green turtles are herbivorous as adults, many fish such as parrotfish and grass carp are herbivores, and manatees and dugongs are herbivorous marine mammals. Many snakes, such as boas, vipers and garter snakes, are viviparous. All four statements are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "29",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nWildlife : Naturally found in\n1. Blue-finned Mahseer : Cauvery River\n2. Irrawaddy Dolphin : Chambal River\n3. Rusty-spotted Cat : Eastern Ghats\nWhich of the pairs given above are correctly matched?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "explanation": "The blue-finned mahseer is a Cauvery species. The rusty-spotted cat occurs in the Eastern Ghats among other places. The Irrawaddy dolphin is found in Chilika Lake and the Mekong/Irrawaddy rivers, not the Chambal. The Chambal holds gharials and Gangetic dolphins."
+  },
+  {
+    "year": 2019,
+    "qno": "30",
+    "subject": "Environment and Ecology",
+    "question": "Why is there a great concern about the 'microbeads' that are released into environment?",
+    "options": [
+      "They are considered harmful to marine ecosystems.",
+      "They are considered to cause skin cancer in children.",
+      "They are small enough to be absorbed by crop plants in irrigated fields.",
+      "They are often found to be used as food adulterants."
+    ],
+    "answer": "A",
+    "explanation": "Microbeads are tiny plastic particles used in cosmetics and cleaning products. They pass through filters into water bodies and are ingested by marine organisms, entering the food chain, which makes them harmful to marine ecosystems."
+  },
+  {
+    "year": 2019,
+    "qno": "31",
+    "subject": "Biogeography",
+    "question": "Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of",
+    "options": ["anti-malarial drug", "biodiesel", "pulp for paper industry", "textile fibre"],
+    "answer": "D",
+    "explanation": "Himalayan nettle (Girardinia diversifolia) yields a strong natural fibre. It is used for textiles in Uttarakhand and elsewhere as a sustainable livelihood source."
+  },
+  {
+    "year": 2019,
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "For the measurement/estimation of which of the following are satellite images/remote sensing data used?\n1. Chlorophyll content in the vegetation of a specific location\n2. Greenhouse gas emissions from rice paddies of a specific location\n3. Land surface temperatures of a specific location\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Remote sensing is used to estimate vegetation chlorophyll through indices and spectral reflectance, methane emissions from paddies through satellite-based gas sensing and modelling, and land surface temperature through thermal infrared bands. All three are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "33",
+    "subject": "Biogeography",
+    "question": "Consider the following States:\n1. Chhattisgarh\n2. Madhya Pradesh\n3. Maharashtra\n4. Odisha\nWith reference to the States mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order?",
+    "options": ["2-3-1-4", "2-3-4-1", "3-2-4-1", "3-2-1-4"],
+    "answer": "C",
+    "explanation": "As a share of total area, forest cover in the ISFR 2017 is roughly Maharashtra ~16%, Madhya Pradesh ~25%, Odisha ~33% and Chhattisgarh ~41%. The ascending order is therefore 3-2-4-1."
+  },
+  {
+    "year": 2019,
+    "qno": "34",
+    "subject": "Climatology",
+    "question": "Which of the following statements are correct about the deposits of 'methane hydrate'?\n1. Global warming might trigger the release of methane gas from these deposits.\n2. Large deposits of 'methane hydrate' are found in Arctic Tundra and under the seafloor.\n3. Methane in atmosphere oxidizes to carbon dioxide after a decade or two.\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Warming can destabilise methane hydrates and release methane. Large deposits occur in Arctic permafrost and in continental-margin seafloor sediments. Atmospheric methane has a lifetime of about a decade or so and oxidises to CO2 and water vapour. All three statements are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "35",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following:\n1. Carbon monoxide\n2. Methane\n3. Ozone\n4. Sulphur dioxide\nWhich of the above are released into atmosphere due to the burning of crop/biomass residue?",
+    "options": ["1 and 2 only", "2, 3 and 4 only", "1 and 4 only", "1, 2, 3 and 4"],
+    "answer": "D",
+    "explanation": "Burning crop residue releases CO, CH4 and SO2, along with particulates and NOx. Ozone is formed in the atmosphere from NOx and VOCs, and the official answer treats it as released as a result, so all four are counted."
+  },
+  {
+    "year": 2019,
+    "qno": "36",
+    "subject": "Human Geography",
+    "question": "Consider the following pairs:\nSea : Bordering country\n1. Adriatic Sea : Albania\n2. Black Sea : Croatia\n3. Caspian Sea : Kazakhstan\n4. Mediterranean Sea : Morocco\n5. Red Sea : Syria\nWhich of the pairs given above are correctly matched?",
+    "options": ["1, 2 and 4 only", "1, 3 and 4 only", "2 and 5 only", "1, 2, 3, 4 and 5"],
+    "answer": "B",
+    "explanation": "Albania borders the Adriatic, Kazakhstan borders the Caspian, and Morocco borders the Mediterranean. Croatia does not touch the Black Sea (it is on the Adriatic), and Syria does not border the Red Sea. The correct pairs are 1, 3 and 4."
+  },
+  {
+    "year": 2019,
+    "qno": "37",
+    "subject": "Economic Geography",
+    "question": "Among the following, which one is the largest exporter of rice in the world in the last five years?",
+    "options": ["China", "India", "Myanmar", "Vietnam"],
+    "answer": "B",
+    "explanation": "India has been the world's largest rice exporter in recent years, ahead of Thailand and Vietnam."
+  },
+  {
+    "year": 2019,
+    "qno": "38",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nGlacier : River\n1. Bandarpunch : Yamuna\n2. Bara Shigri : Chenab\n3. Milam : Mandakini\n4. Siachen : Nubra\n5. Zemu : Manas\nWhich of the pairs given above are correctly matched?",
+    "options": ["1, 2 and 4", "1, 3 and 4", "2 and 5", "3 and 5"],
+    "answer": "A",
+    "explanation": "Bandarpunch feeds the Yamuna, Bara Shigri feeds the Chenab, and Siachen feeds the Nubra. The Milam glacier feeds the Gori Ganga, not the Mandakini, and the Zemu glacier feeds the Teesta, not the Manas."
+  },
+  {
+    "year": 2019,
+    "qno": "39",
+    "subject": "Environment and Ecology",
+    "question": "In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as",
+    "options": ["pesticides in agriculture", "preservatives in processed foods", "fruit-ripening agents", "moisturising agents in cosmetics"],
+    "answer": "A",
+    "explanation": "Carbofuran, methyl parathion, phorate and triazophos are toxic organophosphate and carbamate pesticides used in agriculture. They are viewed with apprehension because of health and environmental risks."
+  },
+  {
+    "year": 2019,
+    "qno": "40",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. Under Ramsar Convention, it is mandatory on the part of the Government of India to protect and conserve all the wetlands in the territory of India.\n2. The Wetlands (Conservation and Management) Rules, 2010 were framed by the Government of India based on the recommendations of Ramsar Convention.\n3. The Wetlands (Conservation and Management) Rules, 2010 also encompass the drainage area or catchment regions of the wetlands as determined by the authority.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "C",
+    "explanation": "Ramsar obliges parties to designate sites for the Ramsar List and promote wise use, not to protect all wetlands. The 2010 Rules were framed under the Environment (Protection) Act and were not based on Ramsar recommendations. The Rules do cover the drainage area or catchment regions of a wetland as determined by the authority. Only statement 3 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "41",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. Agricultural soils release nitrogen oxides into environment.\n2. Cattle release ammonia into environment.\n3. Poultry industry releases reactive nitrogen compounds into environment.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 3 only", "2 and 3 only", "2 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Fertilised soils emit nitrous oxide and NOx. Cattle waste releases ammonia, and poultry litter releases ammonia and other reactive nitrogen compounds. All three statements are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "42",
+    "subject": "Human Geography",
+    "question": "What is common to the places known as Aliyar, Isapur and Kangsabati?",
+    "options": ["Recently discovered uranium deposits", "Tropical rain forests", "Underground cave systems", "Water reservoirs"],
+    "answer": "D",
+    "explanation": "Aliyar (Tamil Nadu), Isapur (Maharashtra) and Kangsabati (West Bengal) are water reservoirs, formed by dams."
+  },
+  {
+    "year": 2019,
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "In the context of proposals to the use of hydrogen-enriched CNG (H-CNG) as fuel for buses in public transport, consider the following statements:\n1. The main advantage of the use of H-CNG is the elimination of carbon monoxide emissions.\n2. H-CNG as fuel reduces carbon dioxide and hydrocarbon emissions.\n3. Hydrogen up to one-fifth by volume can be blended with CNG as fuel for buses.\n4. H-CNG makes the fuel less expensive than CNG.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "4 only", "1, 2, 3 and 4"],
+    "answer": "B",
+    "explanation": "H-CNG reduces CO2 and hydrocarbon emissions but does not eliminate CO emissions, so statement 1 is wrong. Blends of up to 18–20% hydrogen by volume are used, which is about one-fifth. H-CNG is not cheaper than CNG. Statements 2 and 3 are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "44",
+    "subject": "Climatology",
+    "question": "Why are dewdrops not formed on a cloudy night?",
+    "options": [
+      "Clouds absorb the radiation released from the Earth's surface.",
+      "Clouds reflect back the Earth's radiation.",
+      "The Earth's surface would have low temperature on cloudy nights.",
+      "Clouds deflect the blowing wind to ground level."
+    ],
+    "answer": "B",
+    "explanation": "Dew forms when the ground cools by radiation to below the dew point. On cloudy nights, clouds reflect and radiate the Earth's outgoing long-wave radiation back to the surface, keeping it warm, so dew does not form."
+  },
+  {
+    "year": 2019,
+    "qno": "45",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review.\n2. The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "B",
+    "explanation": "Article 329A, which placed the Prime Minister's election beyond judicial review, was inserted by the 39th Amendment. The 44th Amendment (1978) repealed it, so statement 1 is wrong. The 99th Amendment, which created the NJAC, was struck down in 2015 as violating judicial independence and the basic structure, so statement 2 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "46",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. The motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968.\n2. The Constitution of India defines and gives details of what constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India.\n3. The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968.\n4. If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2", "3 only", "3 and 4 only", "1, 3 and 4"],
+    "answer": "C",
+    "explanation": "Under the Judges (Inquiry) Act, 1968, the Speaker or Chairman may admit or refuse to admit the motion, so statement 1 is wrong. The Constitution does not define 'incapacity and proved misbehaviour'. The Act lays out the impeachment procedure. Article 124(4) requires an address by each House, supported by a majority of total membership and two-thirds of members present and voting, so statement 4 is correct. This item is sometimes keyed as 'B' (3 only), so check it against the official answer key."
+  },
+  {
+    "year": 2019,
+    "qno": "47",
+    "subject": "Constitution",
+    "question": "The Ninth Schedule was introduced in the Constitution of India during the prime ministership of",
+    "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Morarji Desai"],
+    "answer": "A",
+    "explanation": "The Ninth Schedule was added by the First Constitutional Amendment Act, 1951, when Jawaharlal Nehru was Prime Minister. It was meant to protect land reform laws from judicial challenge."
+  },
+  {
+    "year": 2019,
+    "qno": "48",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Coal sector was nationalized by the Government of India under Indira Gandhi.\n2. Now, coal blocks are allocated on lottery basis.\n3. Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal production.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "Coking coal mines were nationalised in 1972 and non-coking coal mines in 1973, under Indira Gandhi. Coal blocks are now allocated through auctions and allotment, not by lottery. India still imports significant amounts of coal and is not self-sufficient. Only statement 1 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "49",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of 'Office of Profit'.\n2. The above-mentioned Act was amended five times.\n3. The term 'Office of Profit' is well-defined in the Constitution of India.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "3 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "The 1959 Act exempts a list of offices from disqualification on the ground of holding an office of profit, and it has been amended several times (1960, 1992, 1993, 2006 and 2013, as per the official answer). The Constitution (Articles 102 and 191) uses the term 'office of profit' without defining it. Statements 1 and 2 are therefore correct."
+  },
+  {
+    "year": 2019,
+    "qno": "50",
+    "subject": "Constitution",
+    "question": "Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void?",
+    "options": ["Third Schedule", "Fifth Schedule", "Ninth Schedule", "Twelfth Schedule"],
+    "answer": "B",
+    "explanation": "The Fifth Schedule, which governs Scheduled Areas, lets the Governor regulate or prohibit the transfer of tribal land. This was the basis of the Supreme Court's Samatha judgment (1997), which held such transfers to private parties for mining to be null and void."
+  },
+  {
+    "year": 2019,
+    "qno": "51",
+    "subject": "Indian Society",
+    "question": "Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory.\n2. A stagnant or declining population is one of the criteria for determining PVTG status.\n3. There are 95 PVTGs officially notified in the country so far.\n4. Irular and Konda Reddi tribes are included in the list of PVTGs.\nWhich of the statements given above are correct?",
+    "options": ["1, 2 and 3", "2, 3 and 4", "1, 2 and 4", "1, 3 and 4"],
+    "answer": "C",
+    "explanation": "As per official data, 75 PVTGs are spread across 18 States and the Union Territory of Andaman and Nicobar Islands, so statement 1 is correct and statement 3 (95) is wrong. A stagnant or declining population is one of the criteria, along with pre-agricultural technology, low literacy and a subsistence economy. The Irular (Tamil Nadu) and Konda Reddi (Andhra Pradesh) tribes are on the PVTG list."
+  },
+  {
+    "year": 2019,
+    "qno": "52",
+    "subject": "Constitution",
+    "question": "With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following?",
+    "options": [
+      "The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.",
+      "The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.",
+      "In the event of grave financial crisis in the country, the President of India can declare Financial Emergency without the counsel from the Cabinet.",
+      "State Legislatures cannot make laws on certain matters without the concurrence of Union Legislature."
+    ],
+    "answer": "B",
+    "explanation": "Article 142 lets the Supreme Court pass any order necessary to do 'complete justice' in a matter before it. The Court has held that this power is not limited by ordinary statutory provisions, so the Court is not constrained by laws made by Parliament in exercising it. The other options describe unrelated provisions."
+  },
+  {
+    "year": 2019,
+    "qno": "53",
+    "subject": "Constitution",
+    "question": "With reference to the Legislative Assembly of a State in India, consider the following statements:\n1. The Governor makes a customary address to Members of the House at the commencement of the first session of the year.\n2. When a State Legislature does not have a rule on a particular matter, it follows the Lok Sabha rule on that matter.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "explanation": "Under Article 176, the Governor addresses the Legislative Assembly (or both Houses together) at the first session of each year. The second statement is incorrect: when there is no State rule, the matter is governed by the Speaker's directions and the Assembly's own rules and conventions, and the State does not automatically follow Lok Sabha rules."
+  },
+  {
+    "year": 2019,
+    "qno": "54",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\n1. The United Nations Convention against Corruption (UNCAC) has a 'Protocol against the Smuggling of Migrants by Land, Sea and Air'.\n2. The UNCAC is the ever-first legally binding global anti-corruption instrument.\n3. A highlight of the United Nations Convention against Transnational Organized Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.\n4. The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.\nWhich of the statements given above are correct?",
+    "options": ["1 and 3 only", "2, 3 and 4 only", "2 and 4 only", "1, 2, 3 and 4"],
+    "answer": "C",
+    "explanation": "The Protocol against the Smuggling of Migrants supplements UNTOC, not UNCAC. The asset-recovery chapter is a highlight of UNCAC, not UNTOC. UNCAC (2003) is the first legally binding universal anti-corruption instrument. UNODC is the guardian of both conventions and assists in their implementation, so statements 2 and 4 are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "55",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. As per recent amendment to the Indian Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on forest areas.\n2. As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce.\n3. The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "B",
+    "explanation": "The 2017 amendment to the Indian Forest Act removed bamboo grown on non-forest land from the definition of 'tree', so no felling permit is needed there. It did not give forest dwellers a right to fell bamboo grown in forest areas, so statement 1 is wrong. The FRA 2006 classes bamboo as minor forest produce and gives forest dwellers ownership, collection and use rights over minor forest produce."
+  },
+  {
+    "year": 2019,
+    "qno": "56",
+    "subject": "Constitution",
+    "question": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?",
+    "options": ["Article 19", "Article 21", "Article 25", "Article 29"],
+    "answer": "B",
+    "explanation": "The Supreme Court (for example in Shafin Jahan v. Asokan K.M. and Lata Singh) has held that the right to marry a person of one's choice is part of the right to life and personal liberty under Article 21."
+  },
+  {
+    "year": 2019,
+    "qno": "57",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. According to the Indian Patents Act, a biological process to create a seed can be patented in India.\n2. In India, there is no Intellectual Property Appellate Board.\n3. Plant varieties are not eligible to be patented in India.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 3 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "C",
+    "explanation": "Section 3 of the Patents Act excludes plants, animals and essentially biological processes for their production from patentability, so statement 1 is wrong and statement 3 is correct (plant varieties are covered by the PPV&FR Act, 2001). The Intellectual Property Appellate Board (IPAB) existed in 2019, so statement 2 is wrong."
+  },
+  {
+    "year": 2019,
+    "qno": "58",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nThe Environment Protection Act, 1986 empowers the Government of India to\n1. state the requirement of public participation in the process of environmental protection, and the procedure and manner in which it is sought\n2. lay down the standards for emission or discharge of environmental pollutants from various sources\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "explanation": "Section 3 of the Environment (Protection) Act, 1986 empowers the Central Government to take all measures needed to protect the environment. This includes setting standards for emissions and discharges and prescribing procedures, which cover the public participation (public hearing) requirements under the EIA process."
+  },
+  {
+    "year": 2019,
+    "qno": "59",
+    "subject": "Environment and Ecology",
+    "question": "As per the Solid Waste Management Rules, 2016 in India, which one of the following statements is correct?",
+    "options": [
+      "Waste generator has to segregate waste into five categories.",
+      "The Rules are applicable to notified urban local bodies, notified towns and all industrial townships only.",
+      "The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities.",
+      "It is mandatory on the part of waste generator that the waste generated in one district cannot be moved to another district."
+    ],
+    "answer": "C",
+    "explanation": "The 2016 Rules require segregation into three streams (wet, dry and domestic hazardous), not five. They apply well beyond urban local bodies and industrial townships, to census towns, urban agglomerations, airports, railways and others. The Rules include detailed criteria for selecting landfill and processing sites. There is no bar on moving waste between districts."
+  },
+  {
+    "year": 2019,
+    "qno": "60",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nAs per the Industrial Employment (Standing Orders) Central (Amendment) Rules, 2018\n1. if rules for fixed-term employment are implemented, it becomes easier for the firms/companies to lay off workers\n2. no notice of termination of employment shall be necessary in the case of temporary workman\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "explanation": "Fixed-term employment lets employers hire workers for a defined period and let the contract lapse without retrenchment, which makes it easier to shed workers. The exemption from termination notice applies to fixed-term workmen at the end of their contract, not to temporary workmen in general, so statement 2 is incorrect."
+  },
+  {
+    "year": 2019,
+    "qno": "61",
+    "subject": "Indian Economy",
+    "question": "The Service Area Approach was implemented under the purview of",
+    "options": ["Integrated Rural Development Programme", "Lead Bank Scheme", "Mahatma Gandhi National Rural Employment Guarantee Scheme", "National Skill Development Mission"],
+    "answer": "B",
+    "explanation": "The Service Area Approach (1989) assigned villages to specific bank branches for rural credit under the Lead Bank Scheme, to ensure planned and orderly credit delivery."
+  },
+  {
+    "year": 2019,
+    "qno": "62",
+    "subject": "Governance",
+    "question": "With reference to the management of minor minerals in India, consider the following statements:\n1. Sand is a 'minor mineral' according to the prevailing law in the country.\n2. State Governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Central Government.\n3. State Governments have the power to frame rules to prevent illegal mining of minor minerals.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 3 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "Under the MMDR Act, 1957, sand is a minor mineral. States, not the Centre, make the rules for granting minor mineral concessions, so statement 2 is wrong. Under Section 23C, States can frame rules to prevent illegal mining, transport and storage of minor minerals."
+  },
+  {
+    "year": 2019,
+    "qno": "63",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Most of India's external debt is owed by governmental entities.\n2. All of India's external debt is denominated in US dollars.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "explanation": "Most of India's external debt is owed by non-government entities such as commercial borrowings, NRI deposits and trade credit, and the sovereign share is small. External debt is also denominated in several currencies (USD, Indian rupee, SDR, yen, euro), with the US dollar the largest share."
+  },
+  {
+    "year": 2019,
+    "qno": "64",
+    "subject": "Indian Economy",
+    "question": "Which of the following is not included in the assets of a commercial bank in India?",
+    "options": ["Advances", "Deposits", "Investments", "Money at call and short notice"],
+    "answer": "B",
+    "explanation": "Deposits are a bank's liabilities, since the bank owes them to depositors. Advances, investments and money at call and short notice are assets."
+  },
+  {
+    "year": 2019,
+    "qno": "65",
+    "subject": "Indian Economy",
+    "question": "In the context of India, which of the following factors is/are contributor/contributors to reducing the risk of a currency crisis?\n1. The foreign currency earnings of India's IT sector\n2. Increasing the government expenditure\n3. Remittances from Indians abroad\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "1 and 3 only", "2 only", "1, 2 and 3"],
+    "answer": "B",
+    "explanation": "IT export earnings and remittances bring in foreign exchange, which improves the current account and builds reserves, reducing currency crisis risk. Increasing government expenditure widens the fiscal deficit and adds to inflation and external pressure, so it does not reduce the risk."
+  },
+  {
+    "year": 2019,
+    "qno": "66",
+    "subject": "Constitution",
+    "question": "Which one of the following suggested that the Governor should be an eminent person from outside the State and should be a detached figure without intense political links or should not have taken part in politics in the recent past?",
+    "options": ["First Administrative Reforms Commission (1966)", "Rajamannar Committee (1969)", "Sarkaria Commission (1983)", "National Commission to Review the Working of the Constitution (2000)"],
+    "answer": "C",
+    "explanation": "The Sarkaria Commission recommended that the Governor be an eminent person from outside the State, a detached figure without intense political links, and not someone who had taken part in politics in the recent past."
+  },
+  {
+    "year": 2019,
+    "qno": "67",
+    "subject": "Indian Economy",
+    "question": "Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly?",
+    "options": ["Certificate of Deposit", "Commercial Paper", "Promissory Note", "Participatory Note"],
+    "answer": "D",
+    "explanation": "Participatory Notes (P-Notes) are offshore derivative instruments issued by registered FPIs to overseas investors who want exposure to Indian securities without registering with SEBI."
+  },
+  {
+    "year": 2019,
+    "qno": "68",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.\n2. People's participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "explanation": "The CAF Act, 2016 provides for a National Compensatory Afforestation Fund Management and Planning Authority and equivalent State-level authorities (State CAMPA). The Act does not make people's participation mandatory in compensatory afforestation."
+  },
+  {
+    "year": 2019,
+    "qno": "69",
+    "subject": "Governance",
+    "question": "In India, which of the following review the independent regulators in sectors like telecommunications, insurance, electricity, etc.?\n1. Ad Hoc Committees set up by the Parliament\n2. Parliamentary Department Related Standing Committees\n3. Finance Commission\n4. Financial Sector Legislative Reforms Commission\n5. NITI Aayog\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2", "1, 3 and 4", "3, 4 and 5", "2 and 5"],
+    "answer": "A",
+    "explanation": "Sectoral regulators are accountable to Parliament, which reviews them through ad hoc committees and the Department Related Standing Committees. The Finance Commission handles fiscal devolution, FSLRC was a one-time law reform body, and NITI Aayog is a policy think tank, so none of them reviews regulators."
+  },
+  {
+    "year": 2019,
+    "qno": "70",
+    "subject": "Indian Economy",
+    "question": "With reference to India's Five-Year Plans, which of the following statements is/are correct?\n1. From the Second Five-Year Plan, there was a determined thrust towards substitution of basic and capital good industries.\n2. The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.\n3. In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan.\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "2 only", "3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "The Second Plan (Mahalanobis model) emphasised heavy industry, meaning basic and capital goods. The Fourth Plan sought to correct the earlier trend of concentration of wealth and economic power. The financial sector was not first made an integral part of the Plan in the Fifth Plan. Only statements 1 and 2 are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "71",
+    "subject": "World Economy",
+    "question": "With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements:\n1. AIIB has more than 80 member nations.\n2. India is the largest shareholder in AIIB.\n3. AIIB does not have any members from outside Asia.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "AIIB has about 100 members, so statement 1 is correct. China is the largest shareholder, with India second, so statement 2 is wrong. Several non-Asian countries, such as the UK, Germany and France, are members, so statement 3 is wrong."
+  },
+  {
+    "year": 2019,
+    "qno": "72",
+    "subject": "Indian Economy",
+    "question": "What was the purpose of Inter-Creditor Agreement signed by Indian banks and financial institutions recently?",
+    "options": [
+      "To lessen the Government of India's perennial burden of fiscal deficit and current account deficit",
+      "To support the infrastructure projects of Central and State Governments",
+      "To act as independent regulator in case of applications for loans of ₹ 50 crore or more",
+      "To aim at faster resolution of stressed assets of ₹ 50 crore or more which are under consortium lending"
+    ],
+    "answer": "D",
+    "explanation": "The Inter-Creditor Agreement (ICA), part of Project Sashakt, is meant to speed up the resolution of stressed assets of ₹50 crore and above under consortium lending, with lenders deciding by majority."
+  },
+  {
+    "year": 2019,
+    "qno": "73",
+    "subject": "Indian Economy",
+    "question": "The Chairmen of public sector banks are selected by the",
+    "options": ["Banks Board Bureau", "Reserve Bank of India", "Union Ministry of Finance", "Management of concerned bank"],
+    "answer": "A",
+    "explanation": "The Banks Board Bureau (BBB) was created in 2016 to recommend the selection of heads and whole-time directors of public sector banks, and the official answer is the BBB."
+  },
+  {
+    "year": 2019,
+    "qno": "74",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. Petroleum and Natural Gas Regulatory Board (PNGRB) is the first regulatory body set up by the Government of India.\n2. One of the tasks of PNGRB is to ensure competitive markets for gas.\n3. Appeals against the decisions of PNGRB go before the Appellate Tribunals for Electricity.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "explanation": "PNGRB (2006) is not the first regulator, since bodies such as SEBI, TRAI and CERC came earlier. It is tasked with fostering competitive markets for natural gas and petroleum products. Appeals against its decisions go to the Appellate Tribunal for Electricity (APTEL)."
+  },
+  {
+    "year": 2019,
+    "qno": "75",
+    "subject": "Science & Technology",
+    "question": "With reference to communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?\n1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G.\n2. LTE is data-only technology and VoLTE is voice-only technology.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "explanation": "LTE is marketed as 4G, and VoLTE is a way of carrying voice calls over the LTE data network. VoLTE is therefore not 'advanced 3G' and not a voice-only technology, and LTE is not data-only technology. Both statements are incorrect."
+  },
+  {
+    "year": 2019,
+    "qno": "76",
+    "subject": "Indian Society",
+    "question": "Which of the following statements is/are correct regarding the Maternity Benefit (Amendment) Act, 2017?\n1. Pregnant women are entitled for three months pre-delivery and three months post-delivery paid leave.\n2. Enterprises with crèches must allow the mother minimum six crèche visits daily.\n3. Women with two children get reduced entitlements.\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "2 only", "3 only", "1, 2 and 3"],
+    "answer": "C",
+    "explanation": "The Act provides 26 weeks of paid leave, with up to 8 weeks before delivery and the rest after, so statement 1 is wrong. The Act allows four crèche visits a day, not six. For a woman with two or more surviving children, leave is reduced to 12 weeks (6 weeks before delivery), so statement 3 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "77",
+    "subject": "World Economy",
+    "question": "Which one of the following is not a sub-index of the World Bank's 'Ease of Doing Business Index'?",
+    "options": ["Maintenance of law and order", "Paying taxes", "Registering property", "Dealing with construction permits"],
+    "answer": "A",
+    "explanation": "Paying taxes, registering property and dealing with construction permits are among the ten Doing Business indicators. 'Maintenance of law and order' is not one of them."
+  },
+  {
+    "year": 2019,
+    "qno": "78",
+    "subject": "Environment and Ecology",
+    "question": "In India, 'extended producer responsibility' was introduced as an important feature in which of the following?",
+    "options": ["The Bio-medical Waste (Management and Handling) Rules, 1998", "The Recycled Plastic (Manufacturing and Usage) Rules, 1999", "The e-Waste (Management and Handling) Rules, 2011", "The Food Safety and Standard Regulations, 2011"],
+    "answer": "C",
+    "explanation": "Extended producer responsibility (EPR), which makes producers responsible for collection and recycling of their products at end of life, was first introduced in India through the e-Waste (Management and Handling) Rules, 2011."
+  },
+  {
+    "year": 2019,
+    "qno": "79",
+    "subject": "Indian Economy",
+    "question": "The economic cost of food grains to the Food Corporation of India is Minimum Support Price and bonus (if any) paid to the farmers plus",
+    "options": ["transportation cost only", "interest cost only", "procurement incidentals and distribution cost", "procurement incidentals and charges for godowns"],
+    "answer": "C",
+    "explanation": "FCI's economic cost is the MSP (plus any bonus) paid to farmers plus procurement incidentals (mandi charges, labour, packing and so on) and distribution costs (transport, handling, storage, interest and overheads)."
+  },
+  {
+    "year": 2019,
+    "qno": "80",
+    "subject": "Indian Society",
+    "question": "In the context of any country, which one of the following would be considered as part of its social capital?",
+    "options": ["The proportion of literates in the population", "The stock of its buildings, other infrastructure and machines", "The size of population in the working age group", "The level of mutual trust and harmony in the society"],
+    "answer": "D",
+    "explanation": "Social capital refers to networks, norms and trust that enable people to cooperate. The level of mutual trust and harmony is social capital. Literacy is human capital, buildings and machines are physical capital, and the working-age share is a demographic factor."
+  },
+  {
+    "year": 2019,
+    "qno": "81",
+    "subject": "Constitution",
+    "question": "With reference to the Constitution of India, consider the following statements:\n1. No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid.\n2. An amendment to the Constitution of India cannot be called into question by the Supreme Court of India.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "explanation": "High Courts can declare central laws unconstitutional under Article 226 judicial review. Constitutional amendments are also open to review by the Supreme Court under the basic structure doctrine (Kesavananda Bharati). Both statements are incorrect."
+  },
+  {
+    "year": 2019,
+    "qno": "82",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\n1. Purchasing Power Parity (PPP) exchange rates are calculated by comparing the prices of the same basket of goods and services in different countries.\n2. In terms of PPP dollars, India is the sixth largest economy in the world.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "explanation": "PPP exchange rates compare the cost of the same basket of goods across countries, so statement 1 is correct. In PPP terms India is the third largest economy (after China and the US), so statement 2 is wrong."
+  },
+  {
+    "year": 2019,
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "With reference to the cultivation of Kharif crops in India in the last five years, consider the following statements:\n1. Area under rice cultivation is the highest.\n2. Area under the cultivation of jowar is more than that of oilseeds.\n3. Area of cotton cultivation is more than that of sugarcane.\n4. Area under sugarcane cultivation has steadily decreased.\nWhich of the statements given above are correct?",
+    "options": ["1 and 3 only", "2, 3 and 4 only", "2 and 4 only", "1, 2, 3 and 4"],
+    "answer": "A",
+    "explanation": "Rice has the largest kharif area. The area under oilseeds exceeds that under jowar, so statement 2 is wrong. Cotton area (about 12 million ha) is well above sugarcane (about 5 million ha). Sugarcane area has fluctuated, not steadily decreased, so statement 4 is wrong."
+  },
+  {
+    "year": 2019,
+    "qno": "84",
+    "subject": "Indian Economy",
+    "question": "Among the agricultural commodities imported by India, which one of the following accounts for the highest imports in terms of value in the last five years?",
+    "options": ["Spices", "Fresh fruits", "Pulses", "Vegetable oils"],
+    "answer": "D",
+    "explanation": "Vegetable (edible) oils, mainly palm, soyabean and sunflower oil, are India's largest agricultural import by value, ahead of pulses and fresh fruits."
+  },
+  {
+    "year": 2019,
+    "qno": "85",
+    "subject": "Political Science and International Relations",
+    "question": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty?",
+    "options": ["Protection against the tyranny of political rulers", "Absence of restraint", "Opportunity to do whatever one likes", "Opportunity to develop oneself fully"],
+    "answer": "D",
+    "explanation": "Liberty in the broad, positive sense means the freedom and opportunity to develop one's capacities fully. Mere absence of restraint, or doing whatever one likes, would destroy others' freedom, and protection from rulers covers only one aspect of it."
+  },
+  {
+    "year": 2019,
+    "qno": "86",
+    "subject": "Indian Economy",
+    "question": "Which one of the following is not the most likely measure the Government/RBI takes to stop the slide of Indian rupee?",
+    "options": [
+      "Curbing imports of non-essential goods and promoting exports",
+      "Encouraging Indian borrowers to issue rupee denominated Masala Bonds",
+      "Easing conditions relating to external commercial borrowing",
+      "Following an expansionary monetary policy"
+    ],
+    "answer": "D",
+    "explanation": "To arrest a fall in the rupee, the authorities cut imports, promote exports, attract foreign capital (Masala bonds, easier ECB norms) and tighten liquidity. An expansionary monetary policy adds liquidity and increases pressure on the rupee, so it is not a likely measure."
+  },
+  {
+    "year": 2019,
+    "qno": "87",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nThe Reserve Bank of India's recent directives relating to 'Storage of Payment System Data', popularly known as data diktat, command the payment system providers that\n1. they shall ensure that entire data relating to payment systems operated by them are stored in a system only in India\n2. they shall ensure that the systems are owned and operated by public sector enterprises\n3. they shall submit the consolidated system audit report to the Comptroller and Auditor General of India by the end of the calendar year\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "1 and 2 only", "3 only", "1, 2 and 3"],
+    "answer": "A",
+    "explanation": "The RBI's 2018 directive requires all payment system data to be stored only in India (data localisation). It does not require public sector ownership. The audit report goes to the RBI, not the CAG."
+  },
+  {
+    "year": 2019,
+    "qno": "88",
+    "subject": "Governance",
+    "question": "Which of the following adopted a law on data protection and privacy for its citizens known as 'General Data Protection Regulation' in April 2016 and started implementation of it from 25th May, 2018?",
+    "options": ["Australia", "Canada", "The European Union", "The United States of America"],
+    "answer": "C",
+    "explanation": "The General Data Protection Regulation (GDPR) is a European Union regulation adopted in April 2016 and enforceable from 25 May 2018."
+  },
+  {
+    "year": 2019,
+    "qno": "89",
+    "subject": "Political Science and International Relations",
+    "question": "Recently, India signed a deal known as 'Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field' with which of the following countries?",
+    "options": ["Japan", "Russia", "The United Kingdom", "The United States of America"],
+    "answer": "B",
+    "explanation": "In 2018, India and Russia signed the Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field, which covers Kudankulam units and cooperation in third countries."
+  },
+  {
+    "year": 2019,
+    "qno": "90",
+    "subject": "Indian Economy",
+    "question": "The money multiplier in an economy increases with which one of the following?",
+    "options": ["Increase in the cash reserve ratio", "Increase in the banking habit of the population", "Increase in the statutory liquidity ratio", "Increase in the population of the country"],
+    "answer": "B",
+    "explanation": "The money multiplier is inversely related to the reserve ratios (CRR and SLR) and to the public's preference for holding cash. A stronger banking habit lowers the cash-holding ratio, so more deposits are created and the multiplier rises."
+  },
+  {
+    "year": 2019,
+    "qno": "91",
+    "subject": "Science & Technology",
+    "question": "In the context of digital technologies for entertainment, consider the following statements:\n1. In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.\n2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.\n3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.\n4. VR closes the world, and transposes an individual, providing complete immersion experience.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "3 and 4", "1, 2 and 3", "4 only"],
+    "answer": "B",
+    "explanation": "AR overlays computer-generated images on the real world, and VR replaces the real world with a fully simulated environment. Statements 1 and 2 swap the definitions and are wrong. Statements 3 and 4 are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "92",
+    "subject": "Science & Technology",
+    "question": "The word 'Denisovan' is sometimes mentioned in media in reference to",
+    "options": ["fossils of a kind of dinosaurs", "an early human species", "a cave system found in North-East India", "a geological period in the history of Indian subcontinent"],
+    "answer": "B",
+    "explanation": "Denisovans are an extinct archaic human species or population, known from fossils in Denisova Cave in Siberia and related to Neanderthals."
+  },
+  {
+    "year": 2019,
+    "qno": "93",
+    "subject": "Science & Technology",
+    "question": "With reference to the recent developments in science, which one of the following statements is not correct?",
+    "options": [
+      "Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+      "Pieces of artificial functional DNA can be created in laboratories.",
+      "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.",
+      "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+    ],
+    "answer": "A",
+    "explanation": "Artificial DNA can be synthesised, DNA can be replicated in vitro (PCR), and cells can be cultured in dishes. Creating functional chromosomes by joining DNA segments from cells of different species has not been achieved, so statement A is the incorrect one."
+  },
+  {
+    "year": 2019,
+    "qno": "94",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nA digital signature is\n1. an electronic record that identifies the certifying authority issuing it\n2. used to serve as a proof of identity of an individual to access information or server on Internet\n3. an electronic method of signing an electronic document and ensuring that the original content is unchanged\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "C",
+    "explanation": "A digital signature is an electronic method of signing a document that also verifies the content has not been altered. Statements 1 and 2 describe a digital certificate, which identifies the certifying authority and proves identity. Only statement 3 is correct."
+  },
+  {
+    "year": 2019,
+    "qno": "95",
+    "subject": "Science & Technology",
+    "question": "In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?\n1. Location identification of a person\n2. Sleep monitoring of a person\n3. Assisting the hearing impaired person\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "D",
+    "explanation": "Wearables such as smartwatches and fitness bands do GPS tracking, sleep monitoring, and hearing assistance through hearing-aid wearables, so all three are correct."
+  },
+  {
+    "year": 2019,
+    "qno": "96",
+    "subject": "Science & Technology",
+    "question": "'RNA interference (RNAi)' technology has gained popularity in the last few years. Why?\n1. It is used in developing gene silencing therapies.\n2. It can be used in developing therapies for the treatment of cancer.\n3. It can be used to develop hormone replacement therapies.\n4. It can be used to produce crop plants that are resistant to viral pathogens.\nSelect the correct answer using the code given below.",
+    "options": ["1, 2 and 4", "2 and 3", "1 and 3", "1 and 4 only"],
+    "answer": "A",
+    "explanation": "RNAi silences specific genes, so it is used in gene-silencing therapies, in research on cancer therapies, and to make plants resistant to viruses. It is not used to develop hormone replacement therapies."
+  },
+  {
+    "year": 2019,
+    "qno": "97",
+    "subject": "Science & Technology",
+    "question": "Recently, scientists observed the merger of giant 'blackholes' billions of light-years away from the Earth. What is the significance of this observation?",
+    "options": [
+      "'Higgs boson particles' were detected.",
+      "'Gravitational waves' were detected.",
+      "Possibility of inter-galactic space travel through 'wormhole' was confirmed.",
+      "It enabled the scientists to understand 'singularity'."
+    ],
+    "answer": "B",
+    "explanation": "The merger of black holes produces ripples in space-time called gravitational waves, first detected directly by LIGO in 2015. That detection is the significance of the observation."
+  },
+  {
+    "year": 2019,
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India?\n1. Genetic predisposition of some people\n2. Taking incorrect doses of antibiotics to cure diseases\n3. Using antibiotics in livestock farming\n4. Multiple chronic diseases in some people\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2", "2 and 3 only", "1, 3 and 4", "2, 3 and 4"],
+    "answer": "D",
+    "explanation": "Multi-drug resistance is driven by incorrect or incomplete antibiotic doses, antibiotic use in livestock farming, and multiple chronic diseases that lead to prolonged and repeated antibiotic use. A genetic predisposition of people does not cause resistance in pathogens."
+  },
+  {
+    "year": 2019,
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "What is Cas9 protein that is often mentioned in news?",
+    "options": [
+      "A molecular scissors used in targeted gene editing",
+      "A biosensor used in the accurate detection of pathogens in patients",
+      "A gene that makes plants pest-resistant",
+      "A herbicidal substance synthesized in genetically modified crops"
+    ],
+    "answer": "A",
+    "explanation": "Cas9 is an enzyme used in the CRISPR-Cas9 system. Guided by RNA, it cuts DNA at specific sites, so it works as molecular scissors for targeted gene editing."
+  },
+  {
+    "year": 2019,
+    "qno": "100",
+    "subject": "Science & Technology",
+    "question": "Which one of the following statements is not correct?",
+    "options": [
+      "Hepatitis B virus is transmitted much like HIV.",
+      "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+      "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+      "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+    ],
+    "answer": "B",
+    "explanation": "Hepatitis B has an effective vaccine, while Hepatitis C does not, so the statement is reversed. The other statements are correct: Hepatitis B spreads through blood and body fluids like HIV, far more people have Hepatitis B and C than HIV, and many infections are asymptomatic for years."
+  }
+]
