@@ -126,6 +126,48 @@
     "explanation": "PPP exchange rates compare the cost of the same basket of goods across countries, so statement 1 is correct. In PPP terms India is the third largest economy (after China and the US), so statement 2 is wrong."
   },
   {
+    "year": "2020",
+    "qno": "17",
+    "subject": "World Economy",
+    "question": "“Gold Tranche” (Reserve Tranche) refers to",
+    "options": [
+      "a loan system of the World Bank",
+      "one of the operations of a Central Bank",
+      "a credit system granted by WTO to its members",
+      "a credit system granted by IMF to its members"
+    ],
+    "answer": "D",
+    "explanation": "The reserve (gold) tranche is the portion of a member country’s quota in the IMF that it can draw on virtually automatically, without conditions, and which does not count as use of IMF credit."
+  },
+  {
+    "year": "2020",
+    "qno": "53",
+    "subject": "World Economy",
+    "question": "The term ‘West Texas Intermediate’, sometimes found in news, refers to a grade of",
+    "options": [
+      "Crude oil",
+      "Bullion",
+      "Rare earth elements",
+      "Uranium"
+    ],
+    "answer": "A",
+    "explanation": "West Texas Intermediate (WTI) is a light, sweet grade of crude oil that serves as a benchmark for oil pricing in North America, alongside Brent crude."
+  },
+  {
+    "year": "2020",
+    "qno": "56",
+    "subject": "World Economy",
+    "question": "With reference to Trade-Related Investment Measures (TRIMS), which of the following statements is/are correct?\n1. Quantitative restrictions on imports by foreign investors are prohibited.\n2. They apply to investment measures related to trade in both goods and services.\n3. They are not concerned with the regulation of foreign investment.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The WTO TRIMs agreement prohibits trade-related investment measures such as local-content requirements and quantitative restrictions on imports by investors (statement 1 correct). It applies only to trade in goods, not services (statement 2 incorrect). It does not regulate foreign investment itself, only trade-distorting measures attached to it (statement 3 correct)."
+  },
+  {
     "year": "2027",
     "qno": "1",
     "subject": "World Economy",

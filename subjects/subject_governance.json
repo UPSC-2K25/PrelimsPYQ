@@ -502,5 +502,61 @@
     ],
     "answer": "B",
     "explanation": "Statements 1 and 3 are correct. Under the institutional verticals defined for environmental research and forestry management, Ecosystem Survey and Analysis is anchored by the Botanical Survey of India (BSI), Kolkata, and Capacity Development Support is led by the Indian Institute of Forest Management (IIFM), Bhopal. Statement 2 is incorrect because the lead institute designated for research and ecosystem service modeling is the Indian Council of Forestry Research and Education (ICFRE) / specialized scientific institutes, not the Central Zoo Authority."
+  },
+  {
+    "year": "2020",
+    "qno": "1",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. Aadhaar metadata cannot be stored for more than three months.\n2. State cannot enter into any contract with private corporations for sharing of Aadhaar data.\n3. Aadhaar is mandatory for obtaining insurance products.\n4. Aadhaar is mandatory for getting benefits funded out of the Consolidated Fund of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 4 only",
+      "2 and 4 only",
+      "3 only",
+      "1, 2 and 3 only"
+    ],
+    "answer": "B",
+    "explanation": "In the Puttaswamy (Aadhaar) judgment, the Supreme Court limited storage of authentication data to six months (not three), so statement 1 is incorrect. The Court struck down the provision allowing body corporates and individuals to use Aadhaar for authentication, so the State cannot contract with private corporations for sharing Aadhaar data; statement 2 is correct. Aadhaar is not mandatory for insurance products (statement 3 incorrect), but it is mandatory for subsidies, benefits and services funded from the Consolidated Fund of India under Section 7 of the Aadhaar Act (statement 4 correct)."
+  },
+  {
+    "year": "2020",
+    "qno": "3",
+    "subject": "Governance",
+    "question": "With reference to the funds under Members of Parliament Local Area Development Scheme (MPLADS), which of the following statements are correct?\n1. MPLADS funds must be used to create durable assets like physical infrastructure for health, education, etc.\n2. A specified portion of each MP’s fund must benefit SC/ST populations.\n3. MPLADS funds are sanctioned on yearly basis and the unused funds cannot be carried forward to the next year.\n4. The district authority must inspect at least 10% of all works under implementation every year.",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "D",
+    "explanation": "MPLADS aims at creating durable community assets (statement 1 correct). MPs must recommend works worth at least 15% of their entitlement for SC areas and 7.5% for ST areas (statement 2 correct). MPLADS funds are non-lapsable and unused funds are carried forward, so statement 3 is incorrect. District authorities are required to inspect at least 10% of works under implementation every year (statement 4 correct)."
+  },
+  {
+    "year": "2020",
+    "qno": "9",
+    "subject": "Governance",
+    "question": "In India, Legal Services Authorities provide free legal services to which of the following type of citizens?\n1. Person with an annual income of less than ₹ 1,00,000\n2. Transgender with an annual income of less than ₹ 2,00,000\n3. Member of Other Backward Classes (OBC) with an annual income of less than ₹ 3,00,000\n4. All Senior Citizens",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only"
+    ],
+    "answer": "A",
+    "explanation": "Under the Legal Services Authorities Act, 1987 (Section 12) free legal services are available to eligible categories such as SC/ST members, women and children, persons with disabilities, victims of trafficking, and persons whose annual income is below the prescribed ceiling. The commonly accepted official key treats the ₹1,00,000 income criterion and the transgender (income below ₹2,00,000) category as correct, while OBC members at ₹3,00,000 and all senior citizens are not covered as blanket categories. Note: income ceilings vary by State, so this item is considered ambiguous by some sources."
+  },
+  {
+    "year": "2020",
+    "qno": "15",
+    "subject": "Governance",
+    "question": "In the context of India, which one of the following is the characteristic appropriate for bureaucracy?",
+    "options": [
+      "An agency for widening the scope of parliamentary democracy",
+      "An agency for strengthening the structure of federalism",
+      "An agency for facilitating political stability and economic growth",
+      "An agency for the implementation of public policy"
+    ],
+    "answer": "D",
+    "explanation": "The permanent bureaucracy is the executive instrument that implements the policies and decisions formulated by the political executive and legislature. The other options attribute to it roles that belong to political institutions."
   }
 ]

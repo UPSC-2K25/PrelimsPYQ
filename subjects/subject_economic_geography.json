@@ -152,5 +152,117 @@
     ],
     "answer": "B",
     "explanation": "Organic matter improves soil structure and increases water holding capacity, so statement 1 is wrong. Soil is a major reservoir in the sulphur cycle, where microbes mineralise and transform sulphur compounds, so statement 2 is wrong. Long-term irrigation, especially with poor drainage, leaves salts behind as water evaporates and causes salinization, so statement 3 is correct."
+  },
+  {
+    "year": "2020",
+    "qno": "80",
+    "subject": "Economic Geography",
+    "question": "What is the use of biochar in farming?\n1. Biochar can be used as a part of the growing medium in vertical farming.\n2. When biochar is a part of the growing medium, it promotes the growth of nitrogen-fixing microorganisms.\n3. When biochar is a part of the growing medium, it enables the growing medium to retain water for longer time.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Biochar is a porous carbon-rich material that can be used in soilless and vertical-farming media, supports beneficial microbes including nitrogen-fixing organisms, and improves water-holding capacity."
+  },
+  {
+    "year": "2020",
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "What is/are the advantage/advantages of zero tillage in agriculture?\n1. Sowing of wheat is possible without burning the residue of previous crop.\n2. Without the need for nursery of rice saplings, direct planting of paddy seeds in the wet soil is possible.\n3. Carbon sequestration in the soil is possible.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Zero tillage allows wheat to be sown directly into the residue of the previous crop (for example with a Happy Seeder), avoiding stubble burning. It also allows direct seeding of paddy without raising a nursery and transplanting, and it reduces soil disturbance, which helps sequester carbon in the soil."
+  },
+  {
+    "year": "2020",
+    "qno": "84",
+    "subject": "Economic Geography",
+    "question": "According to India’s National Policy on Biofuels, which of the following can be used as raw materials for the production of biofuels?\n1. Cassava\n2. Damaged wheat grains\n3. Groundnut seeds\n4. Horse gram\n5. Rotten potatoes\n6. Sugar beet",
+    "options": [
+      "1, 2, 5 and 6 only",
+      "1, 3, 4 and 6 only",
+      "2, 3, 4 and 5 only",
+      "1, 2, 3, 4, 5 and 6"
+    ],
+    "answer": "A",
+    "explanation": "The National Policy on Biofuels allows ethanol production from sugarcane juice, sugar beet, sweet sorghum, starch-bearing materials like cassava, and damaged food grains such as wheat and rotten potatoes unfit for human consumption. Groundnut seeds and horse gram are edible and not listed as raw materials."
+  },
+  {
+    "year": "2020",
+    "qno": "86",
+    "subject": "Economic Geography",
+    "question": "With reference to pulse production in India, consider the following statements:\n1. Black gram can be cultivated as both kharif and rabi crop.\n2. Green-gram alone accounts for nearly half of pulse production.\n3. In the last three decades, while the production of kharif pulses has increased, the production of rabi pulses has decreased.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Black gram (urad) is grown in both kharif and rabi seasons, so statement 1 is correct. Chickpea (gram), not green gram, accounts for the largest share, so statement 2 is incorrect. Rabi pulse production has risen over the last three decades, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "87",
+    "subject": "Economic Geography",
+    "question": "“The crop is subtropical in nature. A hard frost is injurious to it. It requires at least 210 frost-free days and 50 to 100 centimeters of rainfall for its growth. A light well-drained soil capable of retaining moisture is ideally suited for the cultivation of the crop.” Which one of the following is that crop?",
+    "options": [
+      "Cotton",
+      "Jute",
+      "Sugarcane",
+      "Tea"
+    ],
+    "answer": "C",
+    "explanation": "The description of a subtropical crop needing at least 210 frost-free days, 50-100 cm of rainfall and light, well-drained, moisture-retentive soil matches sugarcane."
+  },
+  {
+    "year": "2020",
+    "qno": "89",
+    "subject": "Economic Geography",
+    "question": "With reference to the current trends in the cultivation of sugarcane in India, consider the following statements:\n1. A substantial saving in seed material is made when ‘bud chip settlings’ are raised in a nursery and transplanted in the main field.\n2. When direct planting of setts is done, the germination percentage is better with single-budded setts as compared to setts with many buds.\n3. If bad weather conditions prevail when setts are directly planted, single-budded setts have better survival as compared to large setts.\n4. Sugarcane can be cultivated using settlings prepared from tissue culture.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Raising bud chip settlings in a nursery saves seed material, and tissue-culture settlings can be used to cultivate sugarcane, so statements 1 and 4 are correct. Germination is generally better with multi-budded setts, and larger setts survive adverse weather better than single-budded ones, so statements 2 and 3 are incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "91",
+    "subject": "Economic Geography",
+    "question": "What are the advantages of fertigation in agriculture?\n1. Controlling the alkalinity of irrigation water is possible.\n2. Efficient application of Rock Phosphate and all other phosphatic fertilizers is possible.\n3. Increased availability of nutrients to plants is possible.\n4. Reduction in the leaching of chemical nutrients is possible.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Fertigation, the application of fertilisers through irrigation water, allows control of water alkalinity by acid injection, improves nutrient availability, and reduces leaching losses. Rock phosphate and many phosphatic fertilizers are poorly soluble and are not suitable for fertigation, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "92",
+    "subject": "Economic Geography",
+    "question": "Consider the following minerals:\n1. Bentonite\n2. Chromite\n3. Kyanite\n4. Sillimanite\nIn India, which of the above is/are officially designated as major minerals?",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "D",
+    "explanation": "Under the Mines and Minerals (Development and Regulation) Act, chromite, kyanite and sillimanite are notified as major minerals, whereas bentonite is classified among the minor minerals."
   }
 ]

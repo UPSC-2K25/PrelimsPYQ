@@ -1,0 +1,16 @@
+[
+  {
+    "year": "2020",
+    "qno": "38",
+    "subject": "Artificial Intelligence",
+    "question": "With the present state of development, Artificial Intelligence can effectively do which of the following?\n1. Bring down electricity consumption in industrial units\n2. Create meaningful short stories and songs\n3. Disease diagnosis\n4. Text-to-Speech Conversion\n5. Wireless transmission of electrical energy",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 3 and 4 only",
+      "2, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "D",
+    "explanation": "AI is used to optimise energy consumption in industrial units and data centres, to generate short stories and songs, to assist disease diagnosis, and to power text-to-speech conversion. The official key treats AI-assisted management and optimisation of wireless power transmission as feasible too, so all five are accepted."
+  }
+]

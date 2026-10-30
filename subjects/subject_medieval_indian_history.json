@@ -124,5 +124,47 @@
     ],
     "answer": "B",
     "explanation": "Jean-Baptiste Tavernier, a 17th-century French gem merchant, travelled in India and gave detailed accounts of diamonds and the diamond mines of Golconda and other regions in his 'Travels in India'. Bernier is known for his accounts of Mughal society and the Mughal court."
+  },
+  {
+    "year": "2020",
+    "qno": "24",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following events in the history of India:\n1. Rise of Pratiharas under King Bhoja\n2. Establishment of Pallava power under Mahendravarman – I\n3. Establishment of Chola power by Parantaka – I\n4. Pala dynasty founded by Gopala\nWhat is the correct chronological order of the above events, starting from the earliest time?",
+    "options": [
+      "2 – 1 – 4 – 3",
+      "3 – 1 – 4 – 2",
+      "2 – 4 – 1 – 3",
+      "3 – 4 – 1 – 2"
+    ],
+    "answer": "C",
+    "explanation": "Mahendravarman I established Pallava power around 600 CE; Gopala founded the Pala dynasty around 750 CE; Pratihara king Bhoja rose around 836 CE; Parantaka I established Chola power around 907 CE. The order is 2 – 4 – 1 – 3."
+  },
+  {
+    "year": "2020",
+    "qno": "25",
+    "subject": "Medieval Indian History",
+    "question": "Which of the following phrases defines the nature of the ‘Hundi’ generally referred to in the sources of the post-Harsha period?",
+    "options": [
+      "An advisory issued by the king to his subordinates",
+      "A diary to be maintained for daily accounts",
+      "A bill of exchange",
+      "An order from the feudal lord to his subordinates"
+    ],
+    "answer": "C",
+    "explanation": "The hundi was a financial instrument, a bill of exchange or credit note, used in trade in early medieval India to transfer money without physically carrying it."
+  },
+  {
+    "year": "2020",
+    "qno": "97",
+    "subject": "Medieval Indian History",
+    "question": "With reference to the history of India, consider the following pairs:\nFamous Place — Present State\n1. Bhilsa — Madhya Pradesh\n2. Dwarasamudra — Maharashtra\n3. Girinagar — Gujarat\n4. Sthanesvara — Uttar Pradesh\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 3 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "A",
+    "explanation": "Bhilsa (Vidisha) is in Madhya Pradesh and Girinagar (Junagadh) is in Gujarat. Dwarasamudra (Halebid), the Hoysala capital, is in Karnataka, and Sthanesvara (Thanesar) is in Haryana."
   }
 ]

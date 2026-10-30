@@ -854,6 +854,272 @@
     "explanation": "NPOP is operated under the Ministry of Commerce and Industry, not the Ministry of Rural Development, so statement 1 is wrong. APEDA acts as the Secretariat for implementing NPOP, so statement 2 is correct. Sikkim became India's first fully organic State in 2016, so statement 3 is correct."
   },
   {
+    "year": "2020",
+    "qno": "6",
+    "subject": "Indian Economy",
+    "question": "Along with the Budget, the Finance Minister also places other documents before the Parliament which include ‘The Macro Economic Framework Statement’. The aforesaid document is presented because this is mandated by",
+    "options": [
+      "Long standing parliamentary convention",
+      "Article 112 and Article 110(1) of the Constitution of India",
+      "Article 113 of the Constitution of India",
+      "Provisions of the Fiscal Responsibility and Budget Management Act, 2003"
+    ],
+    "answer": "D",
+    "explanation": "Section 3 of the Fiscal Responsibility and Budget Management (FRBM) Act, 2003 requires the Central Government to lay the Macro-Economic Framework Statement, along with the Medium-term Fiscal Policy Statement and the Fiscal Policy Strategy Statement, before Parliament with the Budget. It is therefore a statutory requirement, not a convention or a direct constitutional article."
+  },
+  {
+    "year": "2020",
+    "qno": "49",
+    "subject": "Indian Economy",
+    "question": "If another global financial crisis happens in the near future, which of the following actions/policies are most likely to give some immunity to India?\n1. Not depending on short-term foreign borrowings\n2. Opening up to more foreign banks\n3. Maintaining full capital account convertibility",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Avoiding reliance on short-term foreign borrowings reduces vulnerability to sudden capital outflows and rollover risk. Opening up to more foreign banks and full capital account convertibility expose the economy to global shocks and volatile capital flows, and did not shield economies in the 1997 and 2008 crises."
+  },
+  {
+    "year": "2020",
+    "qno": "50",
+    "subject": "Indian Economy",
+    "question": "If you withdraw ₹ 1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be",
+    "options": [
+      "to reduce it by ₹ 1,00,000",
+      "to increase it by ₹ 1,00,000",
+      "to increase it by more than ₹ 1,00,000",
+      "to leave it unchanged"
+    ],
+    "answer": "D",
+    "explanation": "Money supply (M1) includes currency with the public and demand deposits with banks. Withdrawing cash merely converts demand deposits into currency with the public, so the fall in deposits equals the rise in currency held by the public and aggregate money supply is unchanged immediately."
+  },
+  {
+    "year": "2020",
+    "qno": "51",
+    "subject": "Indian Economy",
+    "question": "With reference to Foreign Direct Investment in India, which one of the following is considered its major characteristic?",
+    "options": [
+      "It is the investment through capital instruments essentially in a listed company.",
+      "It is a largely non-debt creating capital flow.",
+      "It is the investment which involves debt-servicing.",
+      "It is the investment made by foreign institutional investors in the Government securities."
+    ],
+    "answer": "B",
+    "explanation": "FDI is largely a non-debt creating capital inflow: the foreign investor takes equity and a lasting interest in an enterprise, so there is no obligation of repayment or fixed debt servicing. Investment in listed-company instruments or government securities by FIIs/FPIs is portfolio investment, not FDI."
+  },
+  {
+    "year": "2020",
+    "qno": "52",
+    "subject": "Indian Economy",
+    "question": "With reference to the international trade of India at present, which of the following statements is/are correct?\n1. India’s merchandise exports are less than its merchandise imports.\n2. India’s imports of iron and steel, chemicals, fertilisers and machinery have decreased in recent years.\n3. India’s exports of services are more than its imports of services.\n4. India suffers from an overall trade/current account deficit.",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "D",
+    "explanation": "India runs a merchandise trade deficit (statement 1 correct) and a surplus in services trade, as services exports exceed imports (statement 3 correct). India’s overall trade/current account has been in deficit over the period the question refers to (statement 4 correct). Imports of iron and steel, chemicals, fertilisers and machinery have in fact risen in recent years, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "54",
+    "subject": "Indian Economy",
+    "question": "In the context of the Indian economy, non-financial debt includes which of the following?\n1. Housing loans owed by households\n2. Amounts outstanding on credit cards\n3. Treasury bills",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Non-financial debt is debt owed by households and non-financial entities such as housing loans and credit card dues. Treasury bills are financial instruments (government securities) and fall under financial debt, so only statements 1 and 2 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "57",
+    "subject": "Indian Economy",
+    "question": "If the RBI decides to adopt an expansionist monetary policy, which of the following would it not do?\n1. Cut and optimize the Statutory Liquidity Ratio\n2. Increase the Marginal Standing Facility Rate\n3. Cut the Bank Rate and Repo Rate",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "An expansionary policy increases liquidity and lowers the cost of credit, by cutting SLR, the Bank Rate and the repo rate. Raising the Marginal Standing Facility rate makes emergency borrowing from the RBI costlier and is contractionary, so the RBI would not do it."
+  },
+  {
+    "year": "2020",
+    "qno": "58",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy after the 1991 economic liberalization, consider the following statements:\n1. Worker productivity (₹ per worker at 2004-05 prices) increased in urban areas while it decreased in rural areas.\n2. The percentage share of rural areas in the workforce steadily increased.\n3. In rural areas, the growth in non-farm economy increased.\n4. The growth rate in rural employment decreased.",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "3 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "B",
+    "explanation": "Worker productivity rose in both urban and rural areas, so statement 1 is incorrect. The rural share of the workforce has declined, not increased, so statement 2 is incorrect. The non-farm rural economy has grown, and the growth rate of rural employment has decreased, so statements 3 and 4 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "59",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. In terms of short-term credit delivery to the agriculture sector, District Central Cooperative Banks (DCCBs) deliver more credit in comparison to Scheduled Commercial Banks and Regional Rural Banks.\n2. One of the most important functions of DCCBs is to provide funds to the Primary Agricultural Credit Societies.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Scheduled Commercial Banks deliver the largest share of short-term agricultural credit, ahead of RRBs and DCCBs, so statement 1 is incorrect. DCCBs form the middle tier of the short-term cooperative credit structure and lend to the Primary Agricultural Credit Societies, so statement 2 is correct."
+  },
+  {
+    "year": "2020",
+    "qno": "60",
+    "subject": "Indian Economy",
+    "question": "In India, under cyber insurance for individuals, which of the following benefits are generally covered, in addition to payment for the loss of funds and other benefits?\n1. Cost of restoration of the computer system in case of malware disrupting access to one’s computer\n2. Cost of a new computer if some miscreant wilfully damages it, if proved so\n3. Cost of hiring a specialized consultant to minimize the loss in case of cyber extortion\n4. Cost of defence in the Court of Law if any third party files a suit",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Individual cyber insurance policies in India typically cover restoration of systems after malware, replacement of a computer wilfully damaged, expert consultancy costs during cyber extortion, and legal defence costs for third-party suits, in addition to financial losses."
+  },
+  {
+    "year": "2020",
+    "qno": "61",
+    "subject": "Indian Economy",
+    "question": "In India, which of the following can be considered as public investment in agriculture?\n1. Fixing Minimum Support Price for agricultural produce of all crops\n2. Computerization of Primary Agricultural Credit Societies\n3. Social Capital development\n4. Free electricity supply to farmers\n5. Waiver of agricultural loans by the banking system\n6. Setting up of cold storage facilities by the governments",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 3, 4 and 5 only",
+      "2, 3 and 6 only",
+      "1, 2, 3, 4, 5 and 6"
+    ],
+    "answer": "C",
+    "explanation": "Public investment means capital formation in assets and infrastructure, such as computerising PACS, social capital development and creating cold storage facilities. MSP fixing, free electricity and loan waivers are subsidies or support measures (current expenditure), not investment."
+  },
+  {
+    "year": "2020",
+    "qno": "62",
+    "subject": "Indian Economy",
+    "question": "What is the importance of the term “Interest Coverage Ratio” of a firm in India?\n1. It helps in understanding the present risk of a firm that a bank is going to give loan to.\n2. It helps in evaluating the emerging risk of a firm that a bank is going to give loan to.\n3. The higher a borrowing firm’s level of Interest Coverage Ratio, the worse is its ability to service its debt.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Interest Coverage Ratio (EBIT divided by interest expense) shows how easily a firm can pay interest on its debt and helps lenders assess present and emerging risk. A higher ratio means a better ability to service debt, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "63",
+    "subject": "Indian Economy",
+    "question": "Which of the following factors/policies were affecting the price of rice in India in the recent past?\n1. Minimum Support Price\n2. Government’s trading\n3. Government’s stockpiling\n4. Consumer subsidies",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Rice prices in India are influenced by MSP-based procurement, government trading through open market sales and exports, buffer stockpiling by FCI, and consumer subsidies under the Public Distribution System. All four factors apply."
+  },
+  {
+    "year": "2020",
+    "qno": "64",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The value of Indo-Sri Lanka trade has consistently increased in the last decade.\n2. “Textile and textile articles” constitute an important item of trade between India and Bangladesh.\n3. In the last five years, Nepal has been the largest trading partner of India in South Asia.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Indo-Sri Lanka trade has fluctuated rather than increased consistently, so statement 1 is incorrect. Textiles and textile articles are an important item in India-Bangladesh trade, so statement 2 is correct. Bangladesh, not Nepal, has been India’s largest trading partner in South Asia, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "66",
+    "subject": "Indian Economy",
+    "question": "Under the Kisan Credit Card scheme, short-term credit support is given to farmers for which of the following purposes?\n1. Working capital for maintenance of farm assets\n2. Purchase of combine harvesters, tractors and mini trucks\n3. Consumption requirements of farm households\n4. Post-harvest expenses\n5. Construction of family house and setting up of village cold storage facility",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 3 and 4 only",
+      "2, 3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "explanation": "The KCC scheme provides short-term credit for cultivation expenses, post-harvest expenses, produce marketing loans, consumption requirements of the farmer household and working capital for maintenance of farm assets. Purchase of machinery and construction of houses or cold storage are long-term investment needs and are not covered."
+  },
+  {
+    "year": "2020",
+    "qno": "67",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).\n2. The WPI does not capture changes in the prices of services, which CPI does.\n3. Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Food has a much larger weight in the CPI than in the WPI, and the WPI covers only goods while the CPI includes services, so statements 1 and 2 are correct. The RBI uses CPI (combined) as its key inflation measure for monetary policy under the inflation-targeting framework, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "69",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. In the case of all cereals, pulses and oil-seeds, the procurement at Minimum Support Price (MSP) is unlimited in any State/UT of India.\n2. In the case of cereals and pulses, the MSP is fixed in any State/UT at a level to which the market price will never rise.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Procurement at MSP is not unlimited for all crops; it is mainly large for wheat and paddy, and for pulses and oilseeds is limited under schemes such as PM-AASHA. MSP is a floor price, and market prices can and often do rise above it. Both statements are incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "70",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy, consider the following statements:\n1. ‘Commercial Paper’ is a short-term unsecured promissory note.\n2. ‘Certificate of Deposit’ is a long-term instrument issued by the Reserve Bank of India to a corporation.\n3. ‘Call Money’ is a short-term finance used for interbank transactions.\n4. ‘Zero-Coupon Bonds’ are the interest bearing short-term bonds issued by the Scheduled Commercial Banks to corporations.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Commercial paper is a short-term unsecured promissory note, and call money is very short-term borrowing among banks, so statements 1 and 3 are correct. A Certificate of Deposit is a short-term instrument issued by banks and financial institutions, not by the RBI, and zero-coupon bonds pay no periodic interest and are issued at a discount, so statements 2 and 4 are incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "94",
+    "subject": "Indian Economy",
+    "question": "With reference to chemical fertilizers in India, consider the following statements:\n1. At present, the retail price of chemical fertilizers is market-driven and not administered by the Government.\n2. Ammonia, which is an input of urea, is produced from natural gas.\n3. Sulphur, which is a raw material for phosphoric acid fertilizer, is a by-product of oil refineries.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The retail price of urea is fixed by the Government and the other fertilizers are under the Nutrient Based Subsidy scheme with a regulated subsidy, so prices are not fully market-driven and statement 1 is incorrect. Ammonia for urea is produced mainly from natural gas, and sulphur is recovered as a by-product in oil refineries, so statements 2 and 3 are correct."
+  },
+  {
     "year": "2027",
     "qno": "4",
     "subject": "Indian Economy",

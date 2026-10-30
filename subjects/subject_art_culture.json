@@ -236,5 +236,33 @@
     ],
     "answer": "A",
     "explanation": "During the aniconic phase of early Buddhist sculpture (seen at Sanchi and Bharhut), the Buddha was not depicted in human form. Sculptors used symbols to convey major events of his life: an empty seat or vacant throne under the Bodhi tree signifies the meditation of the Buddha and his attainment of enlightenment at Bodh Gaya. The Dharmachakra represents the First Sermon, the Stupa symbolizes the Mahaparinibbana, and a riderless horse represents the Great Departure (Mahabhinishkramana)."
+  },
+  {
+    "year": "2020",
+    "qno": "31",
+    "subject": "Art & Culture",
+    "question": "With reference to the cultural history of India, which one of the following is the correct description of the term ‘paramitas’?",
+    "options": [
+      "The earliest Dharmashastra texts written in aphoristic (sutra) style",
+      "Philosophical schools that did not accept the authority of Vedas",
+      "Perfections whose attainment led to the Bodhisattva path",
+      "Powerful merchant guilds of early medieval South India"
+    ],
+    "answer": "C",
+    "explanation": "Paramitas are the perfections or virtues, such as generosity, morality, patience, energy, meditation and wisdom, that a Bodhisattva cultivates on the path to Buddhahood in Mahayana Buddhism."
+  },
+  {
+    "year": "2020",
+    "qno": "71",
+    "subject": "Art & Culture",
+    "question": "With reference to the cultural history of India, consider the following pairs:\n1. Parivrajaka — Renunciant and Wanderer\n2. Shramana — Priest with a high status\n3. Upasaka — Lay follower of Buddhism\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "A Parivrajaka is a wandering ascetic and an Upasaka is a lay follower of Buddhism. A Shramana is an ascetic or striver who renounced worldly life, not a high-status priest, so pair 2 is incorrect."
   }
 ]

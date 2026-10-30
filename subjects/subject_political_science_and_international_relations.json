@@ -264,5 +264,47 @@
     ],
     "answer": "C",
     "explanation": "Catalonia is an autonomous community of Spain, which held a contested independence referendum in 2017. Mindanao is a region of the Philippines. Crimea is a peninsula of Ukraine annexed by Russia in 2014, not part of Hungary. Oromia is a region of Ethiopia, not Nigeria. Pairs 1 and 3 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "10",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nInternational agreement/set-up — Subject\n1. Alma-Ata Declaration — Healthcare of the people\n2. Hague Convention — Biological and chemical weapons\n3. Talanoa Dialogue — Global climate change\n4. Under2 Coalition — Child rights\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "The 1978 Alma-Ata Declaration concerns primary healthcare for all (pair 1 correct). The Talanoa Dialogue was a UNFCCC process to assess collective climate action under the Paris Agreement (pair 3 correct). The Hague Convention is not the instrument for biological and chemical weapons, which are covered by the Biological Weapons Convention and the Chemical Weapons Convention (pair 2 incorrect). The Under2 Coalition is a global network of governments committed to limiting warming and climate action, not child rights (pair 4 incorrect)."
+  },
+  {
+    "year": "2020",
+    "qno": "14",
+    "subject": "Political Science and International Relations",
+    "question": "One common agreement between Gandhism and Marxism is",
+    "options": [
+      "the final goal of a stateless society",
+      "class struggle",
+      "abolition of private property",
+      "economic determinism"
+    ],
+    "answer": "A",
+    "explanation": "Both Gandhi (ideal of enlightened anarchy or Ram Rajya based on self-regulation) and Marx (withering away of the state under communism) envisaged a stateless society as the ultimate goal. Gandhi rejected class struggle, violent abolition of private property (he preferred trusteeship) and economic determinism."
+  },
+  {
+    "year": "2020",
+    "qno": "65",
+    "subject": "Political Science and International Relations",
+    "question": "In which one of the following groups are all the four countries members of G20?",
+    "options": [
+      "Argentina, Mexico, South Africa and Turkey",
+      "Australia, Canada, Malaysia and New Zealand",
+      "Brazil, Iran, Saudi Arabia and Vietnam",
+      "Indonesia, Japan, Singapore and South Korea"
+    ],
+    "answer": "A",
+    "explanation": "Argentina, Mexico, South Africa and Turkey are all G20 members. Malaysia, New Zealand, Iran, Vietnam and Singapore are not G20 members."
   }
 ]

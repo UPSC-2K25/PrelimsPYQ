@@ -26,5 +26,19 @@
     ],
     "answer": "B",
     "explanation": "Statements 1 and 2 are correct. Wind blowing parallel to a coastline pushes surface waters offshore via Ekman transport, which pulls cold, deep, nutrient-laden water to the surface (coastal upwelling), fostering rich phytoplankton blooms and high fisheries productivity (as seen in the Benguela and Peru/Humboldt currents). Statement 3 is incorrect because cold ocean currents and cold upwelled waters stabilize the atmospheric boundary layer, suppress convection, and cause desiccation, giving rise to coastal fog and hyper-arid deserts (e.g., Namib and Atacama deserts) rather than humid tropical rainforests."
+  },
+  {
+    "year": "2020",
+    "qno": "93",
+    "subject": "Oceanography",
+    "question": "With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct?\n1. OMT is measured up to a depth of 26°C isotherm which is 129 meters in the south-western Indian Ocean during January-March.\n2. OMT collected during January-March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long-term mean.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "OMT, the average temperature of the ocean column down to the 26°C isotherm (about 129 m in the south-western Indian Ocean in January-March), has been found to be a predictor of the Indian summer monsoon rainfall relative to the long-term mean, and is used in forecasting models. Both statements are correct."
   }
 ]

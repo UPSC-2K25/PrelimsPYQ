@@ -68,5 +68,19 @@
     ],
     "answer": "B",
     "explanation": "Statements 1 and 2 are correct. The Polar Vortex is a persistent, large-scale cyclone hovering over polar regions, strongest in winter when thermal contrast is highest. When a Sudden Stratospheric Warming (SSW) occurs, the vortex slows or buckles, spilling frigid Arctic cold waves southward across North America, Europe, or East Asia. Statement 3 is incorrect because the polar vortex exists in both the troposphere and the stratosphere, and vertical coupling between the two layers dictates its stability and surface weather impacts."
+  },
+  {
+    "year": "2020",
+    "qno": "99",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\n1. Jet streams occur in the Northern Hemisphere only.\n2. Only some cyclones develop an eye.\n3. The temperature inside the eye of a cyclone is nearly 10°C lesser than that of the surroundings.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": "C",
+    "explanation": "Jet streams occur in both hemispheres, so statement 1 is incorrect. Only intense tropical cyclones develop a clear eye, so statement 2 is correct. The eye of a cyclone is warmer than its surroundings because of subsiding air, so statement 3 is incorrect."
   }
 ]

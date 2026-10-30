@@ -138,5 +138,75 @@
     ],
     "answer": "C",
     "explanation": "In ancient Rigvedic geography, Parushni corresponds to the Ravi River, celebrated in Mandala 7 of the Rigveda as the site of the Battle of the Ten Kings (Dasarajna). Vitasta is the ancient name for the Jhelum (the Hydaspes of Greek records), Asikni corresponds to the Chenab (Acesines), and Vipasha corresponds to the Beas (Hyphasis). Therefore, only pair 3 is correctly matched."
+  },
+  {
+    "year": "2020",
+    "qno": "22",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the religious history of India, consider the following statements:\n1. Sthaviravadins belong to Mahayana Buddhism.\n2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.\n3. The deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Sthaviravadins (Theravadins) belong to the Hinayana tradition, not Mahayana, so statement 1 is incorrect. The Lokottaravada was an offshoot of the Mahasanghika school, and the Mahasanghikas’ view of the Buddha as a supramundane, divine being helped lay the ground for Mahayana Buddhism, so statements 2 and 3 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "29",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the history of India, the terms “kulyavapa” and “dronavapa” denote",
+    "options": [
+      "measurement of land",
+      "coins of different monetary value",
+      "classification of urban land",
+      "religious rituals"
+    ],
+    "answer": "A",
+    "explanation": "Kulyavapa and dronavapa were units of land measurement mentioned in Gupta-period inscriptions, denoting the area that could be sown with a kulya or a drona of seed."
+  },
+  {
+    "year": "2020",
+    "qno": "30",
+    "subject": "Ancient Indian History",
+    "question": "Who among the following rulers advised his subjects through this inscription?\n“Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.”",
+    "options": [
+      "Ashoka",
+      "Samudragupta",
+      "Harshavardhana",
+      "Krishnadeva Raya"
+    ],
+    "answer": "A",
+    "explanation": "This is from Ashoka’s Rock Edict XII, which advocates tolerance and respect for all religious sects and warns that disparaging other sects harms one’s own."
+  },
+  {
+    "year": "2020",
+    "qno": "36",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the scholars/litterateurs of ancient India, consider the following statements:\n1. Panini is associated with Pushyamitra Shunga.\n2. Amarasimha is associated with Harshavardhana.\n3. Kalidasa is associated with Chandra Gupta – II.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Panini, the grammarian, lived centuries before Pushyamitra Shunga (Patanjali is associated with Pushyamitra), so statement 1 is incorrect. Amarasimha, author of the Amarakosha, is traditionally linked to the court of Chandragupta II, not Harshavardhana, so statement 2 is incorrect. Kalidasa is traditionally associated with Chandragupta II (Vikramaditya), so statement 3 is correct."
+  },
+  {
+    "year": "2020",
+    "qno": "82",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as",
+    "options": [
+      "ports handling foreign trade",
+      "capitals of powerful kingdoms",
+      "places of exquisite stone art and architecture",
+      "important Buddhist pilgrimage centres"
+    ],
+    "answer": "A",
+    "explanation": "Ghantasala and Kadura on the east coast and Chaul on the west coast were important ports handling India’s maritime trade with the Roman world and Southeast Asia during and around the Gupta period."
   }
 ]

@@ -544,5 +544,173 @@
     ],
     "answer": "B",
     "explanation": "RNA interference (RNAi) is a natural cellular gene-silencing mechanism triggered by double-stranded RNA (dsRNA). Enzymes (such as Dicer) cleave dsRNA into small interfering RNAs (siRNAs), which guide the RNA-induced silencing complex (RISC) to bind with complementary messenger RNA (mRNA) molecules, inducing their cleavage or blocking translation, thereby silencing specific gene expression without altering the underlying nuclear DNA."
+  },
+  {
+    "year": "2020",
+    "qno": "37",
+    "subject": "Science & Technology",
+    "question": "In the context of recent advances in human reproductive technology, “Pronuclear Transfer” is used for",
+    "options": [
+      "fertilization of egg in vitro by the donor sperm",
+      "genetic modification of sperm producing cells",
+      "development of stem cells into functional embryos",
+      "prevention of mitochondrial diseases in offspring"
+    ],
+    "answer": "D",
+    "explanation": "In pronuclear transfer, the pronuclei of a fertilised egg of the intending parents are transferred into a donor egg whose own pronuclei are removed, so that the child avoids inheriting defective mitochondrial DNA from the mother, thereby preventing mitochondrial diseases."
+  },
+  {
+    "year": "2020",
+    "qno": "39",
+    "subject": "Science & Technology",
+    "question": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?\n1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.\n2. VLC is known as long-range optical wireless communication.\n3. VLC can transmit large amounts of data faster than Bluetooth.\n4. VLC has no electromagnetic interference.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "VLC uses visible light in roughly the 375-780 nm range, can transmit data at higher rates than Bluetooth, and does not cause or suffer electromagnetic interference. It is a short-range optical wireless technology, not long-range, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "40",
+    "subject": "Science & Technology",
+    "question": "With reference to “Blockchain Technology”, consider the following statements:\n1. It is a public ledger that everyone can inspect, but which no single user controls.\n2. The structure and design of blockchain is such that all the data in it are about cryptocurrency only.\n3. Applications that depend on basic features of blockchain can be developed without anybody’s permission.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": "D",
+    "explanation": "A public blockchain is a distributed ledger that anyone can inspect and no single user controls (statement 1 correct), and open, permissionless blockchains allow anyone to build applications on them (statement 3 correct). Blockchains can store any kind of data such as contracts, supply-chain records and land records, not only cryptocurrency data, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "41",
+    "subject": "Science & Technology",
+    "question": "With reference to carbon nanotubes, consider the following statements:\n1. They can be used as carriers of drugs and antigens in the human body.\n2. They can be made into artificial blood capillaries for an injured part of human body.\n3. They can be used in biochemical sensors.\n4. Carbon nanotubes are biodegradable.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Carbon nanotubes are being used for targeted drug and antigen delivery, as scaffolds for artificial blood vessels and tissue repair, and in biochemical sensors. Research has shown that functionalised carbon nanotubes can be degraded by enzymes, so the official key treats all four statements as correct."
+  },
+  {
+    "year": "2020",
+    "qno": "42",
+    "subject": "Science & Technology",
+    "question": "Consider the following activities:\n1. Spraying pesticides on a crop field\n2. Inspecting the craters of active volcanoes\n3. Collecting breath samples from spouting whales for DNA analysis\nAt the present level of technology, which of the above activities can be successfully carried out by using drones?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Drones are already used for aerial spraying of pesticides, for inspecting and sampling the craters of active volcanoes, and for collecting exhaled breath (blow) samples from whales for DNA and health analysis."
+  },
+  {
+    "year": "2020",
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "“The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometres long, with lasers shining between the craft.” The experiment in question refers to",
+    "options": [
+      "Voyager-2",
+      "New Horizons",
+      "LISA Pathfinder",
+      "Evolved LISA"
+    ],
+    "answer": "D",
+    "explanation": "The Evolved Laser Interferometer Space Antenna (eLISA/LISA) is a planned space-based gravitational wave observatory with three spacecraft in a triangular formation, with arms about a million kilometres long and laser links between them. LISA Pathfinder was only a technology demonstrator with a single spacecraft."
+  },
+  {
+    "year": "2020",
+    "qno": "44",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.\n2. A person’s genome can be edited before birth at the early embryonic stage.\n3. Human induced pluripotent stem cells can be injected into the embryo of a pig.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Germline editing of cells that give rise to eggs and sperm is technically possible with tools such as CRISPR-Cas9, as is editing the genome of an early embryo. Human induced pluripotent stem cells have been injected into pig embryos to create human-pig chimeras for research on growing organs. All three statements are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "45",
+    "subject": "Science & Technology",
+    "question": "What is the importance of using Pneumococcal Conjugate Vaccines in India?\n1. These vaccines are effective against pneumonia as well as meningitis and sepsis.\n2. Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced.\n3. These vaccines have no side effects and cause no allergic reactions.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Pneumococcal conjugate vaccines protect against Streptococcus pneumoniae infections such as pneumonia, meningitis and sepsis, and by preventing infections they reduce the need for antibiotics and so the spread of antimicrobial resistance. No vaccine is entirely free of side effects or allergic reactions, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "In India, the term “Public Key Infrastructure” is used in the context of",
+    "options": [
+      "Digital security infrastructure",
+      "Food security infrastructure",
+      "Health care and education infrastructure",
+      "Telecommunication and transportation infrastructure"
+    ],
+    "answer": "A",
+    "explanation": "Public Key Infrastructure (PKI) is the framework of policies, hardware, software and certificates, based on public-key cryptography, used to issue and manage digital certificates and signatures for secure electronic communication. In India it is governed under the IT Act, 2000 through Certifying Authorities."
+  },
+  {
+    "year": "2020",
+    "qno": "47",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements are correct regarding the general difference between plant and animal cells?\n1. Plant cells have cellulose cell walls whilst animal cells do not.\n2. Plant cells do not have plasma membrane unlike animal cells which do.\n3. Mature plant cell has one large vacuole whilst animal cell has many small vacuoles.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Plant cells have a rigid cellulose cell wall that animal cells lack, and a mature plant cell typically has one large central vacuole while animal cells have several small ones. Both plant and animal cells have a plasma membrane (inside the cell wall in plants), so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "55",
+    "subject": "Science & Technology",
+    "question": "In India, why are some nuclear reactors kept under “IAEA Safeguards” while others are not?",
+    "options": [
+      "Some use uranium and others use thorium",
+      "Some use imported uranium and others use domestic supplies",
+      "Some are operated by foreign enterprises and others are operated by domestic enterprises",
+      "Some are State-owned and others are privately-owned"
+    ],
+    "answer": "B",
+    "explanation": "Under the India-US civil nuclear deal and the separation plan, reactors using imported uranium and other foreign-supplied fuel are placed under IAEA safeguards, while those using domestic uranium are kept outside safeguards."
+  },
+  {
+    "year": "2020",
+    "qno": "88",
+    "subject": "Science & Technology",
+    "question": "With reference to solar water pumps, consider the following statements:\n1. Solar power can be used for running surface pumps and not for submersible pumps.\n2. Solar power can be used for running centrifugal pumps and not the ones with piston.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Solar power can run both surface and submersible pumps, and both centrifugal and positive-displacement (piston) pumps. Both statements are incorrect."
   }
 ]

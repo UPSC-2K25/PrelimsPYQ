@@ -110,5 +110,33 @@
     ],
     "answer": "D",
     "explanation": "The Nadi-Sukta of the Rigveda is a sacred literary hymn honoring rivers rather than geological or paleogeographical evidence. Robert Bruce Foote is renowned as the father of Indian prehistory for his stone tool discoveries at Pallavaram, not for hydrological explorations demonstrating Pleistocene river capture. The presence of closely related freshwater river dolphins (Platanista gangetica and Platanista minor) in both the Ganga and Indus basins—mammals that cannot travel through saltwater marine environments—provides primary zoological and geological evidence of a prehistoric, continuous freshwater linkage between both drainage systems before tectonic diversions."
+  },
+  {
+    "year": "2020",
+    "qno": "68",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nRiver — Flows into\n1. Mekong — Andaman Sea\n2. Thames — Irish Sea\n3. Volga — Caspian Sea\n4. Zambezi — Indian Ocean\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "The Mekong flows into the South China Sea and the Thames into the North Sea, so pairs 1 and 2 are incorrect. The Volga drains into the Caspian Sea and the Zambezi into the Indian Ocean, so pairs 3 and 4 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "96",
+    "subject": "Geomorphology",
+    "question": "Siachen Glacier is situated to the",
+    "options": [
+      "East of Aksai Chin",
+      "East of Leh",
+      "North of Gilgit",
+      "North of Nubra Valley"
+    ],
+    "answer": "D",
+    "explanation": "The Siachen Glacier lies in the eastern Karakoram range, north of the Nubra Valley in Ladakh."
   }
 ]
