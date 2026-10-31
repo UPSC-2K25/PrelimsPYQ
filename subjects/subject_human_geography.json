@@ -1,19 +1,5 @@
 [
   {
-    "year": "2023",
-    "qno": "8",
-    "subject": "Human Geography",
-    "question": "Which one of the following is a part of the Congo Basin?",
-    "options": [
-      "Cameroon",
-      "Nigeria",
-      "South Sudan",
-      "Uganda"
-    ],
-    "answer": "A",
-    "explanation": "The Congo Basin spans across six Central African countries: Cameroon, the Central African Republic, the Democratic Republic of the Congo, the Republic of the Congo, Equatorial Guinea, and Gabon. Southern and eastern parts of Cameroon drain into the Sangha and Congo River system."
-  },
-  {
     "year": "2017",
     "qno": "49",
     "subject": "Human Geography",
@@ -68,20 +54,6 @@
     ],
     "answer": "A",
     "explanation": "Great Nicobar's southern tip, Indira Point, lies only about 150 km from Sumatra in Indonesia, which makes Sumatra the closest of the options."
-  },
-  {
-    "year": "2024",
-    "qno": "1",
-    "subject": "Human Geography",
-    "question": "The total fertility rate in an economy is defined as:",
-    "options": [
-      "the number of children born per 1000 people in the population in a year",
-      "the number of children born to a couple in their lifetime in a given population",
-      "the birth rate minus death rate",
-      "the average number of live births a woman would have by the end of her child-bearing age"
-    ],
-    "answer": "D",
-    "explanation": "Total Fertility Rate (TFR) measures the average number of live births a woman would have if she were to survive through her reproductive child-bearing years (15–49) and bear children in accordance with prevailing age-specific fertility rates."
   },
   {
     "year": "2019",

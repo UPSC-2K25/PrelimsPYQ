@@ -3,12 +3,12 @@
     {
       "name": "Ancient Indian History",
       "filename": "subject_ancient_indian_history.json",
-      "count": 38
+      "count": 36
     },
     {
       "name": "Art & Culture",
       "filename": "subject_art_culture.json",
-      "count": 32
+      "count": 28
     },
     {
       "name": "Artificial Intelligence",
@@ -18,7 +18,7 @@
     {
       "name": "Biogeography",
       "filename": "subject_biogeography.json",
-      "count": 32
+      "count": 30
     },
     {
       "name": "Climatology",
@@ -28,37 +28,37 @@
     {
       "name": "Constitution",
       "filename": "subject_constitution.json",
-      "count": 90
+      "count": 82
     },
     {
       "name": "Economic Geography",
       "filename": "subject_economic_geography.json",
-      "count": 40
+      "count": 36
     },
     {
       "name": "Environment and Ecology",
       "filename": "subject_environment_and_ecology.json",
-      "count": 96
+      "count": 85
     },
     {
       "name": "Geomorphology",
       "filename": "subject_geomorphology.json",
-      "count": 25
+      "count": 23
     },
     {
       "name": "Governance",
       "filename": "subject_governance.json",
-      "count": 61
+      "count": 56
     },
     {
       "name": "Human Geography",
       "filename": "subject_human_geography.json",
-      "count": 18
+      "count": 16
     },
     {
       "name": "Indian Economy",
       "filename": "subject_indian_economy.json",
-      "count": 137
+      "count": 126
     },
     {
       "name": "Indian Society",
@@ -73,12 +73,12 @@
     {
       "name": "Medieval Indian History",
       "filename": "subject_medieval_indian_history.json",
-      "count": 23
+      "count": 20
     },
     {
       "name": "Modern Indian History",
       "filename": "subject_modern_indian_history.json",
-      "count": 58
+      "count": 57
     },
     {
       "name": "Oceanography",
@@ -88,12 +88,12 @@
     {
       "name": "Political Science and International Relations",
       "filename": "subject_political_science_and_international_relations.json",
-      "count": 45
+      "count": 43
     },
     {
       "name": "Science & Technology",
       "filename": "subject_science_technology.json",
-      "count": 103
+      "count": 97
     },
     {
       "name": "World Economy",
@@ -113,8 +113,6 @@
     2020,
     2021,
     2022,
-    2023,
-    2024,
     2025,
     2026
   ],
