@@ -292,5 +292,33 @@
     ],
     "answer": "A",
     "explanation": "Bhilsa (Vidisha) is in Madhya Pradesh and Girinagar (Junagadh) is in Gujarat. Dwarasamudra (Halebid), the Hoysala capital, is in Karnataka, and Sthanesvara (Thanesar) is in Haryana."
+  },
+  {
+    "year": "2025",
+    "qno": "16",
+    "subject": "Medieval Indian History",
+    "question": "Who among the following led a successful military campaign against the kingdom of Srivijaya, the powerful maritime State, which ruled the Malay Peninsula, Sumatra, Java and the neighbouring islands?",
+    "options": [
+      "Amoghavarsha (Rashtrakuta)",
+      "Prataparudra (Kakatiya)",
+      "Rajendra I (Chola)",
+      "Vishnuvardhana (Hoysala)"
+    ],
+    "answer": "C",
+    "explanation": "The Chola emperor Rajendra I launched a naval expedition against Srivijaya (c. 1025 CE) and captured Kadaram (Kedah), demonstrating Chola maritime power."
+  },
+  {
+    "year": "2025",
+    "qno": "75",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following fruits:\nI. Papaya\nII. Pineapple\nIII. Guava\nHow many of the above were introduced in India by the Portuguese in the sixteenth and seventeenth centuries?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Papaya, pineapple and guava are all New World fruits that reached India through the Portuguese in the 16th-17th centuries."
   }
 ]

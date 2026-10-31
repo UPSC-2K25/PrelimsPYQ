@@ -1,5 +1,33 @@
 [
   {
+    "year": "2026",
+    "qno": "42",
+    "subject": "Artificial Intelligence",
+    "question": "Which of the following statements with regard to Large Language Models (LLMs) used in machine learning is/are correct?\n1. LLMs assign probabilities to the next possible words and then pick the one with the highest probability.\n2. LLMs process data through mathematical optimization to minimise prediction errors.\n3. LLMs produce unbiased outputs.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "LLMs predict a probability distribution over next tokens and select (by the highest probability or by sampling), and they are trained by optimisation (gradient descent) to minimise prediction loss. They inherit biases from training data, so their outputs are not unbiased."
+  },
+  {
+    "year": "2026",
+    "qno": "65",
+    "subject": "Artificial Intelligence",
+    "question": "Consider the following statements with respect to the AI Impact Summit, 2026 held in New Delhi:\n1. The Summit's intellectual framework was based on three foundational Sutras: People, Planning, and Progress.\n2. The Preamble of the Summit stresses Democratising AI Resources, which acknowledges the Charter for Democratic Diffusion of AI as a binding framework to support locally relevant innovation and strengthen resilient AI ecosystems while respecting national laws.\n3. The New Delhi Declaration on AI Impact was structured around seven Chakras (Pillars), which included Access for Social Empowerment, AI for Science, and Secure and Trusted AI.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "The Summit's three Sutras were People, Planet and Progress, not Planning. The Charter for Democratic Diffusion of AI is a voluntary, non-binding framework. The New Delhi Declaration was organised around seven Chakras, including Access for Social Empowerment, AI for Science and Secure and Trusted AI."
+  },
+  {
     "year": "2020",
     "qno": "38",
     "subject": "Artificial Intelligence",
@@ -12,5 +40,33 @@
     ],
     "answer": "D",
     "explanation": "AI is used to optimise energy consumption in industrial units and data centres, to generate short stories and songs, to assist disease diagnosis, and to power text-to-speech conversion. The official key treats AI-assisted management and optimisation of wireless power transmission as feasible too, so all five are accepted."
+  },
+  {
+    "year": "2025",
+    "qno": "47",
+    "subject": "Artificial Intelligence",
+    "question": "Consider the following statements:\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 chip has been introduced by Amazon Web Services (AWS).\nIII. Deep learning is a subset of machine learning.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "Majorana 1 is a topological quantum chip introduced by Microsoft (not AWS) in 2025, expected to enable scalable quantum computing. Deep learning is a subset of machine learning."
+  },
+  {
+    "year": "2025",
+    "qno": "95",
+    "subject": "Artificial Intelligence",
+    "question": "Consider the following statements regarding AI Action Summit held in Grand Palais, Paris in February 2025:\nI. Co-chaired with India, the event builds on the advances made at the Bletchley Park Summit held in 2023 and the Seoul Summit held in 2024.\nII. Along with other countries, US and UK also signed the declaration on inclusive and sustainable AI.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "A",
+    "explanation": "The Paris AI Action Summit was co-chaired by France and India and followed the Bletchley Park (2023) and Seoul (2024) summits. The US and UK declined to sign the final declaration on inclusive and sustainable AI, so II is incorrect."
   }
 ]

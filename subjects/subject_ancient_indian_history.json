@@ -266,6 +266,118 @@
     "explanation": "Maitreya is the future Buddha in Buddhist tradition, who will appear when the teachings of Gautama Buddha are forgotten. Avalokiteshvara, Lokesvara and Padmapani are names of the same Bodhisattva of compassion."
   },
   {
+    "year": "2026",
+    "qno": "3",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements:\nI. Pali texts contain the first definite references to coins, e.g., kahapana, nikkha, kamsa, and kakanika.\nII. The literary evidence from Pali texts is corroborated by archaeological evidence of punch-marked coins from many sites, most of them made of silver.\nThe above statements have been associated with which of the following?\n1. Emergence of urban life\n2. Transition to money economy\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "References to coin denominations and finds of punch-marked silver coins indicate the shift from barter to a money economy in the post-Vedic period. The statements concern coinage and exchange, so they are associated with the transition to a money economy rather than directly with urbanisation."
+  },
+  {
+    "year": "2026",
+    "qno": "5",
+    "subject": "Ancient Indian History",
+    "question": "Among the four main forms of existence of life recognized in Jainism, which one of the following is not included?",
+    "options": [
+      "Deva (gods)",
+      "Yaksha (demi-gods)",
+      "Manushya (humans)",
+      "Tiryancha (animals and plants)"
+    ],
+    "answer": "B",
+    "explanation": "Jainism classifies living beings into four gatis: Deva (celestial beings), Manushya (humans), Tiryancha (animals and plants) and Naraka (hell beings). Yakshas are included among the celestial class rather than being a separate main form."
+  },
+  {
+    "year": "2026",
+    "qno": "7",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements relating to the use of the place-value system in India:\n1. The earliest epigraphic use of the place-value system in India is found in the Mankani plates from Gujarat (AD 595-596).\n2. In the ninth century, place-values become general in inscriptions all over India.\n3. The place-values have been found in Sanskrit inscriptions in South-east Asia as early as the seventh century.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Mankani plates (594-595 CE) give the earliest dated epigraphic use of place-value numerals in India, such usage became general in Indian inscriptions by about the ninth century, and Sanskrit inscriptions in South-east Asia (for example Sambor in Cambodia, 683 CE) show place-values from the seventh century. All three are correct."
+  },
+  {
+    "year": "2026",
+    "qno": "8",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements about the archaeological findings in Harappan towns:\nI. There is wide occurrence of spindle-whorls in the houses but absence of spinning wheels.\nII. Weights and measurement scales, complete with graduations have been discovered.\nIII. There are houses built in large part with baked bricks, around relatively spacious courtyards, with their own wells, bathing platforms, and large rooms.\nWhich of the following inferences can be drawn from the above statements?\n1. Statement I suggests that spinning was a laborious activity done at home.\n2. Statement II suggests the extent of the scientific knowledge that the Harappans possessed.\n3. Statement III suggests the emergence of a common property system.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Spindle-whorls without wheels point to hand spinning in households, and graduated weights and scales show practical scientific and mathematical knowledge. Large houses with their own wells and bathing platforms suggest private household ownership and social differentiation, not a common property system."
+  },
+  {
+    "year": "2026",
+    "qno": "10",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements about the Rigvedic period:\nI. Irrigation from wells allowed agriculture to expand away from flood plains and strips on river margins into the present Punjab and Haryana plains having underground water levels reasonably close to the surface.\nII. Draught-animal power was employed to draw up water out of the wells.\nWhich of the following information support/supports the above statements?\n1. There is evidence in the Rigveda of the use of ashma chakra (stone pulley wheel) and ahava (strapped wooden pails) to draw up water.\n2. Mention has been made in the Rigveda of the use of implements like parashu/kulisha (axe) and datra/sreni (sickle).\n3. There is a history of the use of ox, even before the Rigveda, for ploughing the land and pulling the carts.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "3 only"
+    ],
+    "answer": "C",
+    "explanation": "Rigvedic references to a pulley wheel and strapped pails for drawing well water support well irrigation (I), and the long-standing use of oxen for ploughing and drawing carts supports the use of draught animals to draw water (II). Mentions of axes and sickles concern tools generally and do not bear on irrigation from wells or animal-powered water lifting."
+  },
+  {
+    "year": "2026",
+    "qno": "13",
+    "subject": "Ancient Indian History",
+    "question": "Which of the following pairs of ancient and modern names of rivers is/are correctly matched?\n1. Vitasta : Chenab\n2. Asikni : Jhelum\n3. Parushni : Ravi\n4. Yavyavati : Beas\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "3 and 4",
+      "3 only",
+      "4 only"
+    ],
+    "answer": "C",
+    "explanation": "Parushni is the Ravi. Vitasta is the Jhelum (not Chenab), Asikni is the Chenab (not Jhelum), and the Beas is Vipasa; Yavyavati is not the Beas."
+  },
+  {
+    "year": "2026",
+    "qno": "15",
+    "subject": "Ancient Indian History",
+    "question": "Which of the following pairs of the king and his dynasty in early historical Tamilakam is/are not correctly matched?\n1. Senguttuvan : Chera\n2. Udiyanjeral : Chola\n3. Nedunjeliyan : Pandya\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Senguttuvan (Chera) and Nedunjeliyan (Pandya) are correctly matched. Udiyanjeral was a Chera king, not a Chola, so pair 2 is the incorrect one."
+  },
+  {
+    "year": "2026",
+    "qno": "20",
+    "subject": "Ancient Indian History",
+    "question": "In which one among the following texts does the term kshetra-patni ('mistress of the field') originate?",
+    "options": [
+      "Rigveda",
+      "Atharvaveda",
+      "Ashtadhyayi",
+      "Arthashastra"
+    ],
+    "answer": "B",
+    "explanation": "The phrase 'mistress/lord of the field' (kshetrapati/kshetra-patni) occurs in Vedic agricultural hymns; the Atharvaveda, which contains many agrarian and domestic ritual hymns, is the source usually cited for kshetra-patni. This one is a lower-confidence match and worth checking against the official key."
+  },
+  {
     "year": "2020",
     "qno": "22",
     "subject": "Ancient Indian History",
@@ -334,5 +446,89 @@
     ],
     "answer": "A",
     "explanation": "Ghantasala and Kadura on the east coast and Chaul on the west coast were important ports handling India’s maritime trade with the Roman world and Southeast Asia during and around the Gupta period."
+  },
+  {
+    "year": "2025",
+    "qno": "13",
+    "subject": "Ancient Indian History",
+    "question": "The irrigation device called 'Araghatta' was",
+    "options": [
+      "a water bag made of leather pulled over a pulley",
+      "a large wheel with earthen pots tied to the outer ends of its spokes",
+      "a larger earthen pot driven by bullocks",
+      "a large water bucket pulled up by rope directly by hand"
+    ],
+    "answer": "B",
+    "explanation": "Araghatta was the Persian-wheel type irrigation device: a large wheel with earthen pots fixed to the outer ends of its spokes that lifted water from wells or streams."
+  },
+  {
+    "year": "2025",
+    "qno": "14",
+    "subject": "Ancient Indian History",
+    "question": "Who among the following rulers in ancient India had assumed the titles 'Mattavilasa', 'Vichitrachitta' and 'Gunabhara'?",
+    "options": [
+      "Mahendravarman I",
+      "Simhavishnu",
+      "Narasimhavarman I",
+      "Simhavarman"
+    ],
+    "answer": "A",
+    "explanation": "The Pallava king Mahendravarman I (c. 600-630 CE), a patron of art, music and architecture and author of the play Mattavilasa Prahasana, bore titles such as Mattavilasa, Vichitrachitta and Gunabhara."
+  },
+  {
+    "year": "2025",
+    "qno": "15",
+    "subject": "Ancient Indian History",
+    "question": "Fa-hien (Faxian), the Chinese pilgrim, travelled to India during the reign of",
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta"
+    ],
+    "answer": "B",
+    "explanation": "Faxian visited India around 399-414 CE during the reign of Chandragupta II (Vikramaditya) of the Gupta dynasty."
+  },
+  {
+    "year": "2025",
+    "qno": "17",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient India (600-322 BC), consider the following pairs:\nTerritorial region : River flowing in the region\nI. Asmaka : Godavari\nII. Kamboja : Vipas\nIII. Avanti : Mahanadi\nIV. Kosala : Saryu\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "B",
+    "explanation": "Asmaka (Assaka) lay on the Godavari and Kosala on the Sarayu, so I and IV are correct. Kamboja was in the north-west (Hindukush region), not on the Vipas (Beas), and Avanti (Malwa) is not on the Mahanadi. Hence only two pairs are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "19",
+    "subject": "Ancient Indian History",
+    "question": "Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the",
+    "options": [
+      "village-level administration",
+      "district-level administration",
+      "provincial administration",
+      "level of the central administration"
+    ],
+    "answer": "B",
+    "explanation": "Ashoka's Rock Edict III mentions Yukta, Rajuka and Pradeshika as officers who toured every five years; they were officials of district-level administration."
+  },
+  {
+    "year": "2025",
+    "qno": "72",
+    "subject": "Ancient Indian History",
+    "question": "The famous female figurine known as 'Dancing Girl', found at Mohenjo-daro, is made of",
+    "options": [
+      "carnelian",
+      "clay",
+      "bronze",
+      "gold"
+    ],
+    "answer": "C",
+    "explanation": "The Dancing Girl of Mohenjo-daro is a small bronze statuette made by the lost-wax (cire perdue) technique."
   }
 ]

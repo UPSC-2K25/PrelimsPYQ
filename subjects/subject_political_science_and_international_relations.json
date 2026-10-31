@@ -392,6 +392,146 @@
     "explanation": "Catalonia is an autonomous community of Spain, which held a contested independence referendum in 2017. Mindanao is a region of the Philippines. Crimea is a peninsula of Ukraine annexed by Russia in 2014, not part of Hungary. Oromia is a region of Ethiopia, not Nigeria. Pairs 1 and 3 are correct."
   },
   {
+    "year": "2026",
+    "qno": "61",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements about river bridges connecting India with neighbouring countries:\n1. 'Maitri Setu', built over Feni river, connects Ramgarh in India with Sabroom in Bangladesh.\n2. Jhulaghat suspension bridge connects India with Myanmar.\n3. Mechi bridge and its approaches connect Panitanki Bypass in India with Kakarvitta in Nepal.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "1 only",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Maitri Setu over the Feni river links Sabroom in Tripura (India) with Ramgarh in Bangladesh, so the places in statement 1 are swapped. The Jhulaghat bridge over the Kali river connects India with Nepal, not Myanmar. The Mechi bridge links Panitanki in India with Kakarvitta in Nepal."
+  },
+  {
+    "year": "2026",
+    "qno": "64",
+    "subject": "Political Science and International Relations",
+    "question": "Which of the following international conventions have not been ratified by India?\n1. Employment Policy Convention\n2. Abolition of Forced Labour Convention\n3. International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\n4. Geneva Convention Relative to the Protection of Civilian Persons in Time of War\n5. Convention on Reduction of Statelessness\nSelect the answer using the code given below:",
+    "options": [
+      "2 and 4",
+      "1 and 2",
+      "3 and 4 only",
+      "3, 4 and 5"
+    ],
+    "answer": "D",
+    "explanation": "India has ratified ILO Conventions on employment policy (C122) and abolition of forced labour (C105) and the Fourth Geneva Convention, but has not ratified the Migrant Workers Convention or the Convention on the Reduction of Statelessness (statements 3 and 5). No option matches exactly, and this question was reported as dropped; option D is the only one containing both unratified conventions, so it is the closest."
+  },
+  {
+    "year": "2026",
+    "qno": "66",
+    "subject": "Political Science and International Relations",
+    "question": "Which of the following connectivity projects is/are a part of cooperation between India and the ASEAN member countries?\n1. Kaladan Multi-Modal Transit Transport Project\n2. IMT Trilateral Highway\n3. Agartala-Akhaura Rail Line\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "1 and 3",
+      "2 only"
+    ],
+    "answer": "A",
+    "explanation": "The Kaladan project (India-Myanmar) and the India-Myanmar-Thailand Trilateral Highway involve ASEAN members Myanmar and Thailand. The Agartala-Akhaura rail line links India with Bangladesh, which is not an ASEAN member."
+  },
+  {
+    "year": "2026",
+    "qno": "67",
+    "subject": "Political Science and International Relations",
+    "question": "Match List I with List II and select the answer using the code given below the Lists:\nList I (Project Supported by India): A. Mangdechhu Hydroelectric Project; B. Restoration of Stor Palace; C. District Hospital at Dickoya; D. Institute of Security and Law Enforcement Studies\nList II (Country): 1. Maldives; 2. Afghanistan; 3. Bhutan; 4. Sri Lanka\nCode: A B C D",
+    "options": [
+      "1 4 2 3",
+      "3 2 4 1",
+      "3 4 2 1",
+      "1 2 4 3"
+    ],
+    "answer": "B",
+    "explanation": "Mangdechhu is a hydroelectric project in Bhutan, the Stor Palace is in Kabul, Afghanistan, the Dickoya district hospital is in Sri Lanka's Central Province, and the Institute of Security and Law Enforcement Studies is in the Maldives. This gives A-3, B-2, C-4, D-1."
+  },
+  {
+    "year": "2026",
+    "qno": "69",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements about platforms for multilateral co-operation:\n1. The 'Colombo Process' is a regional consultative process in which member states take binding decisions by consensus.\n2. The 'Abu Dhabi Dialogue' is a voluntary non-binding consultative process among Asian countries of labour origin and destination to facilitate regional cooperation on contractual labour mobility.\n3. The 'Global Forum for Migration and Development', created upon the proposal of a former UN Secretary General, is a voluntary forum whose decisions are non-binding in nature.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "2 only"
+    ],
+    "answer": "C",
+    "explanation": "The Colombo Process is a non-binding regional consultative process, so statement 1 is wrong. The Abu Dhabi Dialogue is a voluntary, non-binding forum on labour mobility, and the GFMD, proposed by Kofi Annan, is a voluntary, non-binding forum."
+  },
+  {
+    "year": "2026",
+    "qno": "70",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following UN organisations/agencies:\n1. World Food Programme\n2. United Nations Children's Fund\n3. United Nations High Commissioner for Refugees\n4. International Labour Organisation\nHow many of the above has/have been awarded the Nobel Prize twice?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A",
+    "explanation": "UNHCR won the Nobel Peace Prize twice (1954 and 1981). The WFP (2020), UNICEF (1965) and ILO (1969) each won it once."
+  },
+  {
+    "year": "2026",
+    "qno": "71",
+    "subject": "Political Science and International Relations",
+    "question": "Match List I with List II and select the answer using the code given below the Lists:\nList I (UN Peacekeeping Operation): A. UNMIL; B. MINURCAT; C. MINUSTAH; D. UNMISET\nList II (Period of Operation): 1. 2007-2010; 2. 2002-2005; 3. 2003-2018; 4. 2004-2017\nCode: A B C D",
+    "options": [
+      "3 4 1 2",
+      "3 1 4 2",
+      "2 1 4 3",
+      "2 4 1 3"
+    ],
+    "answer": "B",
+    "explanation": "UNMIL (Liberia) ran from 2003 to 2018, MINURCAT (Chad and Central African Republic) from 2007 to 2010, MINUSTAH (Haiti) from 2004 to 2017, and UNMISET (East Timor) from 2002 to 2005."
+  },
+  {
+    "year": "2026",
+    "qno": "72",
+    "subject": "Political Science and International Relations",
+    "question": "Match List I with List II and select the answer using the code given below the Lists:\nList I (BIMSTEC Centre/Establishment): A. BIMSTEC Cultural Industries Observatory; B. BIMSTEC Energy Centre; C. BIMSTEC Centre for Weather and Climate; D. BIMSTEC Technology Transfer Facility\nList II (Location): 1. NOIDA; 2. Bengaluru; 3. Colombo; 4. Thimphu\nCode: A B C D",
+    "options": [
+      "3 2 1 4",
+      "3 1 2 4",
+      "4 2 1 3",
+      "4 1 2 3"
+    ],
+    "answer": "C",
+    "explanation": "The BIMSTEC Cultural Industries Observatory is in Thimphu, the Energy Centre in Bengaluru, the Centre for Weather and Climate in NOIDA, and the Technology Transfer Facility in Colombo."
+  },
+  {
+    "year": "2026",
+    "qno": "75",
+    "subject": "Political Science and International Relations",
+    "question": "Which of the following countries are members of the European Union?\n1. Belarus\n2. Poland\n3. Germany\n4. Switzerland\nSelect the answer using the code given below:",
+    "options": [
+      "1, 2 and 4",
+      "1 and 4 only",
+      "2 and 3",
+      "2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Poland and Germany are EU member states. Belarus and Switzerland are not members."
+  },
+  {
+    "year": "2026",
+    "qno": "78",
+    "subject": "Political Science and International Relations",
+    "question": "The Chancellor of the Federal Republic of Germany visited India in January, 2026. Which of the following is/are not correct in terms of outcomes of this visit?\n1. Signing of a Memorandum of Understanding between the All India Institute of Ayurveda and the University of Hamburg\n2. Signing of a Memorandum of Understanding on Youth Hockey Development between Hockey India and the German Hockey Federation\n3. Establishment of a bilateral dialogue mechanism on the Indo-Pacific\n4. Opening of an Honorary Consul of Germany in Lucknow\nSelect the answer using the code given below:",
+    "options": [
+      "2 and 3",
+      "1 and 4",
+      "3 and 4",
+      "1 only"
+    ],
+    "answer": "B",
+    "explanation": "The Ayurveda MoU was signed between the All India Institute of Ayurveda and Charite University, Berlin, not the University of Hamburg. No opening of a German Honorary Consulate in Lucknow was part of the outcomes. The youth hockey MoU and the Indo-Pacific dialogue mechanism were genuine outcomes."
+  },
+  {
     "year": "2020",
     "qno": "10",
     "subject": "Political Science and International Relations",
@@ -432,5 +572,61 @@
     ],
     "answer": "A",
     "explanation": "Argentina, Mexico, South Africa and Turkey are all G20 members. Malaysia, New Zealand, Iran, Vietnam and Singapore are not G20 members."
+  },
+  {
+    "year": "2025",
+    "qno": "21",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\nI. Austria\nII. Bulgaria\nIII. Croatia\nIV. Serbia\nV. Sweden\nVI. North Macedonia\nHow many of the above are members of the North Atlantic Treaty Organization?",
+    "options": [
+      "Only three",
+      "Only four",
+      "Only five",
+      "All the six"
+    ],
+    "answer": "B",
+    "explanation": "Bulgaria, Croatia, Sweden (joined 2024) and North Macedonia are NATO members. Austria and Serbia are not."
+  },
+  {
+    "year": "2025",
+    "qno": "92",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements in respect of BIMSTEC:\nI. It is a regional organization consisting of seven member States till January 2025.\nII. It came into existence with the signing of the Dhaka Declaration, 1999.\nIII. Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States of BIMSTEC.\nIV. In BIMSTEC, the subsector of 'tourism' is being led by India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "I and III",
+      "I and IV",
+      "I only"
+    ],
+    "answer": "C",
+    "explanation": "BIMSTEC has seven members (Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand) and India leads the tourism sector. It was formed by the Bangkok Declaration of 1997, and its founding members were Bangladesh, India, Sri Lanka and Thailand (Myanmar, then Nepal and Bhutan joined later), so II and III are incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "96",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nI. International Year of the Woman Farmer : 2026\nII. International Year of Sustainable and Resilient Tourism : 2027\nIII. International Year of Peace and Trust : 2025\nIV. International Year of Asteroid Awareness and Planetary Defence : 2029\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "D",
+    "explanation": "The UN has proclaimed 2025 as the International Year of Peace and Trust, 2026 as the Year of the Woman Farmer, 2027 as the Year of Sustainable and Resilient Tourism and 2029 as the Year of Asteroid Awareness and Planetary Defence. All pairs are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "97",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements with regard to BRICS:\nI. 16th BRICS Summit was held under the Chairship of Russia in Kazan.\nII. Indonesia has become a full member of BRICS.\nIII. The theme of the 16th BRICS Summit was Strengthening Multiculturalism for Just Global Development and Security.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "II and III",
+      "I and III",
+      "I only"
+    ],
+    "answer": "A",
+    "explanation": "The 16th BRICS Summit was held in Kazan under Russia's chairship (October 2024) and Indonesia joined as a full member in January 2025. The summit theme was 'Strengthening Multilateralism for Just Global Development and Security', not 'Multiculturalism', so III is incorrect."
   }
 ]

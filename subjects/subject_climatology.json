@@ -84,6 +84,34 @@
     "explanation": "The roles are reversed in both statements. Low, thick clouds mainly reflect incoming solar radiation and cool the surface. High, thin clouds such as cirrus are largely transparent to sunlight but trap outgoing infrared radiation, which warms the surface. Neither statement is correct."
   },
   {
+    "year": "2026",
+    "qno": "33",
+    "subject": "Climatology",
+    "question": "With reference to the climate of Andaman and Nicobar Islands, which of the following statements is/are correct?\n1. The climate can be defined as a humid, tropical coastal climate.\n2. It receives rainfall from both South-west monsoon and North-east monsoon.\n3. Maximum precipitation is between December and May.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The islands have a hot, humid tropical maritime climate and get rain from both the south-west monsoon and the north-east monsoon (retreating monsoon). Peak rainfall is between May and December, with a drier spell in January-April, so statement 3 is wrong."
+  },
+  {
+    "year": "2026",
+    "qno": "84",
+    "subject": "Climatology",
+    "question": "Which of the following statements with regard to India's indigenous new high resolution weather model, the 'Bharat Forecast System,' is/are correct?\n1. Its objective is to generate forecasts at the Panchayats cluster level.\n2. It was developed by IIT Delhi.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The Bharat Forecast System is a high-resolution (about 6 km) model aimed at forecasts down to the Panchayat cluster level. It was developed by the Indian Institute of Tropical Meteorology, Pune, under the Ministry of Earth Sciences, not IIT Delhi."
+  },
+  {
     "year": "2020",
     "qno": "99",
     "subject": "Climatology",
@@ -96,5 +124,61 @@
     ],
     "answer": "C",
     "explanation": "Jet streams occur in both hemispheres, so statement 1 is incorrect. Only intense tropical cyclones develop a clear eye, so statement 2 is correct. The eye of a cyclone is warmer than its surroundings because of subsiding air, so statement 3 is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "26",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\nStatement I: The amount of dust particles in the atmosphere is more in subtropical and temperate areas than in equatorial and polar regions.\nStatement II: Subtropical and temperate areas have less dry winds.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Dust is more abundant in subtropical and temperate regions because of strong dry winds over deserts and dry lands, so Statement I is correct. Statement II is wrong because these areas have more, not less, dry winds."
+  },
+  {
+    "year": "2025",
+    "qno": "27",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\nStatement I: In January, in the Northern Hemisphere, the isotherms bend equatorward while crossing the landmasses, and poleward while crossing the oceans.\nStatement II: In January, the air over the oceans is warmer than that over the landmasses in the Northern Hemisphere.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "A",
+    "explanation": "In northern winter, land cools faster than sea, so oceans are relatively warmer. Isotherms therefore bend equatorward over cold continents and poleward over warm oceans. Statement II explains Statement I."
+  },
+  {
+    "year": "2025",
+    "qno": "29",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\nI. Without the atmosphere, temperature would be well below freezing point everywhere on the Earth's surface.\nII. Heat absorbed and trapped by the atmosphere maintains our planet's average temperature.\nIII. Atmosphere's gases, like carbon dioxide, are particularly good at absorbing and trapping radiation.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and III only",
+      "I and II only",
+      "I, II and III",
+      "II and III only"
+    ],
+    "answer": "C",
+    "explanation": "The natural greenhouse effect keeps Earth's average surface temperature near 15 degrees C rather than about -18 degrees C. Greenhouse gases such as CO2 absorb and re-emit radiation, so all three statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "64",
+    "subject": "Climatology",
+    "question": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 °C. Which of the following statements best reflect(s) the implication of the above-said report?\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "B",
+    "explanation": "A wet-bulb temperature of 35 °C means evaporation of sweat no longer cools the body, threatening survival of humans and animals. The report's implication is about heat stress, not specifically about floods, cyclones and droughts in peninsular India."
   }
 ]

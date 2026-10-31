@@ -194,5 +194,61 @@
     ],
     "answer": "A",
     "explanation": "Delhi lies at about 77.2°E. Bengaluru is at about 77.6°E, Hyderabad at 78.5°E, Nagpur at 79.1°E and Pune at 73.9°E. Bengaluru is the closest in longitude."
+  },
+  {
+    "year": "2026",
+    "qno": "26",
+    "subject": "Human Geography",
+    "question": "Which of the following with reference to Indian States is/are not correct?\n1. Uttar Pradesh shares its boundary with the highest number of other Indian States.\n2. Rajasthan shares the longest international border among all Indian States.\n3. Sikkim is the only State that shares its boundary with just one other Indian State.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "C",
+    "explanation": "Uttar Pradesh borders more Indian States/UTs than any other, so 1 is correct. West Bengal, not Rajasthan, has the longest international border (with Bangladesh), so 2 is incorrect. Meghalaya also shares a boundary with only one Indian State (Assam), so Sikkim is not the only such State and 3 is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "76",
+    "subject": "Human Geography",
+    "question": "Consider the following countries:\nI. United Kingdom\nII. Denmark\nIII. New Zealand\nIV. Australia\nV. Brazil\nHow many of the above countries have more than four time zones?",
+    "options": [
+      "All the five",
+      "Only four",
+      "Only three",
+      "Only two"
+    ],
+    "answer": "B",
+    "explanation": "Counting overseas territories and dependencies, the UK, Denmark (with Greenland and the Faroes), New Zealand and Australia each span more than four time zones. Brazil has exactly four, so only four of the five countries qualify."
+  },
+  {
+    "year": "2025",
+    "qno": "77",
+    "subject": "Human Geography",
+    "question": "Consider the following statements:\nI. Anadyr in Siberia and Nome in Alaska are a few kilometers from each other, but when people are waking up and getting set for breakfast in these cities, it would be different days.\nII. When it is Monday in Anadyr, it is Tuesday in Nome.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "A",
+    "explanation": "Anadyr and Nome lie on opposite sides of the International Date Line, so their calendar dates differ. Anadyr, west of the Line, is a day ahead, so when it is Monday in Anadyr it is Sunday in Nome, not Tuesday."
+  },
+  {
+    "year": "2025",
+    "qno": "80",
+    "subject": "Human Geography",
+    "question": "Consider the following pairs:\nRegion : Country\nI. Mallorca : Italy\nII. Normandy : Spain\nIII. Sardinia : France\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Mallorca is a Spanish island, Normandy is a region of France, and Sardinia is an Italian island. All three pairings are wrong."
   }
 ]

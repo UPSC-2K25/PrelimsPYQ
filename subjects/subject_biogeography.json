@@ -350,6 +350,48 @@
     "explanation": "Birds carry pathogens and spores on their bodies and in droppings. Wind and blowing dust carry fungal spores and other pathogens over long distances. Rain splash spreads bacteria and fungal spores between plants. All four agents spread plant diseases."
   },
   {
+    "year": "2026",
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "With respect to the Western Hoolock Gibbons, which of the following statements is/are correct?\n1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List.\n2. They have specialized brachiation and can easily swing between trees.\n3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Western Hoolock Gibbon is found in Hoollongapar Gibbon Sanctuary in Assam and is IUCN-listed Endangered, and gibbons move by brachiation. They are lightly built apes, not heavy like gorillas."
+  },
+  {
+    "year": "2026",
+    "qno": "27",
+    "subject": "Biogeography",
+    "question": "Which of the following statements with regard to the arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia is/are correct?\n1. It showcases how sustained local conservation efforts can contribute to the arrival and protection of international migratory birds.\n2. It reflects the global success of advanced tracking technologies that guide migratory birds back to their stopover sites.\n3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable habitat changes.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "A",
+    "explanation": "Amur Falcons are long-distance migrants that stop over at Doyang Lake, and local community-led conservation after the earlier mass hunting has made Nagaland a safe stopover. Tracking is a research tool, not what guides the birds, and the falcons do not reside permanently in India."
+  },
+  {
+    "year": "2026",
+    "qno": "36",
+    "subject": "Biogeography",
+    "question": "Consider the following statements about Rhynchostylis retusa (Foxtail orchid):\n1. It is an epiphytic orchid.\n2. The species is endemic to North-east India.\n3. It is the State flower of Arunachal Pradesh and Assam.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 3",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Rhynchostylis retusa is an epiphytic orchid and is the State flower of both Arunachal Pradesh and Assam (where it is called Kopou Phool). It is widespread across India and South and South-east Asia, so it is not endemic to the North-east."
+  },
+  {
     "year": "2020",
     "qno": "74",
     "subject": "Biogeography",
@@ -362,5 +404,47 @@
     ],
     "answer": "A",
     "explanation": "The Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are all bird species found in India."
+  },
+  {
+    "year": "2025",
+    "qno": "37",
+    "subject": "Biogeography",
+    "question": "Regarding Peacock tarantula (Gooty tarantula), consider the following statements:\nI. It is an omnivorous crustacean.\nII. Its natural habitat in India is only limited to some forest areas.\nIII. In its natural habitat, it is an arboreal species.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "I and III",
+      "II only",
+      "II and III"
+    ],
+    "answer": "D",
+    "explanation": "The Gooty (peacock) tarantula is a spider (an arachnid, not a crustacean) and is carnivorous, so I is wrong. It is endemic to a small patch of forest in the Eastern Ghats of Andhra Pradesh and lives on trees (arboreal)."
+  },
+  {
+    "year": "2025",
+    "qno": "39",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nPlant : Description\nI. Cassava : Woody shrub\nII. Ginger : Herb with pseudostem\nIII. Malabar spinach : Herbaceous climber\nIV. Mint : Annual shrub\nV. Papaya : Woody shrub\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": "B",
+    "explanation": "Cassava is a woody shrub, ginger a herb with a pseudostem and Malabar spinach a herbaceous climber. Mint is a perennial herb (not an annual shrub) and papaya is a soft-wooded, tree-like herb rather than a woody shrub, so only three are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "40",
+    "subject": "Biogeography",
+    "question": "With reference to the planet Earth, consider the following statements:\nI. Rain forests produce more oxygen than that produced by oceans.\nII. Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.\nIII. Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "II only",
+      "I and III",
+      "None of the above statements is correct"
+    ],
+    "answer": "B",
+    "explanation": "Oceanic phytoplankton and photosynthetic bacteria produce roughly half of Earth's oxygen, more than rain forests, so I is wrong. Water holds far less oxygen than air by volume, so III is wrong."
   }
 ]

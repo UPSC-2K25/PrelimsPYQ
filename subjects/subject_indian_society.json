@@ -96,5 +96,47 @@
     ],
     "answer": "D",
     "explanation": "The Hind Mazdoor Sabha was founded in December 1948 by socialists, including Ashok Mehta, T.S. Ramanujam and G.G. Mehta, who had broken away from the Congress-affiliated INTUC."
+  },
+  {
+    "year": "2026",
+    "qno": "82",
+    "subject": "Indian Society",
+    "question": "Which of the following statements with regard to the Grand Slam Tennis Tournaments is/are correct?\n1. The tournaments have a shared governance structure establishing the partnership among the four Grand Slam tournaments.\n2. They are open for entry to all internationally ranked tennis players above the age of 14.\n3. There is a limitation on the number of 'Wild Cards' a player may receive to compete in a Grand Slam Tournament.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The four Grand Slams operate under a shared governance framework (the Grand Slam Board and rulebook), and entry is open to ranked players with a minimum age requirement, which the key treats as correct (the age wording is loosely worded). No rule caps how many wild cards a player may receive, so statement 3 is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "99",
+    "subject": "Indian Society",
+    "question": "Consider the following statements in respect of the first Kho Kho World Cup:\nI. The event was held in Delhi, India.\nII. Indian men beat Nepal with a score of 78-40 in the final to become the World Champion in men category.\nIII. Indian women beat Nepal with a score of 54-36 in the final to become the World Champion in women category.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "explanation": "The first Kho Kho World Cup (January 2025) was held in New Delhi and India won both titles against Nepal. The scores were 54-36 for the men and 78-40 for the women, so the figures in II and III are swapped and incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "100",
+    "subject": "Indian Society",
+    "question": "Consider the following statements:\nI. In the finals of the 45th Chess Olympiad held in 2024, Gukesh Dommaraju became the world's youngest winner after defeating the Russian player Ian Nepomniachtchi.\nII. Abhimanyu Mishra, an American chess player, holds the record of becoming world's youngest ever Grandmaster.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "B",
+    "explanation": "Gukesh became the youngest World Chess Champion in December 2024 by defeating Ding Liren of China in the World Championship match, not at the Chess Olympiad and not against Nepomniachtchi, so I is incorrect. Abhimanyu Mishra became the youngest ever Grandmaster in 2021 at age 12, so II is correct."
   }
 ]

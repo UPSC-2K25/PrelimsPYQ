@@ -196,6 +196,76 @@
     "explanation": "Barren Island in the Andaman Sea is India's only active volcano, so statement 1 is correct. It lies about 135-140 km north-east of Port Blair in the Andaman Islands, not east of Great Nicobar, so statement 2 is wrong. The volcano has erupted several times since 1991, including in the 2000s and again in 2017, so statement 3 is wrong."
   },
   {
+    "year": "2026",
+    "qno": "11",
+    "subject": "Geomorphology",
+    "question": "Consider the following assertion:\nIn the Pleistocene period either the Yamuna once flowed into the Indus, or the Sutlej flowed into the Yamuna and one major tributary of either had shifted from the Ganga to the Indus or vice versa.\nWhich of the following is/are the basis of the above assertion?\n1. The Nadi-Sukta of the Rigveda\n2. The explorations of the Sutlej and the Yamuna by Robert Bruce Foote\n3. The presence of the same species of dolphins in both the Indus and the Ganga river systems\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2",
+      "3"
+    ],
+    "answer": "D",
+    "explanation": "The occurrence of the same river dolphin species (Platanista) in both the Indus and Ganga systems suggests that the two drainages were once connected, which is the biogeographic basis for the assertion. The Nadi-Sukta lists rivers of the Rigvedic period and Foote's work was on prehistoric archaeology, neither of which establishes Pleistocene drainage shifts."
+  },
+  {
+    "year": "2026",
+    "qno": "25",
+    "subject": "Geomorphology",
+    "question": "Identify the river of the Indian sub-continent on the basis of the following information:\n1. It has an antecedent drainage system.\n2. It flows through three countries.\n3. It originates in the Tibetan Plateau and is an important river for irrigation.\n4. It does not form distributaries.\nSelect the answer from the following:",
+    "options": [
+      "Brahmaputra",
+      "Indus",
+      "Sutlej",
+      "Teesta"
+    ],
+    "answer": "C",
+    "explanation": "The Sutlej is an antecedent river that rises near Rakshastal in the Tibetan Plateau, flows through China, India and Pakistan, is vital for irrigation, and does not form distributaries. The Brahmaputra and Indus form distributaries in their deltaic reaches, and the Teesta does not originate in Tibet."
+  },
+  {
+    "year": "2026",
+    "qno": "31",
+    "subject": "Geomorphology",
+    "question": "Tungurahua Volcano, which was declared a Global Geopark by UNESCO in 2025, is situated in which one among the following countries?",
+    "options": [
+      "Ecuador",
+      "Peru",
+      "Bolivia",
+      "Colombia"
+    ],
+    "answer": "A",
+    "explanation": "Tungurahua is an active stratovolcano in the Andes of central Ecuador, and the Tungurahua region has been designated a UNESCO Global Geopark."
+  },
+  {
+    "year": "2026",
+    "qno": "34",
+    "subject": "Geomorphology",
+    "question": "Which of the following geographical features or phenomena is/are associated with the Peninsular Block of India?\n1. Submergence of parts of the western coast due to tectonic activity\n2. Presence of residual mountain ranges such as the Veliconda hills and Mahendragiri hills\n3. Deep, V-shaped river valleys formed by fast-flowing rivers\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Peninsular Block saw parts of the west coast submerge through faulting and has residual hills such as the Veliconda and Mahendragiri ranges. Deep V-shaped valleys are typical of young Himalayan rivers, not the old, mature Peninsular plateau."
+  },
+  {
+    "year": "2026",
+    "qno": "39",
+    "subject": "Geomorphology",
+    "question": "Which of the following statements with reference to Lake Turkana is/are correct?\n1. It is the largest desert lake in the world.\n2. The lake is situated in South Sudan along the eastern fringe of the Sahara desert.\n3. The lake is listed as a UNESCO World Heritage Site and is also referred to as the 'Jade Sea'.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Lake Turkana, nicknamed the Jade Sea for its colour, is the world's largest permanent desert lake and a UNESCO World Heritage Site (Lake Turkana National Parks). It lies mainly in northern Kenya, with its northern tip in Ethiopia, not in South Sudan."
+  },
+  {
     "year": "2020",
     "qno": "68",
     "subject": "Geomorphology",
@@ -222,5 +292,61 @@
     ],
     "answer": "D",
     "explanation": "The Siachen Glacier lies in the eastern Karakoram range, north of the Nubra Valley in Ladakh."
+  },
+  {
+    "year": "2025",
+    "qno": "22",
+    "subject": "Geomorphology",
+    "question": "Consider the following countries:\nI. Bolivia\nII. Brazil\nIII. Colombia\nIV. Ecuador\nV. Paraguay\nVI. Venezuela\nAndes mountains pass through how many of the above countries?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "Only five"
+    ],
+    "answer": "C",
+    "explanation": "The Andes pass through Bolivia, Colombia, Ecuador and Venezuela (besides Chile, Argentina, Peru). Brazil and Paraguay do not have the Andes."
+  },
+  {
+    "year": "2025",
+    "qno": "25",
+    "subject": "Geomorphology",
+    "question": "Which of the following are the evidences of the phenomenon of continental drift?\nI. The belt of ancient rocks from Brazil coast matches with those from Western Africa.\nII. The gold deposits of Ghana are derived from the Brazil plateau when the two continents lay side by side.\nIII. The Gondwana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I and III only",
+      "I and II only",
+      "I, II and III",
+      "II and III only"
+    ],
+    "answer": "C",
+    "explanation": "Matching rock belts across the Atlantic, the placer gold of Ghana traced to the Brazilian plateau, and Gondwana sediments found in six southern landmasses are all classic evidences cited for continental drift."
+  },
+  {
+    "year": "2025",
+    "qno": "28",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\nStatement I: In the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.\nStatement II: Chalk is porous and hence can absorb water.\nStatement III: Clay is not at all porous.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "C",
+    "explanation": "Chalk is porous and absorbs water, which explains its permeability, so Statement II is correct. Clay is actually porous (it holds water) but its pores are tiny and poorly connected, making it impermeable, so Statement III is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "33",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\nStatement I: Scientific studies suggest that a shift is taking place in the Earth's rotation and axis.\nStatement II: Solar flares and associated coronal mass ejections bombarded Earth's outermost atmosphere with tremendous amount of energy.\nStatement III: As the Earth's polar ice melts, the water tends to move towards the equator.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "B",
+    "explanation": "Studies show redistribution of mass (melting polar ice, groundwater pumping) shifts Earth's rotation axis, and melt water does flow toward the equator, which explains Statement I. The May 2024 solar storm is a real event but does not explain axis shift, so only III explains I."
   }
 ]

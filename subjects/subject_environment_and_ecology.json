@@ -952,6 +952,76 @@
     "explanation": "The Forest Rights Act, 2006 defines 'critical wildlife habitat', so statement 1 is correct. The Baiga tribe of Madhya Pradesh was reported as the first community in India to receive habitat rights, so statement 2 is correct. Habitat rights for Particularly Vulnerable Tribal Groups are decided and declared through the Ministry of Tribal Affairs and the process under the Forest Rights Act, not by the Environment Ministry, so statement 3 is wrong. I'm answering (a) from recall of the usual key, so please verify it against the official key."
   },
   {
+    "year": "2026",
+    "qno": "21",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements with reference to India's response to climate change:\nI. India's Long-Term Low Emission Development Strategy (LT-LEDS) is a crucial tool for achieving net-zero emissions by 2070.\nII. India's 4th Biennial Update Report (BUR-4) submitted in December, 2024 recorded around 8% decrease in Greenhouse gas emissions in 2020 over 2019.\nIII. Climate-resilient development necessarily depends on quick and short-term achievement of emission reduction targets.\nWhich of the following relationships among the above statements is/are correct?\n1. Statement I is empirically supported by statement II.\n2. Statement III contradicts the approach implicit in statement I.\n3. Statement I and statement III together establish the premise of long-term sustainability.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "BUR-4 reported about a 7.93% fall in emissions in 2020 versus 2019, which is empirical evidence consistent with India's long-term pathway in the LT-LEDS (relationship 1). Statement III's insistence on quick, short-term targets runs against the long-horizon approach of the LT-LEDS (relationship 2). A short-term premise cannot jointly establish a long-term sustainability premise, so 3 is incorrect."
+  },
+  {
+    "year": "2026",
+    "qno": "23",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following best explain(s) the rationale for protecting mangrove ecosystems in the context of climate resilience?\n1. Mangroves reduce tidal energy and store freshwater, making them ideal sites for paddy cultivation in saline estuarine belts.\n2. Their salt-sensitive roots filter seawater, making mangroves key to converting coastal land into freshwater aquaculture zones.\n3. By withstanding tidal surges and offering biomass resources, mangroves function both as natural bio-shields and livelihood bases for rural communities.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Mangroves protect coasts as bio-shields against surges and cyclones and support livelihoods through wood, fish and other resources. They do not store freshwater for paddy, and their roots are salt-tolerant (not salt-sensitive), so statements 1 and 2 are wrong."
+  },
+  {
+    "year": "2026",
+    "qno": "32",
+    "subject": "Environment and Ecology",
+    "question": "With reference to Madhav National Park, which of the following statements is/are correct?\n1. It was declared a Tiger Reserve in India in 2025.\n2. Sakhya Sagar, which is designated as a Ramsar Site, is situated within this National Park.\n3. Its area is shared between Madhya Pradesh and Rajasthan.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Madhav National Park in Shivpuri, Madhya Pradesh, was approved as a Tiger Reserve in 2025 and contains the Sakhya Sagar lake, a Ramsar Site. The park lies entirely in Madhya Pradesh."
+  },
+  {
+    "year": "2026",
+    "qno": "40",
+    "subject": "Environment and Ecology",
+    "question": "Which one of the following is the first Plan Vivo certified Reducing Emissions from Deforestation and Forest Degradation (REDD+) project in India?",
+    "options": [
+      "Uttarakhand REDD+ project",
+      "ICFRE-ICIMOD Transboundary REDD+ project in North-Eastern Himalayas",
+      "Khasi Hills Community REDD+ project",
+      "Sikkim Mamley Kamrang Community REDD+ project"
+    ],
+    "answer": "C",
+    "explanation": "The Khasi Hills Community REDD+ Project in Meghalaya, run by community-based institutions, was the first project in India certified under the Plan Vivo standard for REDD+."
+  },
+  {
+    "year": "2026",
+    "qno": "77",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following statements in relation to NIRANTAR (National Institute for Research and Application of Natural Resources to Transform, Adapt and Build Resilience), a platform of institutions under the Ministry of Environment, Forest and Climate Change, is/are correct?\n1. Ecosystem Survey and Analysis is a vertical under this platform, the lead institute of which is Botanical Survey of India, Kolkata.\n2. Research and Management of Ecosystem Service is a vertical under this platform, the lead institute of which is Central Zoo Authority, New Delhi.\n3. Capacity Development Support is a vertical under this platform, the lead institute of which is Indian Institute of Forest Management, Bhopal.\nSelect the answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 only",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Ecosystem Survey and Analysis vertical is led by the Botanical Survey of India, and Capacity Development Support by the Indian Institute of Forest Management, Bhopal. The Research and Management of Ecosystem Services vertical is led by ICFRE, Dehradun, not the Central Zoo Authority."
+  },
+  {
     "year": "2020",
     "qno": "48",
     "subject": "Environment and Ecology",
@@ -1146,5 +1216,131 @@
     ],
     "answer": "C",
     "explanation": "Nagarjunsagar-Srisailam Tiger Reserve in Andhra Pradesh and Telangana is the largest tiger reserve in India, with the largest area under Critical Tiger Habitat (about 3,000 sq km), larger than Corbett, Ranthambore and Sunderbans."
+  },
+  {
+    "year": "2025",
+    "qno": "9",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement I: Circular economy reduces the emissions of greenhouse gases.\nStatement II: Circular economy reduces the use of raw materials as inputs.\nStatement III: Circular economy reduces wastage in the production process.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "explanation": "A circular economy keeps materials in use through reuse and recycling, cutting virgin raw material use and production waste. Lower extraction, processing and waste handling reduce greenhouse gas emissions, so both II and III explain I."
+  },
+  {
+    "year": "2025",
+    "qno": "31",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement I: Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.\nStatement II: Silica-bearing clay is mixed with limestone while manufacturing cement.\nStatement III: Limestone is converted into lime during clinker production for cement manufacturing.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "B",
+    "explanation": "Cement accounts for roughly 7-8% of global CO2 emissions. Both II and III are factually correct, but only III (calcination of limestone to lime releasing CO2) explains the emissions; mixing clay with limestone does not by itself explain them."
+  },
+  {
+    "year": "2025",
+    "qno": "32",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement I: At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the 'Declaration on Climate and Health'.\nStatement II: The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.\nStatement III: If India's health sector is decarbonized, the resilience of its health-care system may be compromised.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "C",
+    "explanation": "India did not sign the declaration. The declaration is voluntary and non-binding, so Statement II is incorrect. Statement III reflects the concern that rapid decarbonization could compromise health-system resilience and explains India's stance, so only one of II and III is correct and it explains I."
+  },
+  {
+    "year": "2025",
+    "qno": "34",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement I: Article 6 of the Paris Agreement on climate change is frequently discussed in global discussions on sustainable development and climate change.\nStatement II: Article 6 of the Paris Agreement on climate change sets out the principles of carbon markets.\nStatement III: Article 6 of the Paris Agreement on climate change intends to promote inter-country non-market strategies to reach their climate targets.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "explanation": "Article 6 covers cooperative approaches: market mechanisms (6.2 and 6.4, carbon markets) and non-market approaches (6.8). Both features make it a frequent topic in global climate talks, so both II and III are correct and explain I."
+  },
+  {
+    "year": "2025",
+    "qno": "38",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nI. Carbon dioxide (CO2) emissions in India are less than 0.5 t CO2/capita.\nII. In terms of CO2 emissions from fuel combustion, India ranks second in Asia-Pacific region.\nIII. Electricity and heat producers are the largest sources of CO2 emissions in India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and III only",
+      "II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "India's per capita CO2 emissions are about 2 t, well above 0.5 t, so I is wrong. India is the second largest emitter in Asia-Pacific after China, and electricity and heat generation (coal-based) is the largest emitting sector."
+  },
+  {
+    "year": "2025",
+    "qno": "44",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following:\nI. Cigarette butts\nII. Eyeglass lenses\nIII. Car tyres\nHow many of them contain plastic?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Cigarette filters are made of cellulose acetate (a plastic), most eyeglass lenses are polymers such as polycarbonate, and car tyres contain synthetic rubber polymers that shed microplastics. All three contain plastic."
+  },
+  {
+    "year": "2025",
+    "qno": "50",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement I: Activated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.\nStatement II: Activated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals.\nStatement III: Activated carbon can be easily synthesized from environmental wastes with high carbon content.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "explanation": "Activated carbon's large surface area and adsorption capacity for heavy metals (II) and its cheap synthesis from carbon-rich wastes such as agricultural residues (III) together make it an attractive remediation tool (I)."
+  },
+  {
+    "year": "2025",
+    "qno": "85",
+    "subject": "Environment and Ecology",
+    "question": "Artificial way of causing rainfall to reduce air pollution makes use of",
+    "options": [
+      "silver iodide and potassium iodide",
+      "silver nitrate and potassium iodide",
+      "silver iodide and potassium nitrate",
+      "silver nitrate and potassium chloride"
+    ],
+    "answer": "A",
+    "explanation": "Cloud seeding for artificial rain uses chemicals such as silver iodide and potassium iodide (and sometimes sodium chloride) as condensation or ice nuclei."
+  },
+  {
+    "year": "2025",
+    "qno": "90",
+    "subject": "Environment and Ecology",
+    "question": "Which organization has enacted the Nature Restoration Law (NRL) to tackle climate change and biodiversity loss?",
+    "options": [
+      "The European Union",
+      "The World Bank",
+      "The Organization for Economic Cooperation and Development",
+      "The Food and Agriculture Organization"
+    ],
+    "answer": "A",
+    "explanation": "The European Union adopted the Nature Restoration Law in 2024, setting legally binding targets to restore degraded ecosystems across Member States."
   }
 ]

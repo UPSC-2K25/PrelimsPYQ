@@ -1246,6 +1246,202 @@
     "explanation": "NPOP is operated under the Ministry of Commerce and Industry, not the Ministry of Rural Development, so statement 1 is wrong. APEDA acts as the Secretariat for implementing NPOP, so statement 2 is correct. Sikkim became India's first fully organic State in 2016, so statement 3 is correct."
   },
   {
+    "year": "2026",
+    "qno": "29",
+    "subject": "Indian Economy",
+    "question": "Which of the following is/are the most significant implication(s) of obtaining Oeko-Tex certification for Eri Silk in the global textile industry?\n1. It allows Indian exporters to compete in high-end markets that prioritise chemical-free products.\n2. It confirms that Eri Silk meets international safety, environmental, and quality standards, enabling its entry into premium eco-conscious markets.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Oeko-Tex certification attests that textiles are tested free of harmful substances and meet safety and environmental standards, which helps exporters access premium eco-conscious markets. Both implications are valid."
+  },
+  {
+    "year": "2026",
+    "qno": "87",
+    "subject": "Indian Economy",
+    "question": "An e-commerce revenue model where the seller has control over pricing but doesn't keep products in stock and instead transfers customer orders and shipment details to a third-party supplier, who then ships the goods directly to the customer, is called:",
+    "options": [
+      "Dropshipping Model",
+      "Affiliate Revenue Model",
+      "Transaction Fee Revenue Model",
+      "Agency Revenue Model"
+    ],
+    "answer": "A",
+    "explanation": "In dropshipping the retailer sets prices and takes orders but holds no inventory; a third-party supplier ships directly to the customer."
+  },
+  {
+    "year": "2026",
+    "qno": "88",
+    "subject": "Indian Economy",
+    "question": "Which one of the following correctly represents the three key sub-indices of the Financial Inclusion Index (FI-Index) of the Reserve Bank of India (RBI)?",
+    "options": [
+      "Credit access, Insurance depth, and Pension coverage",
+      "Banking access, GDP contribution, and Financial literacy",
+      "Access, Usage, and Quality",
+      "Access, Affordability, and Transparency"
+    ],
+    "answer": "C",
+    "explanation": "RBI's FI-Index is built from three sub-indices: Access, Usage and Quality, with Access carrying the largest weight."
+  },
+  {
+    "year": "2026",
+    "qno": "89",
+    "subject": "Indian Economy",
+    "question": "Which one of the following best describes the key objective of India's 'Open Network for Digital Commerce' (ONDC) initiative?",
+    "options": [
+      "To allow government control over all digital commerce transactions",
+      "To replace private e-commerce players",
+      "To break the dominance of large e-commerce platforms by enabling interoperability across networks",
+      "To mandate UPI-based payments for all online transactions"
+    ],
+    "answer": "C",
+    "explanation": "ONDC is an open, interoperable network protocol meant to democratise digital commerce by letting buyers and sellers on different platforms transact, reducing the dominance of large marketplaces."
+  },
+  {
+    "year": "2026",
+    "qno": "90",
+    "subject": "Indian Economy",
+    "question": "Which one of the following statements about Unified Payments Interface (UPI) and Central Bank Digital Currency (Digital Rupee) is not correct?",
+    "options": [
+      "UPI is a real-time payment system but Digital Rupee is akin to sovereign paper currency.",
+      "In case of UPI, settlement for end users happens instantly as the money gets immediately debited or credited but in case of Digital Rupee, there is no settlement as the wallet balance gets transferred to another wallet.",
+      "UPI transactions are recorded by banks and reflected in bank statements but in case of Digital Rupee, no data is captured in bank statements as transactions are from one wallet to another.",
+      "In both the cases (UPI and Digital Rupee), the liability lies with the users and their respective banks."
+    ],
+    "answer": "D",
+    "explanation": "A Digital Rupee is a direct liability of the Reserve Bank of India, like physical currency, so the claim that the liability lies with users and their banks in both cases is incorrect. UPI is a payment rail on bank deposits, whereas the e-rupee is central bank money."
+  },
+  {
+    "year": "2026",
+    "qno": "91",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements about Real-World Assets (RWA) Tokenization are correct?\n1. Tokenization is the process of turning real world assets into digital tokens using blockchain technology.\n2. Tokenization of real world assets offers 24x7 access, promoting financial inclusion.\n3. Tokenization of real world assets will allow the access to high growth investment opportunities for individuals in India.\nSelect the answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only"
+    ],
+    "answer": "A",
+    "explanation": "RWA tokenization represents assets such as real estate or bonds as blockchain tokens, enabling round-the-clock trading, fractional ownership and wider retail access to investment opportunities, which supports financial inclusion."
+  },
+  {
+    "year": "2026",
+    "qno": "92",
+    "subject": "Indian Economy",
+    "question": "A bond whose proceeds are used only to finance or refinance a combination of both environmental and social projects is called:",
+    "options": [
+      "Green Bond",
+      "Social Bond",
+      "Sustainability Bond",
+      "Sovereign Bond"
+    ],
+    "answer": "C",
+    "explanation": "Green bonds fund environmental projects and social bonds fund social projects, while sustainability bonds finance a combination of both."
+  },
+  {
+    "year": "2026",
+    "qno": "93",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements about M1xchange's role in Micro, Small & Medium Enterprises (MSMEs) financing is/are correct?\n1. M1xchange provides collateral based loans to MSMEs.\n2. M1xchange facilitates discounting of invoices and Bills of Exchange for MSMEs.\n3. M1xchange functions as a credit rating agency for MSMEs.\nSelect the answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": "B",
+    "explanation": "M1xchange is an RBI-authorised Trade Receivables Discounting System (TReDS) platform where MSME invoices and bills of exchange are discounted by financiers. It neither lends against collateral nor acts as a credit rating agency."
+  },
+  {
+    "year": "2026",
+    "qno": "94",
+    "subject": "Indian Economy",
+    "question": "Which one of the following best describes the 'Crowding Out Effect' in the context of fiscal policy?",
+    "options": [
+      "A situation where private investment increases due to increased Government spending",
+      "A situation where Government borrowing leads to higher interest rates, which reduces private investment",
+      "A situation where an increase in taxes leads to increased private sector investment",
+      "A situation where Government spending has no impact on aggregate demand"
+    ],
+    "answer": "B",
+    "explanation": "Crowding out occurs when heavy Government borrowing raises interest rates and absorbs loanable funds, discouraging private investment."
+  },
+  {
+    "year": "2026",
+    "qno": "96",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements about insurance in aviation sector is/are correct?\n1. 'Aviation Hull Insurance' covers the physical aircraft, including the body, engine, and on-board equipment.\n2. Under the Montreal Convention, adopted in 1999 by over 130 countries, including India, airlines are strictly liable to pay compensation to the family/nominee of every deceased passenger without requiring the family to prove fault.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Hull insurance covers physical damage to or loss of the aircraft and its equipment. The 1999 Montreal Convention imposes strict liability on carriers for passenger death or injury up to a fixed limit without proof of fault, and India is a party to it."
+  },
+  {
+    "year": "2026",
+    "qno": "97",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements about Crowdfunding is/are correct?\n1. Crowdfunding is solicitation of funds (small amount) from multiple investors through a web-based platform or social networking site for a specific project.\n2. Small and Medium Enterprises (SMEs) are able to raise funds at lower cost of capital without undergoing rigorous procedures.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Crowdfunding pools small contributions from many people through online platforms for a particular project, and it lets SMEs access capital more cheaply and with fewer formalities than conventional routes."
+  },
+  {
+    "year": "2026",
+    "qno": "98",
+    "subject": "Indian Economy",
+    "question": "With reference to different Committees in India, consider the following details:\n1. R.N. Malhotra Committee | Objective: Comprehensive reforms of Insurance sector in India | Organization under which it was formed: Insurance Regulatory and Development Authority of India\n2. L.C. Gupta Committee | Objective: Preparing a roadmap for the introduction of derivatives trading in India | Organization: Securities and Exchange Board of India\n3. Urjit R. Patel Committee | Objective: Preparing a roadmap for reforming bank lending to the Housing sector | Organization: Reserve Bank of India\n4. Y.H. Malegam Committee | Objective: Preparing a roadmap for reforms in Microfinance sector in India | Organization: Reserve Bank of India\nIn which of the above rows are all the details correctly matched?",
+    "options": [
+      "2 only",
+      "2 and 3",
+      "1, 3 and 4",
+      "2 and 4"
+    ],
+    "answer": "D",
+    "explanation": "The L.C. Gupta Committee (SEBI) recommended derivatives trading and the Y.H. Malegam Committee (RBI) examined the microfinance sector. The R.N. Malhotra Committee was set up by the Government in 1993, before IRDAI existed, and the Urjit Patel Committee dealt with the monetary policy framework, not housing finance."
+  },
+  {
+    "year": "2026",
+    "qno": "99",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements about the Non-Banking Financial Companies (NBFCs) in India:\n1. NBFCs cannot accept demand deposits.\n2. All the NBFCs operating in India have to be registered with the RBI.\n3. NBFCs form part of the payment and settlement system and can issue cheque drawn on itself.\n4. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation (DICGC) is not available to the depositors of deposit taking NBFCs.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 4",
+      "1, 2 and 3",
+      "4 only",
+      "2, 3 and 4"
+    ],
+    "answer": "A",
+    "explanation": "NBFCs cannot accept demand deposits and their depositors are not covered by DICGC deposit insurance. NBFCs are not part of the payment and settlement system and cannot issue cheques drawn on themselves, and certain categories of NBFC-like entities are exempt from RBI registration, so 'all' in statement 2 is too broad."
+  },
+  {
+    "year": "2026",
+    "qno": "100",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements about Multidimensional Poverty Index (MPI):\n1. MPI is calculated using Alkire-Foster methodology.\n2. MPI calculated by NITI Aayog has a total of twelve indicators.\n3. Maternal Health and Bank Account are common indicators in the MPI of NITI Aayog and MPI of United Nations Development Programme (UNDP).\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 only"
+    ],
+    "answer": "A",
+    "explanation": "Both the global and national MPIs use the Alkire-Foster counting methodology, and NITI Aayog's National MPI has 12 indicators. Maternal health and bank account are additions in India's national MPI and are not indicators in the UNDP's global MPI, which has 10 indicators."
+  },
+  {
     "year": "2020",
     "qno": "6",
     "subject": "Indian Economy",
@@ -1510,5 +1706,215 @@
     ],
     "answer": "B",
     "explanation": "The retail price of urea is fixed by the Government and the other fertilizers are under the Nutrient Based Subsidy scheme with a regulated subsidy, so prices are not fully market-driven and statement 1 is incorrect. Ammonia for urea is produced mainly from natural gas, and sulphur is recovered as a by-product in oil refineries, so statements 2 and 3 are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "1",
+    "subject": "Indian Economy",
+    "question": "With reference to investments, consider the following:\nI. Bonds\nII. Hedge Funds\nIII. Stocks\nIV. Venture Capital\nHow many of the above are treated as Alternative Investment Funds?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "B",
+    "explanation": "Under SEBI's AIF Regulations, Alternative Investment Funds cover privately pooled vehicles such as hedge funds and venture capital funds. Bonds and stocks are conventional (traditional) investment assets. Hence only two are treated as AIFs."
+  },
+  {
+    "year": "2025",
+    "qno": "2",
+    "subject": "Indian Economy",
+    "question": "Which of the following are the sources of income for the Reserve Bank of India?\nI. Buying and selling Government bonds\nII. Buying and selling foreign currency\nIII. Pension fund management\nIV. Lending to private companies\nV. Printing and distributing currency notes\nSelect the correct answer using the code given below.",
+    "options": [
+      "I and II only",
+      "II, III and IV",
+      "I, III, IV and V",
+      "I, II and V"
+    ],
+    "answer": "A",
+    "explanation": "RBI earns mainly from interest on government securities and from foreign exchange operations. Pension fund management is done by PFRDA, RBI does not lend to private companies, and printing/distributing notes is a function (a cost) rather than a direct income source."
+  },
+  {
+    "year": "2025",
+    "qno": "4",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nI. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).\nII. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "B",
+    "explanation": "BRSR is mandated by SEBI (not RBI) and only for the top 1,000 listed companies by market capitalisation, so Statement I is incorrect. BRSR disclosures are ESG-oriented and largely non-financial, so Statement II is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "5",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement I: In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax.\nStatement II: In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "D",
+    "explanation": "Income from poultry farming and wool rearing is not treated as agricultural income and is taxable, so Statement I is wrong. Rural agricultural land (beyond specified distances from municipalities) is excluded from the definition of capital asset, so Statement II is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "7",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement I: As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.\nStatement II: Bondholders are lenders to a company whereas stockholders are its owners.\nStatement III: For repayment purpose, bondholders are prioritized over stockholders by a company.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement I and Statement II are correct and Statement I explains Statement II",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "explanation": "Bondholders are creditors with fixed claims and priority in repayment over equity holders, while stockholders are residual owners. Both Statements II and III are correct and together explain why bondholders face lower risk (Statement I)."
+  },
+  {
+    "year": "2025",
+    "qno": "8",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nI. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.\nII. India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.\nIII. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "explanation": "India accounts for the bulk of global equity option contracts by volume and its market capitalisation has at times surpassed Hong Kong's. SEBI regulates the securities market, issues risk warnings and acts against unregistered advisors, so Statement III is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "10",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nI. Capital receipts create a liability or cause a reduction in the assets of the Government.\nII. Borrowings and disinvestment are capital receipts.\nIII. Interest received on loans creates a liability of the Government.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "explanation": "Capital receipts either create liabilities (borrowings) or reduce assets (disinvestment, loan recoveries). Interest received on loans is a revenue receipt and does not create a liability, so Statement III is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "30",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements about the Rashtriya Gokul Mission:\nI. It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers.\nII. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "C",
+    "explanation": "Rashtriya Gokul Mission aims at scientific conservation and development of indigenous bovine breeds (cattle and buffalo), which are mostly held by small and marginal farmers and landless labourers. Both statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "60",
+    "subject": "Indian Economy",
+    "question": "Consider the following activities:\nI. Production of crude oil\nII. Refining, storage and distribution of petroleum\nIII. Marketing and sale of petroleum products\nIV. Production of natural gas\nHow many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board in our country?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "B",
+    "explanation": "The PNGRB Act, 2006 empowers the Board to regulate refining, processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum products and natural gas, but expressly excludes the production of crude oil and natural gas. Hence only II and III."
+  },
+  {
+    "year": "2025",
+    "qno": "61",
+    "subject": "Indian Economy",
+    "question": "Suppose the revenue expenditure is ₹80,000 crores and the revenue receipts of the Government are ₹60,000 crores. The Government budget also shows borrowings of ₹10,000 crores and interest payments of ₹6,000 crores. Which of the following statements are correct?\nI. Revenue deficit is ₹20,000 crores.\nII. Fiscal deficit is ₹10,000 crores.\nIII. Primary deficit is ₹4,000 crores.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "Revenue deficit = 80,000 - 60,000 = 20,000. Fiscal deficit equals the Government's total borrowing requirement = 10,000. Primary deficit = fiscal deficit - interest payments = 10,000 - 6,000 = 4,000. All three are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "65",
+    "subject": "Indian Economy",
+    "question": "A country's fiscal deficit stands at ₹50,000 crores. It is receiving ₹10,000 crores through non-debt creating capital receipts. The country's interest liabilities are ₹1,500 crores. What is the gross primary deficit?",
+    "options": [
+      "₹48,500 crores",
+      "₹51,500 crores",
+      "₹58,500 crores",
+      "None of the above"
+    ],
+    "answer": "A",
+    "explanation": "Non-debt capital receipts are already netted out in arriving at the fiscal deficit. Gross primary deficit = fiscal deficit - interest payments = 50,000 - 1,500 = ₹48,500 crores."
+  },
+  {
+    "year": "2025",
+    "qno": "66",
+    "subject": "Indian Economy",
+    "question": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?\nI. It has recommended grants of ₹4,800 crores from the year 2022-23 to 2025-26 for incentivizing States to enhance educational outcomes.\nII. 45% of the net proceeds of Union taxes are to be shared with States.\nIII. ₹45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms.\nIV. It reintroduced tax effort criteria to reward fiscal performance.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I, II and III",
+      "I, II and IV",
+      "I, III and IV",
+      "II, III and IV"
+    ],
+    "answer": "C",
+    "explanation": "The 15th Finance Commission recommended a 41% share of net Union tax proceeds for States (not 45%), so II is wrong. It recommended the education-outcome grant of ₹4,800 crore, a ₹45,000 crore performance incentive for agricultural reforms, and reintroduced tax effort as a devolution criterion."
+  },
+  {
+    "year": "2025",
+    "qno": "68",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements in respect of RTGS and NEFT:\nI. In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments.\nII. In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.\nIII. Operating hours for RTGS are restricted on certain days while this is not true for NEFT.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "I and II",
+      "I and III",
+      "III only"
+    ],
+    "answer": "A",
+    "explanation": "RTGS settles transactions individually in real time, while NEFT settles in deferred batches. Inward transactions are not charged in either system, and both RTGS and NEFT now operate 24x7 throughout the year, so II and III are incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "69",
+    "subject": "Indian Economy",
+    "question": "Consider the following countries:\nI. United Arab Emirates\nII. France\nIII. Germany\nIV. Singapore\nV. Bangladesh\nHow many countries amongst the above are there other than India where international merchant payments are accepted under UPI?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": "B",
+    "explanation": "UPI merchant payments are accepted in the UAE, France and Singapore among the listed countries (along with others such as Bhutan, Nepal, Sri Lanka and Mauritius). Germany and Bangladesh are not on the list."
+  },
+  {
+    "year": "2025",
+    "qno": "70",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements about 'PM Surya Ghar Muft Bijli Yojana':\nI. It targets installation of one crore solar rooftop panels in the residential sector.\nII. The Ministry of New and Renewable Energy aims to impart training on installation, operation, maintenance and repairs of solar rooftop systems at grassroot levels.\nIII. It aims to create more than three lakhs skilled manpower through fresh skilling, and up-skilling, under scheme component of capacity building.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "The scheme targets rooftop solar for one crore households, with a capacity-building component under MNRE to train people in installation, O&M and repair and to create over three lakh skilled workers. All three statements are correct."
   }
 ]

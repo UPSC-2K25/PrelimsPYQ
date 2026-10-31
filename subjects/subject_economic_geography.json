@@ -294,6 +294,90 @@
     "explanation": "Organic matter improves soil structure and increases water holding capacity, so statement 1 is wrong. Soil is a major reservoir in the sulphur cycle, where microbes mineralise and transform sulphur compounds, so statement 2 is wrong. Long-term irrigation, especially with poor drainage, leaves salts behind as water evaporates and causes salinization, so statement 3 is correct."
   },
   {
+    "year": "2026",
+    "qno": "24",
+    "subject": "Economic Geography",
+    "question": "In what way(s) does the Vizhinjam International Seaport represent a structural shift in India's maritime trade and logistics policy?\n1. By functioning exclusively as a domestic cargo hub to reduce reliance on coastal shipping and eliminate the need for foreign collaborations.\n2. By focusing primarily on passenger cruise tourism and heritage shipping to increase Kerala's profile as a maritime heritage destination.\n3. By leveraging its natural deep draft and strategic location to reduce dependence on foreign trans-shipment ports, enhance revenue retention, and reposition India in regional maritime trade.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Vizhinjam is India's first deep-water container trans-shipment port, with natural deep draft close to the main east-west shipping route, aimed at capturing trans-shipment volumes now handled at ports like Colombo, Singapore and Salalah. It is not exclusively domestic or primarily a cruise port."
+  },
+  {
+    "year": "2026",
+    "qno": "28",
+    "subject": "Economic Geography",
+    "question": "Which among the following is/are the objective(s) of the Rainfed Area Development (RAD) initiative under the National Mission for Sustainable Agriculture (NMSA)?\n1. Encouraging monoculture in rainfed areas\n2. Increasing rice cultivation in irrigated regions\n3. Enhancing productivity and minimising climatic risks through Integrated Farming Systems (IFS)\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "RAD promotes Integrated Farming Systems in rainfed areas to raise productivity and reduce climatic risks, which is the only listed objective. It encourages diversification, not monoculture, and does not target rice in irrigated regions."
+  },
+  {
+    "year": "2026",
+    "qno": "35",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements with reference to the Sagarmala Programme of the Government of India:\nI. The Sagarmala Programme seeks to achieve port-led economic growth through cost-effective and sustainable coastal infrastructure.\nII. The success of the Sagarmala Programme is reflected in significant growth in coastal and inland waterway shipping, along with improved global port rankings.\nIII. Sagarmala 2.0 aims to position India as a global maritime innovation hub aligned with Atmanirbhar Bharat and Viksit Bharat 2047 visions.\nWhich of the following relationships among the above statements is/are correct?\n1. Statement II validates the effectiveness of the strategies envisioned in statement I.\n2. Statement III extends the objectives of statement I by embedding them into a future-oriented innovation framework.\n3. Statement I contradicts statement III by focusing only on traditional infrastructure instead of modern innovation.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Rising coastal and inland waterway shipping and better port rankings are outcomes that validate the port-led strategy in I, and Sagarmala 2.0 builds on the original objectives with an innovation-led vision. Statement I does not contradict III, so relationship 3 is incorrect."
+  },
+  {
+    "year": "2026",
+    "qno": "38",
+    "subject": "Economic Geography",
+    "question": "At the United Nations Ocean Conference (UNOC) held in June, 2025 in France, the Food and Agriculture Organization (FAO) of the United Nations demonstrated its leading voice on marine and ocean issues, especially on sustainable fisheries and aquaculture for resilient livelihood and 'Blue Transformation'. Which of the following combinations about the 'Four Betters' proposed by FAO for 'Blue Transformation' is correct?",
+    "options": [
+      "Better production, better nutrition, better environment and better ocean",
+      "Better production, better nutrition, better environment and better life",
+      "Better coral reefs, better nutrition, better environment and better life",
+      "Better estuaries, better nutrition, better environment and better mangrove vegetation"
+    ],
+    "answer": "B",
+    "explanation": "FAO's Blue Transformation roadmap is framed around the 'Four Betters': better production, better nutrition, better environment and better life, in line with its broader Hand-in-Hand approach."
+  },
+  {
+    "year": "2026",
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "Which one of the following pairs of semiconductor plants in India and their locations is not correctly matched?",
+    "options": [
+      "CG Power and Industrial Solutions Pvt. Ltd. in partnership with Renesas Electronics and STARS Microelectronics : Gujarat",
+      "Tata Semiconductor Assembly and Test Pvt. Ltd. : Assam",
+      "HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
+      "SicSem Pvt. Ltd. : Odisha"
+    ],
+    "answer": "C",
+    "explanation": "The CG Power-Renesas-STARS plant is at Sanand, Gujarat, Tata's OSAT plant is at Jagiroad, Assam, and SicSem's silicon carbide plant is in Odisha. The HCL-Foxconn joint venture's plant is at Jewar, Uttar Pradesh, not Madhya Pradesh."
+  },
+  {
+    "year": "2026",
+    "qno": "95",
+    "subject": "Economic Geography",
+    "question": "Which of the following statements about Rare Earth Elements (REEs) and Critical Minerals is/are correct?\n1. Modern technological innovations including Artificial Intelligence, robotics and space exploration extensively utilise Rare Earth Elements (REEs).\n2. China has the highest share in mining of REEs followed by India.\n3. The Government of India launched the National Critical Mineral Mission (NCMM) in 2025 to establish a robust framework for self-reliance in the critical mineral sector.\n4. Rare Earth Elements are a set of 13 metallic elements.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "3 only",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": "A",
+    "explanation": "REEs are used widely in advanced electronics, robotics and space technology, and the National Critical Mineral Mission was launched in 2025. China leads REE mining but the next largest producers are countries such as the US, Myanmar and Australia, not India, and REEs are a group of 17 elements, not 13."
+  },
+  {
     "year": "2020",
     "qno": "80",
     "subject": "Economic Geography",
@@ -404,5 +488,75 @@
     ],
     "answer": "D",
     "explanation": "Under the Mines and Minerals (Development and Regulation) Act, chromite, kyanite and sillimanite are notified as major minerals, whereas bentonite is classified among the minor minerals."
+  },
+  {
+    "year": "2025",
+    "qno": "6",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\nI. India has joined the Minerals Security Partnership as a member.\nII. India is a resource-rich country in all the 30 critical minerals that it has identified.\nIII. The Parliament in 2023 has amended the Mines and Minerals (Development and Regulation) Act, 1957 empowering the Central Government to exclusively auction mining lease and composite license for certain critical minerals.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "India joined the Minerals Security Partnership in 2023 and the MMDR Amendment Act, 2023 empowers the Centre to auction mining leases and composite licences for specified critical minerals. India is import-dependent for many critical minerals, so Statement II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "24",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements about turmeric during the year 2022-23:\nI. India is the largest producer and exporter of turmeric in the world.\nII. More than 30 varieties of turmeric are grown in India.\nIII. Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "India is the world's largest producer, consumer and exporter of turmeric, grows more than 30 varieties, and Telangana, Maharashtra, Karnataka and Tamil Nadu are among the leading producing States. All three statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "62",
+    "subject": "Economic Geography",
+    "question": "India is one of the founding members of the International North-South Transport Corridor (INSTC), a multimodal transportation corridor, which will connect",
+    "options": [
+      "India to Central Asia to Europe via Iran",
+      "India to Central Asia via China",
+      "India to South-East Asia through Bangladesh and Myanmar",
+      "India to Europe through Azerbaijan"
+    ],
+    "answer": "A",
+    "explanation": "The INSTC is a multimodal route of ship, rail and road linking India with Iran, then onward to Central Asia, Russia and Europe (via the Caspian region), with Iran as the key transit link."
+  },
+  {
+    "year": "2025",
+    "qno": "63",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\nStatement I: Of the two major ethanol producers in the world, i.e., Brazil and the United States of America, the former produces more ethanol than the latter.\nStatement II: Unlike in the United States of America where corn is the principal feedstock for ethanol production, sugarcane is the principal feedstock for ethanol production in Brazil.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "D",
+    "explanation": "The United States is the world's largest ethanol producer, ahead of Brazil, so Statement I is incorrect. US ethanol is mainly corn-based while Brazil's is mainly sugarcane-based, so Statement II is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "79",
+    "subject": "Economic Geography",
+    "question": "Consider the following pairs:\nCountry : Resource-rich in\nI. Botswana : Diamond\nII. Chile : Lithium\nIII. Indonesia : Nickel\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Botswana is a leading diamond producer, Chile has among the world's largest lithium reserves and Indonesia is the largest nickel producer. All three pairs are correct."
   }
 ]

@@ -882,6 +882,48 @@
     "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), a nine-judge bench of the Supreme Court held that privacy is an intrinsic part of the right to life and personal liberty under Article 21 and of the freedoms guaranteed in Part III."
   },
   {
+    "year": "2026",
+    "qno": "54",
+    "subject": "Constitution",
+    "question": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced.\nBased on the above, select the correct conclusion from the options given below:",
+    "options": [
+      "'X' is correct in the interpretation of law, including the view on non-inclusion of custom.",
+      "The view of 'Y' that 'law' included custom is not correct.",
+      "The views of both 'X' and 'Y' are correct.",
+      "The view of only 'Y' is correct."
+    ],
+    "answer": "D",
+    "explanation": "Article 13(3)(a) defines 'law' to include ordinances, orders, bye-laws, rules, regulations, notifications and also custom or usage having the force of law in the territory of India. Y's view is therefore correct, and X was wrong not to accept that custom is included."
+  },
+  {
+    "year": "2026",
+    "qno": "55",
+    "subject": "Constitution",
+    "question": "Consider the following statements with reference to the Constitution of India:\n1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'.\n2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed.\n3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India.\nWhich one of the following conclusions based on the above statements is correct?",
+    "options": [
+      "All three statements are correct.",
+      "There is no correct statement.",
+      "There are two correct statements that include statement 3.",
+      "There is only one correct statement."
+    ],
+    "answer": "B",
+    "explanation": "Article 393 says the Constitution may be called the Constitution of India, Article 395 repeals the Indian Independence Act, 1947 and the Government of India Act, 1935, and Article 394 specifies 26 January 1950 as the date of commencement. All three statements are therefore incorrect."
+  },
+  {
+    "year": "2026",
+    "qno": "57",
+    "subject": "Constitution",
+    "question": "Consider the following statements about the provisions pertaining to the Scheduled Castes and the Scheduled Tribes in India:\n1. Provisions regarding the administration of the Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule of the Constitution of India.\n2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes.\n3. The Constitution of India provides for reservation of seats in Panchayats for women belonging to the Scheduled Castes and the Scheduled Tribes.\nWhich one of the following conclusions based on the above statements is correct?",
+    "options": [
+      "There are two correct statements, that include statement 2.",
+      "There are two correct statements, that are statements 1 and 3.",
+      "There is only one correct statement.",
+      "All three statements are correct."
+    ],
+    "answer": "A",
+    "explanation": "Tribal areas of Assam, Meghalaya, Tripura and Mizoram are administered under the Sixth Schedule, not the Fifth, so 1 is wrong. Members of certain Scheduled Tribes enjoy income tax exemption on specified incomes, and Article 243D reserves one-third of SC/ST seats in Panchayats for women. Statements 2 and 3 are correct."
+  },
+  {
     "year": "2020",
     "qno": "2",
     "subject": "Constitution",
@@ -1048,5 +1090,173 @@
     ],
     "answer": "C",
     "explanation": "Article 85 empowers the President to summon each House at such time and place as he/she thinks fit (statement 1 correct). The Constitution does not provide for three sessions; it only requires that six months should not intervene between two sittings of Parliament, the three sessions (Budget, Monsoon, Winter) being a convention, so statement 2 is incorrect. There is no constitutionally prescribed minimum number of sitting days in a year (statement 3 correct)."
+  },
+  {
+    "year": "2025",
+    "qno": "51",
+    "subject": "Constitution",
+    "question": "With reference to the Indian polity, consider the following statements:\nI. An Ordinance can amend any Central Act.\nII. An Ordinance can abridge a Fundamental Right.\nIII. An Ordinance can come into effect from a back date.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "An Ordinance has the same force as an Act of Parliament, so it can amend or repeal any Central Act and can have retrospective effect. Like any law, it is a 'law' under Article 13 and cannot abridge Fundamental Rights, so Statement II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "52",
+    "subject": "Constitution",
+    "question": "Consider the following pairs:\nState : Description\nI. Arunachal Pradesh : The capital is named after a fort, and the State has two National Parks\nII. Nagaland : The State came into existence on the basis of a Constitutional Amendment Act\nIII. Tripura : Initially a Part 'C' State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Itanagar is named after Ita Fort and Arunachal has two National Parks (Namdapha and Mouling), so I is correct. Tripura was a Part C State, became a Union Territory in 1956 and a full State in 1972, so III is correct. Nagaland was created by the State of Nagaland Act, 1962 (an ordinary law under Article 3, though the 13th Amendment inserted Article 371A), not by a Constitutional Amendment Act, so II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "53",
+    "subject": "Constitution",
+    "question": "With reference to India, consider the following:\nI. The Inter-State Council\nII. The National Security Council\nIII. Zonal Councils\nHow many of the above were established as per the provisions of the Constitution of India?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "The Inter-State Council is established under Article 263 of the Constitution. The National Security Council is an executive body without constitutional basis, and Zonal Councils are statutory bodies created under the States Reorganisation Act, 1956."
+  },
+  {
+    "year": "2025",
+    "qno": "54",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nI. The Constitution of India explicitly mentions that in certain spheres the Governor of a State acts in his/her own discretion.\nII. The President of India can, of his/her own, reserve a bill passed by a State Legislature for his/her consideration without it being forwarded by the Governor of the State concerned.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "A",
+    "explanation": "The Constitution explicitly provides for Governor's discretion, for example under Article 163 and in the Sixth Schedule for tribal areas. Only the Governor can reserve a State bill for the President's consideration; the President cannot do so on his own, so Statement II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "55",
+    "subject": "Constitution",
+    "question": "Consider the following pairs:\nProvision in the Constitution of India : Stated under\nI. Separation of Judiciary from the Executive in the public services of the State : The Directive Principles of the State Policy\nII. Valuing and preserving of the rich heritage of our composite culture : The Fundamental Duties\nIII. Prohibition of employment of children below the age of 14 years in factories : The Fundamental Rights\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Separation of the judiciary from the executive is in Article 50 (DPSP), valuing the composite culture is a Fundamental Duty under Article 51A(f), and prohibition of child labour in factories is Article 24 (Fundamental Right). All pairs are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "56",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nWith reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule\nI. the State Government loses its executive power in such areas and a local body assumes total administration\nII. the Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "D",
+    "explanation": "In Scheduled Areas the State's executive power continues, with the Governor having special powers to regulate and the Union's executive power extending to giving directions to the State. There is no loss of State executive power to a local body and no takeover of total administration by the Union, so neither statement is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "58",
+    "subject": "Constitution",
+    "question": "Consider the following subjects under the Constitution of India:\nI. List I-Union List, in the Seventh Schedule\nII. Extent of the executive power of a State\nIII. Conditions of the Governor's office\nFor a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "explanation": "Under Article 368(2), amendments affecting the Seventh Schedule lists and the extent of the executive power of the States (Article 162) need ratification by half of the State legislatures. The conditions of the Governor's office (Article 158) can be amended by a simple special majority of Parliament."
+  },
+  {
+    "year": "2025",
+    "qno": "59",
+    "subject": "Constitution",
+    "question": "With reference to the Indian polity, consider the following statements:\nI. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.\nII. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.\nIII. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "Article 361 gives the Governor immunity from answerability to courts and from criminal proceedings during the term of office, and Article 194 protects legislators for what they say in the House. All three statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "86",
+    "subject": "Constitution",
+    "question": "Consider the following statements with regard to pardoning power of the President of India:\nI. The exercise of this power by the President can be subjected to limited judicial review.\nII. The President can exercise this power without the advice of the Central Government.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "A",
+    "explanation": "Courts have held that the pardoning power under Article 72 is subject to limited judicial review (for arbitrariness, mala fides and the like). The President must act on the aid and advice of the Council of Ministers, so II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "87",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nI. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution.\nII. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately.\nIII. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the then Members of the House, provided that no resolution shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "Article 94 provides for continuity of the Speaker after dissolution and for removal by a majority of all the then members with 14 days' notice. There is no constitutional requirement that the Speaker resign from the party; that is only a convention, so II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "88",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nI. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final.\nII. There is no mention of the word 'political party' in the Constitution of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "D",
+    "explanation": "Under the Tenth Schedule, disqualification questions are decided by the Speaker (or Chairman), subject to judicial review, not by the President on ministerial advice. The Tenth Schedule introduced by the 52nd Amendment does mention 'political party', so II is also incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "91",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nI. Panchayats at the intermediate level exist in all States.\nII. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years.\nIII. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level.\nWhich of the statements given above are not correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "States with population below 20 lakh need not constitute intermediate-level Panchayats, so I is wrong. The minimum age for Panchayat membership is 21 years, so II is wrong. The State Finance Commission is constituted by the Governor, not the Chief Minister, so III is wrong."
   }
 ]

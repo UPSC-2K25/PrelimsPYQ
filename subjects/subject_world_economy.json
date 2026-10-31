@@ -222,5 +222,33 @@
     ],
     "answer": "C",
     "explanation": "The WTO TRIMs agreement prohibits trade-related investment measures such as local-content requirements and quantitative restrictions on imports by investors (statement 1 correct). It applies only to trade in goods, not services (statement 2 incorrect). It does not regulate foreign investment itself, only trade-distorting measures attached to it (statement 3 correct)."
+  },
+  {
+    "year": "2025",
+    "qno": "35",
+    "subject": "World Economy",
+    "question": "Which one of the following launched the 'Nature Solutions Finance Hub for Asia and the Pacific'?",
+    "options": [
+      "The Asian Development Bank (ADB)",
+      "The Asian Infrastructure Investment Bank (AIIB)",
+      "The New Development Bank (NDB)",
+      "The International Bank for Reconstruction and Development (IBRD)"
+    ],
+    "answer": "A",
+    "explanation": "The Asian Development Bank launched the Nature Solutions Finance Hub for Asia and the Pacific to mobilise finance for nature-based solutions in the region."
+  },
+  {
+    "year": "2025",
+    "qno": "67",
+    "subject": "World Economy",
+    "question": "Consider the following statements in respect of the International Bank for Reconstruction and Development (IBRD):\nI. It provides loans and guarantees to middle income countries.\nII. It works single-handedly to help developing countries reduce poverty.\nIII. It was established to help Europe rebuild after the World War II.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "IBRD lends to and guarantees for middle-income and creditworthy low-income countries, and it was set up in 1944-45 initially to finance post-war reconstruction of Europe. It works with IDA and other World Bank Group institutions and partners rather than single-handedly, so II is incorrect."
   }
 ]

@@ -70,6 +70,20 @@
     "explanation": "UNCLOS allows a territorial sea of up to 12 nautical miles (Article 3). It gives ships of all states the right of innocent passage through it (Article 17) and limits the EEZ to 200 nautical miles from the baselines (Article 57). All three statements are correct."
   },
   {
+    "year": "2026",
+    "qno": "30",
+    "subject": "Oceanography",
+    "question": "Ships from which of the following countries have to cross the Strait of Hormuz to reach out to the Indian Ocean?\n1. Bahrain\n2. Syria\n3. Qatar\n4. Egypt\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Bahrain and Qatar lie inside the Persian Gulf, whose only outlet to the Gulf of Oman and Indian Ocean is the Strait of Hormuz. Syria's ports are on the Mediterranean and Egypt's on the Mediterranean and Red Sea, so they do not need Hormuz."
+  },
+  {
     "year": "2020",
     "qno": "93",
     "subject": "Oceanography",
@@ -82,5 +96,19 @@
     ],
     "answer": "C",
     "explanation": "OMT, the average temperature of the ocean column down to the 26°C isotherm (about 129 m in the south-western Indian Ocean in January-March), has been found to be a predictor of the Indian summer monsoon rainfall relative to the long-term mean, and is used in forecasting models. Both statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "23",
+    "subject": "Oceanography",
+    "question": "Consider the following water bodies:\nI. Lake Tanganyika\nII. Lake Tonle Sap\nIII. Patos Lagoon\nThrough how many of them does the equator pass?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Lake Tanganyika lies roughly between 3 degrees S and 8 degrees S, Tonle Sap is in Cambodia near 13 degrees N, and Patos Lagoon is in southern Brazil near 31 degrees S. The equator passes through none of them."
   }
 ]
