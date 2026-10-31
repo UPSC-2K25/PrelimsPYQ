@@ -1,5 +1,201 @@
 [
   {
+    "year": "2021",
+    "qno": "1",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.\n2. Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.\n3. The Governor of the RBI draws his power from the RBI Act.\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The RBI Governor is appointed by the Central Government and derives powers from the RBI Act, 1934, so statements 1 and 3 are correct. The power to issue directions to the RBI in public interest comes from Section 7 of the RBI Act, not from any provision of the Constitution, so statement 2 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "2",
+    "subject": "Indian Economy",
+    "question": "With reference to casual workers employed in India, consider the following statements:\n1. All casual workers are entitled for Employees Provident Fund coverage.\n2. All casual workers are entitled for regular working hours and overtime payment.\n3. The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The EPF Act defines 'employee' broadly (including those employed directly or indirectly), so casual workers fall within its coverage. Under the Payment of Wages Act, 1936, the appropriate government can notify industrial establishments to pay wages only by cheque or through bank accounts. Not all casual workers are entitled to regular working hours and overtime, so statement 2 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "3",
+    "subject": "Indian Economy",
+    "question": "Which among the following steps is most likely to be taken at the time of an economic recession?",
+    "options": [
+      "Cut in tax rates accompanied by increase in interest rate",
+      "Increase in expenditure on public projects",
+      "Increase in tax rates accompanied by reduction of interest rate",
+      "Reduction of expenditure on public projects"
+    ],
+    "answer": "B",
+    "explanation": "During a recession, expansionary fiscal policy is used to revive demand. Increasing public expenditure on projects creates jobs, raises incomes and stimulates aggregate demand. Higher interest rates or higher taxes, and cuts in public spending, would further depress demand."
+  },
+  {
+    "year": "2021",
+    "qno": "4",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nOther things remaining unchanged, market demand for a good might increase if\n1. price of its substitute increases\n2. price of its complement increases\n3. the good is an inferior good and income of the consumers increases\n4. its price falls\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 4 only",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "A rise in the price of a substitute shifts consumers towards this good, raising its demand. A fall in its own price increases the quantity demanded. A rise in the price of a complement lowers demand, and for an inferior good a rise in income reduces demand, so statements 2 and 3 are incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "5",
+    "subject": "Indian Economy",
+    "question": "With reference to 'Urban Cooperative Banks' in India, consider the following statements:\n1. They are supervised and regulated by local boards set up by the State Governments.\n2. They can issue equity shares and preference shares.\n3. They were brought under the purview of the Banking Regulation Act, 1949 through an Amendment in 1966.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Urban Cooperative Banks are regulated and supervised by the RBI (not by local boards set up by State Governments), so statement 1 is incorrect. They can issue equity and preference shares (permitted by RBI), and were brought under the Banking Regulation Act, 1949 through an amendment in 1966."
+  },
+  {
+    "year": "2021",
+    "qno": "6",
+    "subject": "Indian Economy",
+    "question": "Indian Government Bond Yields are influenced by which of the following?\n1. Actions of the United States Federal Reserve\n2. Actions of the Reserve Bank of India\n3. Inflation and short-term interest rates\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "G-sec yields respond to domestic monetary policy actions of the RBI (repo rate, OMOs), to inflation and short-term interest rates, and to global factors such as US Federal Reserve policy which drives foreign portfolio flows. All three influence yields."
+  },
+  {
+    "year": "2021",
+    "qno": "7",
+    "subject": "Indian Economy",
+    "question": "Consider the following:\n1. Foreign currency convertible bonds\n2. Foreign institutional investment with certain conditions\n3. Global depository receipts\n4. Non-resident external deposits\nWhich of the above can be included in Foreign Direct Investments?",
+    "options": [
+      "1, 2 and 3",
+      "3 only",
+      "2 and 4",
+      "1 and 4"
+    ],
+    "answer": "A",
+    "explanation": "As per India's FDI policy, FCCBs, GDRs (and ADRs) and foreign institutional/portfolio investment held within prescribed limits and conditions can count as FDI. Non-resident external deposits are bank deposits (debt/liability) and are not FDI."
+  },
+  {
+    "year": "2021",
+    "qno": "9",
+    "subject": "Indian Economy",
+    "question": "Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India?",
+    "options": [
+      "Diversion of resources to the purchase of real estate and investment in luxury housing",
+      "Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.",
+      "Large donations to political parties and growth of regionalism",
+      "Loss of revenue to the State Exchequer due to tax evasion"
+    ],
+    "answer": "D",
+    "explanation": "The central concern with black money is the loss of tax revenue to the exchequer through tax evasion, which constrains public spending on development and welfare. The other options are secondary consequences."
+  },
+  {
+    "year": "2021",
+    "qno": "10",
+    "subject": "Indian Economy",
+    "question": "Which one of the following is likely to be the most inflationary in its effects?",
+    "options": [
+      "Repayment of public debt",
+      "Borrowing from the public to finance a budget deficit",
+      "Borrowing from the banks to finance a budget deficit",
+      "Creation of new money to finance a budget deficit"
+    ],
+    "answer": "D",
+    "explanation": "Printing new money (deficit monetisation) directly expands the money supply without any corresponding rise in output, so it is the most inflationary. Borrowing from the public merely transfers existing purchasing power, and debt repayment is contractionary."
+  },
+  {
+    "year": "2021",
+    "qno": "11",
+    "subject": "Indian Economy",
+    "question": "The money multiplier in an economy increases with which one of the following?",
+    "options": [
+      "Increase in the Cash Reserve Ratio in the banks",
+      "Increase in the Statutory Liquidity Ratio in the banks",
+      "Increase in the banking habit of the people",
+      "Increase in the population of the country"
+    ],
+    "answer": "C",
+    "explanation": "The money multiplier is inversely related to reserve requirements (CRR, SLR) and to the currency-deposit ratio. Greater banking habit means people hold more deposits and less cash, which raises the multiplier. Population size has no direct effect."
+  },
+  {
+    "year": "2021",
+    "qno": "12",
+    "subject": "Indian Economy",
+    "question": "With reference to Indian economy, demand-pull inflation can be caused/increased by which of the following?\n1. Expansionary policies\n2. Fiscal stimulus\n3. Inflation-indexing wages\n4. Higher purchasing power\n5. Rising interest rates\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "A",
+    "explanation": "Demand-pull inflation arises when aggregate demand outstrips supply. Expansionary policies, fiscal stimulus and higher purchasing power raise demand. Wage indexation is a cost-push factor, and rising interest rates reduce demand and curb inflation."
+  },
+  {
+    "year": "2021",
+    "qno": "13",
+    "subject": "Indian Economy",
+    "question": "With reference to India, consider the following statements:\n1. Retail investors through demat account can invest in 'Treasury Bills' and 'Government of India Debt Bonds' in primary market.\n2. The 'Negotiated Dealing System-Order Matching' is a government securities trading platform of the Reserve Bank of India.\n3. The 'Central Depository Services Ltd.' is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Under the RBI Retail Direct scheme, retail investors can buy G-secs and T-bills in the primary market, and NDS-OM is the RBI's electronic government securities trading platform. CDSL was promoted by the Bombay Stock Exchange jointly with banks (not the RBI), so statement 3 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "14",
+    "subject": "Indian Economy",
+    "question": "With reference to 'WaterCredit', consider the following statements:\n1. It puts microfinance tools to work in the water and sanitation sector.\n2. It is a global initiative launched under the aegis of the World Health Organization and the World Bank.\n3. It aims to enable the poor people to meet their water needs without depending on subsidies.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "WaterCredit is an initiative of the non-profit Water.org that applies microfinance tools to water and sanitation, enabling poor households to meet their needs without relying on subsidies. It was not launched under the aegis of the WHO and the World Bank."
+  },
+  {
+    "year": "2021",
+    "qno": "15",
+    "subject": "Indian Economy",
+    "question": "In India, the central bank's function as the 'lender of last resort' usually refers to which of the following?\n1. Lending to trade and industry bodies when they fail to borrow from other sources\n2. Providing liquidity to the banks having a temporary crisis\n3. Lending to governments to finance budgetary deficits\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "As lender of last resort, the central bank provides emergency liquidity to banks facing a temporary crisis so as to prevent systemic failure. It does not routinely lend to trade and industry bodies or finance government deficits under this function."
+  },
+  {
     "year": "2023",
     "qno": "21",
     "subject": "Indian Economy",
@@ -572,6 +768,202 @@
     ],
     "answer": "B",
     "explanation": "The money multiplier is inversely related to the reserve ratios (CRR and SLR) and to the public's preference for holding cash. A stronger banking habit lowers the cash-holding ratio, so more deposits are created and the multiplier rises."
+  },
+  {
+    "year": "2022",
+    "qno": "2",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy, consider the following statements:\n1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee.\n2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness.\n3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "NEER is a trade-weighted index of the rupee against a basket of currencies, so a rise means appreciation (statement 1 is correct). REER adjusts NEER for relative price levels. A rise in REER means the currency has become more expensive in real terms, which indicates a loss of trade competitiveness, not an improvement (statement 2 is incorrect). If domestic inflation runs persistently above that of trading partners, the inflation adjustment in REER grows, so REER and NEER diverge (statement 3 is correct)."
+  },
+  {
+    "year": "2022",
+    "qno": "3",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy, consider the following statements:\n1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.\n2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.\n3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "To control high inflation the RBI tightens liquidity by selling government securities (OMO sales), not buying them, so statement 1 is wrong. To arrest a rapid rupee depreciation the RBI sells dollars from its reserves, so statement 2 is correct. Falling interest rates in the US or EU push capital towards higher-yielding India, and the resulting inflows put upward pressure on the rupee. The RBI then buys dollars to prevent excessive appreciation, so statement 3 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "5",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy, what are the advantages of \"Inflation-Indexed Bonds (IIBs)\"?\n1. Government can reduce the coupon rates on its borrowing by way of IIBs.\n2. IIBs provide protection to the investors from uncertainty regarding inflation.\n3. The interest received as well as capital gains on IIBs are not taxable.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Since IIBs protect investors' real returns, they accept a lower coupon, so the government can borrow at a lower coupon rate (statement 1). The principal and/or interest is linked to an inflation index, which shields investors from inflation uncertainty (statement 2). Interest and capital gains on IIBs are not tax-exempt, so statement 3 is incorrect."
+  },
+  {
+    "year": "2022",
+    "qno": "6",
+    "subject": "Indian Economy",
+    "question": "With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?\n1. They can sell their own goods in addition to offering their platforms as market-places.\n2. The degree to which they can own big sellers on their platforms is limited.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under India's FDI policy, foreign-owned e-commerce firms may operate only as marketplaces (inventory-based models are not permitted), so they cannot sell their own goods. The rules also restrict a marketplace entity from owning or controlling inventory and from having equity stakes in, or common control with, sellers on its platform, which limits how far it can own big sellers. Only statement 2 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "7",
+    "subject": "Indian Economy",
+    "question": "Which of the following activities constitute real sector in the economy?\n1. Farmers harvesting their crops\n2. Textile mills converting raw cotton into fabrics\n3. A commercial bank lending money to a trading company\n4. A corporate body issuing Rupee Denominated Bonds overseas\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "explanation": "The real sector covers activities that produce goods and services, such as agriculture and manufacturing. Harvesting crops and converting cotton into fabric are real-sector activities. Bank lending and bond issuance are financial-sector activities."
+  },
+  {
+    "year": "2022",
+    "qno": "8",
+    "subject": "Indian Economy",
+    "question": "Which one of the following situations best reflects \"Indirect Transfers\" often talked about in media recently with reference to India?",
+    "options": [
+      "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment",
+      "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment",
+      "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India",
+      "A foreign company transfers shares and such shares derive their substantial value from assets located in India"
+    ],
+    "answer": "D",
+    "explanation": "Indirect transfer refers to the transfer of shares of a foreign company that derive substantial value from assets located in India. India taxes such transfers under its income-tax law, as in the Vodafone and Cairn disputes, which led to the retrospective tax controversy."
+  },
+  {
+    "year": "2022",
+    "qno": "9",
+    "subject": "Indian Economy",
+    "question": "With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct?\n1. Acquiring new technology is capital expenditure.\n2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Acquiring technology creates a long-term asset, so it is capital expenditure. Debt and equity are both sources of financing, not expenditures, and equity financing is not revenue expenditure. Only statement 1 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "10",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy, consider the following statements:\n1. A share of the household financial savings goes towards government borrowings.\n2. Dated securities issued at market-related rates in auctions form a large component of internal debt.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Household savings flow into government borrowing through instruments such as small savings schemes, bank deposits (invested in G-secs) and provident funds. Dated government securities, issued through auctions at market-determined yields, make up the largest component of India's internal public debt. Both statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "61",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. Tight monetary policy of US Federal Reserve could lead to capital flight.\n2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).\n3. Devaluation of domestic currency decreases the currency risk associated with ECBs.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Higher US interest rates draw capital out of emerging markets (statement 1). Capital flight weakens the domestic currency, which raises the rupee cost of servicing existing foreign-currency ECBs (statement 2). Devaluation increases the currency risk on ECBs, because more domestic currency is needed to repay the same foreign-currency debt, so statement 3 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "63",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. In India, credit rating agencies are regulated by Reserve Bank of India.\n2. The rating agency popularly known as ICRA is a public limited company.\n3. Brickwork Ratings is an Indian credit rating agency.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Credit rating agencies in India are regulated by SEBI under the SEBI (Credit Rating Agencies) Regulations, 1999, not by the RBI. ICRA is a listed public limited company, and Brickwork Ratings is an Indian rating agency. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "64",
+    "subject": "Indian Economy",
+    "question": "With reference to the 'Banks Board Bureau (BBB)', which of the following statements are correct?\n1. The Governor of RBI is the Chairman of BBB.\n2. BBB recommends for the selection of heads for Public Sector Banks.\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Banks Board Bureau had its own chairman, who was not the RBI Governor, so statement 1 is wrong. The BBB recommended heads of public sector banks and financial institutions. It also helped banks formulate strategies and capital-raising plans. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "65",
+    "subject": "Indian Economy",
+    "question": "With reference to Convertible Bonds, consider the following statements:\n1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.\n2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The conversion option has value for the bondholder, so issuers can offer a lower coupon than on a similar non-convertible bond (statement 1). The conversion option is tied to the company's share price, not to consumer prices, so it is not an inflation-indexing feature (statement 2 is wrong)."
+  },
+  {
+    "year": "2022",
+    "qno": "68",
+    "subject": "Indian Economy",
+    "question": "In India, which one of the following is responsible for maintaining price stability by controlling inflation?",
+    "options": [
+      "Department of Consumer Affairs",
+      "Expenditure Management Commission",
+      "Financial Stability and Development Council",
+      "Reserve Bank of India"
+    ],
+    "answer": "D",
+    "explanation": "The RBI Act, 1934, as amended in 2016, gives the Reserve Bank of India the mandate to maintain price stability through flexible inflation targeting, with the Monetary Policy Committee setting the policy rate."
+  },
+  {
+    "year": "2022",
+    "qno": "71",
+    "subject": "Indian Economy",
+    "question": "In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?",
+    "options": [
+      "Central Statistics Office",
+      "Department for Promotion of Industry and Internal Trade",
+      "Labour Bureau",
+      "National Technical Manpower Information System"
+    ],
+    "answer": "C",
+    "explanation": "The Labour Bureau, an attached office of the Ministry of Labour and Employment, compiles and publishes statistics on industrial relations, including disputes, closures, retrenchments and lay-offs."
   },
   {
     "year": "2018",

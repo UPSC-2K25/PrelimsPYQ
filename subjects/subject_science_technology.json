@@ -1,5 +1,215 @@
 [
   {
+    "year": "2021",
+    "qno": "65",
+    "subject": "Science & Technology",
+    "question": "With reference to recent developments regarding 'Recombinant Vector Vaccines', consider the following statements:\n1. Genetic engineering is applied in the development of these vaccines.\n2. Bacteria and viruses are used as vectors.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Recombinant vector vaccines are produced by genetically engineering a harmless bacterium or virus (the vector) to carry genes encoding antigens of the target pathogen. Both statements are correct."
+  },
+  {
+    "year": "2021",
+    "qno": "66",
+    "subject": "Science & Technology",
+    "question": "In the context of hereditary diseases, consider the following statements:\n1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of egg.\n2. A child inherits mitochondrial diseases entirely from mother and not from father.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Mitochondrial replacement therapy (maternal spindle or pronuclear transfer) can be done before or after fertilization to avoid passing on defective mitochondria. Mitochondrial DNA is inherited from the mother, so mitochondrial diseases come from the mother only."
+  },
+  {
+    "year": "2021",
+    "qno": "67",
+    "subject": "Science & Technology",
+    "question": "Bollgard I and Bollgard II technologies are mentioned in the context of",
+    "options": [
+      "clonal propagation of crop plants",
+      "developing genetically modified crop plants",
+      "production of plant growth substances",
+      "production of biofertilizers"
+    ],
+    "answer": "B",
+    "explanation": "Bollgard I and II are Bt cotton technologies, genetically modified cotton carrying Bacillus thuringiensis genes that confer resistance to bollworms."
+  },
+  {
+    "year": "2021",
+    "qno": "68",
+    "subject": "Science & Technology",
+    "question": "In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?\n1. Area of the hole in the lid\n2. Temperature of the flame\n3. Weight of the lid\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The internal pressure, and hence the boiling temperature of water, is set by the weight of the lid (vent weight) and the area of the vent hole through which steam escapes. The flame temperature only affects how fast the pressure builds."
+  },
+  {
+    "year": "2021",
+    "qno": "69",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Bacteria\n2. Fungi\n3. Virus\nWhich of the above can be cultured in artificial/synthetic medium?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Bacteria and fungi can be grown on artificial culture media. Viruses are obligate intracellular parasites and need living host cells to multiply."
+  },
+  {
+    "year": "2021",
+    "qno": "70",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes.\n2. Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Adenoviruses have double-stranded DNA genomes and retroviruses have single-stranded RNA genomes, so statement 1 is incorrect. Adenoviruses can cause the common cold, and AIDS is caused by HIV, a retrovirus."
+  },
+  {
+    "year": "2021",
+    "qno": "71",
+    "subject": "Science & Technology",
+    "question": "Water can dissolve more substances than any other liquid because",
+    "options": [
+      "it is dipolar in nature",
+      "it is a good conductor of heat",
+      "it has high value of specific heat",
+      "it is an oxide of hydrogen"
+    ],
+    "answer": "A",
+    "explanation": "Water molecules are polar (dipolar), with partial charges that interact with ions and polar molecules, which makes water the 'universal solvent'."
+  },
+  {
+    "year": "2021",
+    "qno": "72",
+    "subject": "Science & Technology",
+    "question": "With reference to street-lighting, how do sodium lamps differ from LED lamps?\n1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.\n2. As street-lights, sodium lamps have longer life span than LED lamps.\n3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.\nSelect the correct answer using the code given below.",
+    "options": [
+      "3 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Sodium lamps emit light in all directions (360 degrees) while LEDs are directional, and sodium light is nearly monochromatic whereas LEDs give better colour rendering. LEDs have a longer life than sodium lamps, so statement 2 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "73",
+    "subject": "Science & Technology",
+    "question": "The term 'ACE2' is talked about in the context of",
+    "options": [
+      "genes introduced in the genetically modified plants",
+      "development of India's own satellite navigation system",
+      "radio collars for wildlife tracking",
+      "spread of viral diseases"
+    ],
+    "answer": "D",
+    "explanation": "ACE2 (angiotensin-converting enzyme 2) is the human cell receptor used by SARS-CoV-2 to enter cells, and is therefore discussed in the context of the spread of viral disease."
+  },
+  {
+    "year": "2021",
+    "qno": "74",
+    "subject": "Science & Technology",
+    "question": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?",
+    "options": [
+      "Low-density polyethylene",
+      "Polycarbonate",
+      "Polyethylene terephthalate",
+      "Polyvinyl chloride"
+    ],
+    "answer": "B",
+    "explanation": "BPA is a key monomer used to make polycarbonate plastics (and epoxy resins)."
+  },
+  {
+    "year": "2021",
+    "qno": "75",
+    "subject": "Science & Technology",
+    "question": "'Triclosan', considered harmful when exposed to high levels for a long time, is most likely present in which of the following?",
+    "options": [
+      "Food preservatives",
+      "Fruit-ripening substances",
+      "Reused plastic containers",
+      "Toiletries"
+    ],
+    "answer": "D",
+    "explanation": "Triclosan is an antibacterial agent used in toothpastes, soaps, hand washes and other toiletries."
+  },
+  {
+    "year": "2021",
+    "qno": "76",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is a reason why astronomical distances are measured in light-years?",
+    "options": [
+      "Distances among stellar bodies do not change.",
+      "Gravity of stellar bodies does not change.",
+      "Light always travels in straight line.",
+      "Speed of light is always same."
+    ],
+    "answer": "D",
+    "explanation": "Because the speed of light in vacuum is constant, the distance light travels in a year is a fixed, reliable unit for the vast distances in astronomy."
+  },
+  {
+    "year": "2021",
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of the Laureus World Sports Award which was instituted in the year 2000:\n1. American golfer Tiger Woods was the first winner of this award.\n2. The award was received mostly by 'Formula One' players so far.\n3. Roger Federer received this award maximum number of times compared to others.\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Tiger Woods won the first Laureus World Sportsman of the Year award in 2000, and Roger Federer has won the award the most times (five). The award has not been received mostly by Formula One drivers, so statement 2 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of the 32nd Summer Olympics:\n1. The official motto for this Olympics is 'A New World'.\n2. Sport Climbing, Surfing, Skateboarding, Karate and Baseball are included in this Olympics.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The motto of the Tokyo 2020 (32nd Summer) Olympics was 'United by Emotion', so statement 1 is incorrect. Sport climbing, surfing, skateboarding, karate and baseball/softball were added to the programme."
+  },
+  {
+    "year": "2021",
+    "qno": "100",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of the ICC World Test Championship:\n1. The finalists were decided by the number of matches they won.\n2. New Zealand was ranked ahead of England because it won more matches than England.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "In the inaugural World Test Championship (2019-21) the finalists were decided by the percentage of points won, not the number of matches won. New Zealand was ranked ahead of England on points percentage, not simply because of more wins."
+  },
+  {
     "year": "2023",
     "qno": "11",
     "subject": "Science & Technology",
@@ -404,6 +614,216 @@
     ],
     "answer": "B",
     "explanation": "Hepatitis B has an effective vaccine, while Hepatitis C does not, so the statement is reversed. The other statements are correct: Hepatitis B spreads through blood and body fluids like HIV, far more people have Hepatitis B and C than HIV, and many infections are asymptomatic for years."
+  },
+  {
+    "year": "2022",
+    "qno": "19",
+    "subject": "Science & Technology",
+    "question": "With reference to Ayushman Bharat Digital Mission, consider the following statements:\n1. Private and public hospitals must adopt it.\n2. As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately.\n3. It has seamless portability across the country.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Ayushman Bharat Digital Mission (ABDM) is a voluntary scheme, so hospitals are not compelled to adopt it and citizens are not compelled to enrol. Its digital health ecosystem is designed for interoperability and seamless portability of health records across the country. Only statement 3 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "31",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Aarogya Setu\n2. CoWIN\n3. DigiLocker\n4. DIKSHA\nWhich of the above are built on top of open-source digital platforms?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "All four are India's digital public goods built on open-source technologies. Aarogya Setu, CoWIN, DigiLocker and DIKSHA were all released as open-source platforms."
+  },
+  {
+    "year": "2022",
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "With reference to Web 3.0, consider the following statements:\n1. Web 3.0 technology enables people to control their own data.\n2. In Web 3.0 world, there can be blockchain based social networks.\n3. Web 3.0 is operated by users collectively rather than a corporation.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Web 3.0 is a decentralised, blockchain-based vision of the internet. It gives users ownership and control over their data, supports decentralised social networks, and is governed collectively by users and communities instead of a single corporation. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "33",
+    "subject": "Science & Technology",
+    "question": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n1. SaaS buyers can customise the user interface and can change data fields.\n2. SaaS users can access their data through their mobile devices.\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "SaaS delivers software over the internet on a subscription basis. Users can usually customise interfaces and data fields, access their data from mobile devices, and web-based email services such as Outlook, Hotmail and Yahoo! Mail are typical examples. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "35",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is the context in which the term \"qubit\" is mentioned?",
+    "options": [
+      "Cloud Services",
+      "Quantum Computing",
+      "Visible Light Communication Technologies",
+      "Wireless Communication Technologies"
+    ],
+    "answer": "B",
+    "explanation": "A qubit (quantum bit) is the basic unit of information in quantum computing. Unlike a classical bit, it can exist in a superposition of 0 and 1."
+  },
+  {
+    "year": "2022",
+    "qno": "36",
+    "subject": "Science & Technology",
+    "question": "Consider the following communication technologies:\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\nWhich of the above are considered Short-Range devices/technologies?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Short-range devices cover low-power radio and communication systems that operate over limited distances. CCTV (local wireless/wired links), RFID and WLAN all fall in this category."
+  },
+  {
+    "year": "2022",
+    "qno": "37",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Biofilms can form on medical implants within human tissues.\n2. Biofilms can form on food and food processing surfaces.\n3. Biofilms can exhibit antibiotic resistance.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Biofilms are communities of microorganisms embedded in a matrix. They form on implants such as catheters and prosthetics, on food-contact and processing surfaces, and the matrix and altered physiology make them far more tolerant of antibiotics. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "38",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of probiotics:\n1. Probiotics are made of both bacteria and yeast.\n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.\n3. Probiotics help in the digestion of milk sugars.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3",
+      "2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Probiotics include bacteria such as Lactobacillus and Bifidobacterium and yeasts such as Saccharomyces boulardii (statement 1). Many probiotic organisms occur naturally in the human gut, so statement 2 is wrong. Some probiotics help digest lactose, the milk sugar (statement 3)."
+  },
+  {
+    "year": "2022",
+    "qno": "39",
+    "subject": "Science & Technology",
+    "question": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.\n2. Sputnik V vaccine is manufactured using vector based platform.\n3. COVAXIN is an inactivated pathogen based vaccine.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Covishield is a viral vector vaccine (the Oxford–AstraZeneca chimpanzee adenovirus vector), not an mRNA vaccine. Sputnik V uses adenovirus vectors (Ad26 and Ad5). Covaxin by Bharat Biotech uses an inactivated whole virus. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "40",
+    "subject": "Science & Technology",
+    "question": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\n1. GPS and navigation systems could fail.\n2. Tsunamis could occur at equatorial regions.\n3. Power grids could be damaged.\n4. Intense auroras could occur over much of the Earth.\n5. Forest fires could take place over much of the planet.\n6. Orbits of the satellites could be disturbed.\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2, 4 and 5 only",
+      "2, 3, 5, 6 and 7 only",
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": "C",
+    "explanation": "A major solar storm can disrupt GPS and navigation, induce currents that damage power grids, cause intense auroras at low latitudes, alter satellite orbits through atmospheric drag, and block HF radio communication in polar regions. It cannot cause tsunamis (a seismic or undersea phenomenon) or planet-wide forest fires."
+  },
+  {
+    "year": "2022",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.\n2. Containers made of it can be used to store any alcoholic beverage.\n3. Bottles made of it can be recycled into other products.\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "PET (polyester) fibres are commonly blended with wool and cotton to improve strength and crease resistance (statement 1), and PET bottles are widely recycled into fibres and other products (statement 3). Incineration of PET releases carbon dioxide, a greenhouse gas (statement 4 is wrong), and the claim that it suits storing 'any' alcoholic beverage is too sweeping (statement 2). Note: statement 2 is the one to verify."
+  },
+  {
+    "year": "2022",
+    "qno": "69",
+    "subject": "Science & Technology",
+    "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "NFTs can represent physical or digital assets, and each is a unique cryptographic token recorded on a blockchain. Because each is unique, NFTs are not interchangeable at equivalency like fungible currency, so they cannot serve as a general medium of exchange. Statement 3 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "97",
+    "subject": "Science & Technology",
+    "question": "Which one of the following statements best describes the role of B cells and T cells in the human body?",
+    "options": [
+      "They protect the body from environmental allergens.",
+      "They alleviate the body's pain and inflammation.",
+      "They act as immunosuppressants in the body.",
+      "They protect the body from the diseases caused by pathogens."
+    ],
+    "answer": "D",
+    "explanation": "B cells produce antibodies, and T cells carry out cell-mediated immunity. Together they form the adaptive immune system that defends the body against pathogens."
+  },
+  {
+    "year": "2022",
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Other than those made by humans, nanoparticles do not exist in nature.\n2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.\n3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Nanoparticles occur naturally, for example in volcanic ash, sea spray and viruses, so statement 1 is wrong. Zinc oxide and titanium dioxide nanoparticles are used in sunscreens and other cosmetics (statement 2). Some engineered nanoparticles that enter the environment can pose health risks (statement 3)."
+  },
+  {
+    "year": "2022",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nDNA Barcoding can be a tool to:\n1. assess the age of a plant or animal.\n2. distinguish among species that look alike.\n3. identify undesirable animal or plant materials in processed foods.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "DNA barcoding uses a short standardised gene region to identify species. It can separate look-alike species and detect adulterants or unwanted plant or animal material in processed foods. It cannot determine the age of an organism."
   },
   {
     "year": "2018",

@@ -1,0 +1,16 @@
+[
+  {
+    "year": "2022",
+    "qno": "87",
+    "subject": "World History",
+    "question": "Consider the following pairs:\nCountry — Important reason for being in the news recently\n1. Chad — Setting up of permanent military base by China\n2. Guinea — Suspension of Constitution and Government by military\n3. Lebanon — Severe and prolonged economic depression\n4. Tunisia — Suspension of Parliament by President\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "C",
+    "explanation": "Chad was in the news for a military takeover and transitional council, not for a permanent Chinese military base, so pair 1 is wrong. Guinea saw a military coup that suspended the Constitution in 2021. Lebanon has faced a severe economic crisis, and Tunisia's President Kais Saied suspended Parliament in 2021. Pairs 2, 3 and 4 are correct."
+  }
+]

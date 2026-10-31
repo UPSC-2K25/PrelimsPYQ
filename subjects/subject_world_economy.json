@@ -1,5 +1,19 @@
 [
   {
+    "year": "2021",
+    "qno": "8",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\nThe effect of devaluation of a currency is that it necessarily\n1. improves the competitiveness of the domestic exports in the foreign markets\n2. increases the foreign value of domestic currency\n3. improves the trade balance\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Devaluation makes exports cheaper in foreign markets, improving their price competitiveness. It lowers (not increases) the foreign value of the domestic currency. Improvement in the trade balance is not guaranteed as it depends on demand elasticities (Marshall-Lerner condition), so it is not a 'necessary' effect."
+  },
+  {
     "year": "2017",
     "qno": "9",
     "subject": "World Economy",
@@ -124,6 +138,48 @@
     ],
     "answer": "A",
     "explanation": "PPP exchange rates compare the cost of the same basket of goods across countries, so statement 1 is correct. In PPP terms India is the third largest economy (after China and the US), so statement 2 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "1",
+    "subject": "World Economy",
+    "question": "\"Rapid Financing Instrument\" and \"Rapid Credit Facility\" are related to the provisions of lending by which one of the following?",
+    "options": [
+      "Asian Development Bank",
+      "International Monetary Fund",
+      "United Nations Environment Programme Finance Initiative",
+      "World Bank"
+    ],
+    "answer": "B",
+    "explanation": "The Rapid Financing Instrument (RFI) and Rapid Credit Facility (RCF) are emergency financing windows of the International Monetary Fund. They give quick, low-conditionality financial assistance to member countries with urgent balance of payments needs. The RCF is for low-income countries and the RFI is available to all members."
+  },
+  {
+    "year": "2022",
+    "qno": "4",
+    "subject": "World Economy",
+    "question": "With reference to the \"G20 Common Framework\", consider the following statements:\n1. It is an initiative endorsed by the G20 together with the Paris Club.\n2. It is an initiative to support Low Income Countries with unsustainable debt.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The Common Framework for Debt Treatments beyond the DSSI was endorsed by the G20 together with the Paris Club in 2020. It aims to help Low Income Countries with unsustainable debt through coordinated debt restructuring involving official bilateral creditors, including non-Paris Club members such as China and India. Both statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "67",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\n1. Vietnam has been one of the fastest growing economies in the world in the recent years.\n2. Vietnam is led by a multi-party political system.\n3. Vietnam's economic growth is linked to its integration with global supply chains and focus on exports.\n4. For a long time Vietnam's low labour costs and stable exchange rates have attracted global manufacturers.\n5. Vietnam has the most productive e-service sector in the Indo-Pacific region.\nWhich of the statements given above are correct?",
+    "options": [
+      "2 and 4",
+      "3 and 5",
+      "1, 3 and 4",
+      "1 and 2"
+    ],
+    "answer": "C",
+    "explanation": "Vietnam has been among the world's fastest-growing economies, with growth tied to exports and global supply chains. Low labour costs and relatively stable exchange rates have drawn manufacturers. It is a one-party state led by the Communist Party, so statement 2 is wrong. The claim of the most productive e-service sector in the Indo-Pacific is unsupported, so statement 5 is wrong."
   },
   {
     "year": "2020",

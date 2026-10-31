@@ -1,5 +1,159 @@
 [
   {
+    "year": "2021",
+    "qno": "77",
+    "subject": "Constitution",
+    "question": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model?\n1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.\n2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "British Parliament is sovereign, whereas the Indian Parliament's legislative power is limited by the written Constitution, federal distribution of powers and judicial review. Statement 2 is not a distinguishing feature as stated: Constitution Bench references (Article 145(3)) concern substantial questions of constitutional interpretation, not specifically the 'amendment of an Act'."
+  },
+  {
+    "year": "2021",
+    "qno": "79",
+    "subject": "Constitution",
+    "question": "'Right to Privacy' is protected under which Article of the Constitution of India?",
+    "options": [
+      "Article 15",
+      "Article 19",
+      "Article 21",
+      "Article 29"
+    ],
+    "answer": "C",
+    "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), the Supreme Court held that the Right to Privacy is an intrinsic part of the right to life and personal liberty under Article 21."
+  },
+  {
+    "year": "2021",
+    "qno": "82",
+    "subject": "Constitution",
+    "question": "With reference to India, consider the following statements:\n1. Judicial custody means an accused is in the custody of the concerned magistrate and such accused is locked up in police station, not in jail.\n2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "In judicial custody the accused is in the magistrate's custody and is lodged in jail, not in a police station (which is police custody), so statement 1 is incorrect. During judicial custody, the investigating officer cannot interrogate the accused without the court's permission."
+  },
+  {
+    "year": "2021",
+    "qno": "85",
+    "subject": "Constitution",
+    "question": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?",
+    "options": [
+      "Article 14",
+      "Article 28",
+      "Article 32",
+      "Article 44"
+    ],
+    "answer": "A",
+    "explanation": "Unguided and uncontrolled discretionary power is arbitrary, and violates the right to equality before law and equal protection of laws under Article 14."
+  },
+  {
+    "year": "2021",
+    "qno": "86",
+    "subject": "Constitution",
+    "question": "Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?",
+    "options": [
+      "The independence of judiciary is safeguarded.",
+      "The Union Legislature has elected representatives from constituent units.",
+      "The Union Cabinet can have elected representatives from regional parties.",
+      "The Fundamental Rights are enforceable by Courts of Law."
+    ],
+    "answer": "A",
+    "explanation": "An independent judiciary that can adjudicate disputes between the Union and the States is an essential feature of a federal polity."
+  },
+  {
+    "year": "2021",
+    "qno": "88",
+    "subject": "Constitution",
+    "question": "With reference to Indian judiciary, consider the following statements:\n1. Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with prior permission of the President of India.\n2. A High Court in India has the power to review its own judgement as the Supreme Court does.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Under Article 128, the CJI may, with the President's previous consent, request a retired Supreme Court judge to sit and act as a judge of the Court. A High Court is a court of record (Article 215) and, like the Supreme Court (Article 137), has power to review its own judgements."
+  },
+  {
+    "year": "2021",
+    "qno": "89",
+    "subject": "Constitution",
+    "question": "With reference to India, consider the following statements:\n1. There is only one citizenship and one domicile.\n2. A citizen by birth only can become the Head of State.\n3. A foreigner once granted the citizenship cannot be deprived of it under any circumstances.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "India has single citizenship and a single domicile for the whole country. The Constitution requires the President to be a citizen of India, not necessarily by birth, and naturalised or registered citizenship can be terminated or deprived under the Citizenship Act in specified circumstances."
+  },
+  {
+    "year": "2021",
+    "qno": "91",
+    "subject": "Constitution",
+    "question": "Under the Indian Constitution, concentration of wealth violates",
+    "options": [
+      "the Right to Equality",
+      "the Directive Principles of State Policy",
+      "the Right to Freedom",
+      "the Concept of Welfare"
+    ],
+    "answer": "B",
+    "explanation": "Article 39(c) of the Directive Principles directs the State to ensure that the operation of the economic system does not result in concentration of wealth and means of production to the common detriment."
+  },
+  {
+    "year": "2021",
+    "qno": "92",
+    "subject": "Constitution",
+    "question": "What is the position of the Right to Property in India?",
+    "options": [
+      "Legal right available to citizens only",
+      "Legal right available to any person",
+      "Fundamental Right available to citizens only",
+      "Neither Fundamental Right nor legal right"
+    ],
+    "answer": "B",
+    "explanation": "After the 44th Amendment (1978), the Right to Property was removed from the Fundamental Rights and made a constitutional/legal right under Article 300A, available to any person."
+  },
+  {
+    "year": "2021",
+    "qno": "93",
+    "subject": "Constitution",
+    "question": "What was the exact constitutional status of India on 26th January, 1950?",
+    "options": [
+      "A Democratic Republic",
+      "A Sovereign Democratic Republic",
+      "A Sovereign Secular Democratic Republic",
+      "A Sovereign Socialist Secular Democratic Republic"
+    ],
+    "answer": "B",
+    "explanation": "The original Preamble described India as a 'Sovereign Democratic Republic'. The words 'Socialist' and 'Secular' were added by the 42nd Amendment in 1976."
+  },
+  {
+    "year": "2021",
+    "qno": "96",
+    "subject": "Constitution",
+    "question": "Consider the following statements in respect of Bharat Ratna and Padma Awards:\n1. Bharat Ratna and Padma Awards are titles under the Article 18(1) of the Constitution of India.\n2. Padma Awards, which were instituted in the year 1954, were suspended only once.\n3. The number of Bharat Ratna Awards is restricted to a maximum of five in a particular year.\nWhich of the above statements are not correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Supreme Court (Balaji Raghavan case, 1995) held that these awards are not 'titles' under Article 18(1). The Padma awards were suspended twice (1977 and 1993-97), and the Bharat Ratna is limited to a maximum of three in a year. All three statements are incorrect."
+  },
+  {
     "year": "2023",
     "qno": "31",
     "subject": "Constitution",
@@ -460,6 +614,132 @@
     ],
     "answer": "D",
     "explanation": "High Courts can declare central laws unconstitutional under Article 226 judicial review. Constitutional amendments are also open to review by the Supreme Court under the basic structure doctrine (Kesavananda Bharati). Both statements are incorrect."
+  },
+  {
+    "year": "2022",
+    "qno": "11",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.\n2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.\n3. The Constitution of India defines Civil Contempt and Criminal Contempt.\n4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4",
+      "3 and 4 only",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Contempt of Courts Act, 1971 followed the H.N. Sanyal Committee report. Articles 129 and 215 make the Supreme Court and High Courts courts of record with power to punish their own contempt. The Constitution does not define civil and criminal contempt; the 1971 Act does. Contempt of court is in the Union and Concurrent Lists, so Parliament can legislate on it. Statements 1, 2 and 4 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "13",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. A bill amending the Constitution requires a prior recommendation of the President of India.\n2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.\n3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "A constitutional amendment bill can be introduced in either House by any member without prior presidential recommendation, so statement 1 is wrong. Under Article 368 as amended by the 24th Amendment (1971), the President must give assent (statement 2). The bill must be passed in each House by a special majority, and a deadlock cannot be resolved by a joint sitting (statement 3)."
+  },
+  {
+    "year": "2022",
+    "qno": "14",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. The Constitution of India classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge, Minister of State and Deputy Minister.\n2. The total number of ministers in the Union Government, including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok Sabha.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The classification of ministers into ranks is a matter of convention, not constitutional text. Article 75(1A), inserted by the 91st Amendment (2003), caps the Council of Ministers, including the PM, at 15% of the Lok Sabha's total strength. Only statement 2 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "15",
+    "subject": "Constitution",
+    "question": "Which of the following is/are the exclusive power(s) of Lok Sabha?\n1. To ratify the declaration of Emergency\n2. To pass a motion of no-confidence against the Council of Ministers\n3. To impeach the President of India\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Council of Ministers is collectively responsible only to the Lok Sabha, so only it can pass a no-confidence motion. A proclamation of Emergency must be approved by both Houses, and the impeachment of the President can be initiated and carried out by either House, so these are not exclusive to Lok Sabha."
+  },
+  {
+    "year": "2022",
+    "qno": "16",
+    "subject": "Constitution",
+    "question": "With reference to anti-defection law in India, consider the following statements:\n1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.\n2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under the Tenth Schedule, a nominated member may join a political party within six months of taking his seat without being disqualified; joining after that period leads to disqualification. Statement 1 therefore reverses the rule. The Tenth Schedule prescribes no time limit for the presiding officer's decision, which courts have commented on, so statement 2 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "17",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India.\n2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Under Article 88, the Attorney General can speak in and take part in proceedings of either House, but the Solicitor General has no such constitutional right. Other officers, such as the CAG, also have constitutional roles in relation to Parliament. The Constitution does not provide that the Attorney General must resign when the Government resigns; that is only a convention. Neither statement is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "18",
+    "subject": "Constitution",
+    "question": "With reference to the writs issued by the Courts in India, consider the following statements:\n1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty.\n2. Mandamus will not lie against a Company even though it may be a Government Company.\n3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Mandamus lies against bodies performing public duties, so it does not lie against purely private organisations (statement 1). Courts have traditionally held that a company, even a Government Company, is a separate legal entity and not 'the State' in the strict sense for mandamus (statement 2), although this has been liberalised in some rulings. Quo warranto can be sought by any interested or public-minded person, unlike habeas corpus or mandamus, which need a personal right (statement 3). Note: this one is contestable, so verify it against the official key."
+  },
+  {
+    "year": "2022",
+    "qno": "20",
+    "subject": "Constitution",
+    "question": "With reference to Deputy Speaker of Lok Sabha, consider the following statements:\n1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix.\n2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party.\n3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings.\n4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "3 and 4 only",
+      "2 and 4 only"
+    ],
+    "answer": "A",
+    "explanation": "The Deputy Speaker's election date is fixed by the Speaker under the Rules of Procedure (statement 1). When presiding, the Deputy Speaker has all the powers of the Speaker, and his rulings cannot be appealed (statement 3). No rule requires the Deputy Speaker to come from the ruling or principal opposition party (statement 2), and the motion for election is moved by a member, not by the Speaker with the PM seconding (statement 4)."
+  },
+  {
+    "year": "2022",
+    "qno": "73",
+    "subject": "Constitution",
+    "question": "If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?",
+    "options": [
+      "This would prevent the transfer of land of tribal people to non-tribal people.",
+      "This would create a local self-governing body in that area.",
+      "This would convert that area into a Union Territory.",
+      "The State having such areas would be declared a Special Category State."
+    ],
+    "answer": "A",
+    "explanation": "Under the Fifth Schedule, the Governor can make regulations to prohibit or restrict the transfer of land by or among members of Scheduled Tribes in a Scheduled Area and regulate money-lending. Autonomous councils belong to the Sixth Schedule, and the other two options have no connection with it."
   },
   {
     "year": "2018",

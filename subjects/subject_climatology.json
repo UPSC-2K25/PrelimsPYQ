@@ -56,6 +56,34 @@
     "explanation": "Dew forms when the ground cools by radiation to below the dew point. On cloudy nights, clouds reflect and radiate the Earth's outgoing long-wave radiation back to the surface, keeping it warm, so dew does not form."
   },
   {
+    "year": "2022",
+    "qno": "29",
+    "subject": "Climatology",
+    "question": "In the northern hemisphere, the longest day of the year normally occurs in the:",
+    "options": [
+      "First half of the month of June",
+      "Second half of the month of June",
+      "First half of the month of July",
+      "Second half of the month of July"
+    ],
+    "answer": "B",
+    "explanation": "The summer solstice, the longest day in the northern hemisphere, falls around 21 June, which is in the second half of June."
+  },
+  {
+    "year": "2022",
+    "qno": "81",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\n1. High clouds primarily reflect solar radiation and cool the surface of the Earth.\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth's surface and thus cause warming effect.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The roles are reversed in both statements. Low, thick clouds mainly reflect incoming solar radiation and cool the surface. High, thin clouds such as cirrus are largely transparent to sunlight but trap outgoing infrared radiation, which warms the surface. Neither statement is correct."
+  },
+  {
     "year": "2026",
     "qno": "10",
     "subject": "Climatology",

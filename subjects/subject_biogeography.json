@@ -1,5 +1,117 @@
 [
   {
+    "year": "2021",
+    "qno": "20",
+    "subject": "Biogeography",
+    "question": "In the nature, which of the following is/are most likely to be found surviving on a surface without soil?\n1. Fern\n2. Lichen\n3. Moss\n4. Mushroom\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 4 only",
+      "2 only",
+      "2 and 3",
+      "1, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "Lichens and mosses are pioneer species that can colonise bare rock and other soil-less surfaces. Ferns need soil or humus, and mushrooms (fungi) need organic substrate."
+  },
+  {
+    "year": "2021",
+    "qno": "21",
+    "subject": "Biogeography",
+    "question": "Which one of the following is used in preparing a natural mosquito repellent?",
+    "options": [
+      "Congress grass",
+      "Elephant grass",
+      "Lemongrass",
+      "Nut grass"
+    ],
+    "answer": "C",
+    "explanation": "Lemongrass contains citronella and citral, essential oils widely used as natural mosquito repellents."
+  },
+  {
+    "year": "2021",
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "Consider the following kinds of organisms:\n1. Copepods\n2. Cyanobacteria\n3. Diatoms\n4. Foraminifera\nWhich of the above are primary producers in the food chains of oceans?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Cyanobacteria and diatoms are photosynthetic phytoplankton, the primary producers of ocean food chains. Copepods and foraminifera are heterotrophic zooplankton (consumers)."
+  },
+  {
+    "year": "2021",
+    "qno": "23",
+    "subject": "Biogeography",
+    "question": "Consider the following animals:\n1. Hedgehog\n2. Marmot\n3. Pangolin\nTo reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "3 only",
+      "1 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Hedgehogs and pangolins roll into a tight ball to protect their soft undersides and head from predators. Marmots are burrowing rodents that escape into burrows and do not roll up."
+  },
+  {
+    "year": "2021",
+    "qno": "26",
+    "subject": "Biogeography",
+    "question": "Which one of the following is a filter feeder?",
+    "options": [
+      "Catfish",
+      "Octopus",
+      "Oyster",
+      "Pelican"
+    ],
+    "answer": "C",
+    "explanation": "Oysters are bivalve molluscs that filter plankton and organic particles from the water they pump through their gills. Catfish, octopus and pelican actively capture prey."
+  },
+  {
+    "year": "2021",
+    "qno": "30",
+    "subject": "Biogeography",
+    "question": "Which of the following have species that can establish symbiotic relationship with other organisms?\n1. Cnidarians\n2. Fungi\n3. Protozoa\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Cnidarians (corals with zooxanthellae), fungi (mycorrhiza, lichens) and protozoa (e.g., those in termite guts) all include species forming symbiotic relationships."
+  },
+  {
+    "year": "2021",
+    "qno": "60",
+    "subject": "Biogeography",
+    "question": "\"Leaf litter decomposes faster than in any other biome and as a result the soil surface is often almost bare. Apart from trees, the vegetation is largely composed of plant forms that reach up into the canopy vicariously, by climbing the trees or growing as epiphytes, rooted on the upper branches of trees.\" This is the most likely description of",
+    "options": [
+      "coniferous forest",
+      "dry deciduous forest",
+      "mangrove forest",
+      "tropical rain forest"
+    ],
+    "answer": "D",
+    "explanation": "Rapid decomposition of litter owing to heat and humidity, and abundant lianas and epiphytes reaching the canopy, are typical features of tropical rain forests."
+  },
+  {
+    "year": "2021",
+    "qno": "61",
+    "subject": "Biogeography",
+    "question": "The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions?\n1. Burrowing animals and termites\n2. Fire\n3. Grazing herbivores\n4. Seasonal rainfall\n5. Soil properties",
+    "options": [
+      "1 and 2",
+      "4 and 5",
+      "2, 3 and 4",
+      "1, 3 and 5"
+    ],
+    "answer": "C",
+    "explanation": "In savannas, recurrent fire, grazing and browsing herbivores, and strongly seasonal rainfall with a long dry spell prevent closed forest from developing. Burrowing animals/termites and soil properties are not the principal controls."
+  },
+  {
     "year": "2023",
     "qno": "3",
     "subject": "Biogeography",
@@ -138,6 +250,62 @@
     ],
     "answer": "C",
     "explanation": "As a share of total area, forest cover in the ISFR 2017 is roughly Maharashtra ~16%, Madhya Pradesh ~25%, Odisha ~33% and Chhattisgarh ~41%. The ascending order is therefore 3-2-4-1."
+  },
+  {
+    "year": "2022",
+    "qno": "45",
+    "subject": "Biogeography",
+    "question": "With reference to \"Gucchi\" sometimes mentioned in the news, consider the following statements:\n1. It is a fungus.\n2. It grows in some Himalayan forest areas.\n3. It is commercially cultivated in the Himalayan foothills of north-eastern India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Gucchi is the morel mushroom (Morchella), an edible fungus that grows wild in Himalayan forests, especially in Jammu and Kashmir and Himachal Pradesh. It has resisted commercial cultivation and is mostly collected from the wild, so statement 3 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "47",
+    "subject": "Biogeography",
+    "question": "Which of the following is not a bird?",
+    "options": [
+      "Golden Mahseer",
+      "Indian Nightjar",
+      "Spoonbill",
+      "White Ibis"
+    ],
+    "answer": "A",
+    "explanation": "The Golden Mahseer (Tor putitora) is a freshwater fish. The Indian Nightjar, Spoonbill and White Ibis are all birds."
+  },
+  {
+    "year": "2022",
+    "qno": "48",
+    "subject": "Biogeography",
+    "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4",
+      "1, 3, 5 and 6 only",
+      "2, 4, 5 and 6 only",
+      "1, 2, 4, 5 and 6"
+    ],
+    "answer": "A",
+    "explanation": "Alfalfa, chickpea and clover are legumes that fix atmospheric nitrogen through symbiosis with Rhizobium bacteria in root nodules. Amaranth, purslane and spinach are not legumes and are not nitrogen fixers."
+  },
+  {
+    "year": "2022",
+    "qno": "90",
+    "subject": "Biogeography",
+    "question": "Certain species of which one of the following organisms are well known as cultivators of fungi?",
+    "options": [
+      "Ant",
+      "Cockroach",
+      "Crab",
+      "Spider"
+    ],
+    "answer": "A",
+    "explanation": "Leaf-cutter ants and other attine ants cultivate fungi in their nests as food. Termites do the same, but they are not an option here."
   },
   {
     "year": "2018",

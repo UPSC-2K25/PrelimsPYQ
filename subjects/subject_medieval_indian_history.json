@@ -1,5 +1,61 @@
 [
   {
+    "year": "2021",
+    "qno": "35",
+    "subject": "Medieval Indian History",
+    "question": "According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas?\n1. Wrestling\n2. Astrology\n3. Accounting\n4. Soothsaying\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Nuniz's chronicle describes women at the Vijayanagara court as skilled in wrestling, astrology, accounting, soothsaying, music and other arts, so all four are correct."
+  },
+  {
+    "year": "2021",
+    "qno": "38",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince.\n2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.\n3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Chengiz Khan reached the Indus in 1221 chasing Jalaluddin Mangbarni during Iltutmish's reign. Timur invaded in 1398-99 under Nasiruddin Mahmud Tughluq, not Muhammad bin Tughluq. Vasco da Gama arrived in 1498, well after Deva Raya II (r. 1424-46)."
+  },
+  {
+    "year": "2021",
+    "qno": "45",
+    "subject": "Medieval Indian History",
+    "question": "With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size?",
+    "options": [
+      "Paragana—Sarkar—Suba",
+      "Sarkar—Paragana—Suba",
+      "Suba—Sarkar—Paragana",
+      "Paragana—Suba—Sarkar"
+    ],
+    "answer": "A",
+    "explanation": "In Mughal administration the empire was divided into Subas (provinces), each subdivided into Sarkars (districts), which were further divided into Paraganas. Ascending order of size is therefore Paragana, Sarkar, Suba."
+  },
+  {
+    "year": "2021",
+    "qno": "48",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, which of the following statements is/are correct?\n1. The Nizamat of Arcot emerged out of Hyderabad State.\n2. The Mysore Kingdom emerged out of Vijayanagara Empire.\n3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durrani.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "A",
+    "explanation": "The Carnatic Nizamat of Arcot arose as a subdivision of the Hyderabad Nizam's Deccan territory, and the Mysore Kingdom emerged from the declining Vijayanagara Empire. Rohilkhand was carved out by Rohilla Afghans (Ali Mohammad Khan) from Mughal territory, not from lands occupied by Ahmad Shah Durrani."
+  },
+  {
     "year": "2023",
     "qno": "45",
     "subject": "Medieval Indian History",
@@ -110,6 +166,76 @@
     ],
     "answer": "D",
     "explanation": "Nimbarka was a Vaishnava philosopher of the 12th–13th century, long before Akbar. Kabir (15th century) predates Shaikh Ahmad Sirhindi (16th–17th century), so he could not have been influenced by him. Both statements are incorrect."
+  },
+  {
+    "year": "2022",
+    "qno": "52",
+    "subject": "Medieval Indian History",
+    "question": "In medieval India, the term \"Fanam\" referred to:",
+    "options": [
+      "Clothing",
+      "Coins",
+      "Ornaments",
+      "Weapons"
+    ],
+    "answer": "B",
+    "explanation": "The fanam was a small gold (and later silver) coin that circulated widely in medieval South India, including under the Vijayanagara empire and in the Chola and later kingdoms."
+  },
+  {
+    "year": "2022",
+    "qno": "57",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, consider the following statements:\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The first Mongol incursion into India came in 1221 under Chingiz Khan, in the time of Iltutmish, so statement 1 is wrong. In 1303 the Mongol commander Targhi besieged Delhi during Ala-ud-din Khalji's reign, which makes statement 2 correct. Statement 3 is usually treated as wrong, because the Tughlaq state is described as buying off or repelling the Mongol raid rather than losing territory to it. Note: statement 3 is the contestable one, so verify it."
+  },
+  {
+    "year": "2022",
+    "qno": "58",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, who of the following were known as \"Kulah-Daran\"?",
+    "options": [
+      "Arab merchants",
+      "Qalandars",
+      "Persian calligraphists",
+      "Sayyids"
+    ],
+    "answer": "B",
+    "explanation": "'Kulah-daran' means 'cap-wearers' in Persian. In the Delhi Sultanate and Mughal-period sources the term is associated with the Qalandars, wandering Sufi ascetics. Note: I'm not fully certain of this one, so verify it."
+  },
+  {
+    "year": "2022",
+    "qno": "59",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, consider the following statements:\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers.\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate.\n3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Dutch east-coast settlements such as Pulicat and Masulipatnam were granted by Vijayanagara-successor and Golconda authorities, not by the Gajapati rulers, so statement 1 is wrong. Albuquerque took Goa from the Bijapur Sultanate in 1510, which is statement 2. In 1639 Francis Day obtained the Madras site from a Vijayanagara representative, which is statement 3."
+  },
+  {
+    "year": "2022",
+    "qno": "94",
+    "subject": "Medieval Indian History",
+    "question": "\"Yogavasistha\" was translated into Persian by Nizamuddin Panipati during the reign of:",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "answer": "A",
+    "explanation": "Under Akbar's translation programme, the Yogavasistha was rendered into Persian by Nizamuddin Panipati at the instance of Prince Salim, the future Jahangir. Note: some sources link it with Jahangir's period, so verify it."
   },
   {
     "year": "2018",

@@ -1,5 +1,75 @@
 [
   {
+    "year": "2021",
+    "qno": "53",
+    "subject": "Geomorphology",
+    "question": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following, which one is such river that joins the Indus direct?",
+    "options": [
+      "Chenab",
+      "Jhelum",
+      "Ravi",
+      "Sutlej"
+    ],
+    "answer": "D",
+    "explanation": "The Jhelum joins the Chenab, and the Chenab and Ravi flow into the Sutlej (the combined stream forming the Panjnad), which then joins the Indus directly at Mithankot. So three of the rivers pour into the Sutlej, which joins the Indus."
+  },
+  {
+    "year": "2021",
+    "qno": "54",
+    "subject": "Geomorphology",
+    "question": "With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of",
+    "options": [
+      "glaciers",
+      "mangrove areas",
+      "Ramsar sites",
+      "saline lakes"
+    ],
+    "answer": "D",
+    "explanation": "Didwana, Kuchaman, Sargol and Khatu are saline (salt) lakes of the Thar region of Rajasthan."
+  },
+  {
+    "year": "2021",
+    "qno": "55",
+    "subject": "Geomorphology",
+    "question": "Consider the following rivers:\n1. Brahmani\n2. Nagavali\n3. Subarnarekha\n4. Vamsadhara\nWhich of the above rise from the Eastern Ghats?",
+    "options": [
+      "1 and 2",
+      "2 and 4",
+      "3 and 4",
+      "1 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Nagavali and Vamsadhara rise in the Eastern Ghats (Odisha-Andhra region). The Brahmani (formed by the Sankh and South Koel) and the Subarnarekha (near Ranchi) rise on the Chota Nagpur plateau."
+  },
+  {
+    "year": "2021",
+    "qno": "62",
+    "subject": "Geomorphology",
+    "question": "With reference to the water on the planet Earth, consider the following statements:\n1. The amount of water in the rivers and lakes is more than the amount of groundwater.\n2. The amount of water in polar ice caps and glaciers is more than the amount of groundwater.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Groundwater is far larger than the water held in rivers and lakes, so statement 1 is incorrect. Polar ice caps and glaciers hold the largest share of Earth's freshwater, more than groundwater, so statement 2 is correct."
+  },
+  {
+    "year": "2021",
+    "qno": "64",
+    "subject": "Geomorphology",
+    "question": "The black cotton soil of India has been formed due to the weathering of",
+    "options": [
+      "brown forest soil",
+      "fissure volcanic rock",
+      "granite and schist",
+      "shale and limestone"
+    ],
+    "answer": "B",
+    "explanation": "Black cotton soil (regur) is formed from the weathering of basaltic lava rock of the Deccan Traps, which were erupted through fissure volcanism."
+  },
+  {
     "year": "2023",
     "qno": "5",
     "subject": "Geomorphology",
@@ -68,6 +138,34 @@
     ],
     "answer": "A",
     "explanation": "Bandarpunch feeds the Yamuna, Bara Shigri feeds the Chenab, and Siachen feeds the Nubra. The Milam glacier feeds the Gori Ganga, not the Mandakini, and the Zemu glacier feeds the Teesta, not the Manas."
+  },
+  {
+    "year": "2022",
+    "qno": "24",
+    "subject": "Geomorphology",
+    "question": "Gandikota canyon of South India was created by which one of the following rivers?",
+    "options": [
+      "Cauvery",
+      "Manjira",
+      "Pennar",
+      "Tungabhadra"
+    ],
+    "answer": "C",
+    "explanation": "The Gandikota gorge in Kadapa district, Andhra Pradesh, was carved by the Pennar river through the Erramala hills. It is often called the 'Grand Canyon of India'."
+  },
+  {
+    "year": "2022",
+    "qno": "25",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nPeak — Mountains\n1. Namcha Barwa — Garhwal Himalaya\n2. Nanda Devi — Kumaon Himalaya\n3. Nokrek — Sikkim Himalaya\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Namcha Barwa is in the eastern Himalaya, in Tibet near the Dihang gorge, not the Garhwal Himalaya. Nanda Devi is in the Kumaon Himalaya, Uttarakhand, so pair 2 is correct. Nokrek is in the Garo Hills of Meghalaya, not Sikkim."
   },
   {
     "year": "2018",

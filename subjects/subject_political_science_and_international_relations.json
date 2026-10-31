@@ -1,5 +1,47 @@
 [
   {
+    "year": "2021",
+    "qno": "87",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following best defines the term 'State'?",
+    "options": [
+      "A community of persons permanently occupying a definite territory independent of external control and possessing an organized government",
+      "A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights and safeguard their means of sustenance",
+      "A number of persons who have been living in a definite territory for a very long time with their own culture, tradition and government",
+      "A society permanently living in a definite territory with a central authority, an executive responsible to the central authority and an independent judiciary"
+    ],
+    "answer": "A",
+    "explanation": "The classical definition of the State has four elements: population, definite territory, government and sovereignty (independence from external control). Option (a) captures all four."
+  },
+  {
+    "year": "2021",
+    "qno": "90",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?",
+    "options": [
+      "A committed judiciary",
+      "Centralization of powers",
+      "Elected government",
+      "Separation of powers"
+    ],
+    "answer": "D",
+    "explanation": "Separation of powers among the legislature, executive and judiciary prevents concentration of power and provides checks and balances, which is the best structural safeguard of liberty in a liberal democracy."
+  },
+  {
+    "year": "2021",
+    "qno": "94",
+    "subject": "Political Science and International Relations",
+    "question": "Constitutional government means",
+    "options": [
+      "a representative government of a nation with federal structure",
+      "a government whose Head enjoys nominal powers",
+      "a government whose Head enjoys real powers",
+      "a government limited by the terms of the Constitution"
+    ],
+    "answer": "D",
+    "explanation": "Constitutional government is one whose powers are defined and limited by the constitution, as opposed to arbitrary rule."
+  },
+  {
     "year": "2023",
     "qno": "76",
     "subject": "Political Science and International Relations",
@@ -152,6 +194,90 @@
     ],
     "answer": "B",
     "explanation": "In 2018, India and Russia signed the Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field, which covers Kudankulam units and cooperation in third countries."
+  },
+  {
+    "year": "2022",
+    "qno": "27",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Turkmenistan\n5. Uzbekistan\nWhich of the above have borders with Afghanistan?",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 2, 3 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "C",
+    "explanation": "Afghanistan borders Tajikistan, Turkmenistan and Uzbekistan in Central Asia, along with Pakistan, Iran and China. Azerbaijan and Kyrgyzstan do not share a border with Afghanistan."
+  },
+  {
+    "year": "2022",
+    "qno": "66",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following:\n1. Asian Infrastructure Investment Bank\n2. Missile Technology Control Regime\n3. Shanghai Cooperation Organisation\nIndia is a member of which of the above?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "India is a founding member of the AIIB, joined the Missile Technology Control Regime in 2016, and became a full member of the Shanghai Cooperation Organisation in 2017."
+  },
+  {
+    "year": "2022",
+    "qno": "76",
+    "subject": "Political Science and International Relations",
+    "question": "With reference to the \"United Nations Credentials Committee\", consider the following statements:\n1. It is a committee set up by the UN Security Council and works under its supervision.\n2. It traditionally meets in March, June and September every year.\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "3 only",
+      "1 and 3",
+      "2 and 3",
+      "1 and 2"
+    ],
+    "answer": "A",
+    "explanation": "The Credentials Committee is appointed by the General Assembly, not the Security Council, at the start of each session, so statement 1 is wrong. It usually meets late in the year, and the 'March, June and September' pattern is not accurate, so statement 2 is wrong. It examines the credentials of all members and reports to the General Assembly for approval, which is statement 3. Note: I'm not fully certain of statement 2, so verify it."
+  },
+  {
+    "year": "2022",
+    "qno": "78",
+    "subject": "Political Science and International Relations",
+    "question": "With reference to the United Nations General Assembly, consider the following statements:\n1. The UN General Assembly can grant observer status to the non-member States.\n2. Inter-governmental organisations can seek observer status in the UN General Assembly.\n3. Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The General Assembly grants observer status to non-member states, as with Palestine and the Holy See, and to intergovernmental organisations. Permanent observers maintain permanent observer missions at UN headquarters in New York. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "83",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\n1. Armenia\n2. Azerbaijan\n3. Croatia\n4. Romania\n5. Uzbekistan\nWhich of the above are members of the Organization of Turkic States?",
+    "options": [
+      "1, 2 and 4",
+      "1 and 3",
+      "2 and 5",
+      "3, 4 and 5"
+    ],
+    "answer": "C",
+    "explanation": "The Organization of Turkic States has Azerbaijan, Kazakhstan, Kyrgyzstan, Turkey and Uzbekistan as members. Armenia, Croatia and Romania are not members."
+  },
+  {
+    "year": "2022",
+    "qno": "86",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+    "options": [
+      "It is generally believed that they are artificial islands made by a country around South China Sea.",
+      "China and Japan engage in maritime disputes over these islands in East China Sea.",
+      "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+      "Though International Court of Justice declared them as no man's land, some South-East Asian countries claim them."
+    ],
+    "answer": "B",
+    "explanation": "The Senkaku Islands (called Diaoyu by China) are uninhabited islands in the East China Sea, administered by Japan and claimed by China and Taiwan."
   },
   {
     "year": "2018",

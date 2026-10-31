@@ -112,6 +112,76 @@
     "explanation": "Aliyar (Tamil Nadu), Isapur (Maharashtra) and Kangsabati (West Bengal) are water reservoirs, formed by dams."
   },
   {
+    "year": "2022",
+    "qno": "23",
+    "subject": "Human Geography",
+    "question": "Which one of the following lakes of West Africa has become dry and turned into a desert?",
+    "options": [
+      "Lake Victoria",
+      "Lake Faguibine",
+      "Lake Oguta",
+      "Lake Volta"
+    ],
+    "answer": "B",
+    "explanation": "Lake Faguibine in northern Mali dried up because of drought and desertification. Lake Victoria is in East Africa, Lake Volta in Ghana is a reservoir, and Lake Oguta is in Nigeria."
+  },
+  {
+    "year": "2022",
+    "qno": "26",
+    "subject": "Human Geography",
+    "question": "The term \"Levant\" often heard in the news roughly corresponds to which of the following regions?",
+    "options": [
+      "Region along the eastern Mediterranean shores",
+      "Region along North African shores stretching from Egypt to Morocco",
+      "Region along Persian Gulf and Horn of Africa",
+      "The entire coastal areas of Mediterranean Sea"
+    ],
+    "answer": "A",
+    "explanation": "The Levant is the region along the eastern shores of the Mediterranean, covering present-day Syria, Lebanon, Israel, Palestine and Jordan, and sometimes parts of Cyprus and southern Turkey."
+  },
+  {
+    "year": "2022",
+    "qno": "30",
+    "subject": "Human Geography",
+    "question": "Consider the following pairs:\nWetland/Lake — Location\n1. Hokera Wetland — Punjab\n2. Renuka Wetland — Himachal Pradesh\n3. Rudrasagar Lake — Tripura\n4. Sasthamkotta Lake — Tamil Nadu\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "explanation": "Hokera Wetland is in Jammu and Kashmir, not Punjab. Renuka Wetland is in Himachal Pradesh and Rudrasagar Lake is in Tripura, so pairs 2 and 3 are correct. Sasthamkotta Lake is in Kerala, not Tamil Nadu. Only two pairs are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "82",
+    "subject": "Human Geography",
+    "question": "Consider the following statements:\n1. Bidibidi is a large refugee settlement in north-western Kenya.\n2. Some people who fled from South Sudan civil war live in Bidibidi.\n3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "C",
+    "explanation": "Bidibidi is in northern Uganda, not Kenya, so statement 1 is wrong. It hosts many refugees from South Sudan (statement 2). The Dadaab refugee complex in Kenya hosts many Somali refugees (statement 3)."
+  },
+  {
+    "year": "2022",
+    "qno": "88",
+    "subject": "Human Geography",
+    "question": "Consider the following pairs:\nRegion often mentioned in the news — Country\n1. Anatolia — Turkey\n2. Amhara — Ethiopia\n3. Cabo Delgado — Spain\n4. Catalonia — Italy\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "explanation": "Anatolia is the Asian part of Turkey, and Amhara is a region of Ethiopia. Cabo Delgado is in northern Mozambique, and Catalonia is in Spain. So pairs 1 and 2 are correct."
+  },
+  {
     "year": "2018",
     "qno": "29",
     "subject": "Human Geography",

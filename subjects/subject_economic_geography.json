@@ -1,5 +1,75 @@
 [
   {
+    "year": "2021",
+    "qno": "51",
+    "subject": "Economic Geography",
+    "question": "How is permaculture farming different from conventional chemical farming?\n1. Permaculture farming discourages monocultural practices but in conventional chemical farming, monoculture practices are pre-dominant.\n2. Conventional chemical farming can cause increase in soil salinity but the occurrence of such phenomenon is not observed in permaculture farming.\n3. Conventional chemical farming is easily possible in semi-arid regions but permaculture farming is not so easily possible in such regions.\n4. Practice of mulching is very important in permaculture farming but not necessarily so in conventional chemical farming.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3",
+      "1, 2 and 4",
+      "4 only",
+      "2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Permaculture promotes polyculture and diversity, whereas conventional chemical farming is largely monocultural. Heavy chemical and irrigation use can raise soil salinity, which is not a feature of permaculture, and mulching is central to permaculture for moisture retention and soil building. Statement 3 is incorrect because permaculture techniques such as water harvesting and mulching are well suited to semi-arid regions."
+  },
+  {
+    "year": "2021",
+    "qno": "52",
+    "subject": "Economic Geography",
+    "question": "With reference to 'palm oil', consider the following statements:\n1. The palm oil tree is native to Southeast Asia.\n2. The palm oil is a raw material for some industries producing lipstick and perfumes.\n3. The palm oil can be used to produce biodiesel.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The oil palm is native to West Africa and was introduced to Southeast Asia, so statement 1 is incorrect. Palm oil is used in cosmetics such as lipsticks and in perfumes, and is a feedstock for biodiesel."
+  },
+  {
+    "year": "2021",
+    "qno": "57",
+    "subject": "Economic Geography",
+    "question": "Among the following, which one is the least water-efficient crop?",
+    "options": [
+      "Sugarcane",
+      "Sunflower",
+      "Pearl millet",
+      "Red gram"
+    ],
+    "answer": "A",
+    "explanation": "Sugarcane has a very high water requirement per unit of output, making it the least water-efficient among the options. Pearl millet, red gram and sunflower are comparatively drought tolerant."
+  },
+  {
+    "year": "2021",
+    "qno": "59",
+    "subject": "Economic Geography",
+    "question": "In the context of India's preparation for Climate-Smart Agriculture, consider the following statements:\n1. The 'Climate-Smart Village' approach in India is a part of a project led by the Climate Change, Agriculture and Food Security (CCAFS), an international research programme.\n2. The project of CCAFS is carried out under Consultative Group on International Agricultural Research (CGIAR) headquartered in France.\n3. The International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) in India is one of the CGIAR's research centres.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Climate-Smart Village approach is part of the CCAFS programme, which is carried out under the CGIAR system (headquartered in Montpellier, France). ICRISAT, based in Hyderabad, is one of the CGIAR research centres."
+  },
+  {
+    "year": "2021",
+    "qno": "63",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. Moringa (drumstick tree) is a leguminous evergreen tree.\n2. Tamarind tree is endemic to South Asia.\n3. In India, most of the tamarind is collected as minor forest produce.\n4. India exports tamarind and seeds of moringa.\n5. Seeds of moringa and tamarind can be used in the production of biofuels.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4 and 5",
+      "1, 3 and 4",
+      "1, 2, 3 and 5"
+    ],
+    "answer": "B",
+    "explanation": "Moringa belongs to the family Moringaceae (not a legume) and is deciduous/semi-evergreen, so statement 1 is incorrect. Tamarind is native to tropical Africa, not endemic to South Asia. Most Indian tamarind is a minor forest produce, India exports tamarind and moringa seeds, and the seeds of both can be used for biofuel."
+  },
+  {
     "year": "2023",
     "qno": "4",
     "subject": "Economic Geography",
@@ -110,6 +180,76 @@
     ],
     "answer": "A",
     "explanation": "Rice has the largest kharif area. The area under oilseeds exceeds that under jowar, so statement 2 is wrong. Cotton area (about 12 million ha) is well above sugarcane (about 5 million ha). Sugarcane area has fluctuated, not steadily decreased, so statement 4 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "28",
+    "subject": "Economic Geography",
+    "question": "With reference to India, consider the following statements:\n1. Monazite is a source of rare earths.\n2. Monazite contains thorium.\n3. Monazite occurs naturally in the entire Indian coastal sands in India.\n4. In India, Government bodies only can process or export monazite.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Monazite is a phosphate mineral and a source of rare earth elements and thorium (statements 1 and 2). It occurs in beach sands in parts of the coast, for example in Kerala, Tamil Nadu, Odisha and Andhra Pradesh, but not along the entire coastline (statement 3 is wrong). Because it contains thorium, it is a prescribed substance under atomic energy law, and processing and export are restricted to government bodies such as IREL (statement 4). Note: statement 4 is the one to verify."
+  },
+  {
+    "year": "2022",
+    "qno": "62",
+    "subject": "Economic Geography",
+    "question": "Consider the following States:\n1. Andhra Pradesh\n2. Kerala\n3. Himachal Pradesh\n4. Tripura\nHow many of the above are generally known as tea-producing States?",
+    "options": [
+      "Only one State",
+      "Only two States",
+      "Only three States",
+      "All four States"
+    ],
+    "answer": "D",
+    "explanation": "Besides Assam, West Bengal and Tamil Nadu, tea is also grown in Kerala, Himachal Pradesh (Kangra), Tripura and, on a smaller scale, Andhra Pradesh (Visakhapatnam district). All four listed states are tea-producing states."
+  },
+  {
+    "year": "2022",
+    "qno": "70",
+    "subject": "Economic Geography",
+    "question": "Consider the following pairs:\nReservoirs — States\n1. Ghataprabha — Telangana\n2. Gandhi Sagar — Madhya Pradesh\n3. Indira Sagar — Andhra Pradesh\n4. Maithon — Chhattisgarh\nHow many pairs given above are not correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "C",
+    "explanation": "The Ghataprabha reservoir (Hidkal Dam) is in Karnataka, not Telangana. Gandhi Sagar, on the Chambal, is in Madhya Pradesh, so pair 2 is correct. Indira Sagar, on the Narmada, is in Madhya Pradesh. Maithon is in Jharkhand, not Chhattisgarh. Three pairs are wrongly matched. Note: the Polavaram project in Andhra Pradesh is also sometimes called Indira Sagar, so verify this one."
+  },
+  {
+    "year": "2022",
+    "qno": "72",
+    "subject": "Economic Geography",
+    "question": "In India, what is the role of the Coal Controller's Organization (CCO)?\n1. CCO is the major source of Coal Statistics in Government of India.\n2. It monitors progress of development of Captive Coal/Lignite blocks.\n3. It hears any objection to the Government's notification relating to acquisition of coal-bearing areas.\n4. It ensures that coal mining companies deliver the coal to end users in the prescribed time.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "3 and 4 only",
+      "1 and 2 only",
+      "1, 2 and 4"
+    ],
+    "answer": "A",
+    "explanation": "The Coal Controller's Organisation, under the Ministry of Coal, is the main source of coal statistics. It monitors the development of captive coal and lignite blocks and acts as the authority that hears objections under the Coal Bearing Areas (Acquisition and Development) Act. Ensuring timely delivery to end users is not its role. Statements 1, 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "84",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. Gujarat has the largest solar park in India.\n2. Kerala has a fully solar powered International Airport.\n3. Goa has the largest floating solar photovoltaic project in India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "India's largest solar park is Bhadla in Rajasthan, not in Gujarat. Cochin International Airport in Kerala is fully solar powered. The largest floating solar project is in Telangana (Ramagundam) and not in Goa. Only statement 2 is correct."
   },
   {
     "year": "2018",

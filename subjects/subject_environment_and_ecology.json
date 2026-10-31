@@ -1,5 +1,145 @@
 [
   {
+    "year": "2021",
+    "qno": "16",
+    "subject": "Environment and Ecology",
+    "question": "'R2 Code of Practices' constitutes a tool available for promoting the adoption of",
+    "options": [
+      "environmentally responsible practices in electronics recycling industry",
+      "ecological management of 'Wetlands of International Importance' under the Ramsar Convention",
+      "sustainable practices in the cultivation of agricultural crops in degraded lands",
+      "'Environmental Impact Assessment' in the exploitation of natural resources"
+    ],
+    "answer": "A",
+    "explanation": "The R2 (Responsible Recycling) standard is a set of practices for the electronics recycling industry, promoting environmentally responsible and safe handling of e-waste."
+  },
+  {
+    "year": "2021",
+    "qno": "17",
+    "subject": "Environment and Ecology",
+    "question": "Why is there a concern about copper smelting plants?\n1. They may release lethal quantities of carbon monoxide into environment.\n2. The copper slag can cause the leaching of some heavy metals into environment.\n3. They may release sulphur dioxide as a pollutant.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Copper smelting emits sulphur dioxide from sulphide ores, can release carbon monoxide from incomplete combustion/reduction processes, and the resulting copper slag can leach heavy metals into soil and water."
+  },
+  {
+    "year": "2021",
+    "qno": "18",
+    "subject": "Environment and Ecology",
+    "question": "With reference to furnace oil, consider the following statements:\n1. It is a product of oil refineries.\n2. Some industries use it to generate power.\n3. Its use causes sulphur emissions into environment.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Furnace oil is a heavy residual fuel obtained from refining crude oil, used in industries for heating and power generation, and because of its high sulphur content its combustion releases sulphur oxides."
+  },
+  {
+    "year": "2021",
+    "qno": "19",
+    "subject": "Environment and Ecology",
+    "question": "What is blue carbon?",
+    "options": [
+      "Carbon captured by oceans and coastal ecosystems",
+      "Carbon sequestered in forest biomass and agricultural soils",
+      "Carbon contained in petroleum and natural gas",
+      "Carbon present in atmosphere"
+    ],
+    "answer": "A",
+    "explanation": "Blue carbon refers to carbon captured and stored by the world's oceans and coastal ecosystems such as mangroves, salt marshes and seagrass meadows."
+  },
+  {
+    "year": "2021",
+    "qno": "24",
+    "subject": "Environment and Ecology",
+    "question": "With reference to the 'New York Declaration on Forests', which of the following statements are correct?\n1. It was first endorsed at the United Nations Climate Summit in 2014.\n2. It endorses a global timeline to end the loss of forests.\n3. It is a legally binding international declaration.\n4. It is endorsed by governments, big companies and indigenous communities.\n5. India was one of the signatories at its inception.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 5",
+      "3 and 4",
+      "2 and 5"
+    ],
+    "answer": "A",
+    "explanation": "The NYDF was endorsed at the 2014 UN Climate Summit, sets a timeline to end natural forest loss by 2030, and is endorsed by governments, companies and indigenous groups. It is a voluntary, non-binding declaration, and India did not sign it."
+  },
+  {
+    "year": "2021",
+    "qno": "25",
+    "subject": "Environment and Ecology",
+    "question": "Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?\n1. Brakes of motor vehicles\n2. Engines of motor vehicles\n3. Microwave stoves within homes\n4. Power plants\n5. Telephone lines\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 2 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "D",
+    "explanation": "Studies on airborne magnetite nanoparticles identify combustion and friction sources such as vehicle brakes and engines and power plants, as well as indoor and electrical sources such as microwave ovens and telephone lines. All five listed sources are considered to generate magnetite pollution."
+  },
+  {
+    "year": "2021",
+    "qno": "27",
+    "subject": "Environment and Ecology",
+    "question": "In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle?",
+    "options": [
+      "Carbon cycle",
+      "Nitrogen cycle",
+      "Phosphorus cycle",
+      "Sulphur cycle"
+    ],
+    "answer": "C",
+    "explanation": "Phosphorus has no significant gaseous phase; its main reservoir is rock, and weathering of phosphate rocks releases phosphorus into soil and water, from where it enters the cycle."
+  },
+  {
+    "year": "2021",
+    "qno": "28",
+    "subject": "Environment and Ecology",
+    "question": "Which of the following are detritivores?\n1. Earthworms\n2. Jellyfish\n3. Millipedes\n4. Seahorses\n5. Woodlice\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3, 4 and 5 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "C",
+    "explanation": "Earthworms, millipedes and woodlice feed on dead organic matter (detritus) and are classic detritivores. Jellyfish and seahorses are predators/carnivores."
+  },
+  {
+    "year": "2021",
+    "qno": "29",
+    "subject": "Environment and Ecology",
+    "question": "The 'Common Carbon Metric', supported by UNEP, has been developed for",
+    "options": [
+      "assessing the carbon footprint of building operations around the world",
+      "enabling commercial farming entities around the world to enter carbon emission trading",
+      "enabling governments to assess the overall carbon footprint caused by their countries",
+      "assessing the overall carbon footprint caused by the use of fossil fuels by the world in a unit time"
+    ],
+    "answer": "A",
+    "explanation": "The Common Carbon Metric is a UNEP Sustainable Buildings and Climate Initiative framework for measuring and reporting the carbon footprint and energy use of building operations worldwide."
+  },
+  {
+    "year": "2021",
+    "qno": "97",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement 1: The United Nations Capital Development Fund (UNCDF) and the Arbor Day Foundation have recently recognized Hyderabad as 2020 Tree City of the World.\nStatement 2: Hyderabad was selected for the recognition for a year following its commitment to grow and maintain the urban forests.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement 1 and Statement 2 are correct and Statement 2 is the correct explanation for Statement 1",
+      "Both Statement 1 and Statement 2 are correct but Statement 2 is not the correct explanation for Statement 1",
+      "Statement 1 is correct but Statement 2 is not correct",
+      "Statement 1 is not correct but Statement 2 is correct"
+    ],
+    "answer": "D",
+    "explanation": "Hyderabad was recognised as a '2020 Tree City of the World' by the Arbor Day Foundation together with the Food and Agriculture Organization (FAO), not UNCDF, so Statement 1 is incorrect. The recognition was for its commitment to growing and maintaining urban forests, so Statement 2 is correct."
+  },
+  {
     "year": "2023",
     "qno": "12",
     "subject": "Environment and Ecology",
@@ -488,6 +628,174 @@
     ],
     "answer": "C",
     "explanation": "Extended producer responsibility (EPR), which makes producers responsible for collection and recycling of their products at end of life, was first introduced in India through the e-Waste (Management and Handling) Rules, 2011."
+  },
+  {
+    "year": "2022",
+    "qno": "21",
+    "subject": "Environment and Ecology",
+    "question": "Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide?",
+    "options": [
+      "Cotton",
+      "Rice",
+      "Sugarcane",
+      "Wheat"
+    ],
+    "answer": "B",
+    "explanation": "Flooded paddy fields create anaerobic conditions that produce methane. Fertiliser use and water management in rice cultivation also emit nitrous oxide. Rice is therefore a major agricultural source of both gases."
+  },
+  {
+    "year": "2022",
+    "qno": "22",
+    "subject": "Environment and Ecology",
+    "question": "\"System of Rice Intensification\" of cultivation, in which alternate wetting and drying of rice fields is practised, results in:\n1. Reduced seed requirement\n2. Reduced methane production\n3. Reduced electricity consumption\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "SRI uses young single seedlings at wide spacing, which cuts seed requirement (statement 1). Alternate wetting and drying avoids continuous flooding and so reduces methane emissions (statement 2). It also needs less irrigation water, which reduces pumping and hence electricity use (statement 3). Note: I'm not fully certain of this one, so verify it against the official key."
+  },
+  {
+    "year": "2022",
+    "qno": "41",
+    "subject": "Environment and Ecology",
+    "question": "\"Climate Action Tracker\" which monitors the emission reduction pledges of different countries is a:",
+    "options": [
+      "Database created by coalition of research organisations",
+      "Wing of \"International Panel of Climate Change\"",
+      "Committee under \"United Nations Framework Convention on Climate Change\"",
+      "Agency promoted and financed by United Nations Environment Programme and World Bank"
+    ],
+    "answer": "A",
+    "explanation": "The Climate Action Tracker is an independent scientific analysis produced by a consortium of research organisations, currently Climate Analytics and NewClimate Institute. It tracks government climate action against the Paris Agreement goals."
+  },
+  {
+    "year": "2022",
+    "qno": "42",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. \"The Climate Group\" is an international non-profit organization that drives climate action by building large networks and runs them.\n2. The International Energy Agency in partnership with the Climate Group launched a global initiative \"EP100\".\n3. EP100 brings together leading companies committed to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals.\n4. Some Indian companies are members of EP100.\n5. The International Energy Agency is the Secretariat to the \"Under2 Coalition\".\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2, 4 and 5",
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "explanation": "The Climate Group is an international non-profit that builds and runs climate networks (statement 1). EP100 is a Climate Group initiative of companies committed to energy efficiency and competitiveness (statement 3), and Indian companies such as Mahindra and Infosys are members (statement 4). EP100 was not launched jointly with the IEA, and the Climate Group, not the IEA, is the Secretariat of the Under2 Coalition. Statements 2 and 5 are wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "43",
+    "subject": "Environment and Ecology",
+    "question": "\"If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.\" Which one of the following functions of wetlands best reflects the above statement?",
+    "options": [
+      "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.",
+      "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.",
+      "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.",
+      "Aquatic plants absorb heavy metals and excess nutrients."
+    ],
+    "answer": "D",
+    "explanation": "Kidneys filter and purify blood by removing wastes. Wetlands function analogously by filtering water, with aquatic plants absorbing heavy metals and excess nutrients. This purification function best matches the analogy."
+  },
+  {
+    "year": "2022",
+    "qno": "44",
+    "subject": "Environment and Ecology",
+    "question": "In the context of WHO Air Quality Guidelines, consider the following statements:\n1. The 24-hour mean of PM2.5 should not exceed 15 µg/m³ and annual mean of PM2.5 should not exceed 5 µg/m³.\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.\n3. PM10 can penetrate the lung barrier and enter the bloodstream.\n4. Excessive ozone in the air can trigger asthma.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 3 and 4",
+      "1 and 4 only",
+      "2, 3 and 4",
+      "1 and 2 only"
+    ],
+    "answer": "B",
+    "explanation": "The 2021 WHO guidelines set 15 µg/m³ for 24-hour PM2.5 and 5 µg/m³ for the annual mean (statement 1). Ground-level ozone peaks in warm, sunny weather, not inclement weather (statement 2 is wrong). It is the finer PM2.5 that can cross the lung barrier into the bloodstream, while PM10 is mostly deposited in the upper airways (statement 3 is wrong). Excess ozone can trigger asthma (statement 4)."
+  },
+  {
+    "year": "2022",
+    "qno": "49",
+    "subject": "Environment and Ecology",
+    "question": "\"Biorock technology\" is talked about in which one of the following situations?",
+    "options": [
+      "Restoration of damaged coral reefs",
+      "Development of building materials using plant residues",
+      "Identification of areas for exploration/extraction of shale gas",
+      "Providing salt licks for wild animals in forests/protected areas"
+    ],
+    "answer": "A",
+    "explanation": "Biorock technology passes a low-voltage electric current through seawater to deposit minerals on a metal frame, which accelerates coral growth and helps restore damaged coral reefs."
+  },
+  {
+    "year": "2022",
+    "qno": "50",
+    "subject": "Environment and Ecology",
+    "question": "The \"Miyawaki method\" is well known for the:",
+    "options": [
+      "Promotion of commercial farming in arid and semi-arid areas",
+      "Development of gardens using genetically modified flora",
+      "Creation of mini forests in urban areas",
+      "Harvesting wind energy on coastal areas and on sea surfaces"
+    ],
+    "answer": "C",
+    "explanation": "The Miyawaki method, developed by Japanese botanist Akira Miyawaki, plants dense native species close together to create fast-growing mini forests, often in urban areas."
+  },
+  {
+    "year": "2022",
+    "qno": "75",
+    "subject": "Environment and Ecology",
+    "question": "Which one of the following has been constituted under the Environment (Protection) Act, 1986?",
+    "options": [
+      "Central Water Commission",
+      "Central Ground Water Board",
+      "Central Ground Water Authority",
+      "National Water Development Agency"
+    ],
+    "answer": "C",
+    "explanation": "The Central Ground Water Authority was constituted under Section 3(3) of the Environment (Protection) Act, 1986, to regulate and control the development and management of groundwater. The other bodies were set up administratively."
+  },
+  {
+    "year": "2022",
+    "qno": "80",
+    "subject": "Environment and Ecology",
+    "question": "Which one of the following best describes the term \"greenwashing\"?",
+    "options": [
+      "Conveying a false impression that a company's products are eco-friendly and environmentally sound",
+      "Non-inclusion of ecological/environmental costs in the Annual Financial Statements of a country",
+      "Ignoring the disastrous ecological consequences while undertaking infrastructure development",
+      "Making mandatory provisions for environmental costs in a government project/programme"
+    ],
+    "answer": "A",
+    "explanation": "Greenwashing is the practice of misleading consumers into believing that a company's products, services or practices are more environmentally friendly than they actually are."
+  },
+  {
+    "year": "2022",
+    "qno": "89",
+    "subject": "Environment and Ecology",
+    "question": "With reference to Indian laws about wildlife protection, consider the following statements:\n1. Wild animals are the sole property of the government.\n2. When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.\n3. Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Under the Wild Life (Protection) Act, 1972, a species listed as protected is protected wherever it is found, inside or outside protected areas (statement 2). Government property in wild animals is not 'sole', because the Act recognises other rights and categories such as private ownership of certain captive animals, so statement 1 is wrong. Capture or killing of a dangerous animal is allowed only on a Chief Wild Life Warden's order and not on mere apprehension, so statement 3 is wrong. Note: statement 1 is the one to verify."
+  },
+  {
+    "year": "2022",
+    "qno": "100",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following:\n1. Carbon monoxide\n2. Nitrogen oxide\n3. Ozone\n4. Sulphur dioxide\nExcess of which of the above in the environment is/are cause(s) of acid rain?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "4 only",
+      "1, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Acid rain forms when sulphur dioxide and nitrogen oxides react with atmospheric water to form sulphuric and nitric acids. Carbon monoxide and ozone are not the main contributors."
   },
   {
     "year": "2018",

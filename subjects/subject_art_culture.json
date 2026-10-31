@@ -1,5 +1,47 @@
 [
   {
+    "year": "2021",
+    "qno": "31",
+    "subject": "Art & Culture",
+    "question": "With reference to Chausath Yogini Temple situated near Morena, consider the following statements:\n1. It is a circular temple built during the reign of Kachchhapaghata Dynasty.\n2. It is the only circular temple built in India.\n3. It was meant to promote the Vaishnava cult in the region.\n4. Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2",
+      "2 and 3 only",
+      "1 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "The Chausath Yogini temple at Mitaoli near Morena is a circular temple built by the Kachchhapaghata dynasty, and popular belief links it to the design of the Parliament building. It is not the only circular temple (other circular Yogini temples exist, e.g., Hirapur), and it was associated with Shaiva/Tantric worship, not Vaishnavism."
+  },
+  {
+    "year": "2021",
+    "qno": "41",
+    "subject": "Art & Culture",
+    "question": "With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous",
+    "options": [
+      "Jain monks",
+      "playwrights",
+      "temple architects",
+      "philosophers"
+    ],
+    "answer": "B",
+    "explanation": "Bhavabhuti (Uttararamacharita, Malatimadhava), Hastimalla (Jain playwright of the Hoysala/Pandya period) and Kshemeshvara (Chandakaushika) were famous Sanskrit playwrights."
+  },
+  {
+    "year": "2021",
+    "qno": "49",
+    "subject": "Art & Culture",
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "Ajanta Caves lie in the gorge of Waghora river.",
+      "Sanchi Stupa lies in the gorge of Chambal river.",
+      "Pandu-lena Cave Shrines lie in the gorge of Narmada river.",
+      "Amaravati Stupa lies in the gorge of Godavari river."
+    ],
+    "answer": "A",
+    "explanation": "The Ajanta Caves are cut into a horseshoe-shaped gorge of the Waghora river in Maharashtra. Sanchi lies on a hill near the Betwa, Pandu-lena (Nashik) is in the Trirashmi hills, and Amaravati Stupa is on the Krishna river."
+  },
+  {
     "year": "2023",
     "qno": "41",
     "subject": "Art & Culture",
@@ -138,6 +180,34 @@
     ],
     "answer": "D",
     "explanation": "Under Shah Jahan, Mughal painting moved away from illustrated manuscripts towards albums (muraqqas) and individual portraits, with refined, formal court portraiture."
+  },
+  {
+    "year": "2022",
+    "qno": "95",
+    "subject": "Art & Culture",
+    "question": "The world's second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently. Which one of the following statements correctly represents the teachings of Ramanuja?",
+    "options": [
+      "The best means of salvation was devotion.",
+      "Vedas are eternal, self-existent and wholly authoritative.",
+      "Logical arguments were essential means for the highest bliss.",
+      "Salvation was to be obtained through meditation."
+    ],
+    "answer": "A",
+    "explanation": "Ramanuja's Vishishtadvaita holds that devotion (bhakti) and total surrender (prapatti) to Vishnu are the best means to salvation. The other options reflect other schools, such as Mimamsa for the eternal authority of the Vedas and Advaita for knowledge."
+  },
+  {
+    "year": "2022",
+    "qno": "96",
+    "subject": "Art & Culture",
+    "question": "The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple?\n1. Somnath Temple is one of the Jyotirlinga shrines.\n2. A description of Somnath Temple was given by Al-Biruni.\n3. Pran Pratishtha of Somnath Temple (installation of the present day temple) was done by President S. Radhakrishnan.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Somnath is the first of the twelve Jyotirlinga shrines, and Al-Biruni described it in his account of India. The present temple was inaugurated in 1951 by President Rajendra Prasad, not S. Radhakrishnan. Statements 1 and 2 are correct."
   },
   {
     "year": "2018",

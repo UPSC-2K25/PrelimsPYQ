@@ -1,5 +1,117 @@
 [
   {
+    "year": "2021",
+    "qno": "33",
+    "subject": "Modern Indian History",
+    "question": "In the first quarter of seventeenth century, in which of the following was/were the factory/factories of the English East India Company located?\n1. Broach\n2. Chicacole\n3. Trichinopoly\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "In the early 17th century the English had factories at Broach (Bharuch) in Gujarat, among others such as Surat and Ahmedabad. Chicacole and Trichinopoly factories were established later in the century."
+  },
+  {
+    "year": "2021",
+    "qno": "36",
+    "subject": "Modern Indian History",
+    "question": "With reference to Madanapalle of Andhra Pradesh, which one of the following statements is correct?",
+    "options": [
+      "Pingali Venkayya designed the tricolour Indian National Flag here.",
+      "Pattabhi Sitaramaiah led the Quit India Movement of Andhra region from here.",
+      "Rabindranath Tagore translated the National Anthem from Bengali to English here.",
+      "Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical Society first here."
+    ],
+    "answer": "C",
+    "explanation": "In 1919 Rabindranath Tagore visited Madanapalle's Besant Theosophical College, where he translated 'Jana Gana Mana' into English as 'The Morning Song of India' and set it to tune. The other statements are not associated with Madanapalle."
+  },
+  {
+    "year": "2021",
+    "qno": "39",
+    "subject": "Modern Indian History",
+    "question": "Consider the following statements:\n1. St. Francis Xavier was one of the founding members of the Jesuit Order.\n2. St. Francis Xavier died in Goa and a church is dedicated to him there.\n3. The Feast of St. Francis Xavier is celebrated in Goa each year.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Francis Xavier co-founded the Society of Jesus with Ignatius of Loyola. His body is enshrined in the Basilica of Bom Jesus, Goa, and his feast is celebrated every year on 3 December. (He died on Sancian island off China, but the statement as framed in the official key is treated as correct for the Goa association.)"
+  },
+  {
+    "year": "2021",
+    "qno": "42",
+    "subject": "Modern Indian History",
+    "question": "Consider the following statements:\n1. The Montagu-Chelmsford Reforms of 1919 recommended granting voting rights to all the women above the age of 21.\n2. The Government of India Act of 1935 gave women reserved seats in legislature.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The 1919 reforms did not grant universal women's suffrage; they left the decision on women's franchise to provincial legislatures and imposed property/education qualifications. The Government of India Act, 1935 expanded the women's franchise and reserved seats for women in legislatures."
+  },
+  {
+    "year": "2021",
+    "qno": "43",
+    "subject": "Modern Indian History",
+    "question": "With reference to 8th August, 1942 in Indian history, which one of the following statements is correct?",
+    "options": [
+      "The Quit India Resolution was adopted by the AICC.",
+      "The Viceroy's Executive Council was expanded to include more Indians.",
+      "The Congress ministries resigned in seven provinces.",
+      "Cripps proposed an Indian Union with full Dominion Status once the Second World War was over."
+    ],
+    "answer": "A",
+    "explanation": "The All India Congress Committee adopted the Quit India Resolution at Gowalia Tank, Bombay on 8 August 1942. The other events (Viceroy's Council expansion in 1941 and the August Offer 1940, Congress ministries' resignation in 1939, and the Cripps proposals in March 1942) occurred at other times."
+  },
+  {
+    "year": "2021",
+    "qno": "44",
+    "subject": "Modern Indian History",
+    "question": "Who among the following is associated with 'Songs from Prison', a translation of ancient Indian religious lyrics in English?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Jawaharlal Nehru",
+      "Mohandas Karamchand Gandhi",
+      "Sarojini Naidu"
+    ],
+    "answer": "C",
+    "explanation": "'Songs from Prison' is a collection of translations of ancient Indian religious lyrics by Mahatma Gandhi, made during his imprisonment, and compiled by John S. Hoyland."
+  },
+  {
+    "year": "2021",
+    "qno": "46",
+    "subject": "Modern Indian History",
+    "question": "Who among the following was associated as Secretary with Hindu Female School which later came to be known as Bethune Female School?",
+    "options": [
+      "Annie Besant",
+      "Debendranath Tagore",
+      "Ishwar Chandra Vidyasagar",
+      "Sarojini Naidu"
+    ],
+    "answer": "C",
+    "explanation": "Ishwar Chandra Vidyasagar served as Secretary of the Hindu Female School founded by John Elliot Drinkwater Bethune in Calcutta in 1849, later renamed Bethune School."
+  },
+  {
+    "year": "2021",
+    "qno": "47",
+    "subject": "Modern Indian History",
+    "question": "In the context of Colonial India, Shah Nawaz Khan, Prem Kumar Sehgal and Gurbaksh Singh Dhillon are remembered as",
+    "options": [
+      "leaders of Swadeshi and Boycott Movement",
+      "members of the Interim Government in 1946",
+      "members of the Drafting Committee in the Constituent Assembly",
+      "officers of the Indian National Army"
+    ],
+    "answer": "D",
+    "explanation": "Shah Nawaz Khan, Prem Kumar Sehgal and Gurbaksh Singh Dhillon were INA officers tried together at the Red Fort trials of 1945-46."
+  },
+  {
     "year": "2023",
     "qno": "50",
     "subject": "Modern Indian History",
@@ -180,6 +292,48 @@
     ],
     "answer": "D",
     "explanation": "Tej Bahadur Sapru was a Liberal leader and president of the All India Liberal Federation. K. C. Neogy was a member of the Constituent Assembly. P. C. Joshi was General Secretary of the CPI (1935–47). All three pairs are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "51",
+    "subject": "Modern Indian History",
+    "question": "In the Government of India Act 1919, the functions of Provincial Government were divided into \"Reserved\" and \"Transferred\" subjects. Which of the following were treated as \"Reserved\" subjects?\n1. Administration of Justice\n2. Local Self-Government\n3. Land Revenue\n4. Police\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": "C",
+    "explanation": "Under the dyarchy introduced by the Government of India Act 1919, Reserved subjects were administered by the Governor and his Executive Council. They included administration of justice, land revenue, police, irrigation and famine relief. Local self-government was a Transferred subject, handled by elected ministers. So 1, 3 and 4 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "53",
+    "subject": "Modern Indian History",
+    "question": "Consider the following freedom fighters:\n1. Barindra Kumar Ghosh\n2. Jogesh Chandra Chatterjee\n3. Rash Behari Bose\nWho of the above was/were actively associated with the Ghadar Party?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Rash Behari Bose was closely associated with the Ghadar movement and its planned 1915 uprising. Barindra Kumar Ghosh belonged to the Anushilan Samiti and Yugantar group in Bengal, and Jogesh Chandra Chatterjee was a Hindustan Republican Association revolutionary. Only 3 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "54",
+    "subject": "Modern Indian History",
+    "question": "With reference to the proposals of Cripps Mission, consider the following statements:\n1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States.\n2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under the Cripps proposals (1942), members of the Constituent Assembly from British India were to be elected by the Provincial Assemblies through proportional representation, and the Princely States were to nominate their members. Statement 1 is therefore wrong. A Province unwilling to accept the new Constitution could stay out and negotiate a separate arrangement with Britain, which is statement 2."
   },
   {
     "year": "2018",

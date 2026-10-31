@@ -1,5 +1,61 @@
 [
   {
+    "year": "2021",
+    "qno": "32",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?",
+    "options": [
+      "Dholavira",
+      "Kalibangan",
+      "Rakhigarhi",
+      "Ropar"
+    ],
+    "answer": "A",
+    "explanation": "Dholavira, a Harappan city in Kutch, is famous for its sophisticated water conservation system with dams, channels and a series of interconnected reservoirs."
+  },
+  {
+    "year": "2021",
+    "qno": "34",
+    "subject": "Ancient Indian History",
+    "question": "From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\n1. The Guptas of Magadha\n2. The Paramaras of Malwa\n3. The Pushyabhutis of Thanesar\n4. The Maukharis of Kanauj\n5. The Yadavas of Devagiri\n6. The Maitrakas of Valabhi\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 5",
+      "1, 3, 4 and 6",
+      "2, 3 and 4",
+      "5 and 6"
+    ],
+    "answer": "B",
+    "explanation": "In the period between the Gupta decline and Harsha, the Later Guptas of Magadha, Pushyabhutis of Thanesar, Maukharis of Kanauj and Maitrakas of Valabhi held power. The Paramaras (c. 9th century) and Yadavas of Devagiri (c. 12th century) rose much later."
+  },
+  {
+    "year": "2021",
+    "qno": "37",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following pairs:\n(Historical place : Well-known for)\n1. Burzahom : Rock-cut shrines\n2. Chandraketugarh : Terracotta art\n3. Ganeshwar : Copper artefacts\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Burzahom is a Neolithic site known for pit dwellings, not rock-cut shrines. Chandraketugarh (West Bengal) is famed for terracotta art, and Ganeshwar (Rajasthan) for copper artefacts of the Ganeshwar-Jodhpura culture."
+  },
+  {
+    "year": "2021",
+    "qno": "40",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the history of ancient India, which of the following statements is/are correct?\n1. Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes.\n2. In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property.\n3. The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Both Mitakshara and Dayabhaga are schools of Hindu law applying to all Hindus of their regions, not caste-based, so statement 1 is wrong. Under Mitakshara sons acquire a right by birth, while under Dayabhaga they inherit only after the father's death. Statement 3 is wrong because the distinction is not based on the gender of property holders."
+  },
+  {
     "year": "2023",
     "qno": "43",
     "subject": "Ancient Indian History",
@@ -110,6 +166,90 @@
     ],
     "answer": "A",
     "explanation": "In the Gupta period, vishti (forced labour) was a levy in kind, a form of tax in labour for the State. It was widely prevalent, including in central and western India. Forced labourers were not paid wages, and the eldest son was not specially required to serve."
+  },
+  {
+    "year": "2022",
+    "qno": "55",
+    "subject": "Ancient Indian History",
+    "question": "With reference to Indian history, consider the following texts:\n1. Nettipakarana\n2. Parishishtaparvan\n3. Avadanashataka\n4. Trishashtilakshana Mahapurana\nWhich of the above are Jaina texts?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Parishishtaparvan, by Hemachandra, and Trishashtilakshana Mahapurana, by Jinasena, are Jaina works. Nettipakarana is a Pali Buddhist text, and Avadanashataka is a Buddhist Sanskrit text of Avadana stories."
+  },
+  {
+    "year": "2022",
+    "qno": "56",
+    "subject": "Ancient Indian History",
+    "question": "With reference to Indian history, consider the following pairs:\nHistorical person — Known as\n1. Aryadeva — Jaina scholar\n2. Dignaga — Buddhist scholar\n3. Nathamuni — Vaishnava scholar\nHow many pairs given above are correctly matched?",
+    "options": [
+      "None of the pairs",
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs"
+    ],
+    "answer": "C",
+    "explanation": "Aryadeva was a Buddhist Madhyamaka philosopher and a disciple of Nagarjuna, not a Jaina scholar. Dignaga was a Buddhist logician, and Nathamuni was the first Vaishnava acharya, who compiled the Alvars' hymns. Only pairs 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "60",
+    "subject": "Ancient Indian History",
+    "question": "According to Kautilya's Arthashastra, which of the following are correct?\n1. A person could be a slave as a result of a judicial punishment.\n2. If a female slave bore her master a son, she was legally free.\n3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Arthashastra recognises slavery arising from several causes, including judicial punishment. It provides that a female slave who bears her master a son is freed, and that the child of such a union has the status of the master's child. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "91",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following pairs:\nSite of Ashoka's major rock edicts — Location in the State of\n1. Dhauli — Odisha\n2. Erragudi — Andhra Pradesh\n3. Jaugada — Madhya Pradesh\n4. Kalsi — Karnataka\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "explanation": "Dhauli is in Odisha, and Erragudi is in Kurnool district, Andhra Pradesh. Jaugada is in Ganjam district, Odisha, not Madhya Pradesh. Kalsi is in Uttarakhand, not Karnataka. Pairs 1 and 2 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "92",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following pairs:\nKing — Dynasty\n1. Nannuka — Chandela\n2. Jayashakti — Paramara\n3. Nagabhata II — Gurjara-Pratihara\n4. Bhoja — Rashtrakuta\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "explanation": "Nannuka founded the Chandela dynasty, and Nagabhata II belonged to the Gurjara-Pratiharas. Jayashakti was a Chandela ruler, not a Paramara, and the famous Bhoja was a Paramara of Malwa (or a Gurjara-Pratihara king of the same name), not a Rashtrakuta. Pairs 1 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "93",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following statements about Sangam literature in ancient South India is correct?",
+    "options": [
+      "Sangam poems are devoid of any reference to material culture.",
+      "The social classification of Varna was known to Sangam poets.",
+      "Sangam poems have no reference to warrior ethic.",
+      "Sangam literature refers to magical forces as irrational."
+    ],
+    "answer": "B",
+    "explanation": "Sangam poems are rich in references to material culture and contain many heroic poems on warrior ethics, so options A and C are wrong. They also mention magical beliefs, so option D is wrong. The poems and Tolkappiyam show awareness of the Varna classification, as seen in references to Brahmanas, Kshatriyas, Vaishyas and Vellalas. Note: I'm not fully certain of this one, so verify it."
   },
   {
     "year": "2018",

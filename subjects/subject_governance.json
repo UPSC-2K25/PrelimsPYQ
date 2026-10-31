@@ -1,5 +1,75 @@
 [
   {
+    "year": "2021",
+    "qno": "78",
+    "subject": "Governance",
+    "question": "With reference to the Union Government, consider the following statements:\n1. N. Gopalaswamy Iyengar Committee suggested that a minister and a secretary be designated solely for pursuing the subject of administrative reform and promoting it.\n2. In 1970, the Department of Personnel was constituted on the recommendation of the Administrative Reforms Commission, 1966, and this was placed under the Prime Minister's charge.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The Department of Personnel was created in 1970 on the recommendation of the First Administrative Reforms Commission (1966) and placed under the Prime Minister's charge. Statement 1 is not correct as attributed to the Gopalaswamy Ayyangar Committee on reorganisation of central government machinery (1949)."
+  },
+  {
+    "year": "2021",
+    "qno": "80",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. In India, there is no law restricting the candidates from contesting in one Lok Sabha election from three constituencies.\n2. In 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies.\n3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3",
+      "2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Since the 1996 amendment to the Representation of the People Act, a candidate can contest from at most two constituencies, so statement 1 is incorrect. Devi Lal contested from three constituencies in 1991. The cost-bearing rule for the party is only a recommendation (e.g., by the Election Commission/Law Commission), not an existing rule."
+  },
+  {
+    "year": "2021",
+    "qno": "81",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. 'Right to the City' is an agreed human right and the UN-Habitat monitors the commitments made by each country in this regard.\n2. 'Right to the City' gives every occupant of the city the right to reclaim public spaces and public participation in the city.\n3. 'Right to the City' means that the State cannot deny any public service or facility to the unauthorized colonies in the city.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Right to the City concept gives all inhabitants rights to participate in city life and to reclaim public spaces, and implies that basic public services cannot be denied to residents of unauthorized colonies. It is not an agreed human right monitored by UN-Habitat for each country, so statement 1 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "83",
+    "subject": "Governance",
+    "question": "With reference to India, consider the following statements:\n1. When a prisoner makes out a sufficient case, parole cannot be denied to such prisoner because it becomes a matter of his/her right.\n2. State Governments have their own Prisoners Release on Parole Rules.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Parole is not a matter of right, and may be denied even if a prisoner makes out a case, depending on factors such as public interest, so statement 1 is incorrect. Prisons being a State subject, States frame their own parole rules."
+  },
+  {
+    "year": "2021",
+    "qno": "84",
+    "subject": "Governance",
+    "question": "At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006?",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Panchayati Raj",
+      "Ministry of Rural Development",
+      "Ministry of Tribal Affairs"
+    ],
+    "answer": "D",
+    "explanation": "The Ministry of Tribal Affairs is the nodal ministry for implementing the Forest Rights Act, 2006."
+  },
+  {
     "year": "2023",
     "qno": "30",
     "subject": "Governance",
@@ -376,6 +446,48 @@
     ],
     "answer": "C",
     "explanation": "The General Data Protection Regulation (GDPR) is a European Union regulation adopted in April 2016 and enforceable from 25 May 2018."
+  },
+  {
+    "year": "2022",
+    "qno": "12",
+    "subject": "Governance",
+    "question": "With reference to India, consider the following statements:\n1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates.\n2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under the Advocates Act, 1961, the Bar Council of India lays down standards of legal education and recognises universities and law colleges, so statement 2 is correct. Statement 1 is wrong: advocates are those enrolled with Bar Councils, and law firms as entities are not 'recognised as advocates'. Corporate lawyers who are enrolled are advocates, and patent attorneys are a separate category governed by the Patents Act."
+  },
+  {
+    "year": "2022",
+    "qno": "74",
+    "subject": "Governance",
+    "question": "Consider the following statements:\n1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization.\n2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The India Sanitation Coalition is a multi-stakeholder platform hosted by FICCI, so it is not funded by the Government of India and the WHO. The National Institute of Urban Affairs is the Ministry of Housing and Urban Affairs' think tank for urban research and solutions. Only statement 2 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "79",
+    "subject": "Governance",
+    "question": "With reference to the \"Tea Board\" in India, consider the following statements:\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board's Head Office is situated in Bengaluru.\n4. The Board has overseas offices at Dubai and Moscow.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": "D",
+    "explanation": "The Tea Board was set up under the Tea Act, 1953, so it is a statutory body. It functions under the Ministry of Commerce and Industry, not the Ministry of Agriculture, and its head office is in Kolkata, not Bengaluru. It has overseas offices in Dubai and Moscow. Statements 1 and 4 are correct."
   },
   {
     "year": "2018",

@@ -3,12 +3,12 @@
     {
       "name": "Ancient Indian History",
       "filename": "subject_ancient_indian_history.json",
-      "count": 15
+      "count": 25
     },
     {
       "name": "Art & Culture",
       "filename": "subject_art_culture.json",
-      "count": 19
+      "count": 24
     },
     {
       "name": "Artificial Intelligence",
@@ -18,72 +18,72 @@
     {
       "name": "Biogeography",
       "filename": "subject_biogeography.json",
-      "count": 15
+      "count": 27
     },
     {
       "name": "Climatology",
       "filename": "subject_climatology.json",
-      "count": 6
+      "count": 8
     },
     {
       "name": "Constitution",
       "filename": "subject_constitution.json",
-      "count": 56
+      "count": 76
     },
     {
       "name": "Economic Geography",
       "filename": "subject_economic_geography.json",
-      "count": 19
+      "count": 29
     },
     {
       "name": "Environment and Ecology",
       "filename": "subject_environment_and_ecology.json",
-      "count": 61
+      "count": 83
     },
     {
       "name": "Geomorphology",
       "filename": "subject_geomorphology.json",
-      "count": 10
+      "count": 17
     },
     {
       "name": "Governance",
       "filename": "subject_governance.json",
-      "count": 40
+      "count": 48
     },
     {
       "name": "Human Geography",
       "filename": "subject_human_geography.json",
-      "count": 9
+      "count": 14
     },
     {
       "name": "Indian Economy",
       "filename": "subject_indian_economy.json",
-      "count": 81
+      "count": 109
     },
     {
       "name": "Indian Society",
       "filename": "subject_indian_society.json",
-      "count": 6
+      "count": 8
     },
     {
       "name": "Internal Security",
       "filename": "subject_internal_security.json",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Medieval Indian History",
       "filename": "subject_medieval_indian_history.json",
-      "count": 12
+      "count": 21
     },
     {
       "name": "Modern Indian History",
       "filename": "subject_modern_indian_history.json",
-      "count": 36
+      "count": 47
     },
     {
       "name": "Oceanography",
       "filename": "subject_oceanography.json",
-      "count": 3
+      "count": 7
     },
     {
       "name": "PSIR",
@@ -93,17 +93,22 @@
     {
       "name": "Political Science and International Relations",
       "filename": "subject_political_science_and_international_relations.json",
-      "count": 22
+      "count": 31
     },
     {
       "name": "Science & Technology",
       "filename": "subject_science_technology.json",
-      "count": 51
+      "count": 81
     },
     {
       "name": "World Economy",
       "filename": "subject_world_economy.json",
-      "count": 13
+      "count": 17
+    },
+    {
+      "name": "World History",
+      "filename": "subject_world_history.json",
+      "count": 1
     }
   ],
   "years": [
@@ -111,10 +116,12 @@
     2018,
     2019,
     2020,
+    2021,
+    2022,
     2023,
     2024,
     2026,
     2027
   ],
-  "total_subjects": 21
+  "total_subjects": 22
 }

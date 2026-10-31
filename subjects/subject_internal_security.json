@@ -1,5 +1,19 @@
 [
   {
+    "year": "2022",
+    "qno": "34",
+    "subject": "Internal Security",
+    "question": "Which one of the following statements best reflects the idea behind the \"Fractional Orbital Bombardment System\" often talked about in media?",
+    "options": [
+      "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.",
+      "A spacecraft lands on another planet after making several orbital motions.",
+      "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+      "A spacecraft moves along a comet with the same speed and places a probe on its surface."
+    ],
+    "answer": "C",
+    "explanation": "A Fractional Orbital Bombardment System (FOBS) places a warhead into low Earth orbit and de-orbits it before completing a full orbit to strike a target. Because it follows an unpredictable trajectory, it can evade early-warning systems that are oriented towards ballistic trajectories."
+  },
+  {
     "year": "2018",
     "qno": "43",
     "subject": "Internal Security",

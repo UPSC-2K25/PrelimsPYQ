@@ -1,5 +1,33 @@
 [
   {
+    "year": "2021",
+    "qno": "50",
+    "subject": "Indian Society",
+    "question": "Consider the following statements:\n1. 21st February is declared to be the International Mother Language Day by UNICEF.\n2. The demand that Bangla has to be one of the national languages was raised in the Constituent Assembly of Pakistan.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "International Mother Language Day on 21 February was proclaimed by UNESCO, not UNICEF, so statement 1 is incorrect. The demand for Bangla to be a national language of Pakistan was first raised in the Constituent Assembly of Pakistan (by Dhirendranath Datta in 1948), so statement 2 is correct."
+  },
+  {
+    "year": "2021",
+    "qno": "95",
+    "subject": "Indian Society",
+    "question": "With reference to India, the terms 'Halbi, Ho and Kui' pertain to",
+    "options": [
+      "dance forms of Northwest India",
+      "musical instruments",
+      "pre-historic cave paintings",
+      "tribal languages"
+    ],
+    "answer": "D",
+    "explanation": "Halbi, Ho and Kui are tribal languages spoken in central and eastern India (Halbi in Chhattisgarh/Odisha, Ho in Jharkhand/Odisha, Kui in Odisha)."
+  },
+  {
     "year": "2019",
     "qno": "51",
     "subject": "Indian Society",
