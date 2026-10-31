@@ -70,6 +70,62 @@
     "explanation": "Black cotton soil (regur) is formed from the weathering of basaltic lava rock of the Deccan Traps, which were erupted through fissure volcanism."
   },
   {
+    "year": "2023",
+    "qno": "1",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of Gandak River formed Kanwar Lake.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The Jhelum flows through Wular Lake in Kashmir, and Kanwar Lake (Kabartal) in Bihar is an oxbow lake formed by the meandering of the Gandak. Kolleru Lake lies between the Krishna and Godavari deltas and is fed mainly by the Budameru and Tammileru streams, not directly by the Krishna. Hence only two statements are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "5",
+    "subject": "Geomorphology",
+    "question": "Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland?",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Marakkanam Salt Pans",
+      "Naupada Swamp",
+      "Rann of Kutch"
+    ],
+    "answer": "D",
+    "explanation": "The Rann of Kutch was once a shallow arm of the Arabian Sea. Repeated falls in sea level and tectonic uplift cut it off from the sea, leaving the extensive seasonal marshland and salt flats seen today."
+  },
+  {
+    "year": "2023",
+    "qno": "9",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.\n2. Biligirirangan Hills constitute the easternmost part of Satpura Range.\n3. Seshachalam Hills constitute the southernmost part of Western Ghats.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Amarkantak lies at the junction of the Vindhya and Satpura ranges, not the Sahyadri. The Biligirirangan Hills are where the Western and Eastern Ghats meet in Karnataka and Tamil Nadu, and they are not part of the Satpura Range. The Seshachalam Hills belong to the Eastern Ghats. All three statements are incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "65",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "P (primary) waves travel faster and arrive first at a seismograph. They are longitudinal, with particles vibrating parallel to the direction of propagation. S (secondary) waves are transverse, with particle motion at right angles to the direction of travel. Both statements are correct."
+  },
+  {
     "year": "2017",
     "qno": "30",
     "subject": "Geomorphology",
@@ -82,6 +138,76 @@
     ],
     "answer": "B",
     "explanation": "The Teesta rises from the Pauhunri/Tso Lhamo area in Sikkim, while the Brahmaputra rises near Mansarovar, so statement 1 is wrong. The Rangeet originates in Sikkim and is a tributary of the Teesta, so statement 2 is correct. The Teesta joins the Brahmaputra (Jamuna) in Bangladesh and does not flow directly into the Bay of Bengal, so statement 3 is wrong."
+  },
+  {
+    "year": "2024",
+    "qno": "3",
+    "subject": "Geomorphology",
+    "question": "Consider the following:\n1. Pyroclastic debris\n2. Ash and dust\n3. Nitrogen compounds\n4. Sulphur compounds\nHow many of the above are products of volcanic eruptions?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Volcanic eruptions release solid materials such as pyroclastic debris (bombs, lapilli, blocks), ash and dust. They also release gases including sulphur compounds (SO2, H2S) and nitrogen compounds, along with water vapour, CO2 and others. All four are products of volcanic eruptions."
+  },
+  {
+    "year": "2024",
+    "qno": "6",
+    "subject": "Geomorphology",
+    "question": "With reference to the Himalayan rivers joining the Ganga downstream of Prayagraj from West to East, which one of the following sequences is correct?",
+    "options": [
+      "Ghaghara – Gomati – Gandak – Kosi",
+      "Gomati – Ghaghara – Gandak – Kosi",
+      "Ghaghara – Gomati – Kosi – Gandak",
+      "Gomati – Ghaghara – Kosi – Gandak"
+    ],
+    "answer": "B",
+    "explanation": "Downstream of Prayagraj, the Ganga receives the Gomati first (near Saidpur, Ghazipur), followed by the Ghaghara (near Chhapra), the Gandak (near Hajipur/Patna) and finally the Kosi (near Kursela). The correct west-to-east order is Gomati – Ghaghara – Gandak – Kosi."
+  },
+  {
+    "year": "2024",
+    "qno": "7",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\nStatement-I:\nRainfall is one of the reasons for weathering of rocks.\nStatement-II:\nRain water contains carbon dioxide in solution.\nStatement-III:\nRain water contains atmospheric oxygen.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-II and Statement-III are correct and both of them explain Statement-I",
+      "Both Statement-II and Statement-III are correct, but only one of them explains Statement-I",
+      "Only one of the Statements II and III is correct and that explains Statement-I",
+      "Neither Statement-II nor Statement-III is correct"
+    ],
+    "answer": "A",
+    "explanation": "Rain water dissolves atmospheric CO2 to form weak carbonic acid, which drives carbonation (e.g. in limestone). Dissolved oxygen drives oxidation of iron-bearing minerals. Both processes are chemical weathering, so both Statements II and III are correct and both explain Statement-I."
+  },
+  {
+    "year": "2024",
+    "qno": "9",
+    "subject": "Geomorphology",
+    "question": "Consider the following information:\nWaterfall | Region | River\n1. Dhuandhar | Malwa | Narmada\n2. Hundru | Chota Nagpur | Subarnarekha\n3. Gersoppa | Western Ghats | Netravati\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Hundru Falls lies in the Chota Nagpur plateau on the Subarnarekha river, so row 2 is correct. Dhuandhar Falls on the Narmada is near Jabalpur, which is not in the Malwa region. Gersoppa (Jog) Falls is on the Sharavati river, not the Netravati. Only one row is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "10",
+    "subject": "Geomorphology",
+    "question": "Consider the following information:\nRegion | Name of the mountain range | Type of mountain\n1. Central Asia | Vosges | Fold mountain\n2. Europe | Alps | Block mountain\n3. North America | Appalachians | Fold mountain\n4. South America | Andes | Fold mountain\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "The Vosges is a block mountain in Europe (France), not a Central Asian fold mountain, so row 1 is wrong. The Alps are young fold mountains, not block mountains, so row 2 is wrong. The Appalachians (old fold mountains) and the Andes (young fold mountains) are correctly matched. Hence only two."
   },
   {
     "year": "2019",

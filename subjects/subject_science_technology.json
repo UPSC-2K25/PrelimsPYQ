@@ -210,6 +210,146 @@
     "explanation": "In the inaugural World Test Championship (2019-21) the finalists were decided by the percentage of points won, not the number of matches won. New Zealand was ranked ahead of England on points percentage, not simply because of more wins."
   },
   {
+    "year": "2023",
+    "qno": "53",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.\n2. Carbon fibres once used cannot be recycled.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Carbon fibre composites are used widely in automobiles and aircraft because of their high strength-to-weight ratio, so statement 1 is correct. Carbon fibres can be recycled by pyrolysis, solvolysis and other methods, although recycling is difficult and costly. Statement 2 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "54",
+    "subject": "Science & Technology",
+    "question": "Consider the following actions:\n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously\n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive\n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode\nIn how many of the above actions is the function of accelerometer required?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Accelerometers measure acceleration and orientation. They trigger airbag deployment on a crash, detect free fall to park a laptop's hard drive heads, and sense tilt to rotate a smartphone display. All three need an accelerometer."
+  },
+  {
+    "year": "2023",
+    "qno": "55",
+    "subject": "Science & Technology",
+    "question": "With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements:\n1. Biofilters provide waste treatment by removing uneaten fish feed.\n2. Biofilters convert ammonia present in fish waste to nitrate.\n3. Biofilters increase phosphorus as nutrient for fish in water.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "In a recirculating aquaculture system, mechanical filters remove solids such as uneaten feed. Biofilters host nitrifying bacteria that convert toxic ammonia first to nitrite and then to nitrate. They do not increase phosphorus. Only statement 2 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "56",
+    "subject": "Science & Technology",
+    "question": "Consider the following pairs:\nObjects in space | Description\n1. Cepheids : Giant clouds of dust and gas in space\n2. Nebulae : Stars which brighten and dim periodically\n3. Pulsars : Neutron stars that are formed when massive stars run out of fuel and collapse\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Cepheids are pulsating variable stars that brighten and dim periodically, and nebulae are giant clouds of dust and gas, so the descriptions of pairs 1 and 2 are swapped. Pulsars are rapidly rotating neutron stars formed when massive stars exhaust their fuel and collapse, so pair 3 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "57",
+    "subject": "Science & Technology",
+    "question": "Which one of the following countries has its own Satellite Navigation System?",
+    "options": [
+      "Australia",
+      "Canada",
+      "Israel",
+      "Japan"
+    ],
+    "answer": "D",
+    "explanation": "Japan operates the Quasi-Zenith Satellite System (QZSS), a regional satellite navigation system. Australia, Canada and Israel do not have their own."
+  },
+  {
+    "year": "2023",
+    "qno": "60",
+    "subject": "Science & Technology",
+    "question": "With reference to green hydrogen, consider the following statements:\n1. It can be used directly as a fuel for internal combustion.\n2. It can be blended with natural gas and used as fuel for heat or power generation.\n3. It can be used in the hydrogen fuel cell to run vehicles.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Green hydrogen, produced by electrolysis using renewable electricity, can be burned in hydrogen internal combustion engines, blended with natural gas for heat and power, and used in fuel cells to power vehicles. All three are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "67",
+    "subject": "Science & Technology",
+    "question": "'Wolbachia method' is sometimes talked about with reference to which one of the following?",
+    "options": [
+      "Controlling the viral diseases spread by mosquitoes",
+      "Converting crop residues into packing material",
+      "Producing biodegradable plastics",
+      "Producing biochar from thermochemical conversion of biomass"
+    ],
+    "answer": "A",
+    "explanation": "Wolbachia is a bacterium that, when introduced into Aedes aegypti mosquitoes, reduces their ability to transmit viruses such as dengue, Zika and chikungunya. The World Mosquito Program uses it to control these diseases."
+  },
+  {
+    "year": "2023",
+    "qno": "69",
+    "subject": "Science & Technology",
+    "question": "'Aerial metagenomics' best refers to which one of the following situations?",
+    "options": [
+      "Collecting DNA samples from air in a habitat at one go",
+      "Understanding the genetic makeup of avian species of a habitat",
+      "Using air-borne devices to collect blood samples from moving animals",
+      "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies"
+    ],
+    "answer": "A",
+    "explanation": "Aerial metagenomics, or airborne environmental DNA sampling, involves filtering air to collect DNA shed by organisms, allowing many species in a habitat to be identified in one sampling."
+  },
+  {
+    "year": "2023",
+    "qno": "70",
+    "subject": "Science & Technology",
+    "question": "'Microsatellite DNA' is used in the case of which one of the following?",
+    "options": [
+      "Studying the evolutionary relationships among various species of fauna",
+      "Stimulating 'stem cells' to transform into diverse functional tissues",
+      "Promoting clonal propagation of horticultural plants",
+      "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+    ],
+    "answer": "A",
+    "explanation": "Microsatellites are short tandem repeat sequences that are highly variable. They are used as markers for population genetics, parentage and phylogenetic studies, and for studying evolutionary relationships among species."
+  },
+  {
+    "year": "2023",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "Consider the following heavy industries:\n1. Fertilizer plants\n2. Oil refineries\n3. Steel plants\nGreen hydrogen is expected to play a significant role in decarbonizing how many of the above industries?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Green hydrogen can replace grey hydrogen in ammonia and fertiliser production and in refinery processes such as hydrotreating. It can also replace coking coal in direct reduction for green steel. All three industries can be decarbonised."
+  },
+  {
     "year": "2017",
     "qno": "10",
     "subject": "Science & Technology",
@@ -348,6 +488,160 @@
     ],
     "answer": "B",
     "explanation": "eLISA is a planned European Space Agency space-based observatory designed to detect gravitational waves using laser interferometry between spacecraft."
+  },
+  {
+    "year": "2024",
+    "qno": "27",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Battery storage\n2. Biomass generators\n3. Fuel cells\n4. Rooftop solar photovoltaic units\nHow many of the above are considered \"Distributed Energy Resources\"?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Distributed Energy Resources (DERs) are small-scale generation or storage units located close to the point of consumption. Battery storage, biomass generators, fuel cells and rooftop solar PV units all qualify."
+  },
+  {
+    "year": "2024",
+    "qno": "31",
+    "subject": "Science & Technology",
+    "question": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecrafts.\n3. RTGs can use Plutonium-238, which is a by-product of weapons development.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "RTGs convert heat from the natural radioactive decay of isotopes such as Plutonium-238 into electricity using thermocouples. They are not fission reactors, so statement 1 is incorrect. They power spacecraft such as Voyager and Cassini, and Pu-238 was produced as a by-product of the nuclear weapons programme. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nStatement-I:\nGiant stars live much longer than dwarf stars.\nStatement-II:\nCompared to dwarf stars, giant stars have a greater rate of nuclear reactions.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "Massive (giant) stars burn their nuclear fuel much faster than small dwarf stars, so they have far shorter lifespans. Statement-I is incorrect. Giants do have a greater rate of nuclear reactions, so Statement-II is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "33",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is synthesised in human body that dilates blood vessels and increases blood flow?",
+    "options": [
+      "Nitric oxide",
+      "Nitrous oxide",
+      "Nitrogen dioxide",
+      "Nitrogen pentoxide"
+    ],
+    "answer": "A",
+    "explanation": "Nitric oxide (NO) is produced by endothelial cells in the body. It relaxes the smooth muscle of blood vessel walls, causing vasodilation and increased blood flow. Nitrous oxide is laughing gas, and nitrogen dioxide and pentoxide are not synthesised for this purpose in the body."
+  },
+  {
+    "year": "2024",
+    "qno": "34",
+    "subject": "Science & Technology",
+    "question": "Consider the following activities:\n1. Identification of narcotics on passengers at airports or in aircraft\n2. Monitoring of precipitation\n3. Tracking the migration of animals\nIn how many of the above activities can the radars be used?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Millimetre-wave radar based scanners are used for detecting concealed items, including narcotics, on passengers. Weather radars monitor precipitation. Radar is also used to track the migration of birds, bats and insects. All three uses are valid."
+  },
+  {
+    "year": "2024",
+    "qno": "36",
+    "subject": "Science & Technology",
+    "question": "In which of the following are hydrogels used?\n1. Controlled drug delivery in patients\n2. Mobile air-conditioning systems\n3. Preparation of industrial lubricants\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Hydrogels are water-rich polymer networks. They are used in controlled drug delivery, in evaporative and sorption-based cooling and air-conditioning systems, and as hydrogel-based lubricants and lubricant additives. All three uses are valid."
+  },
+  {
+    "year": "2024",
+    "qno": "37",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
+    "options": [
+      "Hydrogen peroxide",
+      "Hydronium",
+      "Oxygen",
+      "Water vapour"
+    ],
+    "answer": "D",
+    "explanation": "In a hydrogen fuel cell, hydrogen combines with oxygen from the air to produce electricity, with water (emitted as water vapour) as the only by-product from the tailpipe."
+  },
+  {
+    "year": "2024",
+    "qno": "38",
+    "subject": "Science & Technology",
+    "question": "Recently, the term \"pumped-storage hydropower\" is actually and appropriately discussed in the context of which one of the following?",
+    "options": [
+      "Irrigation of terraced crop fields",
+      "Lift irrigation of cereal crops",
+      "Long duration energy storage",
+      "Rainwater harvesting system"
+    ],
+    "answer": "C",
+    "explanation": "Pumped-storage hydropower pumps water to an upper reservoir when electricity is surplus and releases it through turbines when demand is high. It is a major form of long duration energy storage that supports grid balancing and renewable integration."
+  },
+  {
+    "year": "2024",
+    "qno": "39",
+    "subject": "Science & Technology",
+    "question": "\"Membrane Bioreactors\" are often discussed in the context of:",
+    "options": [
+      "Assisted reproductive technologies",
+      "Drug delivery nanotechnologies",
+      "Vaccine production technologies",
+      "Wastewater treatment technologies"
+    ],
+    "answer": "D",
+    "explanation": "A Membrane Bioreactor (MBR) combines biological treatment (activated sludge) with membrane filtration to treat wastewater and produce high-quality effluent for reuse."
+  },
+  {
+    "year": "2024",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "Consider the following materials:\n1. Agricultural residues\n2. Corn grain\n3. Wastewater treatment sludge\n4. Wood mill waste\nWhich of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Sustainable Aviation Fuel (SAF) can be produced from a wide range of biogenic feedstocks, including agricultural residues, corn grain and other crops, wastewater sludge and forestry or wood mill waste. All four are valid feedstocks."
+  },
+  {
+    "year": "2024",
+    "qno": "48",
+    "subject": "Science & Technology",
+    "question": "Which one of the following words/phrases is most appropriately used to denote \"an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items\"?",
+    "options": [
+      "Big data analytics",
+      "Cryptography",
+      "Metaverse",
+      "Virtual matrix"
+    ],
+    "answer": "C",
+    "explanation": "The Metaverse is described as a persistent, interoperable network of 3D virtual worlds accessed by many users at once, where users can own and trade virtual items (often using blockchain-based property rights)."
   },
   {
     "year": "2019",

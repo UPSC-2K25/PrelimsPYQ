@@ -196,6 +196,202 @@
     "explanation": "As lender of last resort, the central bank provides emergency liquidity to banks facing a temporary crisis so as to prevent systemic failure. It does not routinely lend to trade and industry bodies or finance government deficits under this function."
   },
   {
+    "year": "2023",
+    "qno": "11",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement-I:\nIndia, despite having uranium deposits, depends on coal for most of its electricity production.\nStatement-II:\nUranium, enriched to the extent of at least 60%, is required for the production of electricity.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Coal-based thermal plants supply the majority of India's electricity. Nuclear power reactors use uranium enriched to only about 3–5% (and India's PHWRs use natural uranium), not 60%. So Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "21",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement-I:\nInterest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.\nStatement-II:\nInvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "InvITs were brought under the SARFAESI Act, 2002 as borrowers (recognised by amendments in 2021), so Statement-II is correct. Statement-I reverses the tax treatment: interest income distributed by an InvIT's SPVs is generally tax-exempt in the hands of the trust and taxable for investors, and the dividend component is tax-exempt in specified cases. Statement-I as worded is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "22",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement-I:\nIn the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.\nStatement-II:\nCentral Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "After the pandemic, central banks including the US Fed, ECB, Bank of England and the RBI raised policy rates sharply to fight inflation. They did so because they assume that tightening monetary policy can bring down rising consumer prices. Both statements are correct and the second explains the first."
+  },
+  {
+    "year": "2023",
+    "qno": "24",
+    "subject": "Indian Economy",
+    "question": "Which one of the following activities of the Reserve Bank of India is considered to be part of 'sterilization'?",
+    "options": [
+      "Conducting 'Open Market Operations'",
+      "Oversight of settlement and payment systems",
+      "Debt and cash management for the Central and State Governments",
+      "Regulating the functions of Non-banking Financial Institutions"
+    ],
+    "answer": "A",
+    "explanation": "Sterilisation is the RBI's use of open market operations (buying or selling government securities) and instruments such as MSS to offset the effect of foreign exchange inflows or outflows on domestic money supply."
+  },
+  {
+    "year": "2023",
+    "qno": "25",
+    "subject": "Indian Economy",
+    "question": "Consider the following markets:\n1. Government Bond Market\n2. Call Money Market\n3. Treasury Bill Market\n4. Stock Market\nHow many of the above are included in capital markets?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Capital markets deal with long-term instruments and include the government bond market and the stock market. The call money market and the treasury bill market are part of the money market, since they involve short-term funds."
+  },
+  {
+    "year": "2023",
+    "qno": "26",
+    "subject": "Indian Economy",
+    "question": "Which one of the following best describes the concept of 'Small Farmer Large Field'?",
+    "options": [
+      "Resettlement of a large number of people, uprooted from their countries due to war, by giving them a large cultivable land which they cultivate collectively and share the produce",
+      "Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations",
+      "Many marginal farmers in an area together make a contract with a corporate body and surrender their land to the corporate body for a fixed term for which the corporate body makes a payment of agreed amount to the farmers",
+      "A company extends loans, technical knowledge and material inputs to a number of small farmers in an area so that they produce the agricultural commodity required by the company for its manufacturing process and commercial production"
+    ],
+    "answer": "B",
+    "explanation": "'Small Farmer Large Field' (SFLF) is an approach where many marginal farmers in an area form groups and synchronise their cropping and agricultural operations. This gets them the benefits of scale and mechanisation while each keeps ownership of their own land."
+  },
+  {
+    "year": "2023",
+    "qno": "27",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The Government of India provides Minimum Support Price for niger (Guizotia abyssinica) seeds.\n2. Niger is cultivated as a Kharif crop.\n3. Some tribal people in India use niger seed oil for cooking.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Niger seed (Ramtil) is among the crops for which the Centre announces MSP, and it is mainly a Kharif oilseed crop. Several tribal communities in central and eastern India use its oil for cooking. All three statements are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "28",
+    "subject": "Indian Economy",
+    "question": "Consider the investments in the following assets:\n1. Brand recognition\n2. Inventory\n3. Intellectual property\n4. Mailing list of clients\nHow many of the above are considered intangible investments?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "C",
+    "explanation": "Brand recognition, intellectual property and a mailing list of clients are non-physical assets and so are intangible. Inventory is a physical (tangible) current asset."
+  },
+  {
+    "year": "2023",
+    "qno": "29",
+    "subject": "Indian Economy",
+    "question": "Consider the following:\n1. Demographic performance\n2. Forest and ecology\n3. Governance reforms\n4. Stable government\n5. Tax and fiscal efforts\nFor the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": "B",
+    "explanation": "Besides population, area and income distance, the Fifteenth Finance Commission used demographic performance, forest and ecology, and tax and fiscal efforts as criteria for horizontal devolution. Governance reforms and stable government were not criteria."
+  },
+  {
+    "year": "2023",
+    "qno": "71",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements with reference to India:\n1. According to the 'Micro, Small and Medium Enterprises Development (MSMED) Act, 2006', the 'medium enterprises' are those with investments in plant and machinery between ₹15 crore and ₹25 crore.\n2. All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The MSMED Act, 2006 originally defined medium manufacturing enterprises by investment in plant and machinery of between ₹5 crore and ₹10 crore. Under the 2020 revision, a medium enterprise has investment up to ₹50 crore and turnover up to ₹250 crore, so statement 1 is incorrect. RBI's priority sector guidelines treat all bank loans to micro, small and medium enterprises as priority sector lending, so statement 2 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "72",
+    "subject": "Indian Economy",
+    "question": "With reference to Central Bank digital currencies, consider the following statements:\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with a condition programmed into it such as a time-frame for spending it.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "CBDCs can be used for cross-border payments through direct arrangements between central banks, bypassing the US dollar and SWIFT. CBDCs can also be programmed, for example to expire or be spent only for specified purposes within a time-frame. Both statements are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "73",
+    "subject": "Indian Economy",
+    "question": "In the context of finance, the term 'beta' refers to",
+    "options": [
+      "the process of simultaneous buying and selling of an asset from different platforms",
+      "an investment strategy of a portfolio manager to balance risk versus reward",
+      "a type of systemic risk that arises where perfect hedging is not possible",
+      "a numeric value that measures the fluctuations of a stock to changes in the overall stock market"
+    ],
+    "answer": "D",
+    "explanation": "Beta measures the volatility of a stock relative to the overall market. A beta above 1 means the stock moves more than the market, and below 1 means it moves less."
+  },
+  {
+    "year": "2023",
+    "qno": "74",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived.\n2. In an SHG, all members of a group take responsibility for a loan that an individual member takes.\n3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The SHG–Bank Linkage Programme was initiated by NABARD in 1992, not by the State Bank of India, so statement 1 is incorrect. SHG members share joint responsibility for loans taken by individual members, and RRBs and scheduled commercial banks lend to SHGs. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "88",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement-I:\nIndia accounts for 3.2% of global export of goods.\nStatement-II:\nMany local companies and some foreign companies operating in India have taken advantage of India's 'Production-linked Incentive' scheme.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "India's share of global merchandise exports is only about 1.8%, so the 3.2% figure in Statement-I is incorrect. Many domestic and foreign firms have benefited from the PLI schemes across sectors such as electronics, pharmaceuticals and automobiles, so Statement-II is correct."
+  },
+  {
     "year": "2017",
     "qno": "11",
     "subject": "Indian Economy",
@@ -376,6 +572,188 @@
     ],
     "answer": "D",
     "explanation": "Neither ratio moved steadily in one direction over the decade. The tax-GDP ratio rose and fell, and the fiscal deficit-GDP ratio rose after the 2008 crisis and then declined under fiscal consolidation. Both statements are incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "26",
+    "subject": "Indian Economy",
+    "question": "Which one of the following is the correct description of \"100 Million Farmers\"?",
+    "options": [
+      "It is a platform for accelerating the transition towards food and water systems that are net-zero (carbon), nature-positive and that aims to increase farmer resilience.",
+      "It is an international alliance and a network of individuals and farming organisations interested in supporting and strengthening the development of the organic animal husbandry.",
+      "It is a digital platform fully integrated with service providers and built on blockchain that lets buyers, sellers and third parties trade fertilizers quickly and securely.",
+      "It is a platform with the mission of encouraging the farmers to form Farmer Product Organisations or Agribusiness Consortiums, thus facilitating the access to global open markets to sell their products."
+    ],
+    "answer": "A",
+    "explanation": "The '100 Million Farmers' initiative, launched by the World Economic Forum with partners, is a platform that accelerates the transition to net-zero, nature-positive food and water systems while improving farmer resilience and livelihoods. The other options describe unrelated initiatives."
+  },
+  {
+    "year": "2024",
+    "qno": "40",
+    "subject": "Indian Economy",
+    "question": "With reference to the Indian economy, \"Collateral Borrowing and Lending Obligations\" are the instruments of:",
+    "options": [
+      "Bond market",
+      "Forex market",
+      "Money market",
+      "Stock market"
+    ],
+    "answer": "C",
+    "explanation": "Collateralised Borrowing and Lending Obligation (CBLO), introduced by CCIL, is a money market instrument that lets participants borrow and lend short-term funds against collateral of government securities. It was later replaced by the Tri-party Repo."
+  },
+  {
+    "year": "2024",
+    "qno": "41",
+    "subject": "Indian Economy",
+    "question": "The total fertility rate in an economy is defined as:",
+    "options": [
+      "the number of children born per 1000 people in the population in a year.",
+      "the number of children born to a couple in their lifetime in a given population.",
+      "the birth rate minus death rate.",
+      "the average number of live births a woman would have by the end of her child-bearing age."
+    ],
+    "answer": "D",
+    "explanation": "Total Fertility Rate (TFR) is the average number of children a woman would have over her reproductive years (about 15–49), given current age-specific fertility rates. Option (a) describes the crude birth rate and option (c) the natural growth rate."
+  },
+  {
+    "year": "2024",
+    "qno": "42",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\n1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India.\n2. In India, Foreign Institutional Investors can hold the Government Securities (G-Secs).\n3. In India, Stock Exchanges can offer separate trading platforms for debts.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "answer": "D",
+    "explanation": "The LAF window is accessible only to scheduled commercial banks and some other regulated entities (primary dealers for specified windows), not to NBFCs, so statement 1 is incorrect. Foreign portfolio investors (FIIs) can invest in G-Secs within prescribed limits. Stock exchanges such as NSE and BSE operate separate debt market segments. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "43",
+    "subject": "Indian Economy",
+    "question": "In India, which of the following can trade in Corporate Bonds and Government Securities?\n1. Insurance Companies\n2. Pension Funds\n3. Retail Investors\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Insurance companies and pension funds are major institutional investors in corporate bonds and G-Secs. Retail investors can also trade in both, for example through the RBI Retail Direct platform and stock exchanges. All three are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "44",
+    "subject": "Indian Economy",
+    "question": "Consider the following:\n1. Exchange-Traded Funds (ETF)\n2. Motor vehicles\n3. Currency swap\nWhich of the above is/are considered financial instruments?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "answer": "D",
+    "explanation": "Financial instruments are monetary contracts or assets that can be traded, such as ETFs (investment funds traded on exchanges) and currency swaps (derivative contracts). Motor vehicles are physical assets, not financial instruments."
+  },
+  {
+    "year": "2024",
+    "qno": "45",
+    "subject": "Indian Economy",
+    "question": "With reference to the sectors of the Indian economy, consider the following pairs:\nEconomic activity | Sector\n1. Storage of agricultural produce | Secondary\n2. Dairy farm | Primary\n3. Mineral exploration | Tertiary\n4. Weaving cloth | Secondary\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Dairy farming is a primary sector activity and weaving cloth is secondary (manufacturing). Storage (warehousing) is a service and therefore tertiary, and mineral exploration is part of the primary sector (mining and quarrying). Pairs 2 and 4 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "47",
+    "subject": "Indian Economy",
+    "question": "With reference to physical capital in Indian economy, consider the following pairs:\nItems | Category\n1. Farmer's plough | Working capital\n2. Computer | Fixed capital\n3. Yarn used by the weaver | Fixed capital\n4. Petrol | Working capital\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Fixed capital consists of durable assets used repeatedly in production, such as ploughs and computers. Working capital consists of raw materials and money used up in production, such as yarn and petrol. A plough is fixed capital (pair 1 wrong) and yarn is working capital (pair 3 wrong). Only pairs 2 and 4 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "49",
+    "subject": "Indian Economy",
+    "question": "With reference to the rule/rules imposed by the Reserve Bank of India while treating foreign banks, consider the following statements:\n1. There is no minimum capital requirement for wholly owned banking subsidiaries in India.\n2. For wholly owned banking subsidiaries in India, at least 50% of the board members should be Indian nationals.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under RBI's Wholly Owned Subsidiary (WOS) framework, a foreign bank's subsidiary must have a minimum paid-up capital of ₹500 crore, so statement 1 is incorrect. The framework also requires that at least 50% of the directors be Indian nationals, resident in India, so statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "50",
+    "subject": "Indian Economy",
+    "question": "With reference to Corporate Social Responsibility (CSR) rules in India, consider the following statements:\n1. CSR rules specify that expenditures that benefit the company directly or its employees will not be considered as CSR activities.\n2. CSR rules do not specify minimum spending on CSR activities.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Under Section 135 of the Companies Act, 2013 and the CSR Rules, activities that benefit the company directly or its employees are excluded from CSR. Eligible companies must spend at least 2% of their average net profit of the preceding three years on CSR, so statement 2 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "52",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement-I:\nSyndicated lending spreads the risk of borrower default across multiple lenders.\nStatement-II:\nThe syndicated loan can be a fixed amount/lump sum of funds, but cannot be a credit line.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "In a syndicated loan, a group of lenders jointly finance a single borrower, which spreads the credit risk among them, so Statement-I is correct. A syndicated loan can take the form of a fixed-amount term loan or a revolving credit line, so Statement-II, which says it cannot be a credit line, is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "53",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements in respect of the digital rupee:\n1. It is a sovereign currency issued by the Reserve Bank of India (RBI) in alignment with its monetary policy.\n2. It appears as a liability on the RBI's balance sheet.\n3. It is insured against inflation by its very design.\n4. It is freely convertible against commercial bank money and cash.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4"
+    ],
+    "answer": "D",
+    "explanation": "The digital rupee (e₹, a CBDC) is legal tender issued by the RBI in line with monetary policy and is a liability on the RBI's balance sheet. It is freely convertible one-to-one with cash and commercial bank money. It is not insulated from inflation, because it is just a digital form of fiat currency whose purchasing power can fall. Statements 1, 2 and 4 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "92",
+    "subject": "Indian Economy",
+    "question": "Consider the following statements:\nStatement-I:\nIndia does not import apples from the United States of America.\nStatement-II:\nIn India, the law prohibits the import of Genetically Modified food without the approval of the competent authority.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "India does import apples from the US, which was a major supplier, and a retaliatory tariff on US apples was removed in 2023. Statement-I is incorrect. Under the Food Safety and Standards Act, 2006, import of GM food without approval of the competent authority is prohibited, so Statement-II is correct."
   },
   {
     "year": "2019",

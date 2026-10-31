@@ -56,6 +56,90 @@
     "explanation": "Both Mitakshara and Dayabhaga are schools of Hindu law applying to all Hindus of their regions, not caste-based, so statement 1 is wrong. Under Mitakshara sons acquire a right by birth, while under Dayabhaga they inherit only after the father's death. Statement 3 is wrong because the distinction is not based on the gender of property holders."
   },
   {
+    "year": "2023",
+    "qno": "41",
+    "subject": "Ancient Indian History",
+    "question": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+    "options": [
+      "Andhra",
+      "Gandhara",
+      "Kalinga",
+      "Magadha"
+    ],
+    "answer": "A",
+    "explanation": "Dhanyakataka (near Amaravati in Andhra Pradesh) was a major Buddhist centre of the Mahasanghika school, and it was the capital of the Satavahanas for a time. It is associated with the Amaravati stupa."
+  },
+  {
+    "year": "2023",
+    "qno": "42",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient India, consider the following statements:\n1. The concept of Stupa is Buddhist in origin.\n2. Stupa was generally a repository of relics.\n3. Stupa was a votive and commemorative structure in Buddhist tradition.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "As per the official key, all three are treated as correct. Stupas were funerary mounds holding relics of the Buddha and other saints, and in the Buddhist tradition they were also votive and commemorative structures."
+  },
+  {
+    "year": "2023",
+    "qno": "43",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as",
+    "options": [
+      "capital cities",
+      "ports",
+      "centres of iron-and-steel making",
+      "shrines of Jain Tirthankaras"
+    ],
+    "answer": "B",
+    "explanation": "Korkai (Pandya), Poompuhar or Kaveripattinam (Chola) and Muchiri or Muziris (Chera) were important ports of the Sangam age, engaged in trade with the Roman world."
+  },
+  {
+    "year": "2023",
+    "qno": "44",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems?",
+    "options": [
+      "Kings employing women bodyguards",
+      "Learned persons assembling in royal courts to discuss religious and philosophical matters",
+      "Young girls keeping watch over agricultural fields and driving away birds and animals",
+      "A king defeated in a battle committing ritual suicide by starving himself to death"
+    ],
+    "answer": "D",
+    "explanation": "In Sangam literature, 'Vattakirutal' (Vadakkiruttal) was the practice of a defeated or humiliated king sitting facing north and fasting to death. Chera king Cheraman Perumcheral Irumporai is associated with it."
+  },
+  {
+    "year": "2023",
+    "qno": "46",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient Indian History, consider the following pairs:\nLiterary work | Author\n1. Devichandragupta : Bilhana\n2. Hammira-Mahakavya : Nayachandra Suri\n3. Milinda-panha : Nagarjuna\n4. Nitivakyamrita : Somadeva Suri\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Devichandragupta is a play by Vishakhadatta, not Bilhana. Hammira-Mahakavya is by Nayachandra Suri and Nitivakyamrita is by Somadeva Suri, so these pairs are correct. Milinda-panha is an anonymous Buddhist text recording the dialogue between Menander and Nagasena, not a work of Nagarjuna."
+  },
+  {
+    "year": "2023",
+    "qno": "47",
+    "subject": "Ancient Indian History",
+    "question": "\"Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.\"\nThe above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+    "options": [
+      "Buddhism",
+      "Jainism",
+      "Shaivism",
+      "Vaishnavism"
+    ],
+    "answer": "B",
+    "explanation": "Jainism holds that all objects, including rocks and water, possess souls (jiva), which are classed by their number of senses. This extended animism is a hallmark of Jain belief."
+  },
+  {
     "year": "2017",
     "qno": "2",
     "subject": "Ancient Indian History",
@@ -82,6 +166,62 @@
     ],
     "answer": "B",
     "explanation": "Sautrantika and Sammitiya were Buddhist schools, not Jain sects, so statement 1 is wrong. The Sarvastivadins held that the elements (dharmas) exist in the past, present and future, persisting in a latent form, so statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "54",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient India, Gautama Buddha was generally known by which of the following epithets?\n1. Nayaputta\n2. Shakyamuni\n3. Tathagata\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "None of the above are epithets of Gautama Buddha"
+    ],
+    "answer": "B",
+    "explanation": "'Shakyamuni' (sage of the Shakyas) and 'Tathagata' (thus-gone one) are well-known epithets of Gautama Buddha. 'Nayaputta' (Jnatriputra) was a name for Mahavira, the 24th Tirthankara of Jainism."
+  },
+  {
+    "year": "2024",
+    "qno": "55",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following information:\nArchaeological Site | State | Description\n1. Chandraketugarh | Odisha | Trading Port town\n2. Inamgaon | Maharashtra | Chalcolithic site\n3. Mangadu | Kerala | Megalithic site\n4. Salihundam | Andhra Pradesh | Rock-cut cave shrines\nIn which of the above rows is the given information correctly matched?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Chandraketugarh is a trading port town in West Bengal, not Odisha, so row 1 is wrong. Inamgaon (Maharashtra) is a Chalcolithic site of the Jorwe culture, and Mangadu (Kerala) is a megalithic site, so rows 2 and 3 are correct. Salihundam in Andhra Pradesh is a Buddhist monastic site with structural stupas and viharas, not rock-cut cave shrines, so row 4 is wrong."
+  },
+  {
+    "year": "2024",
+    "qno": "58",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements:\n1. There are no parables in Upanishads.\n2. Upanishads were composed earlier than the Puranas.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The Upanishads use parables and dialogues extensively, such as Uddalaka and Shvetaketu, and Satyakama Jabala, so statement 1 is incorrect. The Upanishads (c. 800–200 BCE) are Later Vedic texts and are much older than the Puranas, which were compiled mostly from the Gupta period onwards. Statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "64",
+    "subject": "Ancient Indian History",
+    "question": "Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on:",
+    "options": [
+      "Prajnaparamita Sutra",
+      "Visuddhimagga",
+      "Sarvastivada Vinaya",
+      "Lalitavistara"
+    ],
+    "answer": "C",
+    "explanation": "Sanghabhuti, a Kashmiri Buddhist monk who reached China in the late 4th century CE, is known for his commentary on the Sarvastivada Vinaya, the monastic code of the Sarvastivada school, and for translating Vinaya texts into Chinese."
   },
   {
     "year": "2019",

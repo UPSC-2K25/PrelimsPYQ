@@ -140,6 +140,132 @@
     "explanation": "Hyderabad was recognised as a '2020 Tree City of the World' by the Arbor Day Foundation together with the Food and Agriculture Organization (FAO), not UNCDF, so Statement 1 is incorrect. The recognition was for its commitment to growing and maintaining urban forests, so Statement 2 is correct."
   },
   {
+    "year": "2023",
+    "qno": "13",
+    "subject": "Environment and Ecology",
+    "question": "'Invasive Species Specialist Group' (that develops Global Invasive Species Database) belongs to which one of the following organizations?",
+    "options": [
+      "The International Union for Conservation of Nature",
+      "The United Nations Environment Programme",
+      "The United Nations World Commission for Environment and Development",
+      "The World Wide Fund for Nature"
+    ],
+    "answer": "A",
+    "explanation": "The Invasive Species Specialist Group (ISSG) is part of the IUCN Species Survival Commission and manages the Global Invasive Species Database (GISD)."
+  },
+  {
+    "year": "2023",
+    "qno": "20",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following:\n1. Aerosols\n2. Foam agents\n3. Fire retardants\n4. Lubricants\nIn the making of how many of the above are hydrofluorocarbons used?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "HFCs are used as propellants in aerosols, as blowing agents for foams, in fire suppression, and as solvents and lubricant carriers in industrial uses, in addition to refrigeration and air conditioning. They are being phased down under the Kigali Amendment to the Montreal Protocol."
+  },
+  {
+    "year": "2023",
+    "qno": "23",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement-I:\nCarbon markets are likely to be one of the most widespread tools in the fight against climate change.\nStatement-II:\nCarbon markets transfer resources from the private sector to the State.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Carbon markets put a price on emissions and are widely seen as a major climate policy tool, so Statement-I is correct. They work by trading emission allowances or credits between entities, usually moving resources from emitters to those who reduce emissions, not from the private sector to the State. Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "38",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nOnce the Central Government notifies an area as a 'Community Reserve'\n1. the Chief Wildlife Warden of the State becomes the governing authority of such forest\n2. hunting is not allowed in such area\n3. people of such area are allowed to collect non-timber forest produce\n4. people of such area are allowed traditional agricultural practices\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "C",
+    "explanation": "Under the Wild Life (Protection) Act, 1972 (Section 36C), a Community Reserve is managed by a Community Reserve Management Committee, not by the Chief Wildlife Warden, so statement 1 is incorrect. Hunting is prohibited, and local people continue to enjoy their rights, including collection of non-timber forest produce and traditional agricultural practices. Statements 2, 3 and 4 are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "59",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements regarding mercury pollution:\n1. Gold mining activity is a source of mercury pollution in the world.\n2. Coal-based thermal power plants cause mercury pollution.\n3. There is no known safe level of exposure to mercury.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Artisanal and small-scale gold mining is the largest source of mercury emissions and releases. Coal-fired power plants emit mercury when coal is burned. The WHO states there is no known safe level of exposure to mercury. All three statements are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "66",
+    "subject": "Environment and Ecology",
+    "question": "With reference to coal-based thermal power plants in India, consider the following statements:\n1. None of them uses seawater.\n2. None of them is set up in water-stressed district.\n3. None of them is privately owned.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Several coastal coal plants, such as Mundra and Tuticorin, use seawater for cooling, so statement 1 is false. Many plants are located in water-stressed districts, so statement 2 is false. India has many privately owned coal-based plants, so statement 3 is false."
+  },
+  {
+    "year": "2023",
+    "qno": "68",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following activities:\n1. Spreading finely ground basalt rock on farmlands extensively\n2. Increasing the alkalinity of oceans by adding lime\n3. Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters\nHow many of the above activities are often considered and discussed for carbon capture and sequestration?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Enhanced rock weathering with crushed basalt, ocean alkalinity enhancement by adding lime or other alkaline minerals, and injecting CO2 into subsurface formations including mines are all carbon dioxide removal and storage approaches under discussion."
+  },
+  {
+    "year": "2023",
+    "qno": "76",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement-I:\nAccording to the United Nations' 'World Water Development Report, 2022', India extracts more than a quarter of the world's groundwater withdrawal each year.\nStatement-II:\nIndia needs to extract more than a quarter of the world's groundwater each year to satisfy the drinking water and sanitation needs of almost 18% of world's population living in its territory.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "India is the world's largest groundwater user, extracting about 25% of the global total, so Statement-I is correct. Most of this extraction, roughly 90%, is for irrigation. It is not mainly needed for drinking water and sanitation, so Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "79",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\n1. In India, the Biodiversity Management Committees are key to the realization of the objectives of the Nagoya Protocol.\n2. The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Under the Biological Diversity Act, 2002, Biodiversity Management Committees at the local level are central to implementing access and benefit-sharing, the core of the Nagoya Protocol. They can levy collection fees on access to biological resources and are consulted in benefit sharing. Both statements are correct."
+  },
+  {
     "year": "2017",
     "qno": "4",
     "subject": "Environment and Ecology",
@@ -292,6 +418,90 @@
     ],
     "answer": "B",
     "explanation": "Kuno Palpur Wildlife Sanctuary in Madhya Pradesh was chosen as the second home for Asiatic lions from Gir, to reduce the risk to the single population in Gujarat."
+  },
+  {
+    "year": "2024",
+    "qno": "16",
+    "subject": "Environment and Ecology",
+    "question": "One of the following regions has the world's largest tropical peatland, which holds about three years worth of global carbon emissions from fossil fuels; and the possible destruction of which can exert detrimental effect on the global climate. Which one of the following denotes that region?",
+    "options": [
+      "Amazon Basin",
+      "Congo Basin",
+      "Kikori Basin",
+      "Rio de la Plata Basin"
+    ],
+    "answer": "B",
+    "explanation": "The Cuvette Centrale peatlands in the Congo Basin (DR Congo and Republic of Congo) form the world's largest tropical peatland complex. They store about 30 billion tonnes of carbon, roughly three years of global fossil-fuel emissions."
+  },
+  {
+    "year": "2024",
+    "qno": "17",
+    "subject": "Environment and Ecology",
+    "question": "With reference to perfluoroalkyl and polyfluoroalkyl substances (PFAS) that are used in making many consumer products, consider the following statements:\n1. PFAS are found to be widespread in drinking water, food and food packaging materials.\n2. PFAS are not easily degraded in the environment.\n3. Persistent exposure to PFAS can lead to bioaccumulation in animal bodies.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "PFAS are widely detected in drinking water, food and food packaging. Their strong carbon–fluorine bonds make them extremely persistent, which is why they are called 'forever chemicals'. They also bioaccumulate in animals and humans. All three statements are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "20",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement I:\nThe Indian Flying Fox is placed under the \"vermin\" category in the Wild Life (Protection) Act, 1972.\nStatement-II:\nThe Indian Flying Fox feeds on the blood of other animals.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "The Indian Flying Fox (Pteropus medius) was listed under Schedule V (vermin) of the Wild Life (Protection) Act, 1972. It is a large fruit bat that feeds on fruits and nectar, not blood (blood feeding is characteristic of vampire bats of Latin America). Statement-I is correct and Statement-II is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "22",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement-I:\nMany chewing gums found in the market are considered a source of environmental pollution.\nStatement-II:\nMany chewing gums contain plastic as gum base.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "Many commercial chewing gums use synthetic polymers (plastics such as polyvinyl acetate and synthetic rubber) as gum base. These are non-biodegradable and persist as litter, which is why chewing gum is a source of pollution. Both statements are correct and Statement-II explains Statement-I."
+  },
+  {
+    "year": "2024",
+    "qno": "90",
+    "subject": "Environment and Ecology",
+    "question": "According to the Environmental Protection Agency (EPA), which one of the following is the largest source of sulphur dioxide emissions?",
+    "options": [
+      "Locomotives using fossil fuels",
+      "Ships using fossil fuels",
+      "Extraction of metals from ores",
+      "Power plants using fossil fuels"
+    ],
+    "answer": "D",
+    "explanation": "The US EPA identifies fossil fuel combustion at power plants, mainly coal, as the largest source of sulphur dioxide emissions, followed by other industrial facilities, metal extraction and the burning of high-sulphur fuels by ships and locomotives."
+  },
+  {
+    "year": "2024",
+    "qno": "96",
+    "subject": "Environment and Ecology",
+    "question": "Consider the following statements:\nStatement-I:\nThe European Parliament approved The Net-Zero Industry Act recently.\nStatement-II:\nThe European Union intends to achieve carbon neutrality by 2040 and therefore aims to develop all of its own clean technology by that time.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "The European Parliament approved the Net-Zero Industry Act (NZIA) in April 2024 to boost EU manufacturing of clean technologies. The EU's goal is climate neutrality by 2050, with an interim target of 90% emission cuts by 2040. The Act does not aim to make the EU self-sufficient in all clean technology by 2040. Statement-II is incorrect."
   },
   {
     "year": "2019",

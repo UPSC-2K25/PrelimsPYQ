@@ -14,6 +14,48 @@
     "explanation": "Devaluation makes exports cheaper in foreign markets, improving their price competitiveness. It lowers (not increases) the foreign value of the domestic currency. Improvement in the trade balance is not guaranteed as it depends on demand elasticities (Marshall-Lerner condition), so it is not a 'necessary' effect."
   },
   {
+    "year": "2023",
+    "qno": "30",
+    "subject": "World Economy",
+    "question": "Consider the following infrastructure sectors:\n1. Affordable housing\n2. Mass rapid transport\n3. Health care\n4. Renewable energy\nOn how many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "The UNOPS S3i initiative invests in sustainable infrastructure in developing countries in areas such as affordable housing, mass rapid transport, health care and renewable energy."
+  },
+  {
+    "year": "2023",
+    "qno": "86",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\nStatement-I:\nSwitzerland is one of the leading exporters of gold in terms of value.\nStatement-II:\nSwitzerland has the second largest gold reserves in the world.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Switzerland is a major gold refining and trading hub and one of the leading gold exporters by value. Its official gold reserves are well below those of the US, Germany, Italy and France, so it does not hold the second largest reserves. Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "89",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\nThe 'Stability and Growth Pact' of the European Union is a treaty that\n1. limits the levels of the budgetary deficit of the countries of the European Union\n2. makes the countries of the European Union to share their infrastructure facilities\n3. enables the countries of the European Union to share their technologies\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "The Stability and Growth Pact sets rules for fiscal discipline in the EU, capping budget deficits at 3% of GDP and public debt at 60% of GDP. It does not require sharing of infrastructure or technology. Only statement 1 is correct."
+  },
+  {
     "year": "2017",
     "qno": "9",
     "subject": "World Economy",
@@ -82,6 +124,34 @@
     ],
     "answer": "A",
     "explanation": "India ratified the WTO Trade Facilitation Agreement in April 2016, and the TFA was part of the Bali Ministerial Package of December 2013. It entered into force on 22 February 2017 after two-thirds of members ratified it, not in January 2016, so statement 3 is wrong."
+  },
+  {
+    "year": "2024",
+    "qno": "51",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\nStatement-I:\nIf the United States of America (USA) were to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment.\nStatement-II:\nThe USA Government debt is not backed by any hard assets, but only by the faith of the Government.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "US Treasury securities are backed by the full faith and credit of the US government rather than by hard assets, so Statement-II is correct. A default would mean missed or delayed payments, but bondholders would still retain their legal claims to payment, so Statement-I, which says they cannot exercise their claims at all, is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "97",
+    "subject": "World Economy",
+    "question": "Consider the following statements:\nStatement-I:\nRecently, Venezuela has achieved a rapid recovery from its economic crisis and succeeded in preventing its people from fleeing/emigrating to other countries.\nStatement-II:\nVenezuela has the world's largest oil reserves.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "Venezuela has suffered a prolonged economic collapse, hyperinflation and mass emigration of millions of people, and it has not achieved a rapid recovery, so Statement-I is incorrect. It does hold the world's largest proven crude oil reserves, so Statement-II is correct."
   },
   {
     "year": "2019",

@@ -154,6 +154,160 @@
     "explanation": "The Supreme Court (Balaji Raghavan case, 1995) held that these awards are not 'titles' under Article 18(1). The Padma awards were suspended twice (1977 and 1993-97), and the Bharat Ratna is limited to a maximum of three in a year. All three statements are incorrect."
   },
   {
+    "year": "2023",
+    "qno": "31",
+    "subject": "Constitution",
+    "question": "In essence, what does 'Due Process of Law' mean?",
+    "options": [
+      "The principle of natural justice",
+      "The procedure established by law",
+      "Fair application of law",
+      "Equality before law"
+    ],
+    "answer": "C",
+    "explanation": "'Due process of law' requires not just that a law exists and is followed, as in 'procedure established by law', but that the law itself and its application are fair, just and reasonable. In essence, it means fair application of law."
+  },
+  {
+    "year": "2023",
+    "qno": "33",
+    "subject": "Constitution",
+    "question": "Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country?",
+    "options": [
+      "It determines the objective for the making of necessary laws.",
+      "It enables the creation of political offices and a government.",
+      "It defines and limits the powers of government.",
+      "It secures social justice, social equality and social security."
+    ],
+    "answer": "C",
+    "explanation": "The chief purpose of a constitution is to define the powers of the organs of government and to limit them, so that power is exercised within a legal framework (constitutionalism)."
+  },
+  {
+    "year": "2023",
+    "qno": "34",
+    "subject": "Constitution",
+    "question": "In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of the Fundamental Rights?",
+    "options": [
+      "1st Amendment",
+      "42nd Amendment",
+      "44th Amendment",
+      "86th Amendment"
+    ],
+    "answer": "A",
+    "explanation": "The First Amendment (1951) was passed to overcome court rulings in cases such as Romesh Thappar and Champakam Dorairajan. It added reasonable restrictions on free speech and inserted Article 15(4) and the Ninth Schedule."
+  },
+  {
+    "year": "2023",
+    "qno": "35",
+    "subject": "Constitution",
+    "question": "Consider the following organizations/bodies in India:\n1. The National Commission for Backward Classes\n2. The National Human Rights Commission\n3. The National Law Commission\n4. The National Consumer Disputes Redressal Commission\nHow many of the above are constitutional bodies?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "A",
+    "explanation": "The National Commission for Backward Classes became a constitutional body through the 102nd Amendment (Article 338B). The NHRC and the National Consumer Disputes Redressal Commission are statutory bodies, and the Law Commission is an executive body set up by government resolution. Only one is constitutional."
+  },
+  {
+    "year": "2023",
+    "qno": "36",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid.\n2. Election for the post of the President of India can be postponed on the ground that some Legislative Assemblies have been dissolved and elections are yet to take place.\n3. When a Bill is presented to the President of India, the Constitution prescribes time limits within which he/she has to declare his/her assent.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Under Article 71, acts done by the President before the Supreme Court declares the election void are not invalidated. The election cannot be postponed because some Assemblies are dissolved, since a vacancy in the electoral college does not invalidate the election. The Constitution sets no time limit for the President to give assent to a Bill. None of the statements is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "37",
+    "subject": "Constitution",
+    "question": "With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements:\n1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.\n2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.\n3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The Rajya Sabha can only make recommendations on a Money Bill and cannot amend or reject it, so statement 2 is correct. There is no joint sitting for a Money Bill, while a Finance Bill of the type not covered by Article 110 (Article 117(3)) can lead to a joint sitting, so statement 3 is correct. A Finance Bill that is a Money Bill (Article 117(1)) cannot be rejected or amended by the Rajya Sabha, so statement 1 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "39",
+    "subject": "Constitution",
+    "question": "With reference to 'Scheduled Areas' in India, consider the following statements:\n1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President.\n2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.\n3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Under the Fifth Schedule, the President declares Scheduled Areas by order, and the units can range from a district to a cluster of villages in a block. The Governor (not the Chief Minister) must submit an annual report to the President regarding the administration of Scheduled Areas, so statement 3 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "40",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\nStatement-I:\nThe Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.\nStatement-II:\nArticle 335 of the Constitution of India defines the term 'efficiency of administration'.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "In cases such as Indra Sawhney and M. Nagaraj, the Supreme Court held that reservation must be balanced against the maintenance of efficiency of administration under Article 335. Article 335 does not define 'efficiency of administration', so Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "77",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.\n2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention.\n3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Article 355 makes it the Union's duty to protect every State against external aggression and internal disturbance. Article 22(3)(b) denies the right to consult a legal practitioner to persons detained under preventive detention laws. Under POTA, 2002, confessions made to police officers were admissible as evidence, so statement 3 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "80",
+    "subject": "Constitution",
+    "question": "Consider the following statements in respect of election to the President of India:\n1. The members nominated to either House of the Parliament or the Legislative Assemblies of States are also eligible to be included in the Electoral College.\n2. Higher the number of elective Assembly seats, higher is the value of vote of each MLA of that State.\n3. The value of vote of each MLA of Madhya Pradesh is greater than that of Kerala.\n4. The value of vote of each MLA of Puducherry is higher than that of Arunachal Pradesh because the ratio of total population to total number of elective seats in Puducherry is greater as compared to Arunachal Pradesh.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Nominated members are not part of the electoral college, so statement 1 is incorrect. An MLA's vote value equals the State's population divided by (number of elected MLAs × 1000), so more elected seats give each MLA a lower value, and statement 2 is incorrect. Madhya Pradesh's per-MLA value is higher than Kerala's, and Puducherry's is higher than Arunachal Pradesh's for the reason given. Statements 3 and 4 are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "85",
+    "subject": "Constitution",
+    "question": "Consider the following statements in respect of the Constitution Day:\nStatement-I:\nThe Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens.\nStatement-II:\nOn 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B. R. Ambedkar to prepare a Draft Constitution of India.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Constitution Day (Samvidhan Divas) is observed on 26 November to promote constitutional values, as that was the date in 1949 when the Constitution was adopted. The Drafting Committee under Dr. Ambedkar was set up on 29 August 1947, so Statement-II is incorrect."
+  },
+  {
     "year": "2017",
     "qno": "1",
     "subject": "Constitution",
@@ -362,6 +516,230 @@
     ],
     "answer": "D",
     "explanation": "Indian federalism has an independent judiciary, a clear division of powers through the Seventh Schedule, and unequal representation of States in the Rajya Sabha based on population. It did not arise from an agreement among independent units, since States cannot secede and the Union is described as indestructible."
+  },
+  {
+    "year": "2024",
+    "qno": "61",
+    "subject": "Constitution",
+    "question": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over?",
+    "options": [
+      "C. Rajagopalachari",
+      "Dr. B.R. Ambedkar",
+      "T.T. Krishnamachari",
+      "Dr. Sachchidananda Sinha"
+    ],
+    "answer": "D",
+    "explanation": "Dr. Sachchidananda Sinha, the senior-most member, was the temporary (provisional) President of the Constituent Assembly at its first meeting on 9 December 1946. Dr. Rajendra Prasad was elected permanent President on 11 December 1946."
+  },
+  {
+    "year": "2024",
+    "qno": "66",
+    "subject": "Constitution",
+    "question": "As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of:\n1. Addition\n2. Variation\n3. Repeal\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Article 368, as amended by the 24th Amendment Act (1971), states that Parliament may amend any provision of the Constitution by way of addition, variation or repeal, in accordance with the procedure laid down in that Article. All three are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "68",
+    "subject": "Constitution",
+    "question": "Which of the following statements are correct in respect of a Money Bill in the Parliament?\n1. Article 109 mentions special procedure in respect of Money Bills.\n2. A Money Bill shall not be introduced in the Council of States.\n3. The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it.\n4. Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "Article 109 lays down the special procedure for Money Bills. A Money Bill can be introduced only in the Lok Sabha, never in the Rajya Sabha. The Rajya Sabha can only make recommendations and has 14 days to return the Bill. It cannot reject or amend it. The Lok Sabha is not bound to accept the recommendations, so statement 4 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "71",
+    "subject": "Constitution",
+    "question": "How many Delimitation Commissions have been constituted by the Government of India till December 2023?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "D",
+    "explanation": "Four Delimitation Commissions have been constituted, in 1952, 1963, 1973 and 2002. These were set up under the Delimitation Commission Acts of 1952, 1962, 1972 and 2002."
+  },
+  {
+    "year": "2024",
+    "qno": "72",
+    "subject": "Constitution",
+    "question": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages?\n1. Konkani\n2. Manipuri\n3. Nepali\n4. Maithili\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": "A",
+    "explanation": "The 71st Amendment Act, 1992 added Konkani, Manipuri (Meitei) and Nepali to the Eighth Schedule. Maithili was added later, by the 92nd Amendment Act, 2003, along with Bodo, Dogri and Santhali."
+  },
+  {
+    "year": "2024",
+    "qno": "74",
+    "subject": "Constitution",
+    "question": "Which of the following statements are correct about the Constitution of India?\n1. Powers of the Municipalities are given in Part IX A of the Constitution.\n2. Emergency provisions are given in Part XVIII of the Constitution.\n3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Part IX-A (Articles 243P–243ZG) deals with Municipalities, Part XVIII (Articles 352–360) with Emergency Provisions and Part XX (Article 368) with Amendment of the Constitution. All three statements are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "75",
+    "subject": "Constitution",
+    "question": "Which one of the following statements is correct as per the Constitution of India?",
+    "options": [
+      "Inter-State trade and commerce is a State subject under the State List.",
+      "Inter-State migration is a State subject under the State List.",
+      "Inter-State quarantine is a Union subject under the Union List.",
+      "Corporation tax is a State subject under the State List."
+    ],
+    "answer": "C",
+    "explanation": "Inter-State quarantine is Entry 81 of the Union List. Inter-State trade and commerce (Entry 42) and inter-State migration (Entry 81 relates to migration across States, quarantine) are Union subjects, and corporation tax (Entry 85) is also on the Union List. Only option (c) is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "76",
+    "subject": "Constitution",
+    "question": "Under which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy?",
+    "options": [
+      "Article 15",
+      "Article 16",
+      "Article 19",
+      "Article 21"
+    ],
+    "answer": "D",
+    "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), a nine-judge bench of the Supreme Court held that the Right to Privacy is an intrinsic part of the right to life and personal liberty under Article 21 and of the freedoms guaranteed by Part III."
+  },
+  {
+    "year": "2024",
+    "qno": "80",
+    "subject": "Constitution",
+    "question": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct?\n1. Initially it was an ad-hoc Committee.\n2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.\n3. This Committee cannot take up any matter which is sub-judice.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The Ethics Committee of the Lok Sabha was initially set up as an ad-hoc committee in 2000 and became a permanent committee in 2015. It does not take up matters that are sub-judice. A complaint can be made by any person, though it has to be routed through a Member of the Lok Sabha with a supporting affidavit, so statement 2 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "81",
+    "subject": "Constitution",
+    "question": "Consider the following statements regarding 'Nari Shakti Vandan Adhiniyam':\n1. Provisions will come into effect from the 18th Lok Sabha.\n2. This will be in force for 15 years after becoming an Act.\n3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": "C",
+    "explanation": "The Constitution (106th Amendment) Act, 2023 provides one-third reservation for women in the Lok Sabha and State Legislative Assemblies, including within the seats reserved for SCs. The reservation is to take effect only after the delimitation exercise following the first Census after the Act, so it does not apply from the 18th Lok Sabha and statement 1 is incorrect. It is in force for 15 years, with extension possible."
+  },
+  {
+    "year": "2024",
+    "qno": "83",
+    "subject": "Constitution",
+    "question": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to:",
+    "options": [
+      "a government officer prohibiting him from taking a particular action.",
+      "the Parliament/Legislative Assembly to pass a law on Prohibition.",
+      "the lower court prohibiting continuation of proceedings in a case.",
+      "the Government prohibiting it from following an unconstitutional policy."
+    ],
+    "answer": "C",
+    "explanation": "A writ of prohibition is issued by a higher court to a lower court or tribunal to prevent it from exceeding its jurisdiction or acting contrary to natural justice. It stops the proceedings in the case."
+  },
+  {
+    "year": "2024",
+    "qno": "84",
+    "subject": "Constitution",
+    "question": "Consider the following statements:\n1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.\n2. A community declared as a Scheduled Tribe in a State need not be so in another State.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under Article 342, the President specifies Scheduled Tribes for each State/UT by public notification, in consultation with the Governor, and Parliament can amend the list. The Governor does not declare them, so statement 1 is incorrect. The list is State-specific, so a community may be an ST in one State and not in another, making statement 2 correct."
+  },
+  {
+    "year": "2024",
+    "qno": "85",
+    "subject": "Constitution",
+    "question": "With reference to Union Budget, consider the following statements:\n1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament.\n2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Under Article 112, the Annual Financial Statement is laid before Parliament by the Union Finance Minister on behalf of the President, not the Prime Minister, so statement 1 is incorrect. Under Article 113(3), no demand for a grant can be made except on the recommendation of the President. Statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "93",
+    "subject": "Constitution",
+    "question": "With reference to the Speaker of the Lok Sabha, consider the following statements:\nWhile any resolution for the removal of the Speaker of the Lok Sabha is under consideration\n1. He/She shall not preside.\n2. He/She shall not have the right to speak.\n3. He/She shall not be entitled to vote on the resolution in the first instance.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Under Article 96, while a resolution for the Speaker's removal is under consideration, the Speaker cannot preside but has the right to speak and take part in the proceedings. The Speaker can vote in the first instance, but not in the case of an equality of votes (no casting vote). Only statement 1 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "94",
+    "subject": "Constitution",
+    "question": "With reference to the Indian Parliament, consider the following statements:\n1. A bill pending in the Lok Sabha lapses on its dissolution.\n2. A bill passed by the Lok Sabha and pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.\n3. A bill in regard to which the President of India notified his/her intention to summon the Houses to a joint sitting lapses on the dissolution of the Lok Sabha.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "A bill pending in the Lok Sabha lapses on its dissolution, and so does a bill passed by the Lok Sabha but pending in the Rajya Sabha. A bill on which the President has notified a joint sitting does not lapse on dissolution, so statement 3 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "95",
+    "subject": "Constitution",
+    "question": "With reference to the Parliament of India, consider the following statements:\n1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers.\n2. Prorogation of a House is generally done after the House is adjourned sine die but there is no bar to the President of India proroguing the House which is in session.\n3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "C",
+    "explanation": "The President prorogues the Houses on the advice of the Council of Ministers, so statement 1 is incorrect. Prorogation usually follows adjournment sine die, but the President may also prorogue a House that is in session. The President dissolves the Lok Sabha, normally on the advice of the Council of Ministers, with exceptions in unusual circumstances. Statements 2 and 3 are correct."
   },
   {
     "year": "2019",

@@ -1,5 +1,33 @@
 [
   {
+    "year": "2023",
+    "qno": "62",
+    "subject": "Climatology",
+    "question": "With reference to the Earth's atmosphere, which one of the following statements is correct?",
+    "options": [
+      "The total amount of insolation received at the equator is roughly about 10 times of that received at the poles.",
+      "Infrared rays constitute roughly two-thirds of insolation.",
+      "Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.",
+      "Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation."
+    ],
+    "answer": "C",
+    "explanation": "Water vapour and other greenhouse gases in the lower atmosphere absorb infrared radiation. Insolation at the equator is only about 2.5 times (not 10 times) that at the poles. Infrared makes up about half of insolation, not two-thirds, and it lies outside the visible spectrum."
+  },
+  {
+    "year": "2023",
+    "qno": "64",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\nStatement-I:\nThe temperature contrast between continents and oceans is greater during summer than in winter.\nStatement-II:\nThe specific heat of water is more than that of land surface.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "The land–sea temperature contrast is larger in winter, when continents cool far more than oceans, than in summer. Statement-I is incorrect. Water does have a higher specific heat than land, so it heats and cools more slowly, and Statement-II is correct."
+  },
+  {
     "year": "2017",
     "qno": "66",
     "subject": "Climatology",
@@ -12,6 +40,104 @@
     ],
     "answer": "B",
     "explanation": "The IOD is the difference in sea surface temperature between the western and eastern parts of the Indian Ocean, not the Eastern Pacific, so statement 1 is wrong. A positive IOD can counter the weakening effect of El Nino on the Indian monsoon, so statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "1",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\nStatement-I:\nThe atmosphere is heated more by incoming solar radiation than by terrestrial radiation.\nStatement-II:\nCarbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "The atmosphere is largely transparent to incoming short-wave solar radiation, so it is heated mainly by terrestrial (long-wave) radiation re-radiated from the Earth's surface. Statement-I is therefore incorrect. Statement-II is correct, as CO2 and other greenhouse gases absorb long-wave radiation efficiently."
+  },
+  {
+    "year": "2024",
+    "qno": "2",
+    "subject": "Climatology",
+    "question": "Consider the following statements:\nStatement I:\nThickness of the troposphere at the equator is much greater as compared to poles.\nStatement-II:\nAt the equator, heat is transported to great heights by strong convectional currents.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "The troposphere is about 18 km thick at the equator and only about 8 km at the poles. Strong convectional currents at the equator carry heat to great heights, which explains the greater thickness. Both statements are correct and Statement-II explains Statement-I."
+  },
+  {
+    "year": "2024",
+    "qno": "4",
+    "subject": "Climatology",
+    "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?\n1. The isotherms deviate to the north over the ocean and to the south over the continent.\n2. The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "In January (northern winter), oceans are warmer than the land at the same latitude, so isotherms bend north over the oceans and south over the continents. Statement 1 is correct. The Gulf Stream and North Atlantic Drift are warm currents that make the North Atlantic warmer, not colder, which is why isotherms bend northwards. Statement 2 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "12",
+    "subject": "Climatology",
+    "question": "With reference to \"water vapour\", which of the following statements is/are correct?\n1. It is a gas, the amount of which decreases with altitude.\n2. Its percentage is maximum at the poles.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Water vapour is concentrated in the lower atmosphere and decreases rapidly with altitude, so statement 1 is correct. Its content is highest in the warm, humid tropics (equatorial regions) and lowest at the poles, so statement 2 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "13",
+    "subject": "Climatology",
+    "question": "Consider the following description:\n1. Annual and daily range of temperatures is low.\n2. Precipitation occurs throughout the year.\n3. Precipitation varies between 50 cm – 250 cm.\nWhat is this type of climate?",
+    "options": [
+      "Equatorial climate",
+      "China type climate",
+      "Humid subtropical climate",
+      "Marine West coast climate"
+    ],
+    "answer": "D",
+    "explanation": "Marine West Coast climate, found on the western margins of continents in mid-latitudes (40°–60°), has a low annual and daily temperature range because of maritime influence. It has year-round rainfall of roughly 50–250 cm. Equatorial climate has higher rainfall, and humid subtropical (China type) climates have a larger temperature range."
+  },
+  {
+    "year": "2024",
+    "qno": "14",
+    "subject": "Climatology",
+    "question": "With reference to \"Coriolis force\", which of the following statements is/are correct?\n1. It increases with increase in wind velocity.\n2. It is maximum at the poles and is absent at the equator.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The Coriolis force is proportional to wind velocity and to the sine of the latitude. It rises with wind speed, is zero at the equator and is maximum at the poles. Both statements are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "15",
+    "subject": "Climatology",
+    "question": "On June 21 every year, which of the following latitude(s) experience(s) a sunlight of more than 12 hours?\n1. Equator\n2. Tropic of Cancer\n3. Tropic of Capricorn\n4. Arctic Circle\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "3 and 4",
+      "2 and 4"
+    ],
+    "answer": "D",
+    "explanation": "On June 21 (summer solstice) the Northern Hemisphere is tilted towards the Sun, so places north of the equator get more than 12 hours of daylight. The Tropic of Cancer gets about 13.5 hours and the Arctic Circle gets 24 hours. The equator always gets about 12 hours, and the Tropic of Capricorn (southern hemisphere) gets less than 12 hours."
   },
   {
     "year": "2019",

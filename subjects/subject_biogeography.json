@@ -112,6 +112,132 @@
     "explanation": "In savannas, recurrent fire, grazing and browsing herbivores, and strongly seasonal rainfall with a long dry spell prevent closed forest from developing. Burrowing animals/termites and soil properties are not the principal controls."
   },
   {
+    "year": "2023",
+    "qno": "3",
+    "subject": "Biogeography",
+    "question": "Consider the following trees:\n1. Jackfruit (Artocarpus heterophyllus)\n2. Mahua (Madhuca indica)\n3. Teak (Tectona grandis)\nHow many of the above are deciduous trees?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Mahua (Madhuca indica) and Teak (Tectona grandis) are prominent deciduous trees typical of tropical moist and dry deciduous forests in India. Jackfruit (Artocarpus heterophyllus) is an evergreen tree native to tropical evergreen and semi-evergreen forest ecosystems. Thus, only two of the listed trees are deciduous."
+  },
+  {
+    "year": "2023",
+    "qno": "12",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\nStatement-I:\nMarsupials are not naturally found in India.\nStatement-II:\nMarsupials can thrive only in montane grasslands with no predators.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Marsupials are naturally found in Australasia (Australia, New Guinea) and the Americas (opossums), and not in India. They live in many habitats, including forests, deserts and grasslands, so the claim that they thrive only in predator-free montane grasslands is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "14",
+    "subject": "Biogeography",
+    "question": "Consider the following fauna:\n1. Lion-tailed Macaque\n2. Malabar Civet\n3. Sambar Deer\nHow many of the above are generally nocturnal or most active after sunset?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The Malabar civet is nocturnal and the sambar is mainly crepuscular and nocturnal, so both are most active after sunset. The lion-tailed macaque is diurnal. Hence only two."
+  },
+  {
+    "year": "2023",
+    "qno": "15",
+    "subject": "Biogeography",
+    "question": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+    "options": [
+      "Butterflies",
+      "Dragonflies",
+      "Honeybees",
+      "Wasps"
+    ],
+    "answer": "C",
+    "explanation": "Honeybees perform the waggle dance, discovered by Karl von Frisch, to communicate the direction and distance of food sources to hive mates."
+  },
+  {
+    "year": "2023",
+    "qno": "16",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psychoactive properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Some mushrooms are medicinal (e.g. reishi), some are psychoactive (psilocybin mushrooms), some have insecticidal compounds (e.g. fly agaric) and some, such as Panellus and Mycena species, are bioluminescent. All four are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "17",
+    "subject": "Biogeography",
+    "question": "Consider the following statements regarding the Indian squirrels:\n1. They build nests by making burrows in the ground.\n2. They store their food materials like nuts and seeds in the ground.\n3. They are omnivorous.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Indian squirrels, such as the Indian palm squirrel and the giant squirrel, build nests in trees and not in ground burrows. They do not typically store food in the ground like some other squirrels. They are omnivorous, eating fruits, nuts, insects and bird eggs. Only statement 3 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some microorganisms can grow in environments with temperature above the boiling point of water.\n2. Some microorganisms can grow in environments with temperature below the freezing point of water.\n3. Some microorganisms can grow in highly acidic environment with a pH below 3.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Hyperthermophiles live near hydrothermal vents at temperatures above 100°C under pressure. Psychrophiles grow in subzero brines and sea ice. Acidophiles thrive at pH below 3. All three are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "19",
+    "subject": "Biogeography",
+    "question": "Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?",
+    "options": [
+      "Fishing cat",
+      "Orangutan",
+      "Otter",
+      "Sloth bear"
+    ],
+    "answer": "B",
+    "explanation": "Orangutans are known to fashion and use sticks as tools, for example to extract insects from tree holes or seeds from fruits. The other animals are not known for this kind of tool making."
+  },
+  {
+    "year": "2023",
+    "qno": "63",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\nStatement-I:\nThe soil in tropical rain forests is rich in nutrients.\nStatement-II:\nThe high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "Tropical rain forest soils are generally nutrient-poor because heavy rain leaches nutrients and rapid decomposition means nutrients are quickly absorbed by vegetation and held in the biomass. Statement-I is incorrect. Statement-II is correct, since high heat and moisture cause fast decomposition."
+  },
+  {
     "year": "2017",
     "qno": "21",
     "subject": "Biogeography",
@@ -138,6 +264,118 @@
     ],
     "answer": "B",
     "explanation": "The National Chambal Sanctuary along the Chambal River is the stronghold of the critically endangered gharial and holds the largest wild population."
+  },
+  {
+    "year": "2024",
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Carabid beetles\n2. Centipedes\n3. Flies\n4. Termites\n5. Wasps\nParasitoid species are found in how many of the above kind of organisms?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": "B",
+    "explanation": "Parasitoids live in or on a host and eventually kill it. Parasitoid species occur among carabid beetles (e.g. some Lebiini), flies (e.g. tachinid flies) and wasps (e.g. ichneumonoid and braconid wasps). Centipedes are predators and termites are social detritivores, with no parasitoid species. Hence three."
+  },
+  {
+    "year": "2024",
+    "qno": "19",
+    "subject": "Biogeography",
+    "question": "Consider the following plants:\n1. Groundnut\n2. Horse-gram\n3. Soybean\nHow many of the above belong to the pea family?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "The pea family is Fabaceae (Leguminosae). Groundnut, horse-gram and soybean are all legumes belonging to this family."
+  },
+  {
+    "year": "2024",
+    "qno": "21",
+    "subject": "Biogeography",
+    "question": "The organisms \"Cicada, Froghopper and Pond skater\" are:",
+    "options": [
+      "Birds",
+      "Fish",
+      "Insects",
+      "Reptiles"
+    ],
+    "answer": "C",
+    "explanation": "Cicadas, froghoppers and pond skaters all belong to the insect order Hemiptera (true bugs)."
+  },
+  {
+    "year": "2024",
+    "qno": "23",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nCountry | Animal found in its natural habitat\n1. Brazil | Indri\n2. Indonesia | Elk\n3. Madagascar | Bonobo\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "The indri is a lemur endemic to Madagascar, not Brazil. Elk occur in North America and parts of Eurasia, not Indonesia. The bonobo is endemic to the Democratic Republic of the Congo, not Madagascar. None of the pairs is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "25",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Lions do not have a particular breeding season.\n2. Unlike most other big cats, cheetahs do not roar.\n3. Unlike male lions, male leopards do not proclaim their territory by scent marking.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Lions breed throughout the year. Cheetahs purr and chirp but cannot roar, unlike lions, tigers, leopards and jaguars. Male leopards do mark their territory by scent marking (urine spraying, scrapes and rubbing), so statement 3 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "28",
+    "subject": "Biogeography",
+    "question": "Which one of the following shows a unique relationship with an insect that has coevolved with it and that is the only insect that can pollinate this tree?",
+    "options": [
+      "Fig",
+      "Mahua",
+      "Sandalwood",
+      "Silk cotton"
+    ],
+    "answer": "A",
+    "explanation": "Fig trees (Ficus) have an obligate mutualism with fig wasps (family Agaonidae). Each fig species is typically pollinated by its own specific wasp species, which in turn depends on the fig for reproduction. This is a classic example of coevolution."
+  },
+  {
+    "year": "2024",
+    "qno": "29",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Butterflies\n2. Fish\n3. Frogs\nHow many of the above have poisonous species among them?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Some butterflies (e.g. monarch and other milkweed-feeding species) are poisonous to predators. Several fish, such as pufferfish, are poisonous. Poison dart frogs are well-known poisonous amphibians. All three groups contain poisonous species."
+  },
+  {
+    "year": "2024",
+    "qno": "30",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Cashew\n2. Papaya\n3. Red sanders\nHow many of the above trees are actually native to India?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Cashew is native to north-eastern Brazil and papaya to Central America and southern Mexico; both were introduced to India by the Portuguese. Red sanders (Pterocarpus santalinus) is endemic to the Eastern Ghats of southern India. Only one is native."
   },
   {
     "year": "2019",

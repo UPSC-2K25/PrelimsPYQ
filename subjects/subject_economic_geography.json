@@ -70,6 +70,76 @@
     "explanation": "Moringa belongs to the family Moringaceae (not a legume) and is deciduous/semi-evergreen, so statement 1 is incorrect. Tamarind is native to tropical Africa, not endemic to South Asia. Most Indian tamarind is a minor forest produce, India exports tamarind and moringa seeds, and the seeds of both can be used for biofuel."
   },
   {
+    "year": "2023",
+    "qno": "2",
+    "subject": "Economic Geography",
+    "question": "Consider the following pairs:\nPort | Well known as\n1. Kamarajar Port : First major port in India registered as a company\n2. Mundra Port : Largest privately owned port in India\n3. Visakhapatnam Port : Largest container port in India\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": "B",
+    "explanation": "Kamarajar Port (Ennore) was the first major port in India to be registered as a public limited company, and Mundra is the largest privately owned port. The largest container port in India is Jawaharlal Nehru Port (JNPT), not Visakhapatnam, so pair 3 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "4",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. India has more arable area than China.\n2. The proportion of irrigated area is more in India as compared to China.\n3. The average productivity per hectare in Indian agriculture is higher than that in China.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "India has more arable land than China (about 156 million ha against about 119 million ha) and a higher proportion of its cropped area under irrigation. China, however, has much higher average yields per hectare because of intensive input use and mechanisation, so statement 3 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "6",
+    "subject": "Economic Geography",
+    "question": "Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following?",
+    "options": [
+      "Aluminium",
+      "Copper",
+      "Iron",
+      "Titanium"
+    ],
+    "answer": "D",
+    "explanation": "Ilmenite (FeTiO3) and rutile (TiO2) are the main ores of titanium and occur in beach sands of Kerala, Tamil Nadu, Odisha and Andhra Pradesh."
+  },
+  {
+    "year": "2023",
+    "qno": "7",
+    "subject": "Economic Geography",
+    "question": "About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by",
+    "options": [
+      "Argentina",
+      "Botswana",
+      "the Democratic Republic of the Congo",
+      "Kazakhstan"
+    ],
+    "answer": "C",
+    "explanation": "The Democratic Republic of the Congo produces roughly 70–75% of the world's cobalt, mostly as a by-product of copper mining in the Katanga region."
+  },
+  {
+    "year": "2023",
+    "qno": "10",
+    "subject": "Economic Geography",
+    "question": "With reference to India's projects on connectivity, consider the following statements:\n1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.\n2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.\n3. Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "The East-West Corridor connects Silchar (Assam) and Porbandar (Gujarat), and it is separate from the Golden Quadrilateral. The India–Myanmar–Thailand Trilateral Highway connects Moreh to Mae Sot in Thailand. The BCIM Economic Corridor links Kolkata with Kunming, not Varanasi. None of the statements is correct."
+  },
+  {
     "year": "2017",
     "qno": "71",
     "subject": "Economic Geography",
@@ -82,6 +152,48 @@
     ],
     "answer": "D",
     "explanation": "Zero tillage and crop residue mulching reduce evaporation and improve soil moisture. Gypsum improves soil structure and water infiltration, particularly in sodic soils, which reduces irrigation needs. All three practices help conserve water."
+  },
+  {
+    "year": "2024",
+    "qno": "5",
+    "subject": "Economic Geography",
+    "question": "Which of the following countries are well known as the two largest cocoa producers in the world?",
+    "options": [
+      "Algeria and Morocco",
+      "Botswana and Namibia",
+      "Côte d'Ivoire and Ghana",
+      "Madagascar and Mozambique"
+    ],
+    "answer": "C",
+    "explanation": "Côte d'Ivoire and Ghana, both in West Africa, are the world's two largest cocoa producers and together account for well over half of global output."
+  },
+  {
+    "year": "2024",
+    "qno": "11",
+    "subject": "Economic Geography",
+    "question": "Consider the following airports:\n1. Donyi Polo Airport\n2. Kushinagar International Airport\n3. Vijayawada International Airport\nIn the recent past, which of the above have been constructed as Greenfield projects?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Donyi Polo Airport (Itanagar, Arunachal Pradesh) and Kushinagar International Airport (Uttar Pradesh) were built as greenfield projects. Vijayawada Airport is an existing airport that was expanded and upgraded, so it is not greenfield."
+  },
+  {
+    "year": "2024",
+    "qno": "88",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\nStatement-I:\nSumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe.\nStatement-II:\nSumed pipeline connects the Red Sea with the Mediterranean Sea.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "The Sumed (Suez–Mediterranean) pipeline in Egypt runs from Ain Sukhna on the Red Sea's Gulf of Suez to Sidi Kerir on the Mediterranean. It provides an alternative to the Suez Canal for Gulf oil going to Europe. Because it links the Red Sea and the Mediterranean, Statement-II explains Statement-I."
   },
   {
     "year": "2019",

@@ -112,6 +112,34 @@
     "explanation": "Shah Nawaz Khan, Prem Kumar Sehgal and Gurbaksh Singh Dhillon were INA officers tried together at the Red Fort trials of 1945-46."
   },
   {
+    "year": "2023",
+    "qno": "50",
+    "subject": "Modern Indian History",
+    "question": "By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India?",
+    "options": [
+      "The Regulating Act",
+      "The Pitt's India Act",
+      "The Charter Act of 1793",
+      "The Charter Act of 1833"
+    ],
+    "answer": "D",
+    "explanation": "The Charter Act of 1833 made the Governor-General of Bengal the Governor-General of India, with control over all civil and military affairs, and Lord William Bentinck became the first holder of the title."
+  },
+  {
+    "year": "2023",
+    "qno": "83",
+    "subject": "Modern Indian History",
+    "question": "Consider the following statements:\nStatement-I:\n7th August is declared as the National Handloom Day.\nStatement-II:\nIt was in 1905 that the Swadeshi Movement was launched on the same day.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "National Handloom Day is observed on 7 August to commemorate the formal launch of the Swadeshi Movement in Calcutta Town Hall on 7 August 1905, which promoted indigenous goods including handloom products. Both statements are correct and the second explains the first."
+  },
+  {
     "year": "2017",
     "qno": "13",
     "subject": "Modern Indian History",
@@ -208,6 +236,34 @@
     ],
     "answer": "C",
     "explanation": "The Second Round Table Conference was held in 1931, the Quit India Movement was launched in 1942, and the Royal Indian Navy Mutiny took place in 1946. The sequence is 3-2-1."
+  },
+  {
+    "year": "2024",
+    "qno": "57",
+    "subject": "Modern Indian History",
+    "question": "With reference to revenue collection by Cornwallis, consider the following statements:\n1. Under the Ryotwari Settlement of revenue collection, the peasants were exempted from revenue payment in case of bad harvests or natural calamities.\n2. Under the Permanent Settlement in Bengal, if the Zamindar failed to pay his revenues to the state, on or before the fixed date, he would be removed from his Zamindari.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Cornwallis introduced the Permanent Settlement (1793), not the Ryotwari system, which was associated with Thomas Munro and Madras. Under Ryotwari there was no automatic exemption for bad harvests, so statement 1 is incorrect. Under the Permanent Settlement and the Sunset Law, a zamindar who failed to pay revenue by the due date could lose his estate, which would be auctioned. Statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "62",
+    "subject": "Modern Indian History",
+    "question": "With reference to the Government of India Act, 1935, consider the following statements:\n1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States.\n2. Defence and Foreign Affairs were kept under the control of the federal legislature.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The Act proposed an All India Federation of British Indian provinces and princely states, though it never came into being because the princely states did not agree. Defence and foreign affairs were 'reserved' subjects under the Governor-General and not under the control of the federal legislature, so statement 2 is incorrect."
   },
   {
     "year": "2019",

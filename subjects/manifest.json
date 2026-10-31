@@ -3,12 +3,12 @@
     {
       "name": "Ancient Indian History",
       "filename": "subject_ancient_indian_history.json",
-      "count": 36
+      "count": 46
     },
     {
       "name": "Art & Culture",
       "filename": "subject_art_culture.json",
-      "count": 28
+      "count": 33
     },
     {
       "name": "Artificial Intelligence",
@@ -18,47 +18,47 @@
     {
       "name": "Biogeography",
       "filename": "subject_biogeography.json",
-      "count": 30
+      "count": 47
     },
     {
       "name": "Climatology",
       "filename": "subject_climatology.json",
-      "count": 13
+      "count": 22
     },
     {
       "name": "Constitution",
       "filename": "subject_constitution.json",
-      "count": 82
+      "count": 109
     },
     {
       "name": "Economic Geography",
       "filename": "subject_economic_geography.json",
-      "count": 36
+      "count": 44
     },
     {
       "name": "Environment and Ecology",
       "filename": "subject_environment_and_ecology.json",
-      "count": 85
+      "count": 100
     },
     {
       "name": "Geomorphology",
       "filename": "subject_geomorphology.json",
-      "count": 23
+      "count": 32
     },
     {
       "name": "Governance",
       "filename": "subject_governance.json",
-      "count": 56
+      "count": 68
     },
     {
       "name": "Human Geography",
       "filename": "subject_human_geography.json",
-      "count": 16
+      "count": 21
     },
     {
       "name": "Indian Economy",
       "filename": "subject_indian_economy.json",
-      "count": 126
+      "count": 153
     },
     {
       "name": "Indian Society",
@@ -68,37 +68,37 @@
     {
       "name": "Internal Security",
       "filename": "subject_internal_security.json",
-      "count": 10
+      "count": 18
     },
     {
       "name": "Medieval Indian History",
       "filename": "subject_medieval_indian_history.json",
-      "count": 20
+      "count": 24
     },
     {
       "name": "Modern Indian History",
       "filename": "subject_modern_indian_history.json",
-      "count": 57
+      "count": 61
     },
     {
       "name": "Oceanography",
       "filename": "subject_oceanography.json",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Political Science and International Relations",
       "filename": "subject_political_science_and_international_relations.json",
-      "count": 43
+      "count": 56
     },
     {
       "name": "Science & Technology",
       "filename": "subject_science_technology.json",
-      "count": 97
+      "count": 118
     },
     {
       "name": "World Economy",
       "filename": "subject_world_economy.json",
-      "count": 18
+      "count": 23
     },
     {
       "name": "World History",
@@ -113,6 +113,8 @@
     2020,
     2021,
     2022,
+    2023,
+    2024,
     2025,
     2026
   ],

@@ -1,5 +1,33 @@
 [
   {
+    "year": "2023",
+    "qno": "8",
+    "subject": "Human Geography",
+    "question": "Which one of the following is a part of the Congo Basin?",
+    "options": [
+      "Cameroon",
+      "Nigeria",
+      "South Sudan",
+      "Uganda"
+    ],
+    "answer": "A",
+    "explanation": "The Congo Basin spans the DR Congo, Republic of Congo, Central African Republic, Gabon, Equatorial Guinea and parts of Cameroon. Nigeria is in the Niger basin, and South Sudan and Uganda fall mainly in the Nile basin."
+  },
+  {
+    "year": "2023",
+    "qno": "61",
+    "subject": "Human Geography",
+    "question": "Consider the following countries:\n1. Bulgaria\n2. Czech Republic\n3. Hungary\n4. Latvia\n5. Lithuania\n6. Romania\nHow many of the above-mentioned countries share a land border with Ukraine?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "Only five"
+    ],
+    "answer": "A",
+    "explanation": "Ukraine shares land borders with Belarus, Russia, Poland, Slovakia, Hungary, Romania and Moldova. Of the listed countries, only Hungary and Romania border Ukraine. Bulgaria has only a maritime link through the Black Sea, and the Czech Republic, Latvia and Lithuania have no common border."
+  },
+  {
     "year": "2017",
     "qno": "49",
     "subject": "Human Geography",
@@ -54,6 +82,48 @@
     ],
     "answer": "A",
     "explanation": "Great Nicobar's southern tip, Indira Point, lies only about 150 km from Sumatra in Indonesia, which makes Sumatra the closest of the options."
+  },
+  {
+    "year": "2024",
+    "qno": "8",
+    "subject": "Human Geography",
+    "question": "Consider the following countries:\n1. Finland\n2. Germany\n3. Norway\n4. Russia\nHow many of the above countries have a border with the North Sea?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Germany and Norway have coastlines on the North Sea. Finland borders the Baltic Sea (Gulf of Bothnia and Gulf of Finland). Russia does not border the North Sea. Hence only two."
+  },
+  {
+    "year": "2024",
+    "qno": "67",
+    "subject": "Human Geography",
+    "question": "Consider the following countries:\n1. Italy\n2. Japan\n3. Nigeria\n4. South Korea\n5. South Africa\nWhich of the above countries are frequently mentioned in the media for their low birth rates, or ageing population or declining population?",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 5",
+      "2 and 4 only",
+      "3 and 5 only"
+    ],
+    "answer": "A",
+    "explanation": "Italy, Japan and South Korea are widely reported for very low fertility, ageing populations and population decline. Nigeria and South Africa have younger, growing populations."
+  },
+  {
+    "year": "2024",
+    "qno": "79",
+    "subject": "Human Geography",
+    "question": "The longest border between any two countries in the world is between:",
+    "options": [
+      "Canada and the United States of America",
+      "Chile and Argentina",
+      "China and India",
+      "Kazakhstan and Russian Federation"
+    ],
+    "answer": "A",
+    "explanation": "The Canada–United States border, at about 8,891 km including the Alaska border, is the longest international land border in the world."
   },
   {
     "year": "2019",
