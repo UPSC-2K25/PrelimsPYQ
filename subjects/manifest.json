@@ -58,12 +58,12 @@
     {
       "name": "Indian Economy",
       "filename": "subject_indian_economy.json",
-      "count": 109
+      "count": 108
     },
     {
       "name": "Indian Society",
       "filename": "subject_indian_society.json",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Internal Security",
@@ -86,11 +86,6 @@
       "count": 7
     },
     {
-      "name": "PSIR",
-      "filename": "subject_psir.json",
-      "count": 1
-    },
-    {
       "name": "Political Science and International Relations",
       "filename": "subject_political_science_and_international_relations.json",
       "count": 31
@@ -103,7 +98,7 @@
     {
       "name": "World Economy",
       "filename": "subject_world_economy.json",
-      "count": 17
+      "count": 16
     },
     {
       "name": "World History",
@@ -120,8 +115,7 @@
     2022,
     2023,
     2024,
-    2026,
-    2027
+    2026
   ],
-  "total_subjects": 22
+  "total_subjects": 21
 }

@@ -96,19 +96,5 @@
     ],
     "answer": "D",
     "explanation": "The Hind Mazdoor Sabha was founded in December 1948 by socialists, including Ashok Mehta, T.S. Ramanujam and G.G. Mehta, who had broken away from the Congress-affiliated INTUC."
-  },
-  {
-    "year": "2027",
-    "qno": "3",
-    "subject": "Indian Society",
-    "question": "The Global Hunger Index (GHI) score is computed based on which of the following four component indicators?\n1. Undernourishment\n2. Child Stunting\n3. Child Wasting\n4. Child Mortality\n5. Maternal Anaemia\nSelect the correct answer using the code given below:",
-    "options": [
-      "1, 2, 3 and 4 only",
-      "1, 2, 4 and 5 only",
-      "2, 3, 4 and 5 only",
-      "1, 3, 4 and 5 only"
-    ],
-    "answer": "A",
-    "explanation": "The Global Hunger Index (GHI), jointly published by Welthungerhilfe (WHH) and partner organizations, evaluates hunger using four indicators: Undernourishment (share of population with insufficient caloric intake), Child Stunting (low height-for-age under age five), Child Wasting (low weight-for-height under age five), and Child Mortality (mortality rate of children under age five). Maternal Anaemia is not one of the four core indicators."
   }
 ]
