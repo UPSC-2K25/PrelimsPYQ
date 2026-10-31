@@ -70,20 +70,6 @@
     "explanation": "UNCLOS allows a territorial sea of up to 12 nautical miles (Article 3). It gives ships of all states the right of innocent passage through it (Article 17) and limits the EEZ to 200 nautical miles from the baselines (Article 57). All three statements are correct."
   },
   {
-    "year": "2026",
-    "qno": "8",
-    "subject": "Oceanography",
-    "question": "Consider the following statements regarding oceanic upwelling and ocean currents:\n1. Coastal upwelling occurs when wind-driven surface waters move offshore due to the Coriolis effect, allowing cold, nutrient-rich water to rise to the surface.\n2. The Benguela Current along the western coast of Southern Africa supports one of the most productive marine ecosystems in the world due to intense upwelling.\n3. Upwelling zones are generally associated with humid tropical rainforest climates on the adjacent coastal landmass.\nWhich of the statements given above is/are correct?",
-    "options": [
-      "1 only",
-      "1 and 2 only",
-      "2 and 3 only",
-      "1, 2 and 3"
-    ],
-    "answer": "B",
-    "explanation": "Statements 1 and 2 are correct. Wind blowing parallel to a coastline pushes surface waters offshore via Ekman transport, which pulls cold, deep, nutrient-laden water to the surface (coastal upwelling), fostering rich phytoplankton blooms and high fisheries productivity (as seen in the Benguela and Peru/Humboldt currents). Statement 3 is incorrect because cold ocean currents and cold upwelled waters stabilize the atmospheric boundary layer, suppress convection, and cause desiccation, giving rise to coastal fog and hyper-arid deserts (e.g., Namib and Atacama deserts) rather than humid tropical rainforests."
-  },
-  {
     "year": "2020",
     "qno": "93",
     "subject": "Oceanography",

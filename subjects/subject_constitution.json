@@ -882,20 +882,6 @@
     "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), a nine-judge bench of the Supreme Court held that privacy is an intrinsic part of the right to life and personal liberty under Article 21 and of the freedoms guaranteed in Part III."
   },
   {
-    "year": "2026",
-    "qno": "7",
-    "subject": "Constitution",
-    "question": "With reference to the writ jurisdiction under the Constitution of India, consider the following statements:\n1. The writ of Mandamus cannot be issued against a private individual or body who does not perform a public duty.\n2. The writ of Quo-Warranto can be sought by any interested person, even if the person's own fundamental rights are not violated.\n3. The High Court's jurisdiction to issue writs under Article 226 is narrower than that of the Supreme Court under Article 32.\nWhich of the statements given above is/are correct?",
-    "options": [
-      "1 and 2 only",
-      "2 only",
-      "1 and 3 only",
-      "1, 2 and 3"
-    ],
-    "answer": "A",
-    "explanation": "Statements 1 and 2 are correct. Mandamus lies only against public authorities, statutory bodies, or inferior tribunals to compel performance of a mandatory legal duty, and does not lie against a private entity lacking a public mandate. Unlike other writs where the petitioner must have locus standi, a petition for Quo-Warranto can be moved by any citizen to challenge unauthorized occupation of a substantive public office. Statement 3 is incorrect because the writ jurisdiction of High Courts under Article 226 is wider than that of the Supreme Court under Article 32: High Courts can issue writs for both Fundamental Rights and ordinary legal rights, whereas Article 32 is restricted solely to the enforcement of Fundamental Rights."
-  },
-  {
     "year": "2020",
     "qno": "2",
     "subject": "Constitution",

@@ -952,20 +952,6 @@
     "explanation": "PSLV mainly launches remote sensing (Earth observation) satellites into polar orbits, and GSLV is designed for geosynchronous transfer orbits to launch communication satellites, so statement 1 is correct. Satellites that appear fixed in the sky are geostationary, which are launched by GSLV and not by PSLV, so statement 2 is wrong. GSLV Mk III is a three-stage vehicle (solid boosters, a liquid core stage and a cryogenic upper stage), so statement 3 is wrong."
   },
   {
-    "year": "2026",
-    "qno": "9",
-    "subject": "Science & Technology",
-    "question": "RNA interference (RNAi) technology is increasingly being used in agriculture and medicine. Which of the following statements correctly explains its mechanism?",
-    "options": [
-      "It repairs double-stranded breaks in chromosomal DNA using homologous recombination.",
-      "It silences specific genes post-transcriptionally by degrading target messenger RNA (mRNA) or preventing its translation.",
-      "It introduces foreign genes directly into mitochondrial DNA to enhance cellular respiration.",
-      "It acts as an artificial enzyme that synthesizes functional proteins in cell-free environments."
-    ],
-    "answer": "B",
-    "explanation": "RNA interference (RNAi) is a natural cellular gene-silencing mechanism triggered by double-stranded RNA (dsRNA). Enzymes (such as Dicer) cleave dsRNA into small interfering RNAs (siRNAs), which guide the RNA-induced silencing complex (RISC) to bind with complementary messenger RNA (mRNA) molecules, inducing their cleavage or blocking translation, thereby silencing specific gene expression without altering the underlying nuclear DNA."
-  },
-  {
     "year": "2020",
     "qno": "37",
     "subject": "Science & Technology",
